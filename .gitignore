@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 # large files
-.csv
+*.csv
