@@ -37,4 +37,14 @@ Cookiecutter Data Science Model used for reference:
 <br>Postman API
 <br>--> https://web.postman.co/
 
+#### See in references/
+
+Certain modifications made to code missing values
+<br>--> endowment_begin = 0 (school not receiving endowment)
+<br>--> endowment_end = 0 (school not receiving endowment)
+<br>--> ownership_peps = 0 (unknown)
+<br>--> school.carnegie_undergrad = -1 (unclassified NOT graduate only)
+<br>--> accreditor_code = 'NONE' (not accredited)
+<br>--> locale = 1 (unknown)
+
 
