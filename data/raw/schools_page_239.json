@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Strayer University-Delaware",
+            "city": "Wilmington",
+            "state": "DE",
+            "zip": "19801",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.strayer.edu/campus-locations/delaware/wilmington",
+            "price_calculator_url": "https://strayer.aidcalc.cloud/netprice.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 74,
+            "ownership": 3,
+            "state_fips": 10,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12576,
+            "instructional_expenditure_per_fte": 1345,
+            "faculty_salary": 12911,
+            "ft_faculty_rate": 0.1176,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "11/22/2005",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 450298
+    },
+    {
+        "school": {
+            "name": "Brite Divinity School",
+            "city": "Fort Worth",
+            "state": "TX",
+            "zip": "76129",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.brite.edu/",
+            "price_calculator_url": "www.brite.edu/admissions/financial-aid/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 61,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4432,
+            "instructional_expenditure_per_fte": 20392,
+            "faculty_salary": 10149,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 2
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 83303334,
+                "end": 85302706
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 450304
+    },
+    {
+        "school": {
+            "name": "Strayer University-Alabama",
+            "city": "Birmingham",
+            "state": "AL",
+            "zip": "35203",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.strayer.edu/campus-locations/alabama/birmingham",
+            "price_calculator_url": "https://strayer.aidcalc.cloud/netprice.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 74,
+            "ownership": 3,
+            "state_fips": 1,
+            "region_id": 5,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 29,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11434,
+            "instructional_expenditure_per_fte": 1241,
+            "faculty_salary": 8154,
+            "ft_faculty_rate": 0.1176,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "7/20/2006",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 450377
+    },
+    {
+        "school": {
+            "name": "Brown Aveda Institute-Strongsville",
+            "city": "Strongsville",
+            "state": "OH",
+            "zip": "44136",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.brownaveda.com/",
+            "price_calculator_url": "www.methodflux.com/brownaveda/netprice_strongsville/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12560,
+            "instructional_expenditure_per_fte": 11082,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "3/8/2007",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 450395
+    },
+    {
+        "school": {
+            "name": "Clary Sage College",
+            "city": "Tulsa",
+            "state": "OK",
+            "zip": "74145",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.clarysagecollege.com/",
+            "price_calculator_url": "collegesooner.com/csc-calc/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 3,
+            "ownership": 2,
+            "state_fips": 40,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7538,
+            "instructional_expenditure_per_fte": 1919,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "7/26/2007",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 450401
+    },
+    {
+        "school": {
+            "name": "Rasmussen University-Wisconsin",
+            "city": "Green Bay",
+            "state": "WI",
+            "zip": "54303-2349",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://rasmussen.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/app/rasmussen",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 21,
+            "ownership": 3,
+            "state_fips": 55,
+            "region_id": 3,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 23,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18719,
+            "instructional_expenditure_per_fte": 5745,
+            "faculty_salary": 6363,
+            "ft_faculty_rate": 0.3396,
+            "alias": "Parent is Green Bay",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "3/4/2010",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 450571
+    },
+    {
+        "school": {
+            "name": "Empire Beauty School-Richmond",
+            "city": "Richmond",
+            "state": "VA",
+            "zip": "23294",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.empire.edu/",
+            "price_calculator_url": "www.empire.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 13,
+            "ownership": 3,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9994,
+            "instructional_expenditure_per_fte": 8272,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "8/9/2013",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 450599
+    },
+    {
+        "school": {
+            "name": "Empire Beauty School-North Hills",
+            "city": "Pittsburgh",
+            "state": "PA",
+            "zip": "15237",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.empire.edu/",
+            "price_calculator_url": "www.empire.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 8,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10227,
+            "instructional_expenditure_per_fte": 8854,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "8/9/2013",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 450605
+    },
+    {
+        "school": {
+            "name": "Empire Beauty School-Concord",
+            "city": "Concord",
+            "state": "NC",
+            "zip": "28027",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.empire.edu/",
+            "price_calculator_url": "www.empire.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 9,
+            "ownership": 3,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10735,
+            "instructional_expenditure_per_fte": 8396,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "8/9/2013",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 450614
+    },
+    {
+        "school": {
+            "name": "Lexington Healing Arts Academy",
+            "city": "Lexington",
+            "state": "KY",
+            "zip": "40503",
+            "accreditor": "Accrediting Bureau of Health Education Schools",
+            "school_url": "www.lexingtonhealingarts.com/",
+            "price_calculator_url": "notapplicable.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 21,
+            "region_id": 5,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12969,
+            "instructional_expenditure_per_fte": 10507,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ABHES",
+            "title_iv": {
+                "approval_date": "9/7/2007",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 450632
+    },
+    {
+        "school": {
+            "name": "Empire Beauty School-Hooksett",
+            "city": "Hooksett",
+            "state": "NH",
+            "zip": "03106",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.empirebeautyschools.com/",
+            "price_calculator_url": "www.empirebeautyschools.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 33,
+            "region_id": 1,
+            "locale": 22,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6857,
+            "instructional_expenditure_per_fte": 5808,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "10/18/1977",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 450641
+    },
+    {
+        "school": {
+            "name": "The Institute of Beauty and Wellness",
+            "city": "Milwaukee",
+            "state": "WI",
+            "zip": "53202-0000",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.ibw.edu/",
+            "price_calculator_url": "ibw.edu/admissions/financial-aid/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 55,
+            "region_id": 3,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13866,
+            "instructional_expenditure_per_fte": 4875,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "The Institute of Beauty and Wellness",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "5/24/2007",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 450650
+    },
+    {
+        "school": {
+            "name": "Carrington College-Stockton",
+            "city": "Stockton",
+            "state": "CA",
+            "zip": "95207-5509",
+            "accreditor": "Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges",
+            "school_url": "https://carrington.edu/",
+            "price_calculator_url": "https://carrington.edu/financial-aid/how-much-will-it-cost",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 7,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9046,
+            "instructional_expenditure_per_fte": 4961,
+            "faculty_salary": 5095,
+            "ft_faculty_rate": 0.7778,
+            "alias": "Western Career College-Stockton",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "WASCJC",
+            "title_iv": {
+                "approval_date": "6/30/2005",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 450696
+    },
+    {
+        "school": {
+            "name": "Carrington College-Citrus Heights",
+            "city": "Citrus Heights",
+            "state": "CA",
+            "zip": "95621-5577",
+            "accreditor": "Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges",
+            "school_url": "https://carrington.edu/",
+            "price_calculator_url": "https://carrington.edu/financial-aid/how-much-will-it-cost/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 7,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11452,
+            "instructional_expenditure_per_fte": 7971,
+            "faculty_salary": 5040,
+            "ft_faculty_rate": 0.7,
+            "alias": "Western Career College-Citrus Heights",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "WASCJC",
+            "title_iv": {
+                "approval_date": "6/30/2005",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 450702
+    },
+    {
+        "school": {
+            "name": "Trend Barber College",
+            "city": "Houston",
+            "state": "TX",
+            "zip": "77090",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "trendbarbercollege.com/",
+            "price_calculator_url": "trendbarbercollege.org/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6530,
+            "instructional_expenditure_per_fte": 2176,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "12/7/2006",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 450711
+    },
+    {
+        "school": {
+            "name": "Euphoria Institute of Beauty Arts & Sciences-Summerlin",
+            "city": "Las Vegas",
+            "state": "NV",
+            "zip": "89117",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.lincolntech.edu/campus/las-vegas-summerlin-nv",
+            "price_calculator_url": "www.lincolntech.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 7,
+            "ownership": 3,
+            "state_fips": 32,
+            "region_id": 8,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11639,
+            "instructional_expenditure_per_fte": 5188,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "12/20/2013",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 450720
+    },
+    {
+        "school": {
+            "name": "Columbia Southern University",
+            "city": "Orange Beach",
+            "state": "AL",
+            "zip": "36561-9000",
+            "accreditor": "Distance Education Accrediting Commission",
+            "school_url": "www.columbiasouthern.edu/",
+            "price_calculator_url": "www.columbiasouthern.edu/tuition-financing",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 1,
+            "region_id": 5,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 1,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6742,
+            "instructional_expenditure_per_fte": 2050,
+            "faculty_salary": 4106,
+            "ft_faculty_rate": 0.6299,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "DETC",
+            "title_iv": {
+                "approval_date": "3/6/2008",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 450933
+    },
+    {
+        "school": {
+            "name": "Arizona Culinary Institute",
+            "city": "Scottsdale",
+            "state": "AZ",
+            "zip": "85259",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.azculinary.edu/",
+            "price_calculator_url": "azculinary.edu/flash/calc/index.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14653,
+            "instructional_expenditure_per_fte": 6505,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "5/29/2007",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 450951
+    },
+    {
+        "school": {
+            "name": "Healthcare Career College",
+            "city": "Paramount",
+            "state": "CA",
+            "zip": "90723-5258",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "https://healthcarecareercollege.edu/",
+            "price_calculator_url": "https://healthcarecareercollege.edu/net-price-calculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 15165,
+            "instructional_expenditure_per_fte": 1517,
+            "faculty_salary": 5008,
+            "ft_faculty_rate": 0.6154,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "4/9/2008",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 450960
+    },
+    {
+        "school": {
+            "name": "Coastline Beauty College",
+            "city": "Fountain Valley",
+            "state": "CA",
+            "zip": "92708",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.coastlinebeauty.edu/",
+            "price_calculator_url": "www.coastlinebeauty.edu/npcalc.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2795,
+            "instructional_expenditure_per_fte": 846,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "11/1/2007",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 450988
+    }
+]

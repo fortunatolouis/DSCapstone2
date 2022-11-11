@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Greene County Career Center",
+            "city": "Xenia",
+            "state": "OH",
+            "zip": "45385-9545",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.greeneccc.com/",
+            "price_calculator_url": "www.greeneccc.com/cms/lib/OH03000911/Centricity/domain/209/netpricecalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4995,
+            "instructional_expenditure_per_fte": 7536,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Greene County Vocational School District|Greene JVS|Greene County Joint Vocational School|Greene Career Center|Green County Career Center|Green JVS",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "6/25/1987",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 365240
+    },
+    {
+        "school": {
+            "name": "Canadian Valley Technology Center",
+            "city": "El Reno",
+            "state": "OK",
+            "zip": "73036-9117",
+            "accreditor": "Oklahoma State Board of Career and Technology Education",
+            "school_url": "www.cvtech.edu/",
+            "price_calculator_url": "https://cvtech.edu/students/financial-aid",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 40,
+            "region_id": 6,
+            "locale": 42,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 924,
+            "instructional_expenditure_per_fte": 13179,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "OKSBVT",
+            "title_iv": {
+                "approval_date": "8/8/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 365374
+    },
+    {
+        "school": {
+            "name": "Wilkes-Barre Area Career and Technical Center Practical Nursing",
+            "city": "Wilkes Barre",
+            "state": "PA",
+            "zip": "18705-0699",
+            "accreditor": "Accreditation Commission for Education in Nursing",
+            "school_url": "https://www.wbpracnsg.com/",
+            "price_calculator_url": "https://www.wbpracnsg.com/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7395,
+            "instructional_expenditure_per_fte": 3077,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NLNAC",
+            "title_iv": {
+                "approval_date": "9/8/1987",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 365383
+    },
+    {
+        "school": {
+            "name": "Meridian Technology Center",
+            "city": "Stillwater",
+            "state": "OK",
+            "zip": "74074-1899",
+            "accreditor": "Oklahoma State Board of Career and Technology Education",
+            "school_url": "https://www.meridiantech.edu/",
+            "price_calculator_url": "https://www.meridiantech.edu/fa-content/uploads/netpricecalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 40,
+            "region_id": 6,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1298,
+            "instructional_expenditure_per_fte": 11490,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "OKSBVT",
+            "title_iv": {
+                "approval_date": "8/12/1976",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 365480
+    },
+    {
+        "school": {
+            "name": "Waynesville Career Center",
+            "city": "Waynesville",
+            "state": "MO",
+            "zip": "65583",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.waynesville.k12.mo.us/Domain/9",
+            "price_calculator_url": "www.waynesville.k12.mo.us/Page/5370",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8730,
+            "instructional_expenditure_per_fte": 33272,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Waynesville Technical Academy",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "1/7/1988",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 365505
+    },
+    {
+        "school": {
+            "name": "Capitol School of Hairstyling and Esthetics",
+            "city": "Omaha",
+            "state": "NE",
+            "zip": "68137-2325",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.hairschoolomaha.com/",
+            "price_calculator_url": "nces.ed.gov/collegenavigator/?id=365693&q=capitol school&s=all#expenses",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 31,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10833,
+            "instructional_expenditure_per_fte": 5271,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "4/20/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 365693
+    },
+    {
+        "school": {
+            "name": "Morris County Vocational School District",
+            "city": "Denville",
+            "state": "NJ",
+            "zip": "07834",
+            "accreditor": "Middle States Commission on Secondary Education",
+            "school_url": "www.mcvts.org/",
+            "price_calculator_url": "mcvts.augusoft.net/index.cfm?method=templates.CustomTemplatePreview&ContentID=156",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6063,
+            "instructional_expenditure_per_fte": 9510,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Morris County School of Technology",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACSS",
+            "title_iv": {
+                "approval_date": "3/20/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 365763
+    },
+    {
+        "school": {
+            "name": "Ross Medical Education Center-Roosevelt Park",
+            "city": "Roosevelt Park",
+            "state": "MI",
+            "zip": "49441",
+            "accreditor": "Accrediting Bureau of Health Education Schools",
+            "school_url": "www.rosseducation.edu/",
+            "price_calculator_url": "rosseducation.edu/consumer-info/#npc",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 9,
+            "ownership": 3,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 22,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8013,
+            "instructional_expenditure_per_fte": 1430,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ABHES",
+            "title_iv": {
+                "approval_date": "3/7/1989",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 365824
+    },
+    {
+        "school": {
+            "name": "Ross Medical Education Center-Kentwood",
+            "city": "Kentwood",
+            "state": "MI",
+            "zip": "49508",
+            "accreditor": "Accrediting Bureau of Health Education Schools",
+            "school_url": "www.rosseducation.edu/",
+            "price_calculator_url": "rosseducation.edu/consumer-info/#npc",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 7,
+            "ownership": 3,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8124,
+            "instructional_expenditure_per_fte": 1406,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ABHES",
+            "title_iv": {
+                "approval_date": "10/4/1989",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 365833
+    },
+    {
+        "school": {
+            "name": "South Florida Bible College and Theological Seminary",
+            "city": "Deerfield Beach",
+            "state": "FL",
+            "zip": "33442",
+            "accreditor": "Association for Bibical Higher Educaiton",
+            "school_url": "www.sfbc.edu/",
+            "price_calculator_url": "https://sfbc.vfao.com/aidestimator/default.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 42,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12363,
+            "instructional_expenditure_per_fte": 3775,
+            "faculty_salary": 3381,
+            "ft_faculty_rate": 0.2,
+            "alias": "SFBC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ABHE",
+            "title_iv": {
+                "approval_date": "7/28/2008",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 366003
+    },
+    {
+        "school": {
+            "name": "Cloyd's Barber School 2 Inc",
+            "city": "Monroe",
+            "state": "LA",
+            "zip": "71201",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "cloydsbarberschool.com/",
+            "price_calculator_url": "cloydsbarberschool.com/NetPrice/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 22,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3945,
+            "instructional_expenditure_per_fte": 2464,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "8/18/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 366155
+    },
+    {
+        "school": {
+            "name": "Universal Technical Institute of Illinois Inc",
+            "city": "Lisle",
+            "state": "IL",
+            "zip": "60532-0000",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.uti.edu/",
+            "price_calculator_url": "www.uti.edu/admissions/tuition",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 3,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13551,
+            "instructional_expenditure_per_fte": 2837,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "UTI of Illinois, Inc.  Universal Technical Institute  UTI-IL  UTI-Glendale Heights",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "8/5/1988",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 366191
+    },
+    {
+        "school": {
+            "name": "Pennsylvania College of Technology",
+            "city": "Williamsport",
+            "state": "PA",
+            "zip": "17701-5799",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.pct.edu/",
+            "price_calculator_url": "https://www.pct.edu/admissions/consumerinfo/NPC/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 23,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 19579,
+            "instructional_expenditure_per_fte": 15386,
+            "faculty_salary": 9730,
+            "ft_faculty_rate": 0.6921,
+            "alias": "Penn College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "3/16/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 21371727,
+                "end": 22772594
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 366252
+    },
+    {
+        "school": {
+            "name": "Commonwealth Institute of Funeral Service",
+            "city": "Houston",
+            "state": "TX",
+            "zip": "77090-5918",
+            "accreditor": "American Board of Funeral Service Education Committee on Accreditation",
+            "school_url": "www.commonwealth.edu/",
+            "price_calculator_url": "www.commonwealth.edu/calculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 12,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6516,
+            "instructional_expenditure_per_fte": 2554,
+            "faculty_salary": 5500,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ABFSE",
+            "title_iv": {
+                "approval_date": "4/26/1972",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 366261
+    },
+    {
+        "school": {
+            "name": "Delta College of Arts & Technology",
+            "city": "Baton Rouge",
+            "state": "LA",
+            "zip": "70806-1529",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.deltacollege.com/",
+            "price_calculator_url": "https://deltacollege.com/consumer-info/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 22,
+            "region_id": 5,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 12,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 15279,
+            "instructional_expenditure_per_fte": 6954,
+            "faculty_salary": 4091,
+            "ft_faculty_rate": 0.625,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "12/10/1987",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 366270
+    },
+    {
+        "school": {
+            "name": "InterCoast Colleges-Santa Ana",
+            "city": "Santa Ana",
+            "state": "CA",
+            "zip": "92705",
+            "accreditor": "Accrediting Council for Continuing Education & Training",
+            "school_url": "https://www.intercoast.edu/",
+            "price_calculator_url": "https://www.intercoast.edu/financial-services/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6611,
+            "instructional_expenditure_per_fte": 980,
+            "faculty_salary": 4507,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCET",
+            "title_iv": {
+                "approval_date": "4/25/1988",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 366289
+    },
+    {
+        "school": {
+            "name": "Stone Child College",
+            "city": "Box Elder",
+            "state": "MT",
+            "zip": "59521-9796",
+            "accreditor": "Northwest Commission on Colleges and Universities",
+            "school_url": "www.stonechild.edu/",
+            "price_calculator_url": "www.stonechild.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 30,
+            "region_id": 7,
+            "locale": 43,
+            "degree_urbanization": null,
+            "carnegie_basic": 33,
+            "carnegie_undergrad": 6,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 1,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1036,
+            "instructional_expenditure_per_fte": 6113,
+            "faculty_salary": 5143,
+            "ft_faculty_rate": 0.381,
+            "alias": "SCC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NWCCU",
+            "title_iv": {
+                "approval_date": "8/14/1989",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 5186549,
+                "end": 5232394
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 366340
+    },
+    {
+        "school": {
+            "name": "New York Academy of Art",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10013-2911",
+            "accreditor": "National Association of Schools of Arts and Design",
+            "school_url": "nyaa.edu/",
+            "price_calculator_url": "nyaa.edu/graduate-program/student-services/student-consumer-information/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 30,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 30857,
+            "instructional_expenditure_per_fte": 10623,
+            "faculty_salary": 4745,
+            "ft_faculty_rate": 0.0789,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NASAD",
+            "title_iv": {
+                "approval_date": "5/22/1989",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 430379,
+                "end": 426402
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 366368
+    },
+    {
+        "school": {
+            "name": "Suffolk County Community College",
+            "city": "Selden",
+            "state": "NY",
+            "zip": "11784-2899",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.sunysuffolk.edu/",
+            "price_calculator_url": "https://www.sunysuffolk.edu/apply-enroll/estimate-your-cost.jsp",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 5,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5577,
+            "instructional_expenditure_per_fte": 8545,
+            "faculty_salary": 10779,
+            "ft_faculty_rate": 0.347,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 7497789,
+                "end": 8416368
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 366395
+    },
+    {
+        "school": {
+            "name": "Las Positas College",
+            "city": "Livermore",
+            "state": "CA",
+            "zip": "94551-7650",
+            "accreditor": "Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges",
+            "school_url": "www.laspositascollege.edu/",
+            "price_calculator_url": "https://misweb.cccco.edu/npc/481/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1256,
+            "instructional_expenditure_per_fte": 6025,
+            "faculty_salary": 10626,
+            "ft_faculty_rate": 0.3596,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "WASCJC",
+            "title_iv": {
+                "approval_date": "3/22/1991",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 366401
+    }
+]

@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Galen College of Nursing-San Antonio",
+            "city": "San Antonio",
+            "state": "TX",
+            "zip": "78229",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.galencollege.edu/sanantonio/",
+            "price_calculator_url": "https://galencollege.studentaidcalculator.com/welcome.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 3,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13345,
+            "instructional_expenditure_per_fte": 4868,
+            "faculty_salary": 5460,
+            "ft_faculty_rate": 0.5,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "9/8/1993",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 406033
+    },
+    {
+        "school": {
+            "name": "Sarasota School of Massage Therapy",
+            "city": "Sarasota",
+            "state": "FL",
+            "zip": "34243-6130",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "https://www.sarasotaschoolofmassagetherapy.edu/",
+            "price_calculator_url": "https://www.sarasotaschoolofmassagetherapy.edu/admissions/calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 21680,
+            "instructional_expenditure_per_fte": 4441,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "7/1/1987",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 406149
+    },
+    {
+        "school": {
+            "name": "Schuyler Steuben Chemung Tioga Allegany BOCES",
+            "city": "Elmira",
+            "state": "NY",
+            "zip": "14903",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.gstboces.org/adulted/index.cfm",
+            "price_calculator_url": "www.gstboces.org/adulted/npcalc/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3757,
+            "instructional_expenditure_per_fte": 3290,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Greater Southern Tier BOCES",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "9/18/1974",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 406325
+    },
+    {
+        "school": {
+            "name": "Delaware Chenango Madison Otsego BOCES-Practical Nursing Program",
+            "city": "Norwich",
+            "state": "NY",
+            "zip": "13815-3554",
+            "accreditor": "New York State Board of Regents State Education Department Office of the Professions (Public Postsecondary Vocational Education Practical Nursing)",
+            "school_url": "www.dcmoboces.com/",
+            "price_calculator_url": "www.dcmoboces/HealthOccupations.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6140,
+            "instructional_expenditure_per_fte": 10259,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "DCMO BOCES",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NYBRVE",
+            "title_iv": {
+                "approval_date": "9/1/1992",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 406361
+    },
+    {
+        "school": {
+            "name": "DCI Career Institute",
+            "city": "Monaca",
+            "state": "PA",
+            "zip": "15061",
+            "accreditor": null,
+            "school_url": "www.dci.edu/",
+            "price_calculator_url": "www.dci.edu/NetPrice/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 0,
+            "tuition_revenue_per_fte": 17395,
+            "instructional_expenditure_per_fte": 4758,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "DCI Career Institute",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": "1/30/1992",
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 406413
+    },
+    {
+        "school": {
+            "name": "Central Susquehanna Intermediate Unit LPN Career",
+            "city": "Lewisburg",
+            "state": "PA",
+            "zip": "17837",
+            "accreditor": "Accreditation Commission for Education in Nursing",
+            "school_url": "www.csiu.org/lpn",
+            "price_calculator_url": "www.csiu.org/cms/lib/PA02209398/Centricity/Domain/128/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8577,
+            "instructional_expenditure_per_fte": 7316,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NLNAC",
+            "title_iv": {
+                "approval_date": "3/27/1981",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 406422
+    },
+    {
+        "school": {
+            "name": "Myotherapy College of Utah",
+            "city": "Millcreek City",
+            "state": "UT",
+            "zip": "84107",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "myotherapycollege.com/",
+            "price_calculator_url": "www.myotherapycollege.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 49,
+            "region_id": 7,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14124,
+            "instructional_expenditure_per_fte": 1908,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "8/4/1992",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 406486
+    },
+    {
+        "school": {
+            "name": "City College-Gainesville",
+            "city": "Gainesville",
+            "state": "FL",
+            "zip": "32607",
+            "accreditor": "Accrediting Bureau of Health Education Schools",
+            "school_url": "https://www.citycollege.edu/",
+            "price_calculator_url": "https://www.citycollege.edu/financial_aid/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 4,
+            "ownership": 2,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 22,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17469,
+            "instructional_expenditure_per_fte": 7985,
+            "faculty_salary": 3750,
+            "ft_faculty_rate": 0.1667,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "ABHES",
+            "title_iv": {
+                "approval_date": "6/27/1988",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 406547
+    },
+    {
+        "school": {
+            "name": "G Skin & Beauty Institute",
+            "city": "Oakbrook",
+            "state": "IL",
+            "zip": "60523",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.gskinbeautyinstitute.edu/",
+            "price_calculator_url": "www.gskinbeautyinstitute.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12508,
+            "instructional_expenditure_per_fte": 4065,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Naperville Skin Institute",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "6/22/1987",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 407090
+    },
+    {
+        "school": {
+            "name": "Cosmetology Training Center",
+            "city": "Lafayette",
+            "state": "LA",
+            "zip": "70503",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "cosmetlafayettela.com/",
+            "price_calculator_url": "cosmetlafayettela.com/prospective-students/net-price-calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 22,
+            "region_id": 5,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10182,
+            "instructional_expenditure_per_fte": 4123,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "1/20/1988",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 407142
+    },
+    {
+        "school": {
+            "name": "Stage One-The Hair School",
+            "city": "Lake Charles",
+            "state": "LA",
+            "zip": "70605",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.stageoneinc.com/",
+            "price_calculator_url": "https://stageoneinc.com/financial-aid/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 22,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6704,
+            "instructional_expenditure_per_fte": 2133,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "2/13/1987",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 407151
+    },
+    {
+        "school": {
+            "name": "Empire Beauty School-Malden",
+            "city": "Malden",
+            "state": "MA",
+            "zip": "02148",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.empire.edu/",
+            "price_calculator_url": "www.empire.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 13,
+            "ownership": 3,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11240,
+            "instructional_expenditure_per_fte": 10138,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "8/9/2013",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 407179
+    },
+    {
+        "school": {
+            "name": "Xenon International Academy-Omaha",
+            "city": "Omaha",
+            "state": "NE",
+            "zip": "68127-3622",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.xenonacademy.net/",
+            "price_calculator_url": "www.xenonacademy.net/calc_omaha.php",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 31,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9716,
+            "instructional_expenditure_per_fte": 4957,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Xenon International School of hair Design",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "8/28/1989",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 407355
+    },
+    {
+        "school": {
+            "name": "Capri Institute of Hair Design-Brick",
+            "city": "Brick",
+            "state": "NJ",
+            "zip": "08723",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.capriinstitute.com/",
+            "price_calculator_url": "www.capriinstitute.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 1,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9165,
+            "instructional_expenditure_per_fte": 5600,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "6/1/1984",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 407391
+    },
+    {
+        "school": {
+            "name": "Capri Institute of Hair Design-Kenilworth",
+            "city": "Kenilworth",
+            "state": "NJ",
+            "zip": "07033",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.capriinstitute.com/",
+            "price_calculator_url": "www.capriinstitute.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 1,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8477,
+            "instructional_expenditure_per_fte": 5164,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "8/11/1982",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 407407
+    },
+    {
+        "school": {
+            "name": "Capri Institute of Hair Design-Paramus",
+            "city": "Paramus",
+            "state": "NJ",
+            "zip": "07652",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.capriinstitute.com/",
+            "price_calculator_url": "www.capriinstitute.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 1,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9281,
+            "instructional_expenditure_per_fte": 3500,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "11/24/1978",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 407425
+    },
+    {
+        "school": {
+            "name": "Orlo School of Hair Design and Cosmetology",
+            "city": "Albany",
+            "state": "NY",
+            "zip": "12206",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.theorloschool.com/",
+            "price_calculator_url": "www.theorloschool.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14005,
+            "instructional_expenditure_per_fte": 14169,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "1/17/1989",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 407434
+    },
+    {
+        "school": {
+            "name": "Eastland-Fairfield Career and Technical Schools",
+            "city": "Groveport",
+            "state": "OH",
+            "zip": "43125-9236",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "https://www.eastlandfairfield.com/",
+            "price_calculator_url": "https://www.eastland-fairfield.com/NetPriceCalculator/npcalc.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10927,
+            "instructional_expenditure_per_fte": 17281,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Eastland-Fairfield",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "8/4/1987",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 407461
+    },
+    {
+        "school": {
+            "name": "Empire Beauty School-Cincinnati",
+            "city": "Cincinnati",
+            "state": "OH",
+            "zip": "45239",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.empire.edu/",
+            "price_calculator_url": "www.empire.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9724,
+            "instructional_expenditure_per_fte": 6592,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Gary's Incorporated",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "6/6/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 407470
+    },
+    {
+        "school": {
+            "name": "Mahoning County Career and Technical Center",
+            "city": "Canfield",
+            "state": "OH",
+            "zip": "44406-9710",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "https://mahoningctc.com/adult/",
+            "price_calculator_url": "https://mahoningctc.com/npc/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13236,
+            "instructional_expenditure_per_fte": 8372,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "7/28/1988",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 407489
+    }
+]

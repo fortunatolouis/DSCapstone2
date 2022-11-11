@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "University of Pittsburgh-Bradford",
+            "city": "Bradford",
+            "state": "PA",
+            "zip": "16701",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.upb.pitt.edu/",
+            "price_calculator_url": "pitt.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 1,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10324,
+            "instructional_expenditure_per_fte": 8069,
+            "faculty_salary": 7562,
+            "ft_faculty_rate": 0.7447,
+            "alias": "Pitt-Bradford",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 244420,
+                "end": 234549
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 215266
+    },
+    {
+        "school": {
+            "name": "University of Pittsburgh-Greensburg",
+            "city": "Greensburg",
+            "state": "PA",
+            "zip": "15601-5860",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.greensburg.pitt.edu/",
+            "price_calculator_url": "pitt.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 1,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12431,
+            "instructional_expenditure_per_fte": 7209,
+            "faculty_salary": 7370,
+            "ft_faculty_rate": 0.8421,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 5742560,
+                "end": 5667834
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 215275
+    },
+    {
+        "school": {
+            "name": "University of Pittsburgh-Johnstown",
+            "city": "Johnstown",
+            "state": "PA",
+            "zip": "15904",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.upj.pitt.edu/",
+            "price_calculator_url": "pitt.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 1,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 23,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12746,
+            "instructional_expenditure_per_fte": 8010,
+            "faculty_salary": 7625,
+            "ft_faculty_rate": 0.9568,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 45294528,
+                "end": 44320729
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 215284
+    },
+    {
+        "school": {
+            "name": "University of Pittsburgh-Pittsburgh Campus",
+            "city": "Pittsburgh",
+            "state": "PA",
+            "zip": "15260",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.pitt.edu/",
+            "price_calculator_url": "pitt.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 5,
+            "ownership": 1,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18941,
+            "instructional_expenditure_per_fte": 19401,
+            "faculty_salary": 11097,
+            "ft_faculty_rate": 0.7676,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 4289974484,
+                "end": 4151993760
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 215293
+    },
+    {
+        "school": {
+            "name": "University of Pittsburgh-Titusville",
+            "city": "Titusville",
+            "state": "PA",
+            "zip": "16354",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.titusville.pitt.edu/home",
+            "price_calculator_url": "pitt.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 1,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 4,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11042,
+            "instructional_expenditure_per_fte": 24823,
+            "faculty_salary": 7691,
+            "ft_faculty_rate": 0.7692,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1307413,
+                "end": 1257602
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 215309
+    },
+    {
+        "school": {
+            "name": "Beaver Falls Beauty Academy",
+            "city": "Beaver Falls",
+            "state": "PA",
+            "zip": "15010-4208",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "bfbeauty.com/",
+            "price_calculator_url": "www.bfbeauty.com/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4310,
+            "instructional_expenditure_per_fte": 4397,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "1/20/1975",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 215336
+    },
+    {
+        "school": {
+            "name": "Pittsburgh Institute of Aeronautics",
+            "city": "West Mifflin",
+            "state": "PA",
+            "zip": "15122",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.pia.edu/",
+            "price_calculator_url": "www.pia.edu/net-price-calculators/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 11,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 15411,
+            "instructional_expenditure_per_fte": 6426,
+            "faculty_salary": 3947,
+            "ft_faculty_rate": 1,
+            "alias": "PIA Career Services",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "3/7/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 215381
+    },
+    {
+        "school": {
+            "name": "Pittsburgh Institute of Mortuary Science Inc",
+            "city": "Pittsburgh",
+            "state": "PA",
+            "zip": "15206-3706",
+            "accreditor": "American Board of Funeral Service Education Committee on Accreditation",
+            "school_url": "www.pims.edu/",
+            "price_calculator_url": "https://pims.edu/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 12,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11221,
+            "instructional_expenditure_per_fte": 3675,
+            "faculty_salary": 3986,
+            "ft_faculty_rate": null,
+            "alias": "PIMS",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ABFSE",
+            "title_iv": {
+                "approval_date": "9/24/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 215390
+    },
+    {
+        "school": {
+            "name": "Pittsburgh Technical College",
+            "city": "Oakdale",
+            "state": "PA",
+            "zip": "15071",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.ptcollege.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/student/app/pti",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 14,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11395,
+            "instructional_expenditure_per_fte": 6005,
+            "faculty_salary": 5325,
+            "ft_faculty_rate": 0.4887,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "8/3/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 500000,
+                "end": 500000
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 215415
+    },
+    {
+        "school": {
+            "name": "Pittsburgh Theological Seminary",
+            "city": "Pittsburgh",
+            "state": "PA",
+            "zip": "15206-2596",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.pts.edu/",
+            "price_calculator_url": "https://www.pts.edu/Cost_of_Attendance",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 66,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1182,
+            "instructional_expenditure_per_fte": 25965,
+            "faculty_salary": 10350,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "1/1/1980",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 200850016,
+                "end": 198545348
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 215424
+    },
+    {
+        "school": {
+            "name": "Point Park University",
+            "city": "Pittsburgh",
+            "state": "PA",
+            "zip": "15222-1984",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.pointpark.edu/",
+            "price_calculator_url": "www.pointpark.edu/admissions/tuitioncosts/netpricecalc",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16695,
+            "instructional_expenditure_per_fte": 9840,
+            "faculty_salary": 8745,
+            "ft_faculty_rate": 0.3009,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "1/29/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 46966012,
+                "end": 50165261
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 215442
+    },
+    {
+        "school": {
+            "name": "Joseph F McCloskey School of Nursing",
+            "city": "Pottsville",
+            "state": "PA",
+            "zip": "17901",
+            "accreditor": "Accreditation Commission for Education in Nursing",
+            "school_url": "www.schuylkillhealthschoolofnursing.com/",
+            "price_calculator_url": "www.schuylkillhealthschoolofnursing.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14412,
+            "instructional_expenditure_per_fte": 23287,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Joseph F McCloskey School of Nursing",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NLNAC",
+            "title_iv": {
+                "approval_date": "8/27/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 215479
+    },
+    {
+        "school": {
+            "name": "The Salon Professional Academy-Altoona",
+            "city": "Altoona",
+            "state": "PA",
+            "zip": "16601-2419",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.tspaaltoona.com/",
+            "price_calculator_url": "www.tspaaltoona.com/financial-aid/welcome/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 23,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14237,
+            "instructional_expenditure_per_fte": 5245,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "1/11/1984",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 215530
+    },
+    {
+        "school": {
+            "name": "Reading Area Community College",
+            "city": "Reading",
+            "state": "PA",
+            "zip": "19603",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.racc.edu/",
+            "price_calculator_url": "https://www.racc.edu/sites/default/files/imported/HEA/NetPriceCalc/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 5,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2366,
+            "instructional_expenditure_per_fte": 6768,
+            "faculty_salary": 6294,
+            "ft_faculty_rate": 1,
+            "alias": "RACC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/17/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 12433945,
+                "end": 12432838
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 215585
+    },
+    {
+        "school": {
+            "name": "Reading Hospital School of Health Sciences",
+            "city": "Reading",
+            "state": "PA",
+            "zip": "19611",
+            "accreditor": "Accreditation Commission for Education in Nursing",
+            "school_url": "https://reading.towerhealth.org/academics/health-sciences/",
+            "price_calculator_url": "https://reading.towerhealth.org/academics/health-sciences/financial-information/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13116,
+            "instructional_expenditure_per_fte": 24750,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "RHSHS",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NLNAC",
+            "title_iv": {
+                "approval_date": "8/12/1985",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 215594
+    },
+    {
+        "school": {
+            "name": "Reconstructionist Rabbinical College",
+            "city": "Wyncote",
+            "state": "PA",
+            "zip": "19095-1898",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.rrc.edu/",
+            "price_calculator_url": "www.rrc.edu",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 80,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12391,
+            "instructional_expenditure_per_fte": 49751,
+            "faculty_salary": 7501,
+            "ft_faculty_rate": 0.8571,
+            "alias": "RRC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "7/27/1984",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 13185492,
+                "end": 14063278
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 215619
+    },
+    {
+        "school": {
+            "name": "Walnut Hill College",
+            "city": "Philadelphia",
+            "state": "PA",
+            "zip": "19104",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.walnuthillcollege.edu/",
+            "price_calculator_url": "https://walnuthillcollege.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 32,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 7,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 23155,
+            "instructional_expenditure_per_fte": 21339,
+            "faculty_salary": 6271,
+            "ft_faculty_rate": 0.6818,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "2/8/1982",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 215637
+    },
+    {
+        "school": {
+            "name": "Robert Morris University",
+            "city": "Moon Township",
+            "state": "PA",
+            "zip": "15108-1189",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.rmu.edu/",
+            "price_calculator_url": "https://rmu.edu/admissions/financial-aid/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 19284,
+            "instructional_expenditure_per_fte": 9422,
+            "faculty_salary": 12967,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 36618716,
+                "end": 37677920
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 215655
+    },
+    {
+        "school": {
+            "name": "Rosedale Technical College",
+            "city": "Pittsburgh",
+            "state": "PA",
+            "zip": "15205-9791",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.rosedaletech.org/",
+            "price_calculator_url": "www.rosedaletech.org/wp-content/uploads/2021/01/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 11,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10764,
+            "instructional_expenditure_per_fte": 4669,
+            "faculty_salary": 4923,
+            "ft_faculty_rate": 0.8,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "1/31/1974",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 215682
+    },
+    {
+        "school": {
+            "name": "Rosemont College",
+            "city": "Rosemont",
+            "state": "PA",
+            "zip": "19010-1699",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.rosemont.edu/",
+            "price_calculator_url": "www.rosemont.edu/admissions/tuition-and-aid/cost-of-attendance/net-price-calculator.php",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11020,
+            "instructional_expenditure_per_fte": 5245,
+            "faculty_salary": 5401,
+            "ft_faculty_rate": 0.3364,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 17166350,
+                "end": 16345527
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 215691
+    }
+]

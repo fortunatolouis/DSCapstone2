@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Advanced Technology Institute",
+            "city": "Virginia Beach",
+            "state": "VA",
+            "zip": "23462",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.auto.edu/",
+            "price_calculator_url": "https://npc.auto.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 11,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 19322,
+            "instructional_expenditure_per_fte": 7815,
+            "faculty_salary": 4338,
+            "ft_faculty_rate": 0.6667,
+            "alias": "ATI",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "7/29/1996",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 231411
+    },
+    {
+        "school": {
+            "name": "Averett University",
+            "city": "Danville",
+            "state": "VA",
+            "zip": "24541",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.averett.edu/",
+            "price_calculator_url": "https://www.averett.edu/financial-aid/netprice-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 54,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16153,
+            "instructional_expenditure_per_fte": 10776,
+            "faculty_salary": 6022,
+            "ft_faculty_rate": 1,
+            "alias": "AU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 26186388,
+                "end": 26102289
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 231420
+    },
+    {
+        "school": {
+            "name": "Blue Ridge Community College",
+            "city": "Weyers Cave",
+            "state": "VA",
+            "zip": "24486-0080",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.brcc.edu/",
+            "price_calculator_url": "https://www.vawizard.org/wizard/financing-college",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3407,
+            "instructional_expenditure_per_fte": 6330,
+            "faculty_salary": 6513,
+            "ft_faculty_rate": 0.4182,
+            "alias": "BRCC|Blue Ridge",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "6/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 8825272,
+                "end": 8715158
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 231536
+    },
+    {
+        "school": {
+            "name": "Bluefield University",
+            "city": "Bluefield",
+            "state": "VA",
+            "zip": "24605",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.bluefield.edu/",
+            "price_calculator_url": "www.bluefield.edu/bc-central/financial-aid/tuition-fees/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 2,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 7,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 54,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11537,
+            "instructional_expenditure_per_fte": 4963,
+            "faculty_salary": 5620,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 6768569,
+                "end": 6592155
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 231554
+    },
+    {
+        "school": {
+            "name": "Bridgewater College",
+            "city": "Bridgewater",
+            "state": "VA",
+            "zip": "22812-1599",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.bridgewater.edu/",
+            "price_calculator_url": "https://webapps.bridgewater.edu/netprice/home",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": 23,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 58,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11120,
+            "instructional_expenditure_per_fte": 7264,
+            "faculty_salary": 6590,
+            "ft_faculty_rate": 0.8108,
+            "alias": "BC|Bridgewater",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "1/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 95560797,
+                "end": 91444920
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 231581
+    },
+    {
+        "school": {
+            "name": "William & Mary",
+            "city": "Williamsburg",
+            "state": "VA",
+            "zip": "23187-8795",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.wm.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/app/wm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": 23,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 21064,
+            "instructional_expenditure_per_fte": 17034,
+            "faculty_salary": 11669,
+            "ft_faculty_rate": 0.8126,
+            "alias": "William & Mary",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 995873958,
+                "end": 967685235
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 231624
+    },
+    {
+        "school": {
+            "name": "Regent University",
+            "city": "Virginia Beach",
+            "state": "VA",
+            "zip": "23464",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.regent.edu/",
+            "price_calculator_url": "https://www.regent.edu/admissions-aid/regent-net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13833,
+            "instructional_expenditure_per_fte": 3760,
+            "faculty_salary": 8289,
+            "ft_faculty_rate": 0.7268,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "6/2/1993",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 66610000,
+                "end": 69525000
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 231651
+    },
+    {
+        "school": {
+            "name": "Central School of Practical Nursing",
+            "city": "Norfolk",
+            "state": "VA",
+            "zip": "23502",
+            "accreditor": "Accreditation Commission for Education in Nursing",
+            "school_url": "https://www.npsk12.com/domain/980",
+            "price_calculator_url": "schools.nps.k12.va.us/ntc/central-school-of-practical-nursing/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3838,
+            "instructional_expenditure_per_fte": 2476,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NLNAC",
+            "title_iv": {
+                "approval_date": "11/3/1975",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 231688
+    },
+    {
+        "school": {
+            "name": "Central Virginia Community College",
+            "city": "Lynchburg",
+            "state": "VA",
+            "zip": "24502-2498",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.centralvirginia.edu/",
+            "price_calculator_url": "https://www.vawizard.org/wizard/npc",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 3,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3359,
+            "instructional_expenditure_per_fte": 5855,
+            "faculty_salary": 7016,
+            "ft_faculty_rate": 0.2755,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "2/13/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1675074,
+                "end": 1685270
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 231697
+    },
+    {
+        "school": {
+            "name": "Christopher Newport University",
+            "city": "Newport News",
+            "state": "VA",
+            "zip": "23606-3072",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "cnu.edu/",
+            "price_calculator_url": "cnu.edu/financialaid/calculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8952,
+            "instructional_expenditure_per_fte": 10094,
+            "faculty_salary": 9102,
+            "ft_faculty_rate": 0.6202,
+            "alias": "CNU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 36551250,
+                "end": 39167125
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 231712
+    },
+    {
+        "school": {
+            "name": "Allegiance Beauty School",
+            "city": "Norfolk",
+            "state": "VA",
+            "zip": "23505",
+            "accreditor": null,
+            "school_url": "absbeautyschool.edu/",
+            "price_calculator_url": "www.absbeautyschool.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 0,
+            "tuition_revenue_per_fte": 12111,
+            "instructional_expenditure_per_fte": 2817,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": "12/8/1987",
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 231721
+    },
+    {
+        "school": {
+            "name": "Bryant & Stratton College-Virginia Beach",
+            "city": "Virginia Beach",
+            "state": "VA",
+            "zip": "23462",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.bryantstratton.edu/",
+            "price_calculator_url": "https://www.bryantstratton.edu/financial-aid/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 18,
+            "ownership": 3,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 23,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 19422,
+            "instructional_expenditure_per_fte": 3565,
+            "faculty_salary": 5683,
+            "ft_faculty_rate": 0.2597,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "4/19/2005",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 231785
+    },
+    {
+        "school": {
+            "name": "Dabney S Lancaster Community College",
+            "city": "Clifton Forge",
+            "state": "VA",
+            "zip": "24422-1000",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.dslcc.edu/",
+            "price_calculator_url": "https://www.vawizard.org/wizard/npc",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 3,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3603,
+            "instructional_expenditure_per_fte": 7930,
+            "faculty_salary": 6166,
+            "ft_faculty_rate": 0.25,
+            "alias": "DSLCC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "1/1/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 6672665,
+                "end": 7205113
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 231873
+    },
+    {
+        "school": {
+            "name": "Danville Community College",
+            "city": "Danville",
+            "state": "VA",
+            "zip": "24541-4004",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.danville.edu/",
+            "price_calculator_url": "https://www.danville.edu/fees-and-expenses",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2114,
+            "instructional_expenditure_per_fte": 6154,
+            "faculty_salary": 6596,
+            "ft_faculty_rate": 0.3852,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "7/16/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 9784650,
+                "end": 10483577
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 231882
+    },
+    {
+        "school": {
+            "name": "Eastern Virginia Medical School",
+            "city": "Norfolk",
+            "state": "VA",
+            "zip": "23507",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.evms.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 25,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 31715,
+            "instructional_expenditure_per_fte": 41879,
+            "faculty_salary": 12620,
+            "ft_faculty_rate": 0.9754,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "1/1/1972",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 115186989,
+                "end": 115609035
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 231970
+    },
+    {
+        "school": {
+            "name": "Centura College-Virginia Beach",
+            "city": "Virginia Beach",
+            "state": "VA",
+            "zip": "23452-7431",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "https://www.centuracollege.edu/campuses/virginia-beach/",
+            "price_calculator_url": "https://www.centuracollege.edu/Your_Rights/Shared_Documents/npcalc/CVABcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 5,
+            "ownership": 3,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 23,
+            "carnegie_undergrad": 6,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17575,
+            "instructional_expenditure_per_fte": 4675,
+            "faculty_salary": 5149,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "6/13/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 232016
+    },
+    {
+        "school": {
+            "name": "Emory & Henry College",
+            "city": "Emory",
+            "state": "VA",
+            "zip": "24327-0947",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.ehc.edu/",
+            "price_calculator_url": "www.ehc.edu/financial-aid/cost-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 71,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14367,
+            "instructional_expenditure_per_fte": 13275,
+            "faculty_salary": 7110,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 90708134,
+                "end": 91060429
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 232025
+    },
+    {
+        "school": {
+            "name": "Eastern Mennonite University",
+            "city": "Harrisonburg",
+            "state": "VA",
+            "zip": "22802-2462",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://emu.edu/",
+            "price_calculator_url": "https://emu.edu/financial-aid/estimator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 69,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16713,
+            "instructional_expenditure_per_fte": 11559,
+            "faculty_salary": 5909,
+            "ft_faculty_rate": 0.9515,
+            "alias": "Eastern mennonite univ  EMU university  EMU college  EMU  Eastern mennonite  Eastern mennonite college  EMC   Eastern mennonite seminary  Eastern menonite",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 33077034,
+                "end": 32765796
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 232043
+    },
+    {
+        "school": {
+            "name": "Eastern Shore Community College",
+            "city": "Melfa",
+            "state": "VA",
+            "zip": "23410",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.es.vccs.edu/",
+            "price_calculator_url": "https://www.vawizard.org/vccs/FinAidAwardEstimator.action",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": 43,
+            "degree_urbanization": null,
+            "carnegie_basic": 5,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2879,
+            "instructional_expenditure_per_fte": 13190,
+            "faculty_salary": 6395,
+            "ft_faculty_rate": 0.359,
+            "alias": "ESCC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "6/5/1972",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 899083,
+                "end": 1129302
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 232052
+    },
+    {
+        "school": {
+            "name": "Ferrum College",
+            "city": "Ferrum",
+            "state": "VA",
+            "zip": "24088-9000",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.ferrum.edu/",
+            "price_calculator_url": "www.ferrum.edu/financial-aid/tuition-net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": 42,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 71,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13276,
+            "instructional_expenditure_per_fte": 7155,
+            "faculty_salary": 5652,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "1/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 53758102,
+                "end": 52375161
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 232089
+    }
+]

@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Remington College-Cleveland Campus",
+            "city": "Cleveland",
+            "state": "OH",
+            "zip": "44125-1957",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "https://www.remingtoncollege.edu/locations/cleveland/",
+            "price_calculator_url": "https://www.remingtoncollege.edu/net-price/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 11,
+            "ownership": 2,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 8,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9695,
+            "instructional_expenditure_per_fte": 5349,
+            "faculty_salary": 3493,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "7/3/2013",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 375416
+    },
+    {
+        "school": {
+            "name": "Toledo Academy of Beauty Culture-East",
+            "city": "OREGON",
+            "state": "OH",
+            "zip": "43616",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "toledoacademyofbeauty.com/",
+            "price_calculator_url": "toledoacademyofbeauty.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12881,
+            "instructional_expenditure_per_fte": 2957,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Toledo Academy of Beauty",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "10/28/1985",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 375540
+    },
+    {
+        "school": {
+            "name": "Brown & Clermont Adult Career Campuses",
+            "city": "Bethel",
+            "state": "OH",
+            "zip": "45106",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.grantcareer.com/",
+            "price_calculator_url": "https://www.grantcareer.com/o/gcc/page/financial-assistance",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2836,
+            "instructional_expenditure_per_fte": 5770,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Grant Career Center",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "5/7/1991",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 375568
+    },
+    {
+        "school": {
+            "name": "Chisholm Trail Technology Center",
+            "city": "Omega",
+            "state": "OK",
+            "zip": "73764-6335",
+            "accreditor": "Oklahoma State Board of Career and Technology Education",
+            "school_url": "www.cttc.edu/",
+            "price_calculator_url": "https://www.cttc.edu/564886_3",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 40,
+            "region_id": 6,
+            "locale": 43,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 156,
+            "instructional_expenditure_per_fte": 8634,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "OKSBVT",
+            "title_iv": {
+                "approval_date": "4/24/1991",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 375656
+    },
+    {
+        "school": {
+            "name": "Gordon Cooper Technology Center",
+            "city": "Shawnee",
+            "state": "OK",
+            "zip": "74804",
+            "accreditor": "Oklahoma State Board of Career and Technology Education",
+            "school_url": "www.gctech.edu/",
+            "price_calculator_url": "https://4.files.edl.io/7689/07/12/19/183624-bb1909a6-2216-4369-b2d8-6df01a319f5f.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 40,
+            "region_id": 6,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1123,
+            "instructional_expenditure_per_fte": 10649,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Gordon Cooper Area Vocational-Technical School District #5",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "OKSBVT",
+            "title_iv": {
+                "approval_date": "7/26/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 375683
+    },
+    {
+        "school": {
+            "name": "Kiamichi Technology Center-McAlester",
+            "city": "McAlester",
+            "state": "OK",
+            "zip": "74501",
+            "accreditor": "Oklahoma State Board of Career and Technology Education",
+            "school_url": "www.ktc.edu/",
+            "price_calculator_url": "www.ktc.edu/467254_3",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 40,
+            "region_id": 6,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 583,
+            "instructional_expenditure_per_fte": 5894,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Kiamichi Technology Centers",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "OKSBVT",
+            "title_iv": {
+                "approval_date": "2/3/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 375726
+    },
+    {
+        "school": {
+            "name": "YTI Career Institute-Altoona",
+            "city": "Altoona",
+            "state": "PA",
+            "zip": "16601",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.yti.edu/",
+            "price_calculator_url": "www.yti.edu/financialaid/npcalc.asp",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 23,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12781,
+            "instructional_expenditure_per_fte": 8655,
+            "faculty_salary": 4958,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "6/24/1992",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 375939
+    },
+    {
+        "school": {
+            "name": "Eastern Center for Arts and Technology",
+            "city": "Willow Grove",
+            "state": "PA",
+            "zip": "19090",
+            "accreditor": "Middle States Commission on Secondary Education",
+            "school_url": "www.eastech.org/",
+            "price_calculator_url": "https://www.eastech.org/practical-nursing/lpn-title-iv-program-integrity/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1626,
+            "instructional_expenditure_per_fte": 4664,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACSS",
+            "title_iv": {
+                "approval_date": "2/12/1987",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 375966
+    },
+    {
+        "school": {
+            "name": "Empire Beauty School-Center City Philadelphia",
+            "city": "Philadelphia",
+            "state": "PA",
+            "zip": "19102-2701",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.empire.edu/",
+            "price_calculator_url": "www.empire.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 8,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10135,
+            "instructional_expenditure_per_fte": 12078,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "8/9/2013",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 375984
+    },
+    {
+        "school": {
+            "name": "CEM College-Humacao",
+            "city": "Humacao",
+            "state": "PR",
+            "zip": "00791-4210",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "https://www.cemcollege.edu/cem/",
+            "price_calculator_url": "www.cemcollege.edu/cem/netprice/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 4,
+            "ownership": 3,
+            "state_fips": 72,
+            "region_id": 9,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4880,
+            "instructional_expenditure_per_fte": 786,
+            "faculty_salary": 2700,
+            "ft_faculty_rate": 0.0833,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "2/28/1983",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 376224
+    },
+    {
+        "school": {
+            "name": "Colegio Mayor de Tecnologia Inc",
+            "city": "Arroyo",
+            "state": "PR",
+            "zip": "00714-0270",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.cmtarroyo.com/",
+            "price_calculator_url": "www.cmtarroyo.com/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 72,
+            "region_id": 9,
+            "locale": 23,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7000,
+            "instructional_expenditure_per_fte": 2631,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "2/26/1988",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 376242
+    },
+    {
+        "school": {
+            "name": "Institucion Chaviano de Mayaguez",
+            "city": "Mayaguez",
+            "state": "PR",
+            "zip": "00680",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.mayaguezinstituteoftechnology.com/",
+            "price_calculator_url": "www.mayaguezinstituteoftechnology.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 72,
+            "region_id": 9,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4777,
+            "instructional_expenditure_per_fte": 1762,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Mayaguez Institute of Technology",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "5/22/1987",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 376288
+    },
+    {
+        "school": {
+            "name": "EDIC College",
+            "city": "Caguas",
+            "state": "PR",
+            "zip": "00725-0000",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.ediccollege.edu/",
+            "price_calculator_url": "www.ediccollege.edu/CALCULATOR/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 1,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 3,
+            "ownership": 3,
+            "state_fips": 72,
+            "region_id": 9,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4672,
+            "instructional_expenditure_per_fte": 1161,
+            "faculty_salary": 2011,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "10/2/2020",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 376321
+    },
+    {
+        "school": {
+            "name": "Liceo de Arte-Dise-O y Comercio",
+            "city": "Caguas",
+            "state": "PR",
+            "zip": "00725",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.liceocaguas.com/",
+            "price_calculator_url": "liceocaguas.com/calculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 72,
+            "region_id": 9,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6304,
+            "instructional_expenditure_per_fte": 820,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "11/13/1990",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 376330
+    },
+    {
+        "school": {
+            "name": "Universal Technology College of Puerto Rico",
+            "city": "Aguadilla",
+            "state": "PR",
+            "zip": "00603",
+            "accreditor": "Accrediting Bureau of Health Education Schools",
+            "school_url": "www.unitecpr.edu/",
+            "price_calculator_url": "nces.ed.gov/ipeds/netpricecalculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 72,
+            "region_id": 9,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7258,
+            "instructional_expenditure_per_fte": 2635,
+            "faculty_salary": 1540,
+            "ft_faculty_rate": 0.2615,
+            "alias": "Unitec of PR",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ABHES",
+            "title_iv": {
+                "approval_date": "2/25/1991",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 376385
+    },
+    {
+        "school": {
+            "name": "Academy of Hair Technology",
+            "city": "Greenville",
+            "state": "SC",
+            "zip": "29615-2363",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.hairchamps.com/",
+            "price_calculator_url": "www.hairchamps.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 45,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7544,
+            "instructional_expenditure_per_fte": 2654,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "1/21/1988",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 376446
+    },
+    {
+        "school": {
+            "name": "Mr Wayne's School of Unisex Hair Design",
+            "city": "Cookeville",
+            "state": "TN",
+            "zip": "38501",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.misterwaynes.com/",
+            "price_calculator_url": "www.misterwaynes.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 47,
+            "region_id": 5,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10912,
+            "instructional_expenditure_per_fte": 4626,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "9/10/1984",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 376631
+    },
+    {
+        "school": {
+            "name": "Queen City College",
+            "city": "Clarksville",
+            "state": "TN",
+            "zip": "37042",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.queencitycollege.com/",
+            "price_calculator_url": "queencitycollege.com/qcc-net-price-calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 47,
+            "region_id": 5,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8038,
+            "instructional_expenditure_per_fte": 3632,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "10/29/1987",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 376677
+    },
+    {
+        "school": {
+            "name": "College of the Marshall Islands",
+            "city": "Majuro",
+            "state": "MH",
+            "zip": "96960",
+            "accreditor": "Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges",
+            "school_url": "www.cmi.edu/",
+            "price_calculator_url": "www.cmi.edu/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 68,
+            "region_id": 9,
+            "locale": -3,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 482,
+            "instructional_expenditure_per_fte": 3951,
+            "faculty_salary": 2213,
+            "ft_faculty_rate": 0.6264,
+            "alias": "CMI",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "WASCJC",
+            "title_iv": {
+                "approval_date": "10/9/1990",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1700200,
+                "end": 1750457
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 376695
+    },
+    {
+        "school": {
+            "name": "Remington College-Fort Worth Campus",
+            "city": "Fort Worth",
+            "state": "TX",
+            "zip": "76112-1225",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "https://www.remingtoncollege.edu/locations/fort-worth/",
+            "price_calculator_url": "www.remingtoncollege.edu/net-price/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 11,
+            "ownership": 2,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 14,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8564,
+            "instructional_expenditure_per_fte": 3513,
+            "faculty_salary": 4257,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "8/24/2010",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 377111
+    }
+]

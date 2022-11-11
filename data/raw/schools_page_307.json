@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Arizona State University - Cochise",
+            "city": "Sierra Vista",
+            "state": "AZ",
+            "zip": "85635-2317",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.asu.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 14,
+            "ownership": 1,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 10415109
+    },
+    {
+        "school": {
+            "name": "Arizona State University - Yavapai",
+            "city": "Prescott Valley",
+            "state": "AZ",
+            "zip": "86314-2252",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.asu.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 14,
+            "ownership": 1,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 10415110
+    },
+    {
+        "school": {
+            "name": "Arizona State University - Pima",
+            "city": "Tucson",
+            "state": "AZ",
+            "zip": "85709-0001",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.asu.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 14,
+            "ownership": 1,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 10415111
+    },
+    {
+        "school": {
+            "name": "Arizona State University - Washington D.C.",
+            "city": "Washington",
+            "state": "DC",
+            "zip": "20006-5407",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.asu.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 14,
+            "ownership": 1,
+            "state_fips": 11,
+            "region_id": 2,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 10415112
+    },
+    {
+        "school": {
+            "name": "Arkansas College of Barbering and Hair Design",
+            "city": "Little Rock",
+            "state": "AR",
+            "zip": "72205-4949",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.acbhd.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 5,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 10635101
+    },
+    {
+        "school": {
+            "name": "Harding School of Theology",
+            "city": "Memphis",
+            "state": "TN",
+            "zip": "38117-5499",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "hst.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 2,
+            "state_fips": 47,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 10704401
+    },
+    {
+        "school": {
+            "name": "Career Academy of Hair Design-Siloam Springs",
+            "city": "Siloam Springs",
+            "state": "AR",
+            "zip": "72761-4217",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.beautynwa.com/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 3,
+            "state_fips": 5,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 10722001
+    },
+    {
+        "school": {
+            "name": "Career Academy of Hair Design-Rogers",
+            "city": "Rogers",
+            "state": "AR",
+            "zip": "72756-2102",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.beautynwa.com/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 3,
+            "state_fips": 5,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 10722002
+    },
+    {
+        "school": {
+            "name": "Career Academy of Hair Design-Fayetteville",
+            "city": "Fayetteville",
+            "state": "AR",
+            "zip": "72701-4217",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.beautynwa.com/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 3,
+            "state_fips": 5,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 10722003
+    },
+    {
+        "school": {
+            "name": "Career Academy of Hair Design - Fort Smith",
+            "city": "Fort Smith",
+            "state": "AR",
+            "zip": "72901-7814",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.beautynwa.com/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 3,
+            "state_fips": 5,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 10722004
+    },
+    {
+        "school": {
+            "name": "University of Arkansas Community College at Hope - Texarkana",
+            "city": "Texarkana",
+            "state": "AR",
+            "zip": "71854-1467",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.uaht.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 1,
+            "state_fips": 5,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 10772501
+    },
+    {
+        "school": {
+            "name": "Alliant International University-Fresno",
+            "city": "Fresno",
+            "state": "CA",
+            "zip": "93727",
+            "accreditor": "Western Association of Schools and Colleges Senior Colleges and University Commission",
+            "school_url": "https://www.alliant.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 6,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "WASCSR",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 11046801
+    },
+    {
+        "school": {
+            "name": "Alliant International University-Los Angeles",
+            "city": "Alhambra",
+            "state": "CA",
+            "zip": "91803",
+            "accreditor": "Western Association of Schools and Colleges Senior Colleges and University Commission",
+            "school_url": "https://www.alliant.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 6,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "WASCSR",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 11046802
+    },
+    {
+        "school": {
+            "name": "Alliant International University-San Francisco",
+            "city": "Emeryville",
+            "state": "CA",
+            "zip": "94608",
+            "accreditor": "Western Association of Schools and Colleges Senior Colleges and University Commission",
+            "school_url": "https://www.alliant.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 6,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "WASCSR",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 11046803
+    },
+    {
+        "school": {
+            "name": "Alliant International University-Irvine",
+            "city": "Irvine",
+            "state": "CA",
+            "zip": "92606",
+            "accreditor": "Western Association of Schools and Colleges Senior Colleges and University Commission",
+            "school_url": "https://www.alliant.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 6,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "WASCSR",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 11046804
+    },
+    {
+        "school": {
+            "name": "Alliant International University-Sacramento",
+            "city": "Sacramento",
+            "state": "CA",
+            "zip": "95833",
+            "accreditor": "Western Association of Schools and Colleges Senior Colleges and University Commission",
+            "school_url": "https://www.alliant.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 6,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "WASCSR",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 11046805
+    },
+    {
+        "school": {
+            "name": "Flashpoint Chicago A Campus of Columbia College Hollywood",
+            "city": "Chicago",
+            "state": "IL",
+            "zip": "60602-2716",
+            "accreditor": "Western Association of Schools and Colleges Senior Colleges and University Commission",
+            "school_url": "https://flashpoint.columbiacollege.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 2,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "WASCSR",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 11257001
+    },
+    {
+        "school": {
+            "name": "FIDM-Fashion Institute of Design & Merchandising-Orange County",
+            "city": "Irvine",
+            "state": "CA",
+            "zip": "926145610",
+            "accreditor": null,
+            "school_url": "www.fidm.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 4,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 0,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 11435401
+    },
+    {
+        "school": {
+            "name": "FIDM-Fashion Institute of Design & Merchandising-San Diego",
+            "city": "San Diego",
+            "state": "CA",
+            "zip": "921014903",
+            "accreditor": null,
+            "school_url": "www.fidm.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 4,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 0,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 11435402
+    },
+    {
+        "school": {
+            "name": "San Jose Campus",
+            "city": "San Jose",
+            "state": "CA",
+            "zip": "95131",
+            "accreditor": "Accrediting Commission for Acupuncture and Oriental Medicine",
+            "school_url": "www.fivebranches.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "ACAOM",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 11458501
+    }
+]

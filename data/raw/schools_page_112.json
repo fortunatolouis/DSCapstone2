@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Sh'or Yoshuv Rabbinical College",
+            "city": "Lawrence",
+            "state": "NY",
+            "zip": "11559-1714",
+            "accreditor": "Association of Advanced Rabbinical and Talmudic Schools",
+            "school_url": "https://www.shoryoshuv.org/",
+            "price_calculator_url": "https://sites.google.com/site/shoryoshuvrabbinicalcollege/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 1,
+            "women_only": 0,
+            "religious_affiliation": 80,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7763,
+            "instructional_expenditure_per_fte": 16228,
+            "faculty_salary": 4939,
+            "ft_faculty_rate": 0.8667,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "AARTS",
+            "title_iv": {
+                "approval_date": "1/16/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 195438
+    },
+    {
+        "school": {
+            "name": "Siena College",
+            "city": "Loudonville",
+            "state": "NY",
+            "zip": "12211-1462",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.siena.edu/",
+            "price_calculator_url": "https://www.siena.edu/afford/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17782,
+            "instructional_expenditure_per_fte": 10391,
+            "faculty_salary": 8897,
+            "ft_faculty_rate": 0.6333,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 137220433,
+                "end": 139605938
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 195474
+    },
+    {
+        "school": {
+            "name": "Skidmore College",
+            "city": "Saratoga Springs",
+            "state": "NY",
+            "zip": "12866",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.skidmore.edu/",
+            "price_calculator_url": "https://skidmore.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 23,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 35553,
+            "instructional_expenditure_per_fte": 22009,
+            "faculty_salary": 10120,
+            "ft_faculty_rate": 0.8234,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 373864000,
+                "end": 357075000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 195526
+    },
+    {
+        "school": {
+            "name": "St. Joseph's University-New York",
+            "city": "Brooklyn",
+            "state": "NY",
+            "zip": "11205-3688",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.sjcny.edu/",
+            "price_calculator_url": "https://tcc.ruffalonl.com/Saint Josephs College NY/Freshman Students",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18661,
+            "instructional_expenditure_per_fte": 8879,
+            "faculty_salary": 9147,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 42521000,
+                "end": 48040000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 195544
+    },
+    {
+        "school": {
+            "name": "Saint Vladimirs Orthodox Theological Seminary",
+            "city": "Yonkers",
+            "state": "NY",
+            "zip": "10707-1699",
+            "accreditor": "Commission on Accrediting of the Association of Theological Schools",
+            "school_url": "www.svots.edu/",
+            "price_calculator_url": "www.svots.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 92,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3885,
+            "instructional_expenditure_per_fte": 14074,
+            "faculty_salary": 6060,
+            "ft_faculty_rate": 0.2857,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "ATSUSC",
+            "title_iv": {
+                "approval_date": "9/1/1975",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 16660219,
+                "end": 16358635
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 195580
+    },
+    {
+        "school": {
+            "name": "Saint Elizabeth College of Nursing",
+            "city": "Utica",
+            "state": "NY",
+            "zip": "13501",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.secon.edu/",
+            "price_calculator_url": "https://www.secon.edu/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11224,
+            "instructional_expenditure_per_fte": 13825,
+            "faculty_salary": 8302,
+            "ft_faculty_rate": 0.9412,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "1/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 195702
+    },
+    {
+        "school": {
+            "name": "Saint John Fisher College",
+            "city": "Rochester",
+            "state": "NY",
+            "zip": "14618-3597",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.sjfc.edu/",
+            "price_calculator_url": "https://tcc.ruffalonl.com/St John Fisher College/Freshman Students",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 21358,
+            "instructional_expenditure_per_fte": 11872,
+            "faculty_salary": 8684,
+            "ft_faculty_rate": 1,
+            "alias": "Fisher",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 94839826,
+                "end": 97879974
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 195720
+    },
+    {
+        "school": {
+            "name": "St Paul's School of Nursing-Staten Island",
+            "city": "Staten Island",
+            "state": "NY",
+            "zip": "10311",
+            "accreditor": "Accrediting Bureau of Health Education Schools",
+            "school_url": "www.stpaulsschoolofnursing.edu/",
+            "price_calculator_url": "www.stpaulsschoolofnursing.edu/content/dam/st-pauls/compliance/netprice-calc/npcalc_stpaul_statenisland.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13846,
+            "instructional_expenditure_per_fte": 5305,
+            "faculty_salary": 5801,
+            "ft_faculty_rate": 0.1771,
+            "alias": "SVCMCNY SCHOOL OF NURSING SI",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ABHES",
+            "title_iv": {
+                "approval_date": "7/29/1974",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 195784
+    },
+    {
+        "school": {
+            "name": "St. John's University-New York",
+            "city": "Queens",
+            "state": "NY",
+            "zip": "11439",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.stjohns.edu/",
+            "price_calculator_url": "www.stjohns.edu/admission/tuition-and-financial-aid/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 21448,
+            "instructional_expenditure_per_fte": 11914,
+            "faculty_salary": 12415,
+            "ft_faculty_rate": 0.4498,
+            "alias": "St. John's University-New York",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 721454000,
+                "end": 719681000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 195809
+    },
+    {
+        "school": {
+            "name": "Sullivan County Community College",
+            "city": "Loch Sheldrake",
+            "state": "NY",
+            "zip": "12759-5151",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.sunysullivan.edu/",
+            "price_calculator_url": "sunysullivan.edu/category/home/admissions-aid/cost-financial-aid/price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 42,
+            "degree_urbanization": null,
+            "carnegie_basic": 5,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2055,
+            "instructional_expenditure_per_fte": 8263,
+            "faculty_salary": 6473,
+            "ft_faculty_rate": 0.3976,
+            "alias": "SUNY Sullivan",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "6/9/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1108253,
+                "end": 1216345
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 195988
+    },
+    {
+        "school": {
+            "name": "SUNY College of Technology at Alfred",
+            "city": "Alfred",
+            "state": "NY",
+            "zip": "14802",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.alfredstate.edu/",
+            "price_calculator_url": "www.alfredstate.edu/financial-aid/tuition/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 23,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4031,
+            "instructional_expenditure_per_fte": 10869,
+            "faculty_salary": 5753,
+            "ft_faculty_rate": 0.7092,
+            "alias": "Alfred State College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 5915465,
+                "end": 6223493
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 196006
+    },
+    {
+        "school": {
+            "name": "SUNY College of Technology at Canton",
+            "city": "Canton",
+            "state": "NY",
+            "zip": "13617-1098",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.canton.edu/",
+            "price_calculator_url": "www.suny.edu/howmuch/?embed=n&cssUrl=www.canton.edu/css/calc.css&headerUrl=www.canton.edu/images/banner-calc.png&profileUrl=http:",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4498,
+            "instructional_expenditure_per_fte": 10082,
+            "faculty_salary": 6822,
+            "ft_faculty_rate": 0.6474,
+            "alias": "SUNY Canton",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 14214135,
+                "end": 13845850
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 196015
+    },
+    {
+        "school": {
+            "name": "SUNY College of Technology at Delhi",
+            "city": "Delhi",
+            "state": "NY",
+            "zip": "13753-1100",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.delhi.edu/",
+            "price_calculator_url": "www.delhi.edu/admission/financial-aid/cost-calculator/index.php",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 23,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4581,
+            "instructional_expenditure_per_fte": 12057,
+            "faculty_salary": 6213,
+            "ft_faculty_rate": 0.6502,
+            "alias": "SUNY Delhi",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 6754328,
+                "end": 6729408
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 196024
+    },
+    {
+        "school": {
+            "name": "SUNY College of Agriculture and Technology at Cobleskill",
+            "city": "Cobleskill",
+            "state": "NY",
+            "zip": "12043",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.cobleskill.edu/",
+            "price_calculator_url": "www.suny.edu/howmuch/netpricecalculator.xhtml",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4672,
+            "instructional_expenditure_per_fte": 11623,
+            "faculty_salary": 6721,
+            "ft_faculty_rate": 0.6623,
+            "alias": "SUNY Cobleskill",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 8486029,
+                "end": 9777523
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 196033
+    },
+    {
+        "school": {
+            "name": "Farmingdale State College",
+            "city": "Farmingdale",
+            "state": "NY",
+            "zip": "11735-1021",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.farmingdale.edu/",
+            "price_calculator_url": "www.suny.edu/howmuch/netpricecalculator.xhtml",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5637,
+            "instructional_expenditure_per_fte": 10189,
+            "faculty_salary": 8418,
+            "ft_faculty_rate": 0.3246,
+            "alias": "SUNY College of Technology at Farmingdale",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 2854686,
+                "end": 2954839
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 196042
+    },
+    {
+        "school": {
+            "name": "SUNY Morrisville",
+            "city": "Morrisville",
+            "state": "NY",
+            "zip": "13408",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.morrisville.edu/",
+            "price_calculator_url": "www.morrisville.edu/student-accounts/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 42,
+            "degree_urbanization": null,
+            "carnegie_basic": 23,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4913,
+            "instructional_expenditure_per_fte": 13715,
+            "faculty_salary": 6434,
+            "ft_faculty_rate": 0.68,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 2338991,
+                "end": 2603335
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 196051
+    },
+    {
+        "school": {
+            "name": "SUNY at Albany",
+            "city": "Albany",
+            "state": "NY",
+            "zip": "12222",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.albany.edu/",
+            "price_calculator_url": "www.albany.edu/financialaid/npc.shtml",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 17,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6957,
+            "instructional_expenditure_per_fte": 13970,
+            "faculty_salary": 9904,
+            "ft_faculty_rate": 0.5982,
+            "alias": "University at Albany, SUNY",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 75126461,
+                "end": 77649961
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 196060
+    },
+    {
+        "school": {
+            "name": "Binghamton University",
+            "city": "Vestal",
+            "state": "NY",
+            "zip": "13850-6000",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.binghamton.edu/",
+            "price_calculator_url": "www.suny.edu/howmuch/netpricecalculator.xhtml?id=2&embed=n&headerUrl=www.binghamton.edu/npc/logo.png&cssUrl=www.binghamton.edu/np",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 22,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 17,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8267,
+            "instructional_expenditure_per_fte": 12038,
+            "faculty_salary": 10035,
+            "ft_faculty_rate": 0.7263,
+            "alias": "Binghamton University",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 117321337,
+                "end": 115728680
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 196079
+    },
+    {
+        "school": {
+            "name": "University at Buffalo",
+            "city": "Buffalo",
+            "state": "NY",
+            "zip": "14260-1660",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.buffalo.edu/",
+            "price_calculator_url": "financialaid.buffalo.edu/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9323,
+            "instructional_expenditure_per_fte": 15660,
+            "faculty_salary": 10664,
+            "ft_faculty_rate": 0.6545,
+            "alias": "University at Buffalo|UB|State University of New York at Buffalo|SUNY Buffalo|University of Buffalo",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 797894689,
+                "end": 788909963
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 196088
+    },
+    {
+        "school": {
+            "name": "Stony Brook University",
+            "city": "Stony Brook",
+            "state": "NY",
+            "zip": "11794-0701",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.stonybrook.edu/",
+            "price_calculator_url": "https://www.stonybrook.edu/commcms/finaid/finaidbasics/net_price_calc.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 17,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10321,
+            "instructional_expenditure_per_fte": 18899,
+            "faculty_salary": 12468,
+            "ft_faculty_rate": 0.63,
+            "alias": "SUNY Stony Brook  State University of New York at Stony Brook",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 265806703,
+                "end": 279331275
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 196097
+    }
+]

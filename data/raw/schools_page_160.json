@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Houston Baptist University",
+            "city": "Houston",
+            "state": "TX",
+            "zip": "77074-3298",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.hbu.edu/",
+            "price_calculator_url": "https://www.hbu.edu/estimator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 75,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13320,
+            "instructional_expenditure_per_fte": 6290,
+            "faculty_salary": 7063,
+            "ft_faculty_rate": 0.5,
+            "alias": "HBU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 105640311,
+                "end": 111223114
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 225399
+    },
+    {
+        "school": {
+            "name": "University of Houston-Clear Lake",
+            "city": "Houston",
+            "state": "TX",
+            "zip": "77058-1002",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.uhcl.edu/",
+            "price_calculator_url": "uhcl.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9216,
+            "instructional_expenditure_per_fte": 7656,
+            "faculty_salary": 9212,
+            "ft_faculty_rate": 0.9824,
+            "alias": "UHCL| University of Houston - Clear Lake| University of Houston, Clear Lake| UH-CL|University of Houston - ClearLake| University of Houston-ClearLake",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "5/1/1974",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 29515978,
+                "end": 29961700
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 225414
+    },
+    {
+        "school": {
+            "name": "Houston Community College",
+            "city": "Houston",
+            "state": "TX",
+            "zip": "77002",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.hccs.edu/",
+            "price_calculator_url": "https://www.highered.texas.gov/apps/NPC/?Fice=010633",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 5,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2438,
+            "instructional_expenditure_per_fte": 5236,
+            "faculty_salary": 7361,
+            "ft_faculty_rate": 0.3323,
+            "alias": "HCC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "2/15/1972",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 10219792,
+                "end": 10499140
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 225423
+    },
+    {
+        "school": {
+            "name": "University of Houston-Downtown",
+            "city": "Houston",
+            "state": "TX",
+            "zip": "77002-1014",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.uhd.edu/",
+            "price_calculator_url": "www.uhd.edu/financial/cost/Pages/financial-cost-calculator.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6920,
+            "instructional_expenditure_per_fte": 5274,
+            "faculty_salary": 8494,
+            "ft_faculty_rate": 0.4986,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 43764463,
+                "end": 47524636
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 225432
+    },
+    {
+        "school": {
+            "name": "University of Houston-Victoria",
+            "city": "Victoria",
+            "state": "TX",
+            "zip": "77901",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.uhv.edu/",
+            "price_calculator_url": "www.collegeforalltexans.com/apps/CollegeMoney/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7565,
+            "instructional_expenditure_per_fte": 8300,
+            "faculty_salary": 8963,
+            "ft_faculty_rate": 0.6143,
+            "alias": "UH-Victoria",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "1/29/1976",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 16930513,
+                "end": 18001469
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 225502
+    },
+    {
+        "school": {
+            "name": "University of Houston",
+            "city": "Houston",
+            "state": "TX",
+            "zip": "77204-2018",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.uh.edu/",
+            "price_calculator_url": "www.uh.edu/financial/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10223,
+            "instructional_expenditure_per_fte": 8309,
+            "faculty_salary": 12444,
+            "ft_faculty_rate": 0.8127,
+            "alias": "UH",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 861211924,
+                "end": 930029968
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 225511
+    },
+    {
+        "school": {
+            "name": "Howard College",
+            "city": "Big Spring",
+            "state": "TX",
+            "zip": "79720",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.howardcollege.edu/",
+            "price_calculator_url": "www.collegeforalltexans.com/apps/CollegeMoney/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 3,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1848,
+            "instructional_expenditure_per_fte": 5358,
+            "faculty_salary": 4586,
+            "ft_faculty_rate": 1,
+            "alias": "Howard County Junior College",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "3/8/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 5370465,
+                "end": 5779921
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 225520
+    },
+    {
+        "school": {
+            "name": "Howard Payne University",
+            "city": "Brownwood",
+            "state": "TX",
+            "zip": "76801-2794",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.hputx.edu/",
+            "price_calculator_url": "www.hputx.edu/campus-offices/financial-aid/net-price-calculator-external/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 54,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13024,
+            "instructional_expenditure_per_fte": 9217,
+            "faculty_salary": 5756,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 63736328,
+                "end": 59641734
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 225548
+    },
+    {
+        "school": {
+            "name": "Huston-Tillotson University",
+            "city": "Austin",
+            "state": "TX",
+            "zip": "78702-2795",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.htu.edu/",
+            "price_calculator_url": "htu.edu/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 1,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 78,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13824,
+            "instructional_expenditure_per_fte": 5068,
+            "faculty_salary": 5569,
+            "ft_faculty_rate": 0.5055,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "1/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 10907159,
+                "end": 10954922
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 225575
+    },
+    {
+        "school": {
+            "name": "University of the Incarnate Word",
+            "city": "San Antonio",
+            "state": "TX",
+            "zip": "78209",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.uiw.edu/",
+            "price_calculator_url": "https://www.uiw.edu/finaid/uiwnpc.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 20089,
+            "instructional_expenditure_per_fte": 10422,
+            "faculty_salary": 8479,
+            "ft_faculty_rate": 0.4964,
+            "alias": "UIW|Incarnate Word|Incarnate|Incarnate Word, University of|Incarnate Word, Univ of|Univ. of the Incarnate Word",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 142073068,
+                "end": 143846947
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 225627
+    },
+    {
+        "school": {
+            "name": "Jacksonville College-Main Campus",
+            "city": "Jacksonville",
+            "state": "TX",
+            "zip": "75766-4759",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.jacksonville-college.edu/",
+            "price_calculator_url": "www.collegeforalltexans.com/apps/collegemoney/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 3,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 54,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6711,
+            "instructional_expenditure_per_fte": 1773,
+            "faculty_salary": 3836,
+            "ft_faculty_rate": 0.4043,
+            "alias": "Jacksonville Baptist College  JBC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 928530,
+                "end": 1243844
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 225876
+    },
+    {
+        "school": {
+            "name": "Jarvis Christian University",
+            "city": "Hawkins",
+            "state": "TX",
+            "zip": "75765-1470",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.jarvis.edu/",
+            "price_calculator_url": "www.collegeforalltexans.com/apps/CollegeMoney/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 42,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 1,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 61,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9715,
+            "instructional_expenditure_per_fte": 5029,
+            "faculty_salary": 6151,
+            "ft_faculty_rate": 0.4659,
+            "alias": "The Bulldogs",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "1/10/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 10730114,
+                "end": 7397757
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 225885
+    },
+    {
+        "school": {
+            "name": "KD Conservatory College of Film and Dramatic Arts",
+            "city": "Dallas",
+            "state": "TX",
+            "zip": "75207",
+            "accreditor": "National Association of Schools of Theatre",
+            "school_url": "www.kdstudio.com/",
+            "price_calculator_url": "www.kdstudio.com/wp-content/themes/kdc/netpricecalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 12,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10477,
+            "instructional_expenditure_per_fte": 3362,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "KD Conservatory",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NAST",
+            "title_iv": {
+                "approval_date": "12/13/1985",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 225991
+    },
+    {
+        "school": {
+            "name": "Kilgore College",
+            "city": "Kilgore",
+            "state": "TX",
+            "zip": "75662-3299",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.kilgore.edu/",
+            "price_calculator_url": "https://www.kilgore.edu/future-students/new-students-start-here",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2610,
+            "instructional_expenditure_per_fte": 4321,
+            "faculty_salary": 5245,
+            "ft_faculty_rate": 0.3878,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "3/8/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 9594054,
+                "end": 22170293
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 226019
+    },
+    {
+        "school": {
+            "name": "Lamar University",
+            "city": "Beaumont",
+            "state": "TX",
+            "zip": "77705",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.lamar.edu/",
+            "price_calculator_url": "www.lamar.edu/financial-aid/cost-calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6935,
+            "instructional_expenditure_per_fte": 5808,
+            "faculty_salary": 8283,
+            "ft_faculty_rate": 0.7838,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "1/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 128541344,
+                "end": 133182264
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 226091
+    },
+    {
+        "school": {
+            "name": "Lamar State College-Orange",
+            "city": "Orange",
+            "state": "TX",
+            "zip": "77630",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.lsco.edu/",
+            "price_calculator_url": "www.collegeforalltexans.com/apps/CollegeMoney/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 22,
+            "degree_urbanization": null,
+            "carnegie_basic": 8,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2505,
+            "instructional_expenditure_per_fte": 5372,
+            "faculty_salary": 5421,
+            "ft_faculty_rate": 0.5347,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "7/29/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 6184807,
+                "end": 5646310
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 226107
+    },
+    {
+        "school": {
+            "name": "Lamar State College-Port Arthur",
+            "city": "Port Arthur",
+            "state": "TX",
+            "zip": "77640",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.lamarpa.edu/",
+            "price_calculator_url": "https://www.highered.texas.gov/apps/NPC/?Fice=023485",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3005,
+            "instructional_expenditure_per_fte": 6219,
+            "faculty_salary": 4747,
+            "ft_faculty_rate": 0.6186,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "7/29/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 6872617,
+                "end": 7815182
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 226116
+    },
+    {
+        "school": {
+            "name": "Laredo Beauty College Inc",
+            "city": "Laredo",
+            "state": "TX",
+            "zip": "78040",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.laredobeautycollege.net/",
+            "price_calculator_url": "www.onlineeducation.net/school/laredo-beauty-college-inc",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5375,
+            "instructional_expenditure_per_fte": 1911,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "8/8/1974",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 226125
+    },
+    {
+        "school": {
+            "name": "Laredo College",
+            "city": "Laredo",
+            "state": "TX",
+            "zip": "78040-4395",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.laredo.edu/",
+            "price_calculator_url": "www.laredo.edu/financialaid/fa_calc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 4,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 665,
+            "instructional_expenditure_per_fte": 4131,
+            "faculty_salary": 6799,
+            "ft_faculty_rate": 0.5732,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "10/1/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 3300313,
+                "end": 3287305
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 226134
+    },
+    {
+        "school": {
+            "name": "Texas A & M International University",
+            "city": "Laredo",
+            "state": "TX",
+            "zip": "78041-1900",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.tamiu.edu/",
+            "price_calculator_url": "www.collegeforalltexans.com/apps/CollegeMoney/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4510,
+            "instructional_expenditure_per_fte": 5837,
+            "faculty_salary": 8710,
+            "ft_faculty_rate": 0.5856,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "9/1/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 53793010,
+                "end": 52480437
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 226152
+    }
+]

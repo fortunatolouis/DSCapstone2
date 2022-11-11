@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "O C Collins Career Center",
+            "city": "Chesapeake",
+            "state": "OH",
+            "zip": "45619-0000",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.collins-cc.edu/",
+            "price_calculator_url": "www.collins-cc.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5601,
+            "instructional_expenditure_per_fte": 5443,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Lawrence Count Joint Vocational School  Collins Career Center",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "6/30/1982",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 203614
+    },
+    {
+        "school": {
+            "name": "James A. Rhodes State College",
+            "city": "Lima",
+            "state": "OH",
+            "zip": "45804",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.rhodesstate.edu/",
+            "price_calculator_url": "www.rhodesstate.edu/financial-aid/net-price-calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 23,
+            "degree_urbanization": null,
+            "carnegie_basic": 9,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3497,
+            "instructional_expenditure_per_fte": 4120,
+            "faculty_salary": 5435,
+            "ft_faculty_rate": 0.2921,
+            "alias": "Rhodes State College",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "10/14/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 2008622,
+                "end": 1960473
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 203678
+    },
+    {
+        "school": {
+            "name": "Ohio Business College-Sheffield",
+            "city": "Sheffield Village",
+            "state": "OH",
+            "zip": "44035-0701",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.ohiobusinesscollege.edu/",
+            "price_calculator_url": "www.ohiobusinesscollege.edu/pages/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 22,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9969,
+            "instructional_expenditure_per_fte": 3223,
+            "faculty_salary": 4167,
+            "ft_faculty_rate": 0.619,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "7/14/1987",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 203720
+    },
+    {
+        "school": {
+            "name": "Ohio Business College-Sandusky",
+            "city": "Sandusky",
+            "state": "OH",
+            "zip": "44870-5871",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.ohiobusinesscollege.edu/",
+            "price_calculator_url": "https://ohiobusinesscollege.edu/npc/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 8,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7551,
+            "instructional_expenditure_per_fte": 2489,
+            "faculty_salary": 2959,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "7/14/1987",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 203739
+    },
+    {
+        "school": {
+            "name": "Lorain County Community College",
+            "city": "Elyria",
+            "state": "OH",
+            "zip": "44035-1691",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.lorainccc.edu/",
+            "price_calculator_url": "https://apps.lorainccc.edu/netprice",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2208,
+            "instructional_expenditure_per_fte": 7364,
+            "faculty_salary": 8254,
+            "ft_faculty_rate": 1,
+            "alias": "LCCC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 40485370,
+                "end": 40805465
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 203748
+    },
+    {
+        "school": {
+            "name": "Lourdes University",
+            "city": "Sylvania",
+            "state": "OH",
+            "zip": "43560-2898",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.lourdes.edu/",
+            "price_calculator_url": "https://www.lourdes.edu/costs-financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14902,
+            "instructional_expenditure_per_fte": 7539,
+            "faculty_salary": 5004,
+            "ft_faculty_rate": 0.4234,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 8455356,
+                "end": 8530811
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 203757
+    },
+    {
+        "school": {
+            "name": "Malone University",
+            "city": "Canton",
+            "state": "OH",
+            "zip": "44709-3308",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.malone.edu/",
+            "price_calculator_url": "https://www.malone.edu/admissions-aid/financial-aid-scholarships/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 65,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12443,
+            "instructional_expenditure_per_fte": 8435,
+            "faculty_salary": 6412,
+            "ft_faculty_rate": 0.4615,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 21340118,
+                "end": 21131674
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 203775
+    },
+    {
+        "school": {
+            "name": "Marietta College",
+            "city": "Marietta",
+            "state": "OH",
+            "zip": "45750",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.marietta.edu/",
+            "price_calculator_url": "www.shoppingsheet.com/Shopping/Landing/marietta",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11710,
+            "instructional_expenditure_per_fte": 15569,
+            "faculty_salary": 7517,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 88469294,
+                "end": 85460235
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 203845
+    },
+    {
+        "school": {
+            "name": "Marion Technical College",
+            "city": "Marion",
+            "state": "OH",
+            "zip": "43302-5694",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.mtc.edu/",
+            "price_calculator_url": "https://www.mtc.edu/wp-content/uploads/FinancialAid/netpricecalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 9,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3418,
+            "instructional_expenditure_per_fte": 5824,
+            "faculty_salary": 6108,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "8/14/1972",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1023215,
+                "end": 1044873
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 203881
+    },
+    {
+        "school": {
+            "name": "Medina County Career Center",
+            "city": "Medina",
+            "state": "OH",
+            "zip": "44256",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "https://mcjvs.edu/",
+            "price_calculator_url": "https://mcjvs.edu/?page_id=231",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11137,
+            "instructional_expenditure_per_fte": 10987,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "8/13/1982",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 203942
+    },
+    {
+        "school": {
+            "name": "Mercy College of Ohio",
+            "city": "Toledo",
+            "state": "OH",
+            "zip": "43604-1132",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.mercycollege.edu/",
+            "price_calculator_url": "https://mercycollege.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16550,
+            "instructional_expenditure_per_fte": 8661,
+            "faculty_salary": 6993,
+            "ft_faculty_rate": 0.3004,
+            "alias": "Mercy College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/30/1993",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 21625114,
+                "end": 24600763
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 203960
+    },
+    {
+        "school": {
+            "name": "Methodist Theological School in Ohio",
+            "city": "Delaware",
+            "state": "OH",
+            "zip": "43015-3211",
+            "accreditor": "Commission on Accrediting of the Association of Theological Schools",
+            "school_url": "https://www.mtso.edu/",
+            "price_calculator_url": "https://www.mtso.edu/admissions/scholarships-and-financial-aid/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 71,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3731,
+            "instructional_expenditure_per_fte": 14874,
+            "faculty_salary": 6703,
+            "ft_faculty_rate": 0.5,
+            "alias": "MTSO",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "ATSUSC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 46070085,
+                "end": 42280103
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 203997
+    },
+    {
+        "school": {
+            "name": "Miami University-Hamilton",
+            "city": "Hamilton",
+            "state": "OH",
+            "zip": "45011",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "miamioh.edu/regionals/",
+            "price_calculator_url": "miamioh.edu/onestop/your-money/tuition-fees/net-price-calculators/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 3,
+            "ownership": 1,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8161,
+            "instructional_expenditure_per_fte": 7127,
+            "faculty_salary": 8024,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 204006
+    },
+    {
+        "school": {
+            "name": "Miami University-Middletown",
+            "city": "Middletown",
+            "state": "OH",
+            "zip": "45042",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "miamioh.edu/regionals/",
+            "price_calculator_url": "miamioh.edu/onestop/your-money/tuition-fees/net-price-calculators/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 3,
+            "ownership": 1,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 23,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9656,
+            "instructional_expenditure_per_fte": 5261,
+            "faculty_salary": 7900,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 204015
+    },
+    {
+        "school": {
+            "name": "Miami University-Oxford",
+            "city": "Oxford",
+            "state": "OH",
+            "zip": "45056",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "miamioh.edu/",
+            "price_calculator_url": "miamioh.edu/onestop/your-money/tuition-fees/net-price-calculators/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 3,
+            "ownership": 1,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17529,
+            "instructional_expenditure_per_fte": 11180,
+            "faculty_salary": 10541,
+            "ft_faculty_rate": 1,
+            "alias": "Miami of Ohio",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 558618000,
+                "end": 554869000
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 204024
+    },
+    {
+        "school": {
+            "name": "Moler Hollywood Beauty Academy",
+            "city": "Cincinnati",
+            "state": "OH",
+            "zip": "45213",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.molerhollywood.com/",
+            "price_calculator_url": "www.molerhollywood.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11571,
+            "instructional_expenditure_per_fte": 7543,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "10/21/1975",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 204121
+    },
+    {
+        "school": {
+            "name": "Miami Valley Career Technology Center",
+            "city": "Englewood",
+            "state": "OH",
+            "zip": "45315",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.mvctc.com/ae",
+            "price_calculator_url": "www.mvctc.com/ae",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3708,
+            "instructional_expenditure_per_fte": 5285,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Miami Valley CTC  MVCTC  Montgomery County JVS",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "1/16/1981",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 204158
+    },
+    {
+        "school": {
+            "name": "Mount Carmel College of Nursing",
+            "city": "Columbus",
+            "state": "OH",
+            "zip": "43222-1504",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.mccn.edu/",
+            "price_calculator_url": "https://carmelink.mccn.edu/ICS/Admissions/Financial_Services.jnz",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 2,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17976,
+            "instructional_expenditure_per_fte": 10946,
+            "faculty_salary": 7542,
+            "ft_faculty_rate": 0.4696,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "2/4/1992",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 204176
+    },
+    {
+        "school": {
+            "name": "University of Mount Union",
+            "city": "Alliance",
+            "state": "OH",
+            "zip": "44601-3929",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.mountunion.edu/",
+            "price_calculator_url": "https://mountunion.aidcalc.cloud/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14018,
+            "instructional_expenditure_per_fte": 9273,
+            "faculty_salary": 7168,
+            "ft_faculty_rate": 0.9863,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 146652000,
+                "end": 139717000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 204185
+    },
+    {
+        "school": {
+            "name": "Mount Vernon Nazarene University",
+            "city": "Mount Vernon",
+            "state": "OH",
+            "zip": "43050-9500",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.mvnu.edu/",
+            "price_calculator_url": "https://calculator.mvnu.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 59,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11617,
+            "instructional_expenditure_per_fte": 6494,
+            "faculty_salary": 6217,
+            "ft_faculty_rate": 0.9277,
+            "alias": "MVNU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "8/12/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 22636480,
+                "end": 23190231
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 204194
+    }
+]

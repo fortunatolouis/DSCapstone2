@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Academy of Natural Therapy Inc",
+            "city": "Greeley",
+            "state": "CO",
+            "zip": "80631-9441",
+            "accreditor": "Commission on Massage Therapy Accreditation",
+            "school_url": "www.natural-therapy.com/",
+            "price_calculator_url": "www.natural-therapy.com/about/gainful_employment.asp",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 27576,
+            "instructional_expenditure_per_fte": 9484,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COMTA",
+            "title_iv": {
+                "approval_date": "11/7/2006",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 449454
+    },
+    {
+        "school": {
+            "name": "Academy Di Capelli-School of Cosmetology",
+            "city": "Wallingford",
+            "state": "CT",
+            "zip": "06492",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.academydicapelli.com/",
+            "price_calculator_url": "www.academydicapelli.com/netPrice/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 9,
+            "region_id": 1,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17587,
+            "instructional_expenditure_per_fte": 4924,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Academy Di Capelli",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "2/22/2007",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 449463
+    },
+    {
+        "school": {
+            "name": "Delaware Learning Institute of Cosmetology",
+            "city": "Dagsboro",
+            "state": "DE",
+            "zip": "19939",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "delawarecosmetology.com/",
+            "price_calculator_url": "https://delawarecosmetology.com/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 10,
+            "region_id": 2,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12093,
+            "instructional_expenditure_per_fte": 5030,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "6/1/2006",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 449472
+    },
+    {
+        "school": {
+            "name": "Dragon Rises College of Oriental Medicine",
+            "city": "Gainesville",
+            "state": "FL",
+            "zip": "32601",
+            "accreditor": "Accrediting Commission for Acupuncture and Oriental Medicine",
+            "school_url": "www.dragonrises.edu/",
+            "price_calculator_url": "www.dragonrises.edu/?s=net+price",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10956,
+            "instructional_expenditure_per_fte": 2674,
+            "faculty_salary": 3333,
+            "ft_faculty_rate": null,
+            "alias": "Dragon Rises College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "ACAOM",
+            "title_iv": {
+                "approval_date": "7/27/2006",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 449481
+    },
+    {
+        "school": {
+            "name": "Palm Beach Academy of Health & Beauty",
+            "city": "Lake Park",
+            "state": "FL",
+            "zip": "33403-2130",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.pbacademy.net/",
+            "price_calculator_url": "www.pbacademy.net/calculator.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5150,
+            "instructional_expenditure_per_fte": 2197,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "5/3/2007",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 449490
+    },
+    {
+        "school": {
+            "name": "SABER College",
+            "city": "Miami",
+            "state": "FL",
+            "zip": "33134",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "sabercollege.edu/",
+            "price_calculator_url": "sabercollege.edu/sabcol_net_price_calc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 39376,
+            "instructional_expenditure_per_fte": 16791,
+            "faculty_salary": 10056,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "2/9/2007",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 449506
+    },
+    {
+        "school": {
+            "name": "Taylor College",
+            "city": "Belleview",
+            "state": "FL",
+            "zip": "34420",
+            "accreditor": "Accrediting Bureau of Health Education Schools",
+            "school_url": "www.taylorcollege.edu/",
+            "price_calculator_url": "https://www.taylorcollege.edu/NetPriceCalculator/2015-2016/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14507,
+            "instructional_expenditure_per_fte": 9986,
+            "faculty_salary": 5742,
+            "ft_faculty_rate": 0.4211,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ABHES",
+            "title_iv": {
+                "approval_date": "3/28/2007",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 449524
+    },
+    {
+        "school": {
+            "name": "Pensacola School of Massage Therapy & Health Careers",
+            "city": "Pensacola",
+            "state": "FL",
+            "zip": "32504",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.psmthc.com/",
+            "price_calculator_url": "https://psmthc.com/consumer-info/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9312,
+            "instructional_expenditure_per_fte": 1543,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "12/28/2006",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 449533
+    },
+    {
+        "school": {
+            "name": "Ideal Beauty Academy",
+            "city": "Jeffersonville",
+            "state": "IN",
+            "zip": "47130",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "idealbeautyacademy.net/",
+            "price_calculator_url": "idealbeautyacademy.net/consumer-information/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 1,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3292,
+            "instructional_expenditure_per_fte": 3367,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "7/24/2006",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 449597
+    },
+    {
+        "school": {
+            "name": "Denmark College",
+            "city": "Merrillville",
+            "state": "IN",
+            "zip": "46410",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.successbarberschool.com/",
+            "price_calculator_url": "https://www.denmarkcollege.edu/financial-aid/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14745,
+            "instructional_expenditure_per_fte": 9070,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Success Schools LLC.",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "10/19/2006",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 449603
+    },
+    {
+        "school": {
+            "name": "Louisiana Culinary Institute",
+            "city": "Baton Rouge",
+            "state": "LA",
+            "zip": "70816",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.lci.edu/",
+            "price_calculator_url": "https://www.lci.edu/net-price-calculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 22,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 12,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 27672,
+            "instructional_expenditure_per_fte": 5417,
+            "faculty_salary": 4211,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "12/11/2006",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 449612
+    },
+    {
+        "school": {
+            "name": "Bais Medrash Toras Chesed",
+            "city": "Lakewood",
+            "state": "NJ",
+            "zip": "08701",
+            "accreditor": "Association of Advanced Rabbinical and Talmudic Schools",
+            "school_url": "www.bmtc.edu/",
+            "price_calculator_url": "www.bmtc.edu/net-price-calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4520,
+            "instructional_expenditure_per_fte": 3130,
+            "faculty_salary": 5844,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "AARTS",
+            "title_iv": {
+                "approval_date": "10/20/2006",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 449658
+    },
+    {
+        "school": {
+            "name": "Ace Institute of Technology",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10018",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.acecareer.edu/",
+            "price_calculator_url": "www.acecareer.edu/NetPriceCalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17037,
+            "instructional_expenditure_per_fte": 3970,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "3/14/2007",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 449676
+    },
+    {
+        "school": {
+            "name": "New Age Training",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10001-4034",
+            "accreditor": "Accrediting Council for Continuing Education & Training",
+            "school_url": "www.newagetraining.com/",
+            "price_calculator_url": "newagetraining.com/netprice/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 15001,
+            "instructional_expenditure_per_fte": 5104,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCET",
+            "title_iv": {
+                "approval_date": "3/5/2007",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 449685
+    },
+    {
+        "school": {
+            "name": "Dayton School of Medical Massage",
+            "city": "Dayton",
+            "state": "OH",
+            "zip": "45429",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.massageschools.com/",
+            "price_calculator_url": "www.massageschools.com/netcalc/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 5,
+            "ownership": 3,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12558,
+            "instructional_expenditure_per_fte": 2339,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Medical Dynamics, Inc.",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "3/1/2007",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 449700
+    },
+    {
+        "school": {
+            "name": "Northcoast Medical Training Academy",
+            "city": "Kent",
+            "state": "OH",
+            "zip": "44240",
+            "accreditor": null,
+            "school_url": "northcoastmedicalacademy.com/",
+            "price_calculator_url": "www.northcoastmedicalacademy.com/financial-aid",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 0,
+            "tuition_revenue_per_fte": 9909,
+            "instructional_expenditure_per_fte": 3180,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": "4/10/2007",
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 449719
+    },
+    {
+        "school": {
+            "name": "ATA College",
+            "city": "Tulsa",
+            "state": "OK",
+            "zip": "74146",
+            "accreditor": "Accrediting Bureau of Health Education Schools",
+            "school_url": "www.tulsa.ata.edu/",
+            "price_calculator_url": "www.tulsa.ata.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 40,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7887,
+            "instructional_expenditure_per_fte": 4794,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ABHES",
+            "title_iv": {
+                "approval_date": "10/4/2006",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 449728
+    },
+    {
+        "school": {
+            "name": "Visible Music College",
+            "city": "Memphis",
+            "state": "TN",
+            "zip": "38103",
+            "accreditor": "Transnational Association of Christian Colleges and Schools",
+            "school_url": "www.visible.edu/",
+            "price_calculator_url": "https://visible.vfao.com/aidestimator/default.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 1,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 47,
+            "region_id": 5,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 30,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 42,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12974,
+            "instructional_expenditure_per_fte": 4768,
+            "faculty_salary": 4129,
+            "ft_faculty_rate": 0.2708,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "TRACS",
+            "title_iv": {
+                "approval_date": "10/25/2006",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 18413,
+                "end": 220967
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 449764
+    },
+    {
+        "school": {
+            "name": "CCI Training Center-Arlington",
+            "city": "Arlington",
+            "state": "TX",
+            "zip": "76011",
+            "accreditor": "Accrediting Council for Continuing Education & Training",
+            "school_url": "www.ccitraining.edu/",
+            "price_calculator_url": "www.ccitraining.edu/netprice/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17710,
+            "instructional_expenditure_per_fte": 4714,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCET",
+            "title_iv": {
+                "approval_date": "10/4/2006",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 449773
+    },
+    {
+        "school": {
+            "name": "Champion Beauty College",
+            "city": "Houston",
+            "state": "TX",
+            "zip": "77068",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "championbeautycollege.com/",
+            "price_calculator_url": "championbeautycollege.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18115,
+            "instructional_expenditure_per_fte": 1216,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "3/14/2007",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 449782
+    }
+]

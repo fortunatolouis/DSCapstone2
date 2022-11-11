@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Los Angeles Center",
+            "city": "Los Angeles",
+            "state": "CA",
+            "zip": "90045-1746",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.myunion.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 4,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 20627901
+    },
+    {
+        "school": {
+            "name": "Florida Center",
+            "city": "Hollywood",
+            "state": "FL",
+            "zip": "33021-1746",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.myunion.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 4,
+            "ownership": 2,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 20627902
+    },
+    {
+        "school": {
+            "name": "Sacramento Center",
+            "city": "Sacramento",
+            "state": "CA",
+            "zip": "95834-1746",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.myunion.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 4,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 20627903
+    },
+    {
+        "school": {
+            "name": "Winebrenner Theological Seminary -",
+            "city": "Findlay",
+            "state": "OH",
+            "zip": "45840",
+            "accreditor": null,
+            "school_url": "winebrenner.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 2,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 0,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 20651601
+    },
+    {
+        "school": {
+            "name": "University of Oklahoma - Douglass Learning Center",
+            "city": "Lawton",
+            "state": "OK",
+            "zip": "73501-3025",
+            "accreditor": null,
+            "school_url": null,
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 1,
+            "state_fips": 40,
+            "region_id": 6,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 0,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 20750001
+    },
+    {
+        "school": {
+            "name": "University of Oklahoma - Ft. Benning GA - AP",
+            "city": "Ft Benning",
+            "state": "GA",
+            "zip": "31905-5593",
+            "accreditor": null,
+            "school_url": null,
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 1,
+            "state_fips": 13,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 0,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 20750002
+    },
+    {
+        "school": {
+            "name": "University of Oklahoma - Nellis Air Force Base",
+            "city": "Nellis AFB",
+            "state": "NV",
+            "zip": "89191-6506",
+            "accreditor": null,
+            "school_url": null,
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 1,
+            "state_fips": 32,
+            "region_id": 8,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 0,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 20750003
+    },
+    {
+        "school": {
+            "name": "Western Seminary-San Jose",
+            "city": "Milpitas",
+            "state": "CA",
+            "zip": "95035",
+            "accreditor": "Northwest Commission on Colleges and Universities",
+            "school_url": "https://www.westernseminary.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 3,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NWCCU",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 21036801
+    },
+    {
+        "school": {
+            "name": "Western Seminary-Sacramento",
+            "city": "Rocklin",
+            "state": "CA",
+            "zip": "95765",
+            "accreditor": "Northwest Commission on Colleges and Universities",
+            "school_url": "https://www.westernseminary.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 3,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NWCCU",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 21036802
+    },
+    {
+        "school": {
+            "name": "The Beauty Institute",
+            "city": "Philadelphia",
+            "state": "PA",
+            "zip": "19115",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.thebeautyinstituteskp.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 21078401
+    },
+    {
+        "school": {
+            "name": "Bucks County Community College-Upper Bucks Campus",
+            "city": "Perkasie",
+            "state": "PA",
+            "zip": "18944-0277",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.bucks.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 3,
+            "ownership": 1,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 21130701
+    },
+    {
+        "school": {
+            "name": "Bucks County Community College-Gene and Marlene Epstein Campus at Lower Bucks",
+            "city": "Bristol",
+            "state": "PA",
+            "zip": "19007-0277",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.bucks.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 3,
+            "ownership": 1,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 21130702
+    },
+    {
+        "school": {
+            "name": "Harrisburg Area Community College-Lancaster",
+            "city": "Lancaster",
+            "state": "PA",
+            "zip": "17602-3403",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.hacc.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 1,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 21287801
+    },
+    {
+        "school": {
+            "name": "Harrisburg Area Community College-Gettysburg",
+            "city": "Gettysburg",
+            "state": "PA",
+            "zip": "17325-3403",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.hacc.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 1,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 21287802
+    },
+    {
+        "school": {
+            "name": "Harrisburg Area Community College-Lebanon",
+            "city": "Lebanon",
+            "state": "PA",
+            "zip": "17042-5235",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.hacc.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 1,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 21287803
+    },
+    {
+        "school": {
+            "name": "Harrisburg Area Community College-York",
+            "city": "York",
+            "state": "PA",
+            "zip": "17404-5235",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.hacc.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 1,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 21287804
+    },
+    {
+        "school": {
+            "name": "New Castle School of Trades",
+            "city": "Pulaski",
+            "state": "PA",
+            "zip": "16143-2522",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.ncstrades.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 3,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 21429001
+    },
+    {
+        "school": {
+            "name": "New Castle School of Trades - East Liverpool Campus",
+            "city": "East Liverpool",
+            "state": "OH",
+            "zip": "43920-3025",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.ncstrades.edu/east-liverpool-programs/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 3,
+            "ownership": 3,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 21429002
+    },
+    {
+        "school": {
+            "name": "Northampton County Area Community College-Monroe",
+            "city": "Tannersville",
+            "state": "PA",
+            "zip": "18372",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.northampton.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 1,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 21437901
+    },
+    {
+        "school": {
+            "name": "South Hills School of Business and Technology-Altoona",
+            "city": "Altoona",
+            "state": "PA",
+            "zip": "16602",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "https://www.southhills.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 21608301
+    }
+]

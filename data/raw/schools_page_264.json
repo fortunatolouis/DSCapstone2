@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "The Santa Barbara and Ventura Colleges of Law at Santa Barbara",
+            "city": "Santa Barbara",
+            "state": "CA",
+            "zip": "93101",
+            "accreditor": "Western Association of Schools and Colleges Senior Colleges and University Commission",
+            "school_url": "https://www.collegesoflaw.edu/",
+            "price_calculator_url": "https://www.collegesoflaw.edu/admissions/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 31,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 22944,
+            "instructional_expenditure_per_fte": 6078,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "WASCSR",
+            "title_iv": {
+                "approval_date": "9/22/2015",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 1144492,
+                "end": 1217630
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 475228
+    },
+    {
+        "school": {
+            "name": "Springfield College-Regional Online and Continuing Education",
+            "city": "Springfield",
+            "state": "MA",
+            "zip": "01109",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "https://springfield.edu/regional-and-online",
+            "price_calculator_url": "https://springfield.edu/admissions/undergraduate-admissions/springfield-colleges-net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 32,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11674,
+            "instructional_expenditure_per_fte": 5926,
+            "faculty_salary": 8216,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "11/4/1988",
+                "eligibility_type": 2
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 475273
+    },
+    {
+        "school": {
+            "name": "Marian Health Careers Center-Van Nuys Campus",
+            "city": "Van Nuys",
+            "state": "CA",
+            "zip": "91411",
+            "accreditor": "Accrediting Bureau of Health Education Schools",
+            "school_url": "www.mariancollege.edu/",
+            "price_calculator_url": "www.mariancollege.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8477,
+            "instructional_expenditure_per_fte": 3891,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Marian College Van Nuys",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ABHES",
+            "title_iv": {
+                "approval_date": "8/28/2003",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 475282
+    },
+    {
+        "school": {
+            "name": "Milan Institute-Las Vegas",
+            "city": "Las Vegas",
+            "state": "NV",
+            "zip": "89106-4031",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.milaninstitute.edu/",
+            "price_calculator_url": "solutions.campusivy.com/Apps/NPC/NPCWizard/Wizard?institutionId=12600",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 7,
+            "ownership": 3,
+            "state_fips": 32,
+            "region_id": 8,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10598,
+            "instructional_expenditure_per_fte": 3489,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "7/22/2011",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 475325
+    },
+    {
+        "school": {
+            "name": "Catholic Distance University",
+            "city": "Charles Town",
+            "state": "WV",
+            "zip": "25414",
+            "accreditor": "Distance Education Accrediting Commission",
+            "school_url": "https://cdu.edu/",
+            "price_calculator_url": "https://www.cdu.edu/images/price/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 54,
+            "region_id": 5,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 1,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11116,
+            "instructional_expenditure_per_fte": 2460,
+            "faculty_salary": 2304,
+            "ft_faculty_rate": 0.2593,
+            "alias": "CDU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "DETC",
+            "title_iv": {
+                "approval_date": "1/11/2016",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 475398
+    },
+    {
+        "school": {
+            "name": "New York School of Esthetics & Day Spa",
+            "city": "white plains",
+            "state": "NY",
+            "zip": "10606-1207",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.newyorkschoolofesthetics.com/",
+            "price_calculator_url": "www.newyorkschoolofesthetics.com/netprice.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 15710,
+            "instructional_expenditure_per_fte": 5586,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "7/18/2011",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 475404
+    },
+    {
+        "school": {
+            "name": "Panache Academy of Beauty",
+            "city": "Baraboo",
+            "state": "WI",
+            "zip": "53913-2596",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "panacheacademyofbeauty.com/",
+            "price_calculator_url": "panacheacademyofbeauty.com/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 55,
+            "region_id": 3,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6512,
+            "instructional_expenditure_per_fte": 1653,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "10/31/2011",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 475413
+    },
+    {
+        "school": {
+            "name": "Finger Lakes Health College of Nursing & Health Sciences",
+            "city": "Geneva",
+            "state": "NY",
+            "zip": "14456-1651",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.flhcon.edu/",
+            "price_calculator_url": "www.flhcon.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6636,
+            "instructional_expenditure_per_fte": 6175,
+            "faculty_salary": 5436,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "3/8/1968",
+                "eligibility_type": 5
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 475422
+    },
+    {
+        "school": {
+            "name": "ASI Career Institute",
+            "city": "Turnersville",
+            "state": "NJ",
+            "zip": "08012-1043",
+            "accreditor": "Middle States Commission on Secondary Education",
+            "school_url": "www.asi.edu/",
+            "price_calculator_url": "asi.edu/financial_calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6874,
+            "instructional_expenditure_per_fte": 4126,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACSS",
+            "title_iv": {
+                "approval_date": "12/7/2011",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 475431
+    },
+    {
+        "school": {
+            "name": "Midwest Technical Institute-Ridgeland",
+            "city": "Ridgeland",
+            "state": "MS",
+            "zip": "39157-6027",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.deltatechnicalcollege.com/",
+            "price_calculator_url": "www.deltatechnicalcollege.com/netcalculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 6,
+            "ownership": 3,
+            "state_fips": 28,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8663,
+            "instructional_expenditure_per_fte": 3698,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Delta Technical College",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "11/9/2011",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 475459
+    },
+    {
+        "school": {
+            "name": "Christine Valmy International School of Esthetics & Cosmetology",
+            "city": "Pine Brook",
+            "state": "NJ",
+            "zip": "07058-9589",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "https://www.christinevalmy.com/",
+            "price_calculator_url": "https://www.christinevalmy.com/nj-financial-aid/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16464,
+            "instructional_expenditure_per_fte": 3846,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Christine Valmy International School",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "12/8/2011",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 475468
+    },
+    {
+        "school": {
+            "name": "City College-Hollywood",
+            "city": "Hollywood",
+            "state": "FL",
+            "zip": "33024-4045",
+            "accreditor": null,
+            "school_url": "https://www.citycollege.edu/",
+            "price_calculator_url": "https://www.citycollege.edu/financial_aid/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 4,
+            "ownership": 2,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 0,
+            "tuition_revenue_per_fte": 16324,
+            "instructional_expenditure_per_fte": 8475,
+            "faculty_salary": 4583,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 475477
+    },
+    {
+        "school": {
+            "name": "Paul Mitchell the School-Arlington",
+            "city": "Arlington",
+            "state": "TX",
+            "zip": "76018-6032",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "paulmitchell.edu/arlington",
+            "price_calculator_url": "paulmitchell.edu/arlington/tuition-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 3,
+            "ownership": 3,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9019,
+            "instructional_expenditure_per_fte": 3301,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "8/22/2011",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 475486
+    },
+    {
+        "school": {
+            "name": "Rocky Mountain University of Health Professions",
+            "city": "Provo",
+            "state": "UT",
+            "zip": "84606",
+            "accreditor": "Northwest Commission on Colleges and Universities",
+            "school_url": "https://rm.edu/",
+            "price_calculator_url": "https://rm.edu/tuition/",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 49,
+            "region_id": 7,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 21194,
+            "instructional_expenditure_per_fte": 6691,
+            "faculty_salary": 9743,
+            "ft_faculty_rate": 0.84,
+            "alias": "RMUoHP",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NWCCU",
+            "title_iv": {
+                "approval_date": "12/30/2011",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 475495
+    },
+    {
+        "school": {
+            "name": "Paul Mitchell the School-Fort Myers",
+            "city": "Fort Myers",
+            "state": "FL",
+            "zip": "33913",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "paulmitchell.edu/fortmyers",
+            "price_calculator_url": "paulmitchell.edu/fortmyers/tuition-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12358,
+            "instructional_expenditure_per_fte": 5434,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "8/2/2011",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 475547
+    },
+    {
+        "school": {
+            "name": "Paul Mitchell the School-Raleigh",
+            "city": "Raleigh",
+            "state": "NC",
+            "zip": "27612-7358",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "paulmitchell.edu/raleigh",
+            "price_calculator_url": "paulmitchell.edu/raleigh/tuition-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8842,
+            "instructional_expenditure_per_fte": 2941,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "12/21/2011",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 475556
+    },
+    {
+        "school": {
+            "name": "CUNY Stella and Charles Guttman Community College",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10018-2602",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.guttman.cuny.edu/",
+            "price_calculator_url": "https://npc.cuny.edu/npc/public/fin_aid/financial_aid_estimator/FinAidEstimator.jsp",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 990,
+            "instructional_expenditure_per_fte": 15700,
+            "faculty_salary": 10118,
+            "ft_faculty_rate": 0.7059,
+            "alias": "Guttman | CUNY Guttman Community College | GCC | Stella and Charles Guttman Community College | Guttman Community College",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "4/1/2013",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 17893538,
+                "end": 17703490
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 475565
+    },
+    {
+        "school": {
+            "name": "Lil Lou's Beauty and Barber College",
+            "city": "Gary",
+            "state": "IN",
+            "zip": "46409-2404",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.lillousbeautyandbarbercollege.com/",
+            "price_calculator_url": "https://0201.nccdn.net/1_2/000/000/15e/2e5/net-price-calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9787,
+            "instructional_expenditure_per_fte": 5704,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "LLBB",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "1/9/2012",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 475574
+    },
+    {
+        "school": {
+            "name": "Criswell College",
+            "city": "Dallas",
+            "state": "TX",
+            "zip": "75246-1537",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.criswell.edu/",
+            "price_calculator_url": "www.criswell.edu/p/net_price_calculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 75,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10113,
+            "instructional_expenditure_per_fte": 15550,
+            "faculty_salary": 6685,
+            "ft_faculty_rate": 0.5294,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "2/27/2012",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 23437082,
+                "end": 22270046
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 475608
+    },
+    {
+        "school": {
+            "name": "Beverly Hills Design Institute",
+            "city": "Beverly Hills",
+            "state": "CA",
+            "zip": "90211",
+            "accreditor": "Accrediting Council for Independent Colleges and Schools",
+            "school_url": "https://www.bhdi.edu/",
+            "price_calculator_url": "https://www.bhdi.edu/wp-content/uploads/2020/12/NetPrice.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 30,
+            "carnegie_undergrad": 8,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 35849,
+            "instructional_expenditure_per_fte": 8391,
+            "faculty_salary": 2083,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "ACICS",
+            "title_iv": {
+                "approval_date": "7/12/2011",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 475635
+    }
+]

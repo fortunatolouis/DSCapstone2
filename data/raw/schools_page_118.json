@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "James Sprunt Community College",
+            "city": "Kenansville",
+            "state": "NC",
+            "zip": "28349",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.jamessprunt.edu/",
+            "price_calculator_url": "www.jamessprunt.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 42,
+            "degree_urbanization": null,
+            "carnegie_basic": 4,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 513,
+            "instructional_expenditure_per_fte": 6437,
+            "faculty_salary": 5243,
+            "ft_faculty_rate": 0.203,
+            "alias": "JSCC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "6/20/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 198729
+    },
+    {
+        "school": {
+            "name": "Johnson C Smith University",
+            "city": "Charlotte",
+            "state": "NC",
+            "zip": "28216-5398",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.jcsu.edu/",
+            "price_calculator_url": "www.jcsu.edu/admissions/financial_aid/tuition_calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 1,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11992,
+            "instructional_expenditure_per_fte": 8618,
+            "faculty_salary": 6467,
+            "ft_faculty_rate": 0.5776,
+            "alias": "JCSU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 68950171,
+                "end": 65797169
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 198756
+    },
+    {
+        "school": {
+            "name": "Johnston Community College",
+            "city": "Smithfield",
+            "state": "NC",
+            "zip": "27577-2350",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.johnstoncc.edu/",
+            "price_calculator_url": "www.johnstoncc.edu/payingforcollege/netpricecalculator.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1064,
+            "instructional_expenditure_per_fte": 5067,
+            "faculty_salary": 6142,
+            "ft_faculty_rate": 0.2865,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "6/12/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 5990812,
+                "end": 7184359
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 198774
+    },
+    {
+        "school": {
+            "name": "Lees-McRae College",
+            "city": "Banner Elk",
+            "state": "NC",
+            "zip": "28604",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.lmc.edu/",
+            "price_calculator_url": "www.lmc.edu/admissions/financial-aid/net-price-calculator.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 42,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 66,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8223,
+            "instructional_expenditure_per_fte": 7017,
+            "faculty_salary": 5233,
+            "ft_faculty_rate": 0.566,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "7/15/1988",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 30708384,
+                "end": 33999870
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 198808
+    },
+    {
+        "school": {
+            "name": "Lenoir Community College",
+            "city": "Kinston",
+            "state": "NC",
+            "zip": "28504",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.lenoircc.edu/",
+            "price_calculator_url": "https://www.lenoircc.edu/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1233,
+            "instructional_expenditure_per_fte": 10287,
+            "faculty_salary": 5026,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "3/6/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 5255683,
+                "end": 5486406
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 198817
+    },
+    {
+        "school": {
+            "name": "Lenoir-Rhyne University",
+            "city": "Hickory",
+            "state": "NC",
+            "zip": "28601",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.lr.edu/",
+            "price_calculator_url": "lr.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 39,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12422,
+            "instructional_expenditure_per_fte": 8120,
+            "faculty_salary": 7199,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 114888773,
+                "end": 116043326
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 198835
+    },
+    {
+        "school": {
+            "name": "Leons Beauty School Inc",
+            "city": "Greensboro",
+            "state": "NC",
+            "zip": "27403-2604",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.leonsbeauty.com/",
+            "price_calculator_url": "www.leonsbeauty.com/wp-content/themes/leonsbeauty2016/lib/npc/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4286,
+            "instructional_expenditure_per_fte": 1408,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "3/17/1988",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 198844
+    },
+    {
+        "school": {
+            "name": "Livingstone College",
+            "city": "Salisbury",
+            "state": "NC",
+            "zip": "28144",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.livingstone.edu/",
+            "price_calculator_url": "www.livingstone.edu/netpricecalculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 22,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 1,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 24,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13585,
+            "instructional_expenditure_per_fte": 5337,
+            "faculty_salary": 5442,
+            "ft_faculty_rate": 0.8611,
+            "alias": "Livingstone College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 4968451,
+                "end": 5335445
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 198862
+    },
+    {
+        "school": {
+            "name": "Louisburg College",
+            "city": "Louisburg",
+            "state": "NC",
+            "zip": "27549-2399",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.louisburg.edu/",
+            "price_calculator_url": "www.louisburg.edu/admissions/financial-aid/cost.php",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 71,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11595,
+            "instructional_expenditure_per_fte": 4637,
+            "faculty_salary": 4730,
+            "ft_faculty_rate": 0.725,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 13934844,
+                "end": 14202861
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 198871
+    },
+    {
+        "school": {
+            "name": "Mars Hill University",
+            "city": "Mars Hill",
+            "state": "NC",
+            "zip": "28754",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.mhu.edu/",
+            "price_calculator_url": "https://www.mhu.edu/future-students/traditional-undergraduate/financial-aid/tuition-fees-financial-aid-traditional/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11326,
+            "instructional_expenditure_per_fte": 10184,
+            "faculty_salary": 5198,
+            "ft_faculty_rate": 0.9891,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 51625021,
+                "end": 51109007
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 198899
+    },
+    {
+        "school": {
+            "name": "Martin Community College",
+            "city": "Williamston",
+            "state": "NC",
+            "zip": "27892-9988",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.martincc.edu/",
+            "price_calculator_url": "www.martincc.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 476,
+            "instructional_expenditure_per_fte": 6441,
+            "faculty_salary": 5547,
+            "ft_faculty_rate": 0.2014,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "6/1/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 198905
+    },
+    {
+        "school": {
+            "name": "Mayland Community College",
+            "city": "Spruce Pine",
+            "state": "NC",
+            "zip": "28777",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.mayland.edu/",
+            "price_calculator_url": "www.mayland.edu/financial-aid/cost-and-payment/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 5,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 541,
+            "instructional_expenditure_per_fte": 7643,
+            "faculty_salary": 5439,
+            "ft_faculty_rate": 0.184,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "3/9/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 4820352,
+                "end": 4664693
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 198914
+    },
+    {
+        "school": {
+            "name": "McDowell Technical Community College",
+            "city": "Marion",
+            "state": "NC",
+            "zip": "28752-8728",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.mcdowelltech.edu/",
+            "price_calculator_url": "https://www.mcdowelltech.edu/apps/pages/index.jsp?uREC_ID=1022347&type=d&pREC_ID=1328344",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1116,
+            "instructional_expenditure_per_fte": 9387,
+            "faculty_salary": 5235,
+            "ft_faculty_rate": 0.3077,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "6/12/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 557800,
+                "end": 580856
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 198923
+    },
+    {
+        "school": {
+            "name": "Meredith College",
+            "city": "Raleigh",
+            "state": "NC",
+            "zip": "27607-5298",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.meredith.edu/",
+            "price_calculator_url": "www.collegecostcalculator.org/meredith",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 1,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18982,
+            "instructional_expenditure_per_fte": 11771,
+            "faculty_salary": 7619,
+            "ft_faculty_rate": 0.9937,
+            "alias": "Meredith|Meridith",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 115701677,
+                "end": 115101611
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 198950
+    },
+    {
+        "school": {
+            "name": "Methodist University",
+            "city": "Fayetteville",
+            "state": "NC",
+            "zip": "28311-1420",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.methodist.edu/",
+            "price_calculator_url": "https://methodist.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 71,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17552,
+            "instructional_expenditure_per_fte": 11159,
+            "faculty_salary": 7202,
+            "ft_faculty_rate": 0.6615,
+            "alias": "Methodist",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 21081128,
+                "end": 21884004
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 198969
+    },
+    {
+        "school": {
+            "name": "Miller-Motte College-Wilmington",
+            "city": "Wilmington",
+            "state": "NC",
+            "zip": "28405",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "https://www.miller-motte.edu/",
+            "price_calculator_url": "disclosure.miller-motte.edu/NPC/NetPriceCalculator-MMC-Wilmington.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 24,
+            "ownership": 3,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 23,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7976,
+            "instructional_expenditure_per_fte": 2585,
+            "faculty_salary": 4115,
+            "ft_faculty_rate": 0.0185,
+            "alias": "Miller-Motte College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "7/16/2018",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 198978
+    },
+    {
+        "school": {
+            "name": "Mitchell Community College",
+            "city": "Statesville",
+            "state": "NC",
+            "zip": "28677",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://mitchellcc.edu/",
+            "price_calculator_url": "https://mitchellcc.edu/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 3,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1336,
+            "instructional_expenditure_per_fte": 7259,
+            "faculty_salary": 5401,
+            "ft_faculty_rate": 0.297,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 2451353,
+                "end": 2606836
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 198987
+    },
+    {
+        "school": {
+            "name": "Mitchells Academy",
+            "city": "Wilson",
+            "state": "NC",
+            "zip": "27893",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.mitchells.edu/",
+            "price_calculator_url": "www.mitchells.edu/Portals/32/calc/NetPriceCalc_2_22_19.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12468,
+            "instructional_expenditure_per_fte": 10085,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "9/15/1976",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 199005
+    },
+    {
+        "school": {
+            "name": "Montgomery Community College",
+            "city": "Troy",
+            "state": "NC",
+            "zip": "27371",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.montgomery.edu/",
+            "price_calculator_url": "sftp.montgomery.edu/fa/NetPriceCalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 9,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1344,
+            "instructional_expenditure_per_fte": 7861,
+            "faculty_salary": 4972,
+            "ft_faculty_rate": 0.2548,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "6/13/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 3344212,
+                "end": 3416365
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 199023
+    },
+    {
+        "school": {
+            "name": "Montreat College",
+            "city": "Montreat",
+            "state": "NC",
+            "zip": "28757-1267",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.montreat.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/student/app/montreat",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 7,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 42,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11988,
+            "instructional_expenditure_per_fte": 4822,
+            "faculty_salary": 5617,
+            "ft_faculty_rate": 0.1929,
+            "alias": "Montreat College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 9265740,
+                "end": 8902956
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 199032
+    }
+]

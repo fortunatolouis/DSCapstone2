@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "College of Coastal Georgia",
+            "city": "Brunswick",
+            "state": "GA",
+            "zip": "31520-3644",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.ccga.edu/",
+            "price_calculator_url": "https://npc.ccga.edu/npc.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 13,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 23,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2519,
+            "instructional_expenditure_per_fte": 6904,
+            "faculty_salary": 6998,
+            "ft_faculty_rate": 0.8239,
+            "alias": "CCGA",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "1/21/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 8386455,
+                "end": 9558751
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 139250
+    },
+    {
+        "school": {
+            "name": "West Georgia Technical College",
+            "city": "Waco",
+            "state": "GA",
+            "zip": "30182",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.westgatech.edu/",
+            "price_calculator_url": "https://www.westgatech.edu/admissions/getting-started/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 13,
+            "region_id": 5,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 8,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2398,
+            "instructional_expenditure_per_fte": 3360,
+            "faculty_salary": 4379,
+            "ft_faculty_rate": 0.3431,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "10/5/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 139278
+    },
+    {
+        "school": {
+            "name": "Clayton  State University",
+            "city": "Morrow",
+            "state": "GA",
+            "zip": "30260-0285",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.clayton.edu/",
+            "price_calculator_url": "www.clayton.edu/Portals/20/netpricecalculator20172018/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 13,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 1,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4580,
+            "instructional_expenditure_per_fte": 6039,
+            "faculty_salary": 7325,
+            "ft_faculty_rate": 0.6432,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 11146935,
+                "end": 15479898
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 139311
+    },
+    {
+        "school": {
+            "name": "Columbia Theological Seminary",
+            "city": "Decatur",
+            "state": "GA",
+            "zip": "30030-4118",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.ctsnet.edu/",
+            "price_calculator_url": "www.ctsnet.edu/admissions/financial-aid/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 13,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 66,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3342,
+            "instructional_expenditure_per_fte": 16040,
+            "faculty_salary": 7425,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "9/17/1975",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 224955556,
+                "end": 222197444
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 139348
+    },
+    {
+        "school": {
+            "name": "Columbus Technical College",
+            "city": "Columbus",
+            "state": "GA",
+            "zip": "31904-6572",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.columbustech.edu/",
+            "price_calculator_url": "www.columbustech.edu/NetPrice/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 13,
+            "region_id": 5,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 1,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2162,
+            "instructional_expenditure_per_fte": 4507,
+            "faculty_salary": 4494,
+            "ft_faculty_rate": 0.4974,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "7/8/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 139357
+    },
+    {
+        "school": {
+            "name": "Columbus State University",
+            "city": "Columbus",
+            "state": "GA",
+            "zip": "31907-5645",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.columbusstate.edu/",
+            "price_calculator_url": "finaid.columbusstate.edu/netprice.php",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 13,
+            "region_id": 5,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5927,
+            "instructional_expenditure_per_fte": 8459,
+            "faculty_salary": 7600,
+            "ft_faculty_rate": 0.6452,
+            "alias": "CSU, Columbus State",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "1/29/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 73023819,
+                "end": 71863879
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 139366
+    },
+    {
+        "school": {
+            "name": "Georgia Northwestern Technical College",
+            "city": "Rome",
+            "state": "GA",
+            "zip": "30161",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.gntc.edu/",
+            "price_calculator_url": "www.gntc.edu/npcalc/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 13,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 8,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2296,
+            "instructional_expenditure_per_fte": 3522,
+            "faculty_salary": 4863,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "4/4/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 139384
+    },
+    {
+        "school": {
+            "name": "Covenant College",
+            "city": "Lookout Mountain",
+            "state": "GA",
+            "zip": "30750-4164",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.covenant.edu/",
+            "price_calculator_url": "https://portal.covenant.edu/forms/index/Net_Price_Calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 13,
+            "region_id": 5,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 97,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14971,
+            "instructional_expenditure_per_fte": 9549,
+            "faculty_salary": 7820,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 42680820,
+                "end": 43363592
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 139393
+    },
+    {
+        "school": {
+            "name": "Dalton State College",
+            "city": "Dalton",
+            "state": "GA",
+            "zip": "30720-3797",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.daltonstate.edu/index.cms",
+            "price_calculator_url": "https://www.daltonstate.edu/admissions/online-calculator.cms",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 13,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2232,
+            "instructional_expenditure_per_fte": 4688,
+            "faculty_salary": 6675,
+            "ft_faculty_rate": 0.664,
+            "alias": "DSC, Dalton State",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "11/1/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 13746245,
+                "end": 16570048
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 139463
+    },
+    {
+        "school": {
+            "name": "Pro Way Hair School",
+            "city": "Stone Mountain",
+            "state": "GA",
+            "zip": "30083-3254",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.prowayhairschool.com/",
+            "price_calculator_url": "www.prowayhairschool.com/consumer-disclosures/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 13,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2574,
+            "instructional_expenditure_per_fte": 3322,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "1/1/1972",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 139506
+    },
+    {
+        "school": {
+            "name": "South University-Savannah",
+            "city": "Savannah",
+            "state": "GA",
+            "zip": "31406",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.southuniversity.edu/savannah#location=Savannah, GA",
+            "price_calculator_url": "www.southuniversity.edu/savannah/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 1,
+            "main_campus": 1,
+            "branches": 9,
+            "ownership": 3,
+            "state_fips": 13,
+            "region_id": 5,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18211,
+            "instructional_expenditure_per_fte": 7850,
+            "faculty_salary": 8741,
+            "ft_faculty_rate": 0.5591,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/19/1975",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 139579
+    },
+    {
+        "school": {
+            "name": "East Georgia State College",
+            "city": "Swainsboro",
+            "state": "GA",
+            "zip": "30401",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.ega.edu/",
+            "price_calculator_url": "www.ega.edu/npcalc/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 3,
+            "ownership": 1,
+            "state_fips": 13,
+            "region_id": 5,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 14,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 1,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1580,
+            "instructional_expenditure_per_fte": 4909,
+            "faculty_salary": 5642,
+            "ft_faculty_rate": 0.6098,
+            "alias": "EGSC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "10/12/1972",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 298786,
+                "end": 303242
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 139621
+    },
+    {
+        "school": {
+            "name": "Emmanuel College",
+            "city": "Franklin Springs",
+            "state": "GA",
+            "zip": "30639",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.ec.edu/",
+            "price_calculator_url": "www.ec.edu/admissions/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 13,
+            "region_id": 5,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 47,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10444,
+            "instructional_expenditure_per_fte": 4510,
+            "faculty_salary": 5083,
+            "ft_faculty_rate": 0.5529,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 1576343,
+                "end": 1703895
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 139630
+    },
+    {
+        "school": {
+            "name": "Emory University",
+            "city": "Atlanta",
+            "state": "GA",
+            "zip": "30322",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.emory.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/app/emory",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 2,
+            "state_fips": 13,
+            "region_id": 5,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 17,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 71,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 27767,
+            "instructional_expenditure_per_fte": 45722,
+            "faculty_salary": 14515,
+            "ft_faculty_rate": 0.751,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 8626248037,
+                "end": 9169027771
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 139658
+    },
+    {
+        "school": {
+            "name": "Georgia Highlands College",
+            "city": "Rome",
+            "state": "GA",
+            "zip": "30161-3897",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.highlands.edu/",
+            "price_calculator_url": "sites.highlands.edu/office-of-finance-and-administration/business-office/bursars-office-student-accounts/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 13,
+            "region_id": 5,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 14,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2547,
+            "instructional_expenditure_per_fte": 3597,
+            "faculty_salary": 5571,
+            "ft_faculty_rate": 0.5166,
+            "alias": "GHC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "6/8/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 2291510,
+                "end": 2769628
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 139700
+    },
+    {
+        "school": {
+            "name": "Fort Valley State University",
+            "city": "Fort Valley",
+            "state": "GA",
+            "zip": "31030-4313",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.fvsu.edu/",
+            "price_calculator_url": "npc.fvsu.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 13,
+            "region_id": 5,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 1,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3681,
+            "instructional_expenditure_per_fte": 5147,
+            "faculty_salary": 6680,
+            "ft_faculty_rate": 0.7452,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 6662118,
+                "end": 6672697
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 139719
+    },
+    {
+        "school": {
+            "name": "Grady Health System Professional Schools",
+            "city": "Atlanta",
+            "state": "GA",
+            "zip": "30303-3050",
+            "accreditor": "Joint Review Committee on Education in Radiologic Technology",
+            "school_url": "www.gradyhealth.org/",
+            "price_calculator_url": "www.gradyhealth.org/education-training/schools-of-imaging-technologies/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 13,
+            "region_id": 5,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4448,
+            "instructional_expenditure_per_fte": 6722,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "JRCERT",
+            "title_iv": {
+                "approval_date": "6/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 139746
+    },
+    {
+        "school": {
+            "name": "Georgia Institute of Technology-Main Campus",
+            "city": "Atlanta",
+            "state": "GA",
+            "zip": "30332-0530",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.gatech.edu/",
+            "price_calculator_url": "admission.gatech.edu/npc_2020/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 13,
+            "region_id": 5,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 17,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13615,
+            "instructional_expenditure_per_fte": 12188,
+            "faculty_salary": 13626,
+            "ft_faculty_rate": 0.903,
+            "alias": "Georgia Tech",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 2229707000,
+                "end": 2169707000
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 139755
+    },
+    {
+        "school": {
+            "name": "Georgia Southwestern State University",
+            "city": "Americus",
+            "state": "GA",
+            "zip": "31709-4693",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://gsw.edu/",
+            "price_calculator_url": "https://gsw.edu/financial-aid/files/NetPriceCalc1920",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 13,
+            "region_id": 5,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4604,
+            "instructional_expenditure_per_fte": 7066,
+            "faculty_salary": 7002,
+            "ft_faculty_rate": 0.7173,
+            "alias": "GSW, Georgia Southwestern",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 39076591,
+                "end": 37134671
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 139764
+    },
+    {
+        "school": {
+            "name": "Georgia College & State University",
+            "city": "Milledgeville",
+            "state": "GA",
+            "zip": "31061",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.gcsu.edu/",
+            "price_calculator_url": "irout.gcsu.edu/cc/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 13,
+            "region_id": 5,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8775,
+            "instructional_expenditure_per_fte": 6816,
+            "faculty_salary": 7952,
+            "ft_faculty_rate": 0.8315,
+            "alias": "Georgia College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 45528055,
+                "end": 44832809
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 139861
+    }
+]

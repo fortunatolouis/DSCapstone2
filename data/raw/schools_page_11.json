@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Sofia University",
+            "city": "Palo Alto",
+            "state": "CA",
+            "zip": "94303",
+            "accreditor": "Western Association of Schools and Colleges Senior Colleges and University Commission",
+            "school_url": "www.sofia.edu/",
+            "price_calculator_url": "https://bigfuture.collegeboard.org/pay-for-college/college-costs/college-costs-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4866,
+            "instructional_expenditure_per_fte": 2276,
+            "faculty_salary": 5784,
+            "ft_faculty_rate": 0.2619,
+            "alias": "Institute of Transpersonal Psychology",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "WASCSR",
+            "title_iv": {
+                "approval_date": "3/12/1992",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 110778
+    },
+    {
+        "school": {
+            "name": "California Beauty School",
+            "city": "Modesto",
+            "state": "CA",
+            "zip": "95354",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.calbeautycollege.edu/",
+            "price_calculator_url": "www.calbeautycollege.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13795,
+            "instructional_expenditure_per_fte": 2984,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "1/31/1977",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 110875
+    },
+    {
+        "school": {
+            "name": "California Christian College",
+            "city": "Fresno",
+            "state": "CA",
+            "zip": "93727",
+            "accreditor": "Transnational Association of Christian Colleges and Schools",
+            "school_url": "www.calchristiancollege.edu/",
+            "price_calculator_url": "www.calchristiancollege.edu/financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 41,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5809,
+            "instructional_expenditure_per_fte": 5089,
+            "faculty_salary": 4388,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "TRACS",
+            "title_iv": {
+                "approval_date": "1/1/1980",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 108103,
+                "end": 114664
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 110918
+    },
+    {
+        "school": {
+            "name": "Haven University",
+            "city": "Garden Grove",
+            "state": "CA",
+            "zip": "92840-1340",
+            "accreditor": "Transnational Association of Christian Colleges and Schools",
+            "school_url": "www.haven.edu/",
+            "price_calculator_url": "www.haven.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 108,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5852,
+            "instructional_expenditure_per_fte": 13435,
+            "faculty_salary": 1150,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "TRACS",
+            "title_iv": {
+                "approval_date": "11/15/2018",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 111045
+    },
+    {
+        "school": {
+            "name": "California Hair Design Academy",
+            "city": "La Mesa",
+            "state": "CA",
+            "zip": "91942-5055",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "https://chdaschools.com/",
+            "price_calculator_url": "https://chdaschools.com/consumer-information/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11225,
+            "instructional_expenditure_per_fte": 5495,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "8/28/1974",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 111054
+    },
+    {
+        "school": {
+            "name": "California Institute of the Arts",
+            "city": "Valencia",
+            "state": "CA",
+            "zip": "91355-2397",
+            "accreditor": "Western Association of Schools and Colleges Senior Colleges and University Commission",
+            "school_url": "https://www.calarts.edu/",
+            "price_calculator_url": "https://files.calarts.edu/docs/financial-aid/calarts-net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 30,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 35213,
+            "instructional_expenditure_per_fte": 25116,
+            "faculty_salary": 9453,
+            "ft_faculty_rate": 0.6735,
+            "alias": "CalArts",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "WASCSR",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 178839344,
+                "end": 179402319
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 111081
+    },
+    {
+        "school": {
+            "name": "California State University Maritime Academy",
+            "city": "Vallejo",
+            "state": "CA",
+            "zip": "94590-8181",
+            "accreditor": "Western Association of Schools and Colleges Senior Colleges and University Commission",
+            "school_url": "https://www.csum.edu/",
+            "price_calculator_url": "https://www2.calstate.edu/attend/paying-for-college/Pages/csu-costs.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5652,
+            "instructional_expenditure_per_fte": 17543,
+            "faculty_salary": 10329,
+            "ft_faculty_rate": 0.7241,
+            "alias": "California State University Maritime Academy",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "WASCSR",
+            "title_iv": {
+                "approval_date": "3/30/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 9284095,
+                "end": 10783408
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 111188
+    },
+    {
+        "school": {
+            "name": "California Western School of Law",
+            "city": "San Diego",
+            "state": "CA",
+            "zip": "92101-3046",
+            "accreditor": "Western Association of Schools and Colleges Senior Colleges and University Commission",
+            "school_url": "https://www.cwsl.edu/",
+            "price_calculator_url": "https://www.cwsl.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 31,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 30684,
+            "instructional_expenditure_per_fte": 10623,
+            "faculty_salary": 12038,
+            "ft_faculty_rate": 0.3956,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "WASCSR",
+            "title_iv": {
+                "approval_date": "1/30/1976",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 25228270,
+                "end": 25064136
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 111391
+    },
+    {
+        "school": {
+            "name": "Canada College",
+            "city": "Redwood City",
+            "state": "CA",
+            "zip": "94061-1099",
+            "accreditor": "Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges",
+            "school_url": "canadacollege.edu/",
+            "price_calculator_url": "https://misweb.cccco.edu/npc/371/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1735,
+            "instructional_expenditure_per_fte": 8258,
+            "faculty_salary": 10832,
+            "ft_faculty_rate": 0.4242,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "WASCJC",
+            "title_iv": {
+                "approval_date": "1/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 111434
+    },
+    {
+        "school": {
+            "name": "College of the Canyons",
+            "city": "Santa Clarita",
+            "state": "CA",
+            "zip": "91355-1899",
+            "accreditor": "Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges",
+            "school_url": "www.canyons.edu/",
+            "price_calculator_url": "https://www.canyons.edu/studentservices/financialaid/about/netcalc.php",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 5,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1045,
+            "instructional_expenditure_per_fte": 7376,
+            "faculty_salary": 11214,
+            "ft_faculty_rate": 0.2876,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "WASCJC",
+            "title_iv": {
+                "approval_date": "1/1/1974",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 4141314,
+                "end": 2383595
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 111461
+    },
+    {
+        "school": {
+            "name": "Career Academy of Beauty",
+            "city": "Garden Grove",
+            "state": "CA",
+            "zip": "92845",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "caofb.com/",
+            "price_calculator_url": "caofb.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13413,
+            "instructional_expenditure_per_fte": 5747,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "4/7/1977",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 111513
+    },
+    {
+        "school": {
+            "name": "Casa Loma College-Van Nuys",
+            "city": "Van Nuys",
+            "state": "CA",
+            "zip": "91405",
+            "accreditor": "Accrediting Bureau of Health Education Schools",
+            "school_url": "https://www.casalomacollege.edu/",
+            "price_calculator_url": "https://casalomacollege.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12562,
+            "instructional_expenditure_per_fte": 6710,
+            "faculty_salary": 6174,
+            "ft_faculty_rate": 0.4211,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ABHES",
+            "title_iv": {
+                "approval_date": "11/23/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 111638
+    },
+    {
+        "school": {
+            "name": "CET-San Diego",
+            "city": "San Diego",
+            "state": "CA",
+            "zip": "92102",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "https://www.cetweb.edu/",
+            "price_calculator_url": "https://cetweb.edu/tuition",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 12,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14013,
+            "instructional_expenditure_per_fte": 9573,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "5/1/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 111708
+    },
+    {
+        "school": {
+            "name": "CET-San Jose",
+            "city": "San Jose",
+            "state": "CA",
+            "zip": "95110",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "https://cetweb.edu/",
+            "price_calculator_url": "https://cetweb.edu/tuition",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 12,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11131,
+            "instructional_expenditure_per_fte": 13535,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "5/1/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 111717
+    },
+    {
+        "school": {
+            "name": "CET-El Centro",
+            "city": "El Centro",
+            "state": "CA",
+            "zip": "92243",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "https://cetweb.edu/",
+            "price_calculator_url": "https://cetweb.edu/tuition",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 12,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12474,
+            "instructional_expenditure_per_fte": 10504,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "5/1/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 111726
+    },
+    {
+        "school": {
+            "name": "CET-Colton",
+            "city": "Colton",
+            "state": "CA",
+            "zip": "92324",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "https://cetweb.edu/",
+            "price_calculator_url": "https://cetweb.edu/tuition",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 12,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11639,
+            "instructional_expenditure_per_fte": 9752,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Institution relocated to the new address below",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "5/1/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 111744
+    },
+    {
+        "school": {
+            "name": "CET-Watsonville",
+            "city": "Watsonville",
+            "state": "CA",
+            "zip": "95076",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "https://www.cetweb.edu/",
+            "price_calculator_url": "https://cetweb.edu/tuition",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 12,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12185,
+            "instructional_expenditure_per_fte": 8995,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "5/1/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 111762
+    },
+    {
+        "school": {
+            "name": "CET-Salinas",
+            "city": "Salinas",
+            "state": "CA",
+            "zip": "93906",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "https://cetweb.edu/",
+            "price_calculator_url": "https://cetweb.edu/tuition",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 12,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12674,
+            "instructional_expenditure_per_fte": 9381,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "5/1/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 111799
+    },
+    {
+        "school": {
+            "name": "Cerritos College",
+            "city": "Norwalk",
+            "state": "CA",
+            "zip": "90650-6298",
+            "accreditor": "Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges",
+            "school_url": "www.cerritos.edu/",
+            "price_calculator_url": "https://misweb.cccco.edu/npc/811/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 4,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 5,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 666,
+            "instructional_expenditure_per_fte": 6869,
+            "faculty_salary": 11165,
+            "ft_faculty_rate": 0.3721,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "WASCJC",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 111887
+    },
+    {
+        "school": {
+            "name": "Cerro Coso Community College",
+            "city": "Ridgecrest",
+            "state": "CA",
+            "zip": "93555-9571",
+            "accreditor": "Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges",
+            "school_url": "cerrocoso.edu/",
+            "price_calculator_url": "https://misweb.cccco.edu/npc/522/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 568,
+            "instructional_expenditure_per_fte": 4279,
+            "faculty_salary": 10756,
+            "ft_faculty_rate": 0.443,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "WASCJC",
+            "title_iv": {
+                "approval_date": "1/1/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 111896
+    }
+]

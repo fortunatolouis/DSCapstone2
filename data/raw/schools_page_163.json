@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Schreiner University",
+            "city": "Kerrville",
+            "state": "TX",
+            "zip": "78028-5697",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.schreiner.edu/",
+            "price_calculator_url": "schreiner.edu/admissions/financial-services/costs-calculators/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 66,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14187,
+            "instructional_expenditure_per_fte": 9171,
+            "faculty_salary": 5877,
+            "ft_faculty_rate": 0.6126,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 72735023,
+                "end": 72991869
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 228042
+    },
+    {
+        "school": {
+            "name": "Seguin Beauty School-Seguin",
+            "city": "Seguin",
+            "state": "TX",
+            "zip": "78155",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "seguinbeautyschool.net/",
+            "price_calculator_url": "seguinbeautyschool.net/discolsures/net-price-calculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12403,
+            "instructional_expenditure_per_fte": 8235,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "7/22/1987",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 228088
+    },
+    {
+        "school": {
+            "name": "St. Mary's University",
+            "city": "San Antonio",
+            "state": "TX",
+            "zip": "78228",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.stmarytx.edu/",
+            "price_calculator_url": "www.stmarytx.edu/admission/financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17912,
+            "instructional_expenditure_per_fte": 11546,
+            "faculty_salary": 9661,
+            "ft_faculty_rate": 0.6637,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 196462642,
+                "end": 200145026
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 228149
+    },
+    {
+        "school": {
+            "name": "South Plains College",
+            "city": "Levelland",
+            "state": "TX",
+            "zip": "79336",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.southplainscollege.edu/",
+            "price_calculator_url": "www.collegeforalltexans.com/apps/CollegeMoney/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 5,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2842,
+            "instructional_expenditure_per_fte": 5775,
+            "faculty_salary": 5987,
+            "ft_faculty_rate": 0.518,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "3/8/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 14372409,
+                "end": 25328322
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 228158
+    },
+    {
+        "school": {
+            "name": "South Texas Barber College Inc",
+            "city": "Corpus Christi",
+            "state": "TX",
+            "zip": "78415",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.southtexasbarbercollege.net/",
+            "price_calculator_url": "southtexasbarbercollege.homestead.com/~local/~Preview/consumerinformation.html?_=1527801229295",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4508,
+            "instructional_expenditure_per_fte": 1033,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "3/15/2005",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 228185
+    },
+    {
+        "school": {
+            "name": "South Texas College of Law Houston",
+            "city": "Houston",
+            "state": "TX",
+            "zip": "77002-7006",
+            "accreditor": "American Bar Association",
+            "school_url": "www.stcl.edu/",
+            "price_calculator_url": "www.stcl.edu/wp-content/uploads/2016/10/2016-2017-Tuition-and-Fees.pdf",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 31,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 29077,
+            "instructional_expenditure_per_fte": 18882,
+            "faculty_salary": 17242,
+            "ft_faculty_rate": 0.3806,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "ABA",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 43632591,
+                "end": 45244123
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 228194
+    },
+    {
+        "school": {
+            "name": "South Texas Vocational Technical Institute-Weslaco",
+            "city": "Weslaco",
+            "state": "TX",
+            "zip": "78599",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "https://www.stvt.edu/",
+            "price_calculator_url": "https://www.stvt.edu/stvt-weslaco-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 19959,
+            "instructional_expenditure_per_fte": 6251,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "1/13/1983",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 228200
+    },
+    {
+        "school": {
+            "name": "Miller-Motte College-STVT-McAllen",
+            "city": "McAllen",
+            "state": "TX",
+            "zip": "78503",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "https://www.stvt.edu/",
+            "price_calculator_url": "https://www.stvt.edu/stvt-mcallen-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 24,
+            "ownership": 3,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18248,
+            "instructional_expenditure_per_fte": 6067,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "South Texas Vo-Tech #70",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "9/19/2014",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 228219
+    },
+    {
+        "school": {
+            "name": "Southern Methodist University",
+            "city": "Dallas",
+            "state": "TX",
+            "zip": "75275-0221",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.smu.edu/",
+            "price_calculator_url": "https://www.smu.edu/EnrollmentServices/FinancialAid/NetPriceCalculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 71,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 29360,
+            "instructional_expenditure_per_fte": 18995,
+            "faculty_salary": 13370,
+            "ft_faculty_rate": 0.6844,
+            "alias": "SMU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "6/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 1633431000,
+                "end": 1614131000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 228246
+    },
+    {
+        "school": {
+            "name": "Southwest School of Business and Technical Careers-San Antonio",
+            "city": "San Antonio",
+            "state": "TX",
+            "zip": "78221-0138",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.sws.edu/",
+            "price_calculator_url": "www.sws.edu/SID/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8075,
+            "instructional_expenditure_per_fte": 3383,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "4/7/1987",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 228282
+    },
+    {
+        "school": {
+            "name": "Southwest Texas Junior College",
+            "city": "Uvalde",
+            "state": "TX",
+            "zip": "78801-6297",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.swtjc.edu/",
+            "price_calculator_url": "www.collegeforalltexans.com/apps/CollegeMoney/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1065,
+            "instructional_expenditure_per_fte": 3829,
+            "faculty_salary": 3462,
+            "ft_faculty_rate": 0.7176,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 2137805,
+                "end": 2147829
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 228316
+    },
+    {
+        "school": {
+            "name": "Southwestern Assemblies of God University",
+            "city": "Waxahachie",
+            "state": "TX",
+            "zip": "75165",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.sagu.edu/",
+            "price_calculator_url": "https://connect.sagu.edu/register/?id=a906aa05-ca73-4dca-9db2-875d4df2305b",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 27,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11882,
+            "instructional_expenditure_per_fte": 6110,
+            "faculty_salary": 6297,
+            "ft_faculty_rate": 0.4924,
+            "alias": "SAGU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/3/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 8979187,
+                "end": 9176788
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 228325
+    },
+    {
+        "school": {
+            "name": "Southwestern University",
+            "city": "Georgetown",
+            "state": "TX",
+            "zip": "78626",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.southwestern.edu/",
+            "price_calculator_url": "www.southwestern.edu/scholarships-financial-aid/grants-loans/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 71,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17682,
+            "instructional_expenditure_per_fte": 11394,
+            "faculty_salary": 8471,
+            "ft_faculty_rate": 0.7762,
+            "alias": "SU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 296412699,
+                "end": 289412311
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 228343
+    },
+    {
+        "school": {
+            "name": "Stephen F Austin State University",
+            "city": "Nacogdoches",
+            "state": "TX",
+            "zip": "75961",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.sfasu.edu/",
+            "price_calculator_url": "https://www.sfasu.edu/admissions-and-aid/tuition-costs/cost-of-attendance",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8007,
+            "instructional_expenditure_per_fte": 7623,
+            "faculty_salary": 7867,
+            "ft_faculty_rate": 0.7082,
+            "alias": "SFASU, SFA, Stephen F, Stephen F. Austin",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 88814486,
+                "end": 103090368
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 228431
+    },
+    {
+        "school": {
+            "name": "Texas State University",
+            "city": "San Marcos",
+            "state": "TX",
+            "zip": "78666",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.txstate.edu/",
+            "price_calculator_url": "https://www.highered.texas.gov/institutional-resources-programs/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8757,
+            "instructional_expenditure_per_fte": 7757,
+            "faculty_salary": 8480,
+            "ft_faculty_rate": 0.7805,
+            "alias": "Texas State|Texas State University-San Marcos|Southwest Texas State University|Southwest Texas State|SWT|SWTSU|Texas State San Marcos|TxSt|TxState|TS|",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 208459067,
+                "end": 225519535
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 228459
+    },
+    {
+        "school": {
+            "name": "Southwestern Adventist University",
+            "city": "Keene",
+            "state": "TX",
+            "zip": "76059",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.swau.edu/",
+            "price_calculator_url": "https://swau.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 95,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14397,
+            "instructional_expenditure_per_fte": 9818,
+            "faculty_salary": 6342,
+            "ft_faculty_rate": 0.4123,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "1/1/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 14887810,
+                "end": 15356063
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 228468
+    },
+    {
+        "school": {
+            "name": "Southwestern Christian College",
+            "city": "Terrell",
+            "state": "TX",
+            "zip": "75160-4812",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.swcc.edu/",
+            "price_calculator_url": "www.collegeforalltexans.com/apps/CollegeMoney/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 23,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 1,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 74,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6332,
+            "instructional_expenditure_per_fte": 3860,
+            "faculty_salary": 3814,
+            "ft_faculty_rate": 0.4783,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "4/12/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 228486
+    },
+    {
+        "school": {
+            "name": "Sul Ross State University",
+            "city": "Alpine",
+            "state": "TX",
+            "zip": "79832",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.sulross.edu/",
+            "price_calculator_url": "www.highered.texas.gov/apps/NPC/?Fice=003625",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5272,
+            "instructional_expenditure_per_fte": 7958,
+            "faculty_salary": 6622,
+            "ft_faculty_rate": 0.6471,
+            "alias": "Sul Ross",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "9/23/1975",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 21379730,
+                "end": 25542620
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 228501
+    },
+    {
+        "school": {
+            "name": "Tarleton State University",
+            "city": "Stephenville",
+            "state": "TX",
+            "zip": "76401-0000",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.tarleton.edu/",
+            "price_calculator_url": "www.shoppingsheet.com/Shopping/Landing/tarleton",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7366,
+            "instructional_expenditure_per_fte": 6231,
+            "faculty_salary": 7589,
+            "ft_faculty_rate": 0.6352,
+            "alias": "Tarleton|Texans|TSU|Tarleton State|",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 65205573,
+                "end": 66133261
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 228529
+    },
+    {
+        "school": {
+            "name": "Tarrant County College District",
+            "city": "Fort Worth",
+            "state": "TX",
+            "zip": "76102",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.tccd.edu/",
+            "price_calculator_url": "www.tccd.edu/services/paying-for-college/tuition-and-fees/cost-of-attendance/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 5,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1415,
+            "instructional_expenditure_per_fte": 5892,
+            "faculty_salary": 7198,
+            "ft_faculty_rate": 0.3799,
+            "alias": "Tarrant County College",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "6/1/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 228547
+    }
+]

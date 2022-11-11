@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Lincoln Technical Institute-Iselin",
+            "city": "Iselin",
+            "state": "NJ",
+            "zip": "08830",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.lincolntech.edu/campus/edison-nj",
+            "price_calculator_url": "www.lincolntech.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 7,
+            "ownership": 3,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12207,
+            "instructional_expenditure_per_fte": 6348,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "5/7/1975",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 184056
+    },
+    {
+        "school": {
+            "name": "American Institute-Clifton",
+            "city": "CLIFTON",
+            "state": "NJ",
+            "zip": "07011",
+            "accreditor": "Accrediting Bureau of Health Education Schools",
+            "school_url": "www.americaninstitute.com/",
+            "price_calculator_url": "www.americaninstitute.edu/npc/clifton.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 3,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11449,
+            "instructional_expenditure_per_fte": 1899,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "American Institute",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ABHES",
+            "title_iv": {
+                "approval_date": "5/16/2006",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 184092
+    },
+    {
+        "school": {
+            "name": "County College of Morris",
+            "city": "Randolph",
+            "state": "NJ",
+            "zip": "07869-2086",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.ccm.edu/",
+            "price_calculator_url": "www.ccm.edu/wp-content/uploads/FinancialAid/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5498,
+            "instructional_expenditure_per_fte": 5298,
+            "faculty_salary": 8268,
+            "ft_faculty_rate": 0.3451,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/3/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 4388887,
+                "end": 4446327
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 184180
+    },
+    {
+        "school": {
+            "name": "Rowan College South Jersey Cumberland Campus",
+            "city": "Vineland",
+            "state": "NJ",
+            "zip": "08362-1500",
+            "accreditor": null,
+            "school_url": "https://www.rcsj.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/app/gccnj",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 4,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2786,
+            "instructional_expenditure_per_fte": 4902,
+            "faculty_salary": 6655,
+            "ft_faculty_rate": 1,
+            "alias": "Rowan College South Jersey Cumberland Campus",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 5
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": 4055399,
+                "end": 4217348
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 184205
+    },
+    {
+        "school": {
+            "name": "Divers Academy International",
+            "city": "ERIAL",
+            "state": "NJ",
+            "zip": "08081",
+            "accreditor": null,
+            "school_url": "www.diversacademy.edu/",
+            "price_calculator_url": "https://www.diversacademy.edu/netPrice/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 0,
+            "tuition_revenue_per_fte": 35155,
+            "instructional_expenditure_per_fte": 14647,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Divers Academy of the Eastern Seaboard, Inc.",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": "3/5/1981",
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 184278
+    },
+    {
+        "school": {
+            "name": "Drew University",
+            "city": "Madison",
+            "state": "NJ",
+            "zip": "07940",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.drew.edu/",
+            "price_calculator_url": "www.drew.edu/financial-aid/cost-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 71,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14027,
+            "instructional_expenditure_per_fte": 10779,
+            "faculty_salary": 9294,
+            "ft_faculty_rate": 0.5565,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 94764000,
+                "end": 151122000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 184348
+    },
+    {
+        "school": {
+            "name": "Lincoln Technical Institute-South Plainfield",
+            "city": "South Plainfield",
+            "state": "NJ",
+            "zip": "07080-2424",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.lincolntech.edu/campus/south-plainfield-nj",
+            "price_calculator_url": "www.lincolntech.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 8,
+            "ownership": 3,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14664,
+            "instructional_expenditure_per_fte": 5272,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "12/20/2013",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 184427
+    },
+    {
+        "school": {
+            "name": "Essex County College",
+            "city": "Newark",
+            "state": "NJ",
+            "zip": "07102",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.essex.edu/",
+            "price_calculator_url": "https://www.essex.edu/wp-content/uploads/2021/08/NetPrice/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 4,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 1,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5198,
+            "instructional_expenditure_per_fte": 3774,
+            "faculty_salary": 7344,
+            "ft_faculty_rate": 1,
+            "alias": "Essex",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "2/15/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 184481
+    },
+    {
+        "school": {
+            "name": "Empire Beauty School-Union",
+            "city": "Union",
+            "state": "NJ",
+            "zip": "07083",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.empire.edu/",
+            "price_calculator_url": "https://www.empire.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 9,
+            "ownership": 3,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11066,
+            "instructional_expenditure_per_fte": 9808,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "8/9/2013",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 184506
+    },
+    {
+        "school": {
+            "name": "Fairleigh Dickinson University-Metropolitan Campus",
+            "city": "Teaneck",
+            "state": "NJ",
+            "zip": "07666",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.fdu.edu/",
+            "price_calculator_url": "https://1st-aid.org/schools/2040",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 2,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18980,
+            "instructional_expenditure_per_fte": 9587,
+            "faculty_salary": 9327,
+            "ft_faculty_rate": 0.3149,
+            "alias": "FDU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 45812500,
+                "end": 44152000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 184603
+    },
+    {
+        "school": {
+            "name": "Felician University",
+            "city": "Lodi",
+            "state": "NJ",
+            "zip": "07644",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.felician.edu/",
+            "price_calculator_url": "www.felician.edu/admissions/undergraduate-admissions/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17667,
+            "instructional_expenditure_per_fte": 7477,
+            "faculty_salary": 7386,
+            "ft_faculty_rate": 0.3173,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "6/10/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 6958710,
+                "end": 7183148
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 184612
+    },
+    {
+        "school": {
+            "name": "Fairleigh Dickinson University-Florham Campus",
+            "city": "Madison",
+            "state": "NJ",
+            "zip": "07940",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.fdu.edu/",
+            "price_calculator_url": "https://1st-aid.org/schools/2040",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 2,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 23173,
+            "instructional_expenditure_per_fte": 11704,
+            "faculty_salary": 9372,
+            "ft_faculty_rate": 0.4468,
+            "alias": "FDU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "1/10/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 45812500,
+                "end": 44152000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 184694
+    },
+    {
+        "school": {
+            "name": "Hohokus School of Trade and Technical Sciences",
+            "city": "Paterson",
+            "state": "NJ",
+            "zip": "07513",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.hohokus.edu/",
+            "price_calculator_url": "www.eastwickcollege.edu/Net_Price.php",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 21438,
+            "instructional_expenditure_per_fte": 7039,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "8/20/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 184746
+    },
+    {
+        "school": {
+            "name": "Georgian Court University",
+            "city": "Lakewood",
+            "state": "NJ",
+            "zip": "08701-2697",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://georgian.edu/",
+            "price_calculator_url": "https://georgian.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18010,
+            "instructional_expenditure_per_fte": 7485,
+            "faculty_salary": 8340,
+            "ft_faculty_rate": 0.366,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 54858481,
+                "end": 48967416
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 184773
+    },
+    {
+        "school": {
+            "name": "Rowan University",
+            "city": "Glassboro",
+            "state": "NJ",
+            "zip": "08028",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.rowan.edu/",
+            "price_calculator_url": "https://rowan.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13063,
+            "instructional_expenditure_per_fte": 12306,
+            "faculty_salary": 9054,
+            "ft_faculty_rate": 0.523,
+            "alias": "Rowan College of New Jersey   Glassboro State College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 232093929,
+                "end": 240008342
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 184782
+    },
+    {
+        "school": {
+            "name": "Rowan College of South Jersey Gloucester Campus",
+            "city": "Sewell",
+            "state": "NJ",
+            "zip": "08080",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.rcsj.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/app/gccnj",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3786,
+            "instructional_expenditure_per_fte": 4430,
+            "faculty_salary": 6958,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "7/13/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 2663293,
+                "end": 2693293
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 184791
+    },
+    {
+        "school": {
+            "name": "Empire Beauty School-Cherry Hill",
+            "city": "Cherry Hill",
+            "state": "NJ",
+            "zip": "08002",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.empire.edu/",
+            "price_calculator_url": "www.empire.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 8,
+            "ownership": 3,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11234,
+            "instructional_expenditure_per_fte": 10200,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "8/9/2013",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 184816
+    },
+    {
+        "school": {
+            "name": "Eastwick College-Ramsey",
+            "city": "Ramsey",
+            "state": "NJ",
+            "zip": "07446-2551",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.eastwickcollege.edu/",
+            "price_calculator_url": "www.eastwickcollege.edu/Net_Price.php",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13804,
+            "instructional_expenditure_per_fte": 5239,
+            "faculty_salary": 4821,
+            "ft_faculty_rate": 0.2131,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "9/2/1976",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 184959
+    },
+    {
+        "school": {
+            "name": "Holy Name Medical Center-Sister Claire Tynan School of Nursing",
+            "city": "Englewood Cliffs",
+            "state": "NJ",
+            "zip": "07632",
+            "accreditor": "Accreditation Commission for Education in Nursing",
+            "school_url": "holyname.org/SchoolofNursing",
+            "price_calculator_url": "www.holyname.org/schoolofnursing",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9241,
+            "instructional_expenditure_per_fte": 6375,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NLNAC",
+            "title_iv": {
+                "approval_date": "10/20/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 184968
+    },
+    {
+        "school": {
+            "name": "Hudson County Community College",
+            "city": "Jersey City",
+            "state": "NJ",
+            "zip": "07306",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.hccc.edu/",
+            "price_calculator_url": "www.hccc.edu/paying-for-college/financial-aid/how-aid-works/calculate-costs.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1369,
+            "instructional_expenditure_per_fte": 5672,
+            "faculty_salary": 6824,
+            "ft_faculty_rate": 1,
+            "alias": "HCCC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "10/7/1975",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 184995
+    }
+]

@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Purdue University - Purdue Polytechnic Kokomo",
+            "city": "Kokomo",
+            "state": "IN",
+            "zip": "46902",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "polytechnic.purdue.edu/kokomo",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 10,
+            "ownership": 1,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 24378007
+    },
+    {
+        "school": {
+            "name": "Purdue University - Purdue Polytechnic Richmond",
+            "city": "Richmond",
+            "state": "IN",
+            "zip": "47374",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "polytechnic.purdue.edu/richmond",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 10,
+            "ownership": 1,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 24378008
+    },
+    {
+        "school": {
+            "name": "Purdue University - Purdue Polytechnic Lafayette",
+            "city": "Lafayette",
+            "state": "IN",
+            "zip": "47903",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "polytechnic.purdue.edu/lafayette",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 10,
+            "ownership": 1,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 24378009
+    },
+    {
+        "school": {
+            "name": "Purdue University - Purdue Polytechnic Vincennes",
+            "city": "Vincennes",
+            "state": "IN",
+            "zip": "47591",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "polytechnic.purdue.edu/vincennes",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 10,
+            "ownership": 1,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 24378010
+    },
+    {
+        "school": {
+            "name": "ECPI University-Newport News",
+            "city": "Newport News",
+            "state": "VA",
+            "zip": "23606",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.ecpi.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 19,
+            "ownership": 3,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 24893401
+    },
+    {
+        "school": {
+            "name": "ECPI University-Greensboro",
+            "city": "Greensboro",
+            "state": "NC",
+            "zip": "27409-3642",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.ecpi.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 19,
+            "ownership": 3,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 24893402
+    },
+    {
+        "school": {
+            "name": "ECPI University-Charlotte",
+            "city": "Charlotte",
+            "state": "NC",
+            "zip": "28208",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.ecpi.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 19,
+            "ownership": 3,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 24893403
+    },
+    {
+        "school": {
+            "name": "ECPI University-Greenville",
+            "city": "Greenville",
+            "state": "SC",
+            "zip": "29615-1603",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.ecpi.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 19,
+            "ownership": 3,
+            "state_fips": 45,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 24893404
+    },
+    {
+        "school": {
+            "name": "ECPI University-Manassas",
+            "city": "Manassas",
+            "state": "VA",
+            "zip": "20109-1603",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.ecpi.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 19,
+            "ownership": 3,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 24893405
+    },
+    {
+        "school": {
+            "name": "ECPI University-Charleston",
+            "city": "North Charleston",
+            "state": "SC",
+            "zip": "29420-1603",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.ecpi.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 19,
+            "ownership": 3,
+            "state_fips": 45,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 24893406
+    },
+    {
+        "school": {
+            "name": "ECPI University-Raleigh",
+            "city": "Raleigh",
+            "state": "NC",
+            "zip": "27613-1603",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.ecpi.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 19,
+            "ownership": 3,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 24893407
+    },
+    {
+        "school": {
+            "name": "ECPI University-Columbia",
+            "city": "Columbia",
+            "state": "SC",
+            "zip": "29210-1603",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.ecpi.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 19,
+            "ownership": 3,
+            "state_fips": 45,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 24893408
+    },
+    {
+        "school": {
+            "name": "ECPI University-Concord",
+            "city": "Charlotte",
+            "state": "NC",
+            "zip": "282621603",
+            "accreditor": null,
+            "school_url": "www.ecpi.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 19,
+            "ownership": 3,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 0,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 24893409
+    },
+    {
+        "school": {
+            "name": "ECPI University-Culinary Institute of Virginia",
+            "city": "Norfolk",
+            "state": "VA",
+            "zip": "23513-1603",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.ecpi.edu/college-of-culinary-arts",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 19,
+            "ownership": 3,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 24893410
+    },
+    {
+        "school": {
+            "name": "ECPI University-Virginia Beach Health Sciences",
+            "city": "Virginia Beach",
+            "state": "VA",
+            "zip": "23462-1603",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.ecpi.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 19,
+            "ownership": 3,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 24893411
+    },
+    {
+        "school": {
+            "name": "ECPI University-Richmond South",
+            "city": "Richmond",
+            "state": "VA",
+            "zip": "23236-1603",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.ecpi.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 19,
+            "ownership": 3,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 24893412
+    },
+    {
+        "school": {
+            "name": "ECPI University-Innsbrook",
+            "city": "Glen Allen",
+            "state": "VA",
+            "zip": "23060-1603",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.ecpi.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 19,
+            "ownership": 3,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 24893413
+    },
+    {
+        "school": {
+            "name": "ECPI University-Richmond West",
+            "city": "Richmond",
+            "state": "VA",
+            "zip": "23294-1603",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.ecpi.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 19,
+            "ownership": 3,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 24893414
+    },
+    {
+        "school": {
+            "name": "ECPI University - Roanoke",
+            "city": "Roanoke",
+            "state": "VA",
+            "zip": "24012-1603",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.ecpi.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 19,
+            "ownership": 3,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 24893415
+    },
+    {
+        "school": {
+            "name": "ECPI University - Orlando",
+            "city": "Lake Mary",
+            "state": "FL",
+            "zip": "32746-2197",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.ecpi.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 19,
+            "ownership": 3,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 24893416
+    }
+]

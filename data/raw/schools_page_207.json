@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "The University of Texas MD Anderson Cancer Center",
+            "city": "Houston",
+            "state": "TX",
+            "zip": "77030-4009",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.mdanderson.org/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4445,
+            "instructional_expenditure_per_fte": 13229,
+            "faculty_salary": 11542,
+            "ft_faculty_rate": 1,
+            "alias": "MD Anderson Cancer Center| MD Anderson Hospital|MD Anderson Hospital and Tumor Institute|MDACC|UTMDACC|Anderson Cancer Center",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "2/11/1988",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 2197064,
+                "end": 2452418
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 416801
+    },
+    {
+        "school": {
+            "name": "Paul Mitchell the School-Huntsville",
+            "city": "Madison",
+            "state": "AL",
+            "zip": "35758",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "https://paulmitchell.edu/huntsville",
+            "price_calculator_url": "https://paulmitchell.edu/huntsville/tuition-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 1,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9696,
+            "instructional_expenditure_per_fte": 3862,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "12/7/1984",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 417008
+    },
+    {
+        "school": {
+            "name": "Estes Institute of Cosmetology Arts and Science",
+            "city": "Visalia",
+            "state": "CA",
+            "zip": "93291",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.estescosmetology.com/",
+            "price_calculator_url": "estescosmetology.com/financial-aid/365850",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5322,
+            "instructional_expenditure_per_fte": 5241,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "11/18/1980",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 417062
+    },
+    {
+        "school": {
+            "name": "Baldwin Park Adult & Community Education",
+            "city": "Baldwin Park",
+            "state": "CA",
+            "zip": "91706-4221",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.bpace.bpusd.net/",
+            "price_calculator_url": "www.bpace.bpusd.net/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2528,
+            "instructional_expenditure_per_fte": 13654,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "BPACE",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "10/8/1991",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 417105
+    },
+    {
+        "school": {
+            "name": "Ventura Adult and Continuing Education",
+            "city": "Ventura",
+            "state": "CA",
+            "zip": "93003-0000",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.adultedventura.edu/",
+            "price_calculator_url": "www.adultedventura.edu/netprice/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1956,
+            "instructional_expenditure_per_fte": 24917,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "10/20/1992",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 417123
+    },
+    {
+        "school": {
+            "name": "CT Aero Tech School",
+            "city": "Hartford",
+            "state": "CT",
+            "zip": "06114",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "ctaero.cttech.org/",
+            "price_calculator_url": "www.cttech.org/fa/amt/index.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 1,
+            "state_fips": 9,
+            "region_id": 1,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7250,
+            "instructional_expenditure_per_fte": 10356,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "12/9/1983",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 417248
+    },
+    {
+        "school": {
+            "name": "Stratford School for Aviation Maintenance Technicians",
+            "city": "Stratford",
+            "state": "CT",
+            "zip": "06615",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "ssamt.cttech.org/",
+            "price_calculator_url": "www.cttech.org/adult-education/adult-education-financial-aid/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 9,
+            "region_id": 1,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7250,
+            "instructional_expenditure_per_fte": 6246,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "7/3/1980",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 417275
+    },
+    {
+        "school": {
+            "name": "City College-Altamonte Springs",
+            "city": "Altamonte Springs",
+            "state": "FL",
+            "zip": "32714",
+            "accreditor": "Accrediting Bureau of Health Education Schools",
+            "school_url": "https://www.citycollege.edu/",
+            "price_calculator_url": "https://www.citycollege.edu/financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 21221,
+            "instructional_expenditure_per_fte": 10495,
+            "faculty_salary": 5091,
+            "ft_faculty_rate": 0.2778,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "ABHES",
+            "title_iv": {
+                "approval_date": "7/2/1992",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 417327
+    },
+    {
+        "school": {
+            "name": "Career Center of Southern Illinois",
+            "city": "Red Bud",
+            "state": "IL",
+            "zip": "62278",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.gotoccsi.org/",
+            "price_calculator_url": "www.gotoccsi.org/adult-nursing-cna/student-services-1/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 42,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7871,
+            "instructional_expenditure_per_fte": 10177,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Beck School of Practical Nursing  Beck Area Career Center",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "5/5/1977",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 417442
+    },
+    {
+        "school": {
+            "name": "Crave Beauty Academy",
+            "city": "Wichita",
+            "state": "KS",
+            "zip": "67203",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.cravebeautyacademy.com/",
+            "price_calculator_url": "https://cravebeautyacademy.com/NetPriceCalculator/2018/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 20,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9430,
+            "instructional_expenditure_per_fte": 3942,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Xenon Academy  Xenon International Academy - Ballwin  Xenon Int'l. Academy  Xenon International Academy - Wichita",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "6/19/1989",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 417503
+    },
+    {
+        "school": {
+            "name": "Hastings Beauty School",
+            "city": "Hastings",
+            "state": "MN",
+            "zip": "55033",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "hastingsbeautyschool.com/",
+            "price_calculator_url": "www.hastingsbeautyschool.com/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 27,
+            "region_id": 4,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10264,
+            "instructional_expenditure_per_fte": 9346,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "8/31/1976",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 417600
+    },
+    {
+        "school": {
+            "name": "Kirksville Area Technical Center",
+            "city": "Kirksville",
+            "state": "MO",
+            "zip": "63501",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "kirksviller3.wixsite.com/katc",
+            "price_calculator_url": "https://kirksviller3.wixsite.com/katc/calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4746,
+            "instructional_expenditure_per_fte": 13205,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "6/13/1979",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 417628
+    },
+    {
+        "school": {
+            "name": "South Central Career Center",
+            "city": "West Plains",
+            "state": "MO",
+            "zip": "65775",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "https://www.zizzers.org/",
+            "price_calculator_url": "https://www.zizzers.org/cms/lib/MO01001590/Centricity/domain/49/net price/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6358,
+            "instructional_expenditure_per_fte": 9192,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "SCCC",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "5/13/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 417637
+    },
+    {
+        "school": {
+            "name": "Saline County Career Center",
+            "city": "Marshall",
+            "state": "MO",
+            "zip": "65340-1698",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "https://www.marshallschools.com/o/career-center",
+            "price_calculator_url": "https://core-docs.s3.amazonaws.com/documents/asset/uploaded_file/99303/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4998,
+            "instructional_expenditure_per_fte": 6615,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "SCCC",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "4/18/1974",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 417646
+    },
+    {
+        "school": {
+            "name": "Warrensburg Area Career Center",
+            "city": "Warrensburg",
+            "state": "MO",
+            "zip": "64093",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "wacc.warrensburgr6.org/",
+            "price_calculator_url": "wacc.warrensburgr6.org/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9219,
+            "instructional_expenditure_per_fte": 15731,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "9/4/1984",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 417655
+    },
+    {
+        "school": {
+            "name": "Cass Career Center",
+            "city": "Harrisonville",
+            "state": "MO",
+            "zip": "64701-2024",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "casscareercenter.com/",
+            "price_calculator_url": "harrisonvilleschools.schoolwires.net/Page/207",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3047,
+            "instructional_expenditure_per_fte": 7840,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Cass RIX School District",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "10/23/1985",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 417682
+    },
+    {
+        "school": {
+            "name": "Applied Technology Services",
+            "city": "Sunset Hills",
+            "state": "MO",
+            "zip": "63127",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.appliedtech-stl.com/",
+            "price_calculator_url": "appliedtech-stl.com/NetPrice",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2877,
+            "instructional_expenditure_per_fte": 3981,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "10/25/1991",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 417716
+    },
+    {
+        "school": {
+            "name": "Central College of Cosmetology",
+            "city": "Saint Robert",
+            "state": "MO",
+            "zip": "65584",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "centralandsalemcolleges.com/",
+            "price_calculator_url": "centralandsalemcolleges.com/price calculator.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5742,
+            "instructional_expenditure_per_fte": 2227,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "1/13/1992",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 417725
+    },
+    {
+        "school": {
+            "name": "Southeast Missouri Hospital College of Nursing and Health Sciences",
+            "city": "Cape Girardeau",
+            "state": "MO",
+            "zip": "63703-4507",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.sehcollege.edu/",
+            "price_calculator_url": "https://nces.ed.gov/collegenavigator/?q=southeast&s=MO&id=417734",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 29916,
+            "instructional_expenditure_per_fte": 28389,
+            "faculty_salary": 6368,
+            "ft_faculty_rate": 0.7059,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "11/4/1991",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 417734
+    },
+    {
+        "school": {
+            "name": "Messenger College",
+            "city": "Bedford",
+            "state": "TX",
+            "zip": "76021",
+            "accreditor": "Transnational Association of Christian Colleges and Schools",
+            "school_url": "www.messengercollege.edu/",
+            "price_calculator_url": "www.messengercollege.edu/cost",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 79,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11924,
+            "instructional_expenditure_per_fte": 2768,
+            "faculty_salary": 2708,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "TRACS",
+            "title_iv": {
+                "approval_date": "5/7/1993",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 547736,
+                "end": 789454
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 417752
+    }
+]

@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Mid Michigan College",
+            "city": "Harrison",
+            "state": "MI",
+            "zip": "48625-9447",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.midmich.edu/",
+            "price_calculator_url": "www.midmich.edu/student-resources/financial-aid/payment-options/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 5,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4185,
+            "instructional_expenditure_per_fte": 3678,
+            "faculty_salary": 8239,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1974",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1134103,
+                "end": 2438118
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 171155
+    },
+    {
+        "school": {
+            "name": "Monroe County Community College",
+            "city": "Monroe",
+            "state": "MI",
+            "zip": "48161-9746",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.monroeccc.edu/",
+            "price_calculator_url": "www.monroeccc.edu/financialaid/netprice/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 5,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4263,
+            "instructional_expenditure_per_fte": 10336,
+            "faculty_salary": 10166,
+            "ft_faculty_rate": 0.3517,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 4958497,
+                "end": 6532290
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 171225
+    },
+    {
+        "school": {
+            "name": "Montcalm Community College",
+            "city": "Sidney",
+            "state": "MI",
+            "zip": "48885-9723",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.montcalm.edu/",
+            "price_calculator_url": "www.montcalm.edu/financial-aid",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 42,
+            "degree_urbanization": null,
+            "carnegie_basic": 4,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4821,
+            "instructional_expenditure_per_fte": 9023,
+            "faculty_salary": 8722,
+            "ft_faculty_rate": 0.2981,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "8/1/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 20919951,
+                "end": 20643229
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 171234
+    },
+    {
+        "school": {
+            "name": "Muskegon Community College",
+            "city": "Muskegon",
+            "state": "MI",
+            "zip": "49442-1432",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.muskegoncc.edu/",
+            "price_calculator_url": "www.muskegoncc.edu/financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 5,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3633,
+            "instructional_expenditure_per_fte": 8534,
+            "faculty_salary": 10714,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 842613,
+                "end": 949319
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 171304
+    },
+    {
+        "school": {
+            "name": "North Central Michigan College",
+            "city": "Petoskey",
+            "state": "MI",
+            "zip": "49770",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ncmich.edu/",
+            "price_calculator_url": "https://www.ncmich.edu/paying-for-college/federal-net-price-calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3371,
+            "instructional_expenditure_per_fte": 7733,
+            "faculty_salary": 10632,
+            "ft_faculty_rate": 1,
+            "alias": "NCMC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 4541127,
+                "end": 4404152
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 171395
+    },
+    {
+        "school": {
+            "name": "Northern Michigan University",
+            "city": "Marquette",
+            "state": "MI",
+            "zip": "49855-5301",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.nmu.edu/",
+            "price_calculator_url": "https://www.nmu.edu/financialaid/CostCalculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10453,
+            "instructional_expenditure_per_fte": 8012,
+            "faculty_salary": 8592,
+            "ft_faculty_rate": 0.7412,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 15880599,
+                "end": 16203279
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 171456
+    },
+    {
+        "school": {
+            "name": "Northwestern Michigan College",
+            "city": "Traverse City",
+            "state": "MI",
+            "zip": "49686",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.nmc.edu/",
+            "price_calculator_url": "https://www.nmc.edu/financial-aid/net-price-calculator/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 14,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8063,
+            "instructional_expenditure_per_fte": 9576,
+            "faculty_salary": 7949,
+            "ft_faculty_rate": 0.3064,
+            "alias": "NMC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 14009672,
+                "end": 14680840
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 171483
+    },
+    {
+        "school": {
+            "name": "Northwood University",
+            "city": "Midland",
+            "state": "MI",
+            "zip": "48640-2398",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.northwood.edu/",
+            "price_calculator_url": "www.northwood.edu/webapps/finaid/coa/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 29,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13149,
+            "instructional_expenditure_per_fte": 6405,
+            "faculty_salary": 7169,
+            "ft_faculty_rate": 1,
+            "alias": "NU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/11/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 97912834,
+                "end": 89966416
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 171492
+    },
+    {
+        "school": {
+            "name": "Oakland Community College",
+            "city": "Bloomfield Hills",
+            "state": "MI",
+            "zip": "48304-2266",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.oaklandcc.edu/",
+            "price_calculator_url": "https://www.oaklandcc.edu/NetPriceCalculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 3,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2935,
+            "instructional_expenditure_per_fte": 5381,
+            "faculty_salary": 9751,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 2138657,
+                "end": 2347896
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 171535
+    },
+    {
+        "school": {
+            "name": "Oakland University",
+            "city": "Rochester Hills",
+            "state": "MI",
+            "zip": "48309-4401",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.oakland.edu/",
+            "price_calculator_url": "www.oakland.edu/npc",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12689,
+            "instructional_expenditure_per_fte": 8620,
+            "faculty_salary": 9609,
+            "ft_faculty_rate": 0.5324,
+            "alias": "Oakland|OU|O.U.",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "8/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 106530914,
+                "end": 109034791
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 171571
+    },
+    {
+        "school": {
+            "name": "Olivet College",
+            "city": "Olivet",
+            "state": "MI",
+            "zip": "49076",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.olivetcollege.edu/",
+            "price_calculator_url": "https://www.olivetcollege.edu/undergraduate/tuition-financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 42,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 76,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11501,
+            "instructional_expenditure_per_fte": 7032,
+            "faculty_salary": 6258,
+            "ft_faculty_rate": 1,
+            "alias": "OC Comets",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 20601799,
+                "end": 21069832
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 171599
+    },
+    {
+        "school": {
+            "name": "Port Huron Cosmetology College",
+            "city": "Waterford",
+            "state": "MI",
+            "zip": "48329",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.michigancollegeofbeauty.com/",
+            "price_calculator_url": "nces.ed.gov/ipeds/netpricecalculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 1,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9029,
+            "instructional_expenditure_per_fte": 3512,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Michigan College Of Beauty",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "3/18/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 171775
+    },
+    {
+        "school": {
+            "name": "Kuyper College",
+            "city": "Grand Rapids",
+            "state": "MI",
+            "zip": "49525-9781",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.kuyper.edu/",
+            "price_calculator_url": "https://www.kuyper.edu/globalassets/images/tuition--aid/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 79,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14685,
+            "instructional_expenditure_per_fte": 18598,
+            "faculty_salary": 5734,
+            "ft_faculty_rate": 0.4,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 3643095,
+                "end": 4274767
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 171881
+    },
+    {
+        "school": {
+            "name": "Ross Medical Education Center-Lansing",
+            "city": "Lansing",
+            "state": "MI",
+            "zip": "48917",
+            "accreditor": "Accrediting Bureau of Health Education Schools",
+            "school_url": "www.rosseducation.edu/",
+            "price_calculator_url": "rosseducation.edu/consumer-info/#npc",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 7,
+            "ownership": 3,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7827,
+            "instructional_expenditure_per_fte": 2101,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ABHES",
+            "title_iv": {
+                "approval_date": "10/30/1987",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 171988
+    },
+    {
+        "school": {
+            "name": "Ross Medical Education Center-Warren",
+            "city": "Warren",
+            "state": "MI",
+            "zip": "48092",
+            "accreditor": "Accrediting Bureau of Health Education Schools",
+            "school_url": "www.rosseducation.edu/",
+            "price_calculator_url": "rosseducation.edu/consumer-info/#npc",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 7,
+            "ownership": 3,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7390,
+            "instructional_expenditure_per_fte": 1971,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ABHES",
+            "title_iv": {
+                "approval_date": "9/2/1981",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 171997
+    },
+    {
+        "school": {
+            "name": "Ross Medical Education Center-Flint",
+            "city": "Flint",
+            "state": "MI",
+            "zip": "48507",
+            "accreditor": "Accrediting Bureau of Health Education Schools",
+            "school_url": "www.rosseducation.edu/",
+            "price_calculator_url": "rosseducation.edu/consumer-info/#npc",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 9,
+            "ownership": 3,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8039,
+            "instructional_expenditure_per_fte": 1692,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ABHES",
+            "title_iv": {
+                "approval_date": "11/14/1978",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 172015
+    },
+    {
+        "school": {
+            "name": "Sacred Heart Major Seminary",
+            "city": "Detroit",
+            "state": "MI",
+            "zip": "48206-1799",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.shms.edu/",
+            "price_calculator_url": "calc.shms.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14521,
+            "instructional_expenditure_per_fte": 13506,
+            "faculty_salary": 6779,
+            "ft_faculty_rate": 0.3651,
+            "alias": "SHMS; Sacred Heart; Sacred Heart Seminary; Sacred Heart Major Seminary, Inc.",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "6/26/1978",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 20311617,
+                "end": 20074037
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 172033
+    },
+    {
+        "school": {
+            "name": "Saginaw Valley State University",
+            "city": "University Center",
+            "state": "MI",
+            "zip": "48710",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.svsu.edu/",
+            "price_calculator_url": "https://webtech.svsu.edu/NetPriceCalculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 22,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9517,
+            "instructional_expenditure_per_fte": 7700,
+            "faculty_salary": 8429,
+            "ft_faculty_rate": 0.5028,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 87435882,
+                "end": 88566867
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 172051
+    },
+    {
+        "school": {
+            "name": "Schoolcraft College",
+            "city": "Livonia",
+            "state": "MI",
+            "zip": "48152-2696",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.schoolcraft.edu/",
+            "price_calculator_url": "www.schoolcraft.edu/netpricecalculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 14,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4847,
+            "instructional_expenditure_per_fte": 6082,
+            "faculty_salary": 11043,
+            "ft_faculty_rate": 0.2134,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 10133274,
+                "end": 9691294
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 172200
+    },
+    {
+        "school": {
+            "name": "Siena Heights University",
+            "city": "Adrian",
+            "state": "MI",
+            "zip": "49221",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.sienaheights.edu/",
+            "price_calculator_url": "sienaheights.edu/FinancialAid/NetPriceCalculator.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11055,
+            "instructional_expenditure_per_fte": 6457,
+            "faculty_salary": 6285,
+            "ft_faculty_rate": 0.978,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 14901903,
+                "end": 15312547
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 172264
+    }
+]

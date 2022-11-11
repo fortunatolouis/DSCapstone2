@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Intellitec College-Grand Junction",
+            "city": "Grand Junction",
+            "state": "CO",
+            "zip": "81506",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "intellitec.edu/",
+            "price_calculator_url": "intellitec.edu/admissions/consumer-information/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11007,
+            "instructional_expenditure_per_fte": 3525,
+            "faculty_salary": 3658,
+            "ft_faculty_rate": 0.7719,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "11/8/1991",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 128188
+    },
+    {
+        "school": {
+            "name": "Trinidad State College",
+            "city": "Trinidad",
+            "state": "CO",
+            "zip": "81082",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.trinidadstate.edu/",
+            "price_calculator_url": "trinidadstate.edu/NetPriceCalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4207,
+            "instructional_expenditure_per_fte": 7358,
+            "faculty_salary": 5366,
+            "ft_faculty_rate": 1,
+            "alias": "TSC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 5015287,
+                "end": 5302938
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 128258
+    },
+    {
+        "school": {
+            "name": "United States Air Force Academy",
+            "city": "USAF Academy",
+            "state": "CO",
+            "zip": "80840-5002",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.usafa.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 8,
+            "region_id": 0,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 0,
+            "instructional_expenditure_per_fte": 31365,
+            "faculty_salary": 9852,
+            "ft_faculty_rate": 0.988,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1993",
+                "eligibility_type": 3
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 123956038,
+                "end": 96384928
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 128328
+    },
+    {
+        "school": {
+            "name": "Empire Beauty School-Thornton",
+            "city": "Thornton",
+            "state": "CO",
+            "zip": "80233",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.empire.edu/",
+            "price_calculator_url": "www.empire.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 8,
+            "ownership": 3,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11339,
+            "instructional_expenditure_per_fte": 7506,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "8/9/2013",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 128337
+    },
+    {
+        "school": {
+            "name": "Western Colorado University",
+            "city": "Gunnison",
+            "state": "CO",
+            "zip": "81231",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.western.edu/",
+            "price_calculator_url": "western.edu/admissions-aid/tuition-costs/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10467,
+            "instructional_expenditure_per_fte": 10322,
+            "faculty_salary": 6627,
+            "ft_faculty_rate": 0.7778,
+            "alias": "Western",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 18446074,
+                "end": 9009436
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 128391
+    },
+    {
+        "school": {
+            "name": "Albertus Magnus College",
+            "city": "New Haven",
+            "state": "CT",
+            "zip": "06511-1189",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "https://www.albertus.edu/",
+            "price_calculator_url": "https://www.albertus.edu/admission-aid/financial-aid/net-price-calculator.php",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 9,
+            "region_id": 1,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13366,
+            "instructional_expenditure_per_fte": 8085,
+            "faculty_salary": 7476,
+            "ft_faculty_rate": 0.4099,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 26162088,
+                "end": 25821156
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 128498
+    },
+    {
+        "school": {
+            "name": "Asnuntuck Community College",
+            "city": "Enfield",
+            "state": "CT",
+            "zip": "06082",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.asnuntuck.edu/",
+            "price_calculator_url": "bor.ct.edu/finaid/netprice/m_npcalc.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 9,
+            "region_id": 1,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3772,
+            "instructional_expenditure_per_fte": 10927,
+            "faculty_salary": 7156,
+            "ft_faculty_rate": 1,
+            "alias": "ACC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "12/29/1972",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 477593,
+                "end": 672076
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 128577
+    },
+    {
+        "school": {
+            "name": "Bais Binyomin Academy",
+            "city": "Monsey",
+            "state": "NY",
+            "zip": "10952",
+            "accreditor": "Association of Advanced Rabbinical and Talmudic Schools",
+            "school_url": "https://baisbinyominacademy.com/",
+            "price_calculator_url": "https://baisbinyominacademy.com/wp-content/uploads/Net Price 18.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 3,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9460,
+            "instructional_expenditure_per_fte": 27189,
+            "faculty_salary": 4583,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "AARTS",
+            "title_iv": {
+                "approval_date": "8/10/2017",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 128586
+    },
+    {
+        "school": {
+            "name": "University of Bridgeport",
+            "city": "Bridgeport",
+            "state": "CT",
+            "zip": "06604-5620",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.bridgeport.edu/",
+            "price_calculator_url": "tcc.noellevitz.com/University of Bridgeport/cost",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 9,
+            "region_id": 1,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17698,
+            "instructional_expenditure_per_fte": 9601,
+            "faculty_salary": 7935,
+            "ft_faculty_rate": 0.3082,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 25322000,
+                "end": 19446000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 128744
+    },
+    {
+        "school": {
+            "name": "Central Connecticut State University",
+            "city": "New Britain",
+            "state": "CT",
+            "zip": "06050",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www2.ccsu.edu/",
+            "price_calculator_url": "web.ccsu.edu/npcalc/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 9,
+            "region_id": 1,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11623,
+            "instructional_expenditure_per_fte": 13840,
+            "faculty_salary": 9860,
+            "ft_faculty_rate": 0.4851,
+            "alias": "CCSU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 77395940,
+                "end": 77490881
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 128771
+    },
+    {
+        "school": {
+            "name": "Charter Oak State College",
+            "city": "New Britain",
+            "state": "CT",
+            "zip": "06053",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "https://www.charteroak.edu/",
+            "price_calculator_url": "https://www.charteroak.edu/netcost",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 9,
+            "region_id": 1,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 1,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9245,
+            "instructional_expenditure_per_fte": 5375,
+            "faculty_salary": null,
+            "ft_faculty_rate": 0,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "7/15/1999",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 2034998,
+                "end": 2052417
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 128780
+    },
+    {
+        "school": {
+            "name": "Cortiva Institute",
+            "city": "Cromwell",
+            "state": "CT",
+            "zip": "06416",
+            "accreditor": "Commission on Massage Therapy Accreditation",
+            "school_url": "www.cortiva.edu/",
+            "price_calculator_url": "www.cortiva.edu/consumer-information/#1508519590549-134539ca-76c4",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 9,
+            "region_id": 1,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 20204,
+            "instructional_expenditure_per_fte": 7810,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COMTA",
+            "title_iv": {
+                "approval_date": "12/13/1985",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 128896
+    },
+    {
+        "school": {
+            "name": "Connecticut College",
+            "city": "New London",
+            "state": "CT",
+            "zip": "06320-4196",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.conncoll.edu/",
+            "price_calculator_url": "https://conncoll.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 9,
+            "region_id": 1,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 27018,
+            "instructional_expenditure_per_fte": 18436,
+            "faculty_salary": 9776,
+            "ft_faculty_rate": 0.737,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 313510000,
+                "end": 316270000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 128902
+    },
+    {
+        "school": {
+            "name": "Porter and Chester Institute of Hamden",
+            "city": "Hamden",
+            "state": "CT",
+            "zip": "06514",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.porterchester.edu/",
+            "price_calculator_url": "www.porterchester.edu/financial-aid/calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 9,
+            "region_id": 1,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16751,
+            "instructional_expenditure_per_fte": 6148,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "7/14/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 129002
+    },
+    {
+        "school": {
+            "name": "University of Connecticut",
+            "city": "Storrs",
+            "state": "CT",
+            "zip": "06269",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "uconn.edu/",
+            "price_calculator_url": "financialaid.uconn.edu/pricecalc/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 5,
+            "ownership": 1,
+            "state_fips": 9,
+            "region_id": 1,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 17,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16228,
+            "instructional_expenditure_per_fte": 21257,
+            "faculty_salary": 13183,
+            "ft_faculty_rate": 0.6866,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 423477526,
+                "end": 438656096
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 129020
+    },
+    {
+        "school": {
+            "name": "Goodwin University",
+            "city": "East Hartford",
+            "state": "CT",
+            "zip": "06118",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.goodwin.edu/",
+            "price_calculator_url": "www.goodwin.edu/institutional-effectiveness/npcalc/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 9,
+            "region_id": 1,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 22202,
+            "instructional_expenditure_per_fte": 19579,
+            "faculty_salary": 5873,
+            "ft_faculty_rate": 0.34,
+            "alias": "Goodwin",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "10/26/1983",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 11261000,
+                "end": 11565000
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 129154
+    },
+    {
+        "school": {
+            "name": "Lincoln Technical Institute-East Windsor",
+            "city": "East Windsor",
+            "state": "CT",
+            "zip": "06088",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.lincolntech.edu/campus/east-windsor-ct",
+            "price_calculator_url": "www.lincolntech.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 7,
+            "ownership": 3,
+            "state_fips": 9,
+            "region_id": 1,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14019,
+            "instructional_expenditure_per_fte": 4813,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "9/6/2012",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 129181
+    },
+    {
+        "school": {
+            "name": "Eastern Connecticut State University",
+            "city": "Willimantic",
+            "state": "CT",
+            "zip": "06226",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.easternct.edu/",
+            "price_calculator_url": "https://easternct.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 9,
+            "region_id": 1,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9034,
+            "instructional_expenditure_per_fte": 13709,
+            "faculty_salary": 9335,
+            "ft_faculty_rate": 1,
+            "alias": "Eastern|ECSU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 16255303,
+                "end": 16382515
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 129215
+    },
+    {
+        "school": {
+            "name": "Fairfield University",
+            "city": "Fairfield",
+            "state": "CT",
+            "zip": "06824-5195",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "fairfield.edu/",
+            "price_calculator_url": "npc.collegeboard.org/app/fairfield",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 9,
+            "region_id": 1,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 26569,
+            "instructional_expenditure_per_fte": 13989,
+            "faculty_salary": 11497,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 339671000,
+                "end": 317391000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 129242
+    },
+    {
+        "school": {
+            "name": "Paul Mitchell the School-North Haven",
+            "city": "North Haven",
+            "state": "CT",
+            "zip": "06473",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "paulmitchell.edu/northhaven",
+            "price_calculator_url": "paulmitchell.edu/northhaven/tuition-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 9,
+            "region_id": 1,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12857,
+            "instructional_expenditure_per_fte": 6692,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Paul Mitchell the School North Haven",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "8/10/1979",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 129349
+    }
+]

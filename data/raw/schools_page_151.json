@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Trident Technical College",
+            "city": "Charleston",
+            "state": "SC",
+            "zip": "29423-8067",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.tridenttech.edu/",
+            "price_calculator_url": "https://www.tridenttech.edu/pay/apply/fa_Calc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 45,
+            "region_id": 5,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 4,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3369,
+            "instructional_expenditure_per_fte": 5511,
+            "faculty_salary": 5934,
+            "ft_faculty_rate": 0.502,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "6/13/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 4364948,
+                "end": 4455942
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 218894
+    },
+    {
+        "school": {
+            "name": "Voorhees College",
+            "city": "Denmark",
+            "state": "SC",
+            "zip": "29042",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.voorhees.edu/",
+            "price_calculator_url": "www.voorhees.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 45,
+            "region_id": 5,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 1,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 73,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9631,
+            "instructional_expenditure_per_fte": 6630,
+            "faculty_salary": 5013,
+            "ft_faculty_rate": 0.5926,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 8061881,
+                "end": 8081552
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 218919
+    },
+    {
+        "school": {
+            "name": "Williamsburg Technical College",
+            "city": "Kingstree",
+            "state": "SC",
+            "zip": "29556-4197",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.wiltech.edu/",
+            "price_calculator_url": "https://www.wiltech.edu/NetPrice/NetPriceCalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 45,
+            "region_id": 5,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 322,
+            "instructional_expenditure_per_fte": 6220,
+            "faculty_salary": 4562,
+            "ft_faculty_rate": 0.5652,
+            "alias": "WTC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "11/5/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 7121,
+                "end": 7192
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 218955
+    },
+    {
+        "school": {
+            "name": "Winthrop University",
+            "city": "Rock Hill",
+            "state": "SC",
+            "zip": "29733",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.winthrop.edu/",
+            "price_calculator_url": "www.winthrop.edu/finaid/net-price-calculator.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 45,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9452,
+            "instructional_expenditure_per_fte": 8817,
+            "faculty_salary": 7743,
+            "ft_faculty_rate": 0.6053,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 59022639,
+                "end": 58872128
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 218964
+    },
+    {
+        "school": {
+            "name": "Wofford College",
+            "city": "Spartanburg",
+            "state": "SC",
+            "zip": "29303-3663",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.wofford.edu/",
+            "price_calculator_url": "wofford.studentaidcalculator.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 45,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 71,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17742,
+            "instructional_expenditure_per_fte": 13127,
+            "faculty_salary": 8326,
+            "ft_faculty_rate": 0.8631,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 211672562,
+                "end": 208057660
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 218973
+    },
+    {
+        "school": {
+            "name": "York Technical College",
+            "city": "Rock Hill",
+            "state": "SC",
+            "zip": "29730",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.yorktech.edu/",
+            "price_calculator_url": "yorktech.edu/netpricecalculator.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 45,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 4,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3216,
+            "instructional_expenditure_per_fte": 4914,
+            "faculty_salary": 5666,
+            "ft_faculty_rate": 0.5,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "4/3/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 6302324,
+                "end": 6402434
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 218991
+    },
+    {
+        "school": {
+            "name": "Augustana University",
+            "city": "Sioux Falls",
+            "state": "SD",
+            "zip": "57197-0001",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.augie.edu/",
+            "price_calculator_url": "www.augie.edu/npc",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 46,
+            "region_id": 4,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 39,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14618,
+            "instructional_expenditure_per_fte": 12662,
+            "faculty_salary": 6711,
+            "ft_faculty_rate": 0.7303,
+            "alias": "Augie  Augustana College(SD)  Augustana University",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 89799219,
+                "end": 92324563
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 219000
+    },
+    {
+        "school": {
+            "name": "The Salon Professional Academy",
+            "city": "Rapid City",
+            "state": "SD",
+            "zip": "57701",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.tsparapidcity.com/",
+            "price_calculator_url": "https://tsparapidcity.com/wp-content/uploads/sites/7/npc/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 46,
+            "region_id": 4,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9642,
+            "instructional_expenditure_per_fte": 5906,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "5/12/1980",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 219037
+    },
+    {
+        "school": {
+            "name": "Black Hills State University",
+            "city": "Spearfish",
+            "state": "SD",
+            "zip": "57799-9500",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.bhsu.edu/",
+            "price_calculator_url": "https://form.bhsu.edu/BH_TuitionCalc/TuitionCalculator.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 46,
+            "region_id": 4,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6200,
+            "instructional_expenditure_per_fte": 7287,
+            "faculty_salary": 7098,
+            "ft_faculty_rate": 0.5808,
+            "alias": "BHSU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 12705076,
+                "end": 17168251
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 219046
+    },
+    {
+        "school": {
+            "name": "Dakota State University",
+            "city": "Madison",
+            "state": "SD",
+            "zip": "57042-1799",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://dsu.edu/",
+            "price_calculator_url": "https://dsu.edu/admissions/undergraduate/cost-aid/net-price-calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 46,
+            "region_id": 4,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7859,
+            "instructional_expenditure_per_fte": 9003,
+            "faculty_salary": 8257,
+            "ft_faculty_rate": 0.7762,
+            "alias": "Dakota State",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 15810803,
+                "end": 16163780
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 219082
+    },
+    {
+        "school": {
+            "name": "Dakota Wesleyan University",
+            "city": "Mitchell",
+            "state": "SD",
+            "zip": "57301-4398",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.dwu.edu/",
+            "price_calculator_url": "https://www.dwu.edu/admissions/financial-aid/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 46,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 71,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13089,
+            "instructional_expenditure_per_fte": 6905,
+            "faculty_salary": 6066,
+            "ft_faculty_rate": 0.5618,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 30021946,
+                "end": 30080009
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 219091
+    },
+    {
+        "school": {
+            "name": "Paul Mitchell the School-Rapid City",
+            "city": "Rapid City",
+            "state": "SD",
+            "zip": "57701",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "paulmitchell.edu/rapidcity",
+            "price_calculator_url": "https://paulmitchell.edu/rapidcity/tuition-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 46,
+            "region_id": 4,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10058,
+            "instructional_expenditure_per_fte": 4638,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "4/26/1985",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 219125
+    },
+    {
+        "school": {
+            "name": "Lake Area Technical College",
+            "city": "Watertown",
+            "state": "SD",
+            "zip": "57201-0730",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.lakeareatech.edu/",
+            "price_calculator_url": "www.lakeareatech.edu/financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 46,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5657,
+            "instructional_expenditure_per_fte": 7385,
+            "faculty_salary": 6536,
+            "ft_faculty_rate": 0.7211,
+            "alias": "LATC/Lake Area Tech",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "7/21/1976",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 8130804,
+                "end": 6589463
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 219143
+    },
+    {
+        "school": {
+            "name": "Avera McKennan Hospital School of Radiologic Technology",
+            "city": "Sioux Falls",
+            "state": "SD",
+            "zip": "57117-5045",
+            "accreditor": "Joint Review Committee on Education in Radiologic Technology",
+            "school_url": "www.avera.org/",
+            "price_calculator_url": "www.avera.org/health-care-professionals/avera-mckennan-school-of-radiologic-technology/tuition-and-fees/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 46,
+            "region_id": 4,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2550,
+            "instructional_expenditure_per_fte": 8380,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "JRCERT",
+            "title_iv": {
+                "approval_date": "2/22/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 219170
+    },
+    {
+        "school": {
+            "name": "Mitchell Technical College",
+            "city": "Mitchell",
+            "state": "SD",
+            "zip": "57301",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.mitchelltech.edu/",
+            "price_calculator_url": "https://www.mitchelltech.edu/admissions/financial-aid-options/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 46,
+            "region_id": 4,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1918,
+            "instructional_expenditure_per_fte": 7750,
+            "faculty_salary": 6633,
+            "ft_faculty_rate": 0.8933,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/13/1974",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 3339149,
+                "end": 3651238
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 219189
+    },
+    {
+        "school": {
+            "name": "Mount Marty University",
+            "city": "Yankton",
+            "state": "SD",
+            "zip": "57078-3724",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.mountmarty.edu/",
+            "price_calculator_url": "www.mountmarty.edu/tuition-and-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 46,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 7,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10796,
+            "instructional_expenditure_per_fte": 7383,
+            "faculty_salary": 6895,
+            "ft_faculty_rate": 0.4455,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 28252427,
+                "end": 28072359
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 219198
+    },
+    {
+        "school": {
+            "name": "National American University-Rapid City",
+            "city": "Rapid City",
+            "state": "SD",
+            "zip": "57701-2823",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.national.edu/locations/campuses/rapid-city/",
+            "price_calculator_url": "www.national.edu/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 4,
+            "ownership": 3,
+            "state_fips": 46,
+            "region_id": 4,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 1,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18987,
+            "instructional_expenditure_per_fte": 3653,
+            "faculty_salary": 4167,
+            "ft_faculty_rate": 0,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "2/1/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 219204
+    },
+    {
+        "school": {
+            "name": "Sioux Falls Seminary",
+            "city": "Sioux Falls",
+            "state": "SD",
+            "zip": "57105",
+            "accreditor": "Commission on Accrediting of the Association of Theological Schools",
+            "school_url": "www.sfseminary.edu/",
+            "price_calculator_url": "sfseminary.edu/current-students/registrar-business-office/tuition-and-fees/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 46,
+            "region_id": 4,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 45,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5938,
+            "instructional_expenditure_per_fte": 4051,
+            "faculty_salary": 4946,
+            "ft_faculty_rate": null,
+            "alias": "North American Baptist Seminary",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "ATSUSC",
+            "title_iv": {
+                "approval_date": "2/20/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 2739727,
+                "end": 5945201
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 219240
+    },
+    {
+        "school": {
+            "name": "Northern State University",
+            "city": "Aberdeen",
+            "state": "SD",
+            "zip": "57401-7198",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.northern.edu/",
+            "price_calculator_url": "www.northern.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 46,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5468,
+            "instructional_expenditure_per_fte": 9979,
+            "faculty_salary": 7539,
+            "ft_faculty_rate": 0.96,
+            "alias": "NSU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 31714535,
+                "end": 31232627
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 219259
+    },
+    {
+        "school": {
+            "name": "Oglala Lakota College",
+            "city": "Kyle",
+            "state": "SD",
+            "zip": "57752-0490",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.olc.edu/",
+            "price_calculator_url": "warehouse.olc.edu/local_links/financial_aid/npc/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 46,
+            "region_id": 4,
+            "locale": 43,
+            "degree_urbanization": null,
+            "carnegie_basic": 33,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 1,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2908,
+            "instructional_expenditure_per_fte": 7856,
+            "faculty_salary": 6132,
+            "ft_faculty_rate": 0.5825,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "4/3/1979",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 55486965,
+                "end": 53448131
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 219277
+    }
+]

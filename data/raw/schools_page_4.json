@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "The School of Architecture",
+            "city": "Paradise Valley",
+            "state": "AZ",
+            "zip": "85253",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://theschoolofarchitecture.edu/",
+            "price_calculator_url": "https://theschoolofarchitecture.edu/financial-aid-2021/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 30,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14030,
+            "instructional_expenditure_per_fte": 20431,
+            "faculty_salary": 3098,
+            "ft_faculty_rate": null,
+            "alias": "Frank Lloyd Wright School of Architecture",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "8/26/1987",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 781466,
+                "end": 806448
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 104665
+    },
+    {
+        "school": {
+            "name": "Glendale Community College",
+            "city": "Glendale",
+            "state": "AZ",
+            "zip": "85302",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.gccaz.edu/",
+            "price_calculator_url": "https://www.maricopa.edu/npc/gcc/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 5,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1809,
+            "instructional_expenditure_per_fte": 5598,
+            "faculty_salary": 9179,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "5/20/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 104708
+    },
+    {
+        "school": {
+            "name": "Grand Canyon University",
+            "city": "Phoenix",
+            "state": "AZ",
+            "zip": "85017",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.gcu.edu/",
+            "price_calculator_url": "https://www.gcu.edu/tuition-and-financial-aid",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11470,
+            "instructional_expenditure_per_fte": 2306,
+            "faculty_salary": 6870,
+            "ft_faculty_rate": 0.0822,
+            "alias": "GCU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 104717
+    },
+    {
+        "school": {
+            "name": "GateWay Community College",
+            "city": "Phoenix",
+            "state": "AZ",
+            "zip": "85034",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.gatewaycc.edu/",
+            "price_calculator_url": "www.gatewaycc.edu/enroll/paying-for-college",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 1,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 8,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2299,
+            "instructional_expenditure_per_fte": 7768,
+            "faculty_salary": 8515,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "2/13/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 105145
+    },
+    {
+        "school": {
+            "name": "Mesa Community College",
+            "city": "Mesa",
+            "state": "AZ",
+            "zip": "85202",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.mesacc.edu/",
+            "price_calculator_url": "www.mesacc.edu/students/net-price-calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 5,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2292,
+            "instructional_expenditure_per_fte": 5401,
+            "faculty_salary": 9298,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "3/15/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 105154
+    },
+    {
+        "school": {
+            "name": "Mohave Community College",
+            "city": "Kingman",
+            "state": "AZ",
+            "zip": "86409-1238",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.mohave.edu/",
+            "price_calculator_url": "https://www.mohave.edu/assets/NetPriceCalculator1415/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 5,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2069,
+            "instructional_expenditure_per_fte": 4684,
+            "faculty_salary": 6308,
+            "ft_faculty_rate": 0.332,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "9/19/1974",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 4208054,
+                "end": 3840343
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 105206
+    },
+    {
+        "school": {
+            "name": "Universal Technical Institute of Arizona Inc-Motorcycle Mechanics Institute Division",
+            "city": "Phoenix",
+            "state": "AZ",
+            "zip": "85027",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.uti.edu/",
+            "price_calculator_url": "www.uti.edu/admissions/tuition",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 3,
+            "ownership": 3,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8432,
+            "instructional_expenditure_per_fte": 3332,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Universal Technical Institute of Phoenix, Inc.  Universal Technical Institute   MMI-Phoenix  MMI-AZ",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "1/15/1979",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 105215
+    },
+    {
+        "school": {
+            "name": "Dine College",
+            "city": "Tsaile",
+            "state": "AZ",
+            "zip": "86556",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.dinecollege.edu/",
+            "price_calculator_url": "hooghan.dinecollege.edu/NetPriceCalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": 43,
+            "degree_urbanization": null,
+            "carnegie_basic": 33,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 1,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 365,
+            "instructional_expenditure_per_fte": 11720,
+            "faculty_salary": 6207,
+            "ft_faculty_rate": 0.7079,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "6/10/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 7891978,
+                "end": 8401082
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 105297
+    },
+    {
+        "school": {
+            "name": "Northern Arizona University",
+            "city": "Flagstaff",
+            "state": "AZ",
+            "zip": "86011-4092",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://nau.edu/",
+            "price_calculator_url": "https://www7.nau.edu/finaid/NetPriceCalculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7638,
+            "instructional_expenditure_per_fte": 6753,
+            "faculty_salary": 8931,
+            "ft_faculty_rate": 0.6783,
+            "alias": "NAU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/12/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 192621000,
+                "end": 203671000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 105330
+    },
+    {
+        "school": {
+            "name": "Northland Pioneer College",
+            "city": "Holbrook",
+            "state": "AZ",
+            "zip": "86025-0610",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.npc.edu/",
+            "price_calculator_url": "www.npc.edu/financial-aid-scholarships/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 9,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 1
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1587,
+            "instructional_expenditure_per_fte": 7816,
+            "faculty_salary": 6552,
+            "ft_faculty_rate": 0.5785,
+            "alias": "NPC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "4/10/1975",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 12414,
+                "end": 12414
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 105349
+    },
+    {
+        "school": {
+            "name": "Ottawa University-Phoenix",
+            "city": "Phoenix",
+            "state": "AZ",
+            "zip": "85021",
+            "accreditor": null,
+            "school_url": "www.ottawa.edu/",
+            "price_calculator_url": "www.ottawa.edu/resources/netpricecalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 2,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 52,
+            "online_only": 0,
+            "operating": 0,
+            "tuition_revenue_per_fte": 9573,
+            "instructional_expenditure_per_fte": 1904,
+            "faculty_salary": 6710,
+            "ft_faculty_rate": 0.75,
+            "alias": "OUAZ - Phoenix",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": 3052086,
+                "end": 3197091
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 105367
+    },
+    {
+        "school": {
+            "name": "Phoenix College",
+            "city": "Phoenix",
+            "state": "AZ",
+            "zip": "85013",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.phoenixcollege.edu/",
+            "price_calculator_url": "www.phoenixcollege.edu/tuition-and-fees/net-price-calculators",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 5,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1783,
+            "instructional_expenditure_per_fte": 5843,
+            "faculty_salary": 8897,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 105428
+    },
+    {
+        "school": {
+            "name": "Pima Community College",
+            "city": "Tucson",
+            "state": "AZ",
+            "zip": "85709-1275",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.pima.edu/",
+            "price_calculator_url": "pima.edu/paying-for-college/tuition-fees/net-price-calculator/npc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 5,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2139,
+            "instructional_expenditure_per_fte": 4708,
+            "faculty_salary": 7217,
+            "ft_faculty_rate": 0.2685,
+            "alias": "Pima County Community College District",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "8/1/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 6083664,
+                "end": 5549611
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 105525
+    },
+    {
+        "school": {
+            "name": "Pima Medical Institute-Tucson",
+            "city": "Tucson",
+            "state": "AZ",
+            "zip": "85712",
+            "accreditor": "Accrediting Bureau of Health Education Schools",
+            "school_url": "pmi.edu/",
+            "price_calculator_url": "https://secure.pmi.edu/npcalc/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 13,
+            "ownership": 3,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7376,
+            "instructional_expenditure_per_fte": 2955,
+            "faculty_salary": 5437,
+            "ft_faculty_rate": 0.3128,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ABHES",
+            "title_iv": {
+                "approval_date": "12/30/1982",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 105534
+    },
+    {
+        "school": {
+            "name": "Pima Medical Institute-Albuquerque",
+            "city": "Albuquerque",
+            "state": "NM",
+            "zip": "87110",
+            "accreditor": null,
+            "school_url": "pmi.edu/",
+            "price_calculator_url": "https://secure.pmi.edu/npcalc/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 3,
+            "ownership": 3,
+            "state_fips": 35,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 0,
+            "tuition_revenue_per_fte": 7437,
+            "instructional_expenditure_per_fte": 4821,
+            "faculty_salary": 5034,
+            "ft_faculty_rate": 0.4778,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": "3/29/1990",
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 105543
+    },
+    {
+        "school": {
+            "name": "Prescott College",
+            "city": "Prescott",
+            "state": "AZ",
+            "zip": "86301",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.prescott.edu/",
+            "price_calculator_url": "app.prescott.edu/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 7,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13813,
+            "instructional_expenditure_per_fte": 6721,
+            "faculty_salary": 5423,
+            "ft_faculty_rate": 0.2579,
+            "alias": "Prescot College | Prescott University | Prescott University | Prescott | PC | Prescott Center for Alternative Education",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "10/1/1976",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 2200891,
+                "end": 2243628
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 105589
+    },
+    {
+        "school": {
+            "name": "Refrigeration School Inc",
+            "city": "Phoenix",
+            "state": "AZ",
+            "zip": "85034-1816",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "https://www.rsi.edu/",
+            "price_calculator_url": "https://www.rsi.edu/tuition-planning/tuition-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 11,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14061,
+            "instructional_expenditure_per_fte": 1964,
+            "faculty_salary": 4390,
+            "ft_faculty_rate": 0.8889,
+            "alias": "The Refrigeration School, RSI",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "8/1/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 105659
+    },
+    {
+        "school": {
+            "name": "Rio Salado College",
+            "city": "Tempe",
+            "state": "AZ",
+            "zip": "85281",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.rio.maricopa.edu/",
+            "price_calculator_url": "www.riosalado.edu/cashier/Pages/TuitionCalculator.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 9,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3132,
+            "instructional_expenditure_per_fte": 1925,
+            "faculty_salary": 6676,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "8/24/1978",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 105668
+    },
+    {
+        "school": {
+            "name": "Roberto-Venn School of Luthiery",
+            "city": "Phoenix",
+            "state": "AZ",
+            "zip": "85007",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.roberto-venn.com/",
+            "price_calculator_url": "roberto-venn.com/guitar-making-repair-program/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14085,
+            "instructional_expenditure_per_fte": 12752,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "8/22/1979",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 105677
+    },
+    {
+        "school": {
+            "name": "Scottsdale Community College",
+            "city": "Scottsdale",
+            "state": "AZ",
+            "zip": "85256",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.scottsdalecc.edu/",
+            "price_calculator_url": "https://www.scottsdalecc.edu/students/student-business-services/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 3,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2538,
+            "instructional_expenditure_per_fte": 7556,
+            "faculty_salary": 9330,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 105747
+    }
+]

@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Pearl River Community College-Forrest County Center",
+            "city": "Hattiesburg",
+            "state": "MS",
+            "zip": "39401",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.prcc.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 1,
+            "state_fips": 28,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 17623901
+    },
+    {
+        "school": {
+            "name": "Columbia College - Redstone Arsenal",
+            "city": "Redstone Arsenal",
+            "state": "AL",
+            "zip": "35898-5192",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ccis.edu/locations/redstone-arsenal.aspx",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 42,
+            "ownership": 2,
+            "state_fips": 1,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 17706501
+    },
+    {
+        "school": {
+            "name": "Columbia College - Denver",
+            "city": "Centennial",
+            "state": "CO",
+            "zip": "80112-1464",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ccis.edu/locations/denver.aspx",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 42,
+            "ownership": 2,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 17706503
+    },
+    {
+        "school": {
+            "name": "Columbia College - NAS Jacksonville",
+            "city": "Jacksonville",
+            "state": "FL",
+            "zip": "32212-0137",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ccis.edu/locations/nas-jacksonville.aspx",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 42,
+            "ownership": 2,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 17706504
+    },
+    {
+        "school": {
+            "name": "Columbia College - Orlando",
+            "city": "Orlando",
+            "state": "FL",
+            "zip": "32804-2606",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ccis.edu/locations/orlando.aspx",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 42,
+            "ownership": 2,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 17706505
+    },
+    {
+        "school": {
+            "name": "Columbia College - Crystal Lake Campus",
+            "city": "Crystal Lake",
+            "state": "IL",
+            "zip": "60012-3709",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ccis.edu/locations/crystal-lake.aspx",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 42,
+            "ownership": 2,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 17706506
+    },
+    {
+        "school": {
+            "name": "Columbia College - Kansas City",
+            "city": "Kansas City",
+            "state": "MO",
+            "zip": "64133-1707",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ccis.edu/locations/kansas-city.aspx",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 42,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 17706507
+    },
+    {
+        "school": {
+            "name": "Columbia College - Fort Leonard Wood",
+            "city": "Fort Leonard Wood",
+            "state": "MO",
+            "zip": "65473-1707",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ccis.edu/locations/fort-leonard-wood.aspx",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 42,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 17706508
+    },
+    {
+        "school": {
+            "name": "Columbia College - Jefferson City",
+            "city": "Jefferson City",
+            "state": "MO",
+            "zip": "65109-6877",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ccis.edu/locations/jefferson-city.aspx",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 42,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 17706509
+    },
+    {
+        "school": {
+            "name": "Columbia College - Lake Ozark",
+            "city": "Osage Beach",
+            "state": "MO",
+            "zip": "65065-9677",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ccis.edu/locations/lake-ozark.aspx",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 42,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 17706510
+    },
+    {
+        "school": {
+            "name": "Columbia College - Saint Louis",
+            "city": "Saint Louis",
+            "state": "MO",
+            "zip": "63134-3701",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ccis.edu/locations/st-louis.aspx",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 42,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 17706511
+    },
+    {
+        "school": {
+            "name": "Columbia College - Fort Worth",
+            "city": "Fort Worth",
+            "state": "TX",
+            "zip": "76127-1188",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ccis.edu/locations/fort-worth.aspx",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 42,
+            "ownership": 2,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 17706512
+    },
+    {
+        "school": {
+            "name": "Columbia College - Salt Lake",
+            "city": "Murray",
+            "state": "UT",
+            "zip": "84107-5322",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ccis.edu/locations/salt-lake.aspx",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 42,
+            "ownership": 2,
+            "state_fips": 49,
+            "region_id": 7,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 17706513
+    },
+    {
+        "school": {
+            "name": "Columbia College - Lake County",
+            "city": "Gurnee",
+            "state": "IL",
+            "zip": "60031-9184",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ccis.edu/locations/lake-county.aspx",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 42,
+            "ownership": 2,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 17706514
+    },
+    {
+        "school": {
+            "name": "Columbia College - Naval Station Everett/Marysville",
+            "city": "Marysville",
+            "state": "WA",
+            "zip": "98271-7854",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ccis.edu/locations/marysville.aspx",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 42,
+            "ownership": 2,
+            "state_fips": 53,
+            "region_id": 8,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 17706515
+    },
+    {
+        "school": {
+            "name": "Columbia College - Freeport",
+            "city": "Freeport",
+            "state": "IL",
+            "zip": "61032-9341",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ccis.edu/locations/freeport.aspx",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 42,
+            "ownership": 2,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 17706516
+    },
+    {
+        "school": {
+            "name": "Columbia College - Springfield",
+            "city": "Springfield",
+            "state": "MO",
+            "zip": "65804-4378",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ccis.edu/locations/springfield.aspx",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 42,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 17706517
+    },
+    {
+        "school": {
+            "name": "Columbia College - Rolla",
+            "city": "Rolla",
+            "state": "MO",
+            "zip": "65401-1701",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ccis.edu/locations/rolla.aspx",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 42,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 17706518
+    },
+    {
+        "school": {
+            "name": "Columbia College - Los Alamitos",
+            "city": "Los Alamitos",
+            "state": "CA",
+            "zip": "90720-5177",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ccis.edu/locations/los-alamitos.aspx",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 42,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 17706519
+    },
+    {
+        "school": {
+            "name": "Columbia College - Lemoore",
+            "city": "NAS Lemoore",
+            "state": "CA",
+            "zip": "93246-0001",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ccis.edu/locations/lemoore.aspx",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 42,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 17706521
+    }
+]

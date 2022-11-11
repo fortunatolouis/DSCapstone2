@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Manhattan College",
+            "city": "Riverdale",
+            "state": "NY",
+            "zip": "10471-4098",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.manhattan.edu/",
+            "price_calculator_url": "https://manhattan.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 22854,
+            "instructional_expenditure_per_fte": 12839,
+            "faculty_salary": 11397,
+            "ft_faculty_rate": 0.5226,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 110787779,
+                "end": 119179757
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 192703
+    },
+    {
+        "school": {
+            "name": "Manhattan School of Music",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10027",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.msmnyc.edu/",
+            "price_calculator_url": "www.msmnyc.edu/admissions/scholarships-financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 30,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 32902,
+            "instructional_expenditure_per_fte": 18829,
+            "faculty_salary": 7121,
+            "ft_faculty_rate": 0.2839,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 27018007,
+                "end": 27269258
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 192712
+    },
+    {
+        "school": {
+            "name": "Manhattanville College",
+            "city": "Purchase",
+            "state": "NY",
+            "zip": "10577",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.mville.edu/",
+            "price_calculator_url": "www.mville.edu/undergraduate-admissions/financial-aid-scholarships/forms-calculators",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16239,
+            "instructional_expenditure_per_fte": 9278,
+            "faculty_salary": 8616,
+            "ft_faculty_rate": 0.3567,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 31170263,
+                "end": 29095114
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 192749
+    },
+    {
+        "school": {
+            "name": "Maria College of Albany",
+            "city": "Albany",
+            "state": "NY",
+            "zip": "12208",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.mariacollege.edu/",
+            "price_calculator_url": "https://mariacollege.edu/netPriceCalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16762,
+            "instructional_expenditure_per_fte": 9122,
+            "faculty_salary": 6588,
+            "ft_faculty_rate": 0.8919,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "2/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 1050367,
+                "end": 1106828
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 192785
+    },
+    {
+        "school": {
+            "name": "Marion S Whelan School of Nursing of Geneva General Hospital",
+            "city": "Geneva",
+            "state": "NY",
+            "zip": "14456-1651",
+            "accreditor": "Accrediting Bureau of Health Education Schools",
+            "school_url": "www.mswspn.com/",
+            "price_calculator_url": "mswspn.com/wp-content/uploads/2020/07/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2650,
+            "instructional_expenditure_per_fte": 10617,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "MSWSPN  Geneva School of Practical Nursing",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "ABHES",
+            "title_iv": {
+                "approval_date": "3/10/1981",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 192800
+    },
+    {
+        "school": {
+            "name": "Marist College",
+            "city": "Poughkeepsie",
+            "state": "NY",
+            "zip": "12601",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.marist.edu/",
+            "price_calculator_url": "https://marist.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 24745,
+            "instructional_expenditure_per_fte": 13330,
+            "faculty_salary": 9758,
+            "ft_faculty_rate": 0.4323,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 297590169,
+                "end": 312885533
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 192819
+    },
+    {
+        "school": {
+            "name": "Marymount Manhattan College",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10021-4597",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.mmm.edu/",
+            "price_calculator_url": "https://www.mmm.edu/offices/center-for-student-services/net-price-calculator/index.php",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 23946,
+            "instructional_expenditure_per_fte": 13409,
+            "faculty_salary": 8590,
+            "ft_faculty_rate": 0.2465,
+            "alias": "MMC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 21266020,
+                "end": 21143119
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 192864
+    },
+    {
+        "school": {
+            "name": "Medaille College",
+            "city": "Buffalo",
+            "state": "NY",
+            "zip": "14214-2695",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.medaille.edu/",
+            "price_calculator_url": "www.medaille.edu/admissions/financial-aid-and-tuition/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9711,
+            "instructional_expenditure_per_fte": 5067,
+            "faculty_salary": 5645,
+            "ft_faculty_rate": 0.2893,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "7/1/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 1885114,
+                "end": 1988890
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 192925
+    },
+    {
+        "school": {
+            "name": "St. Peter's Hospital College of Nursing",
+            "city": "Albany",
+            "state": "NY",
+            "zip": "12208",
+            "accreditor": "Accreditation Commission for Education in Nursing",
+            "school_url": "https://www.sphp.com/careers/schools-of-nursing/",
+            "price_calculator_url": "https://apps.sphp.com/SON/Net_Price_Calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10945,
+            "instructional_expenditure_per_fte": 11352,
+            "faculty_salary": 8824,
+            "ft_faculty_rate": null,
+            "alias": "Albany Memorial Hospital School of Nursing/Memorial School of Nursing",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NLNAC",
+            "title_iv": {
+                "approval_date": "1/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 192961
+    },
+    {
+        "school": {
+            "name": "Memorial Hospital School of Radiation Therapy Technology",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10065-6007",
+            "accreditor": "Joint Review Committee on Education in Radiologic Technology",
+            "school_url": "www.mskcc.org/mskcc/html/13431.cfm",
+            "price_calculator_url": "www.mskcc.org/mskcc/html/13431.cfm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4445,
+            "instructional_expenditure_per_fte": 90,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "MSKCC School of Radiation Therapy",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "JRCERT",
+            "title_iv": {
+                "approval_date": "2/13/1974",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 192970
+    },
+    {
+        "school": {
+            "name": "Mercy College",
+            "city": "Dobbs Ferry",
+            "state": "NY",
+            "zip": "10522",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.mercy.edu/",
+            "price_calculator_url": "https://www.mercy.edu/admissions/financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16250,
+            "instructional_expenditure_per_fte": 7301,
+            "faculty_salary": 9490,
+            "ft_faculty_rate": 0.2434,
+            "alias": "Mercy",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 255751263,
+                "end": 249360142
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 193016
+    },
+    {
+        "school": {
+            "name": "Mesivta Torah Vodaath Rabbinical Seminary",
+            "city": "Brooklyn",
+            "state": "NY",
+            "zip": "11218",
+            "accreditor": "Association of Advanced Rabbinical and Talmudic Schools",
+            "school_url": "independentrabbinicalcolleges.org/index.html",
+            "price_calculator_url": "independentrabbinicalcolleges.org/tv.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 1,
+            "women_only": 0,
+            "religious_affiliation": 80,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5312,
+            "instructional_expenditure_per_fte": 6057,
+            "faculty_salary": 2014,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "AARTS",
+            "title_iv": {
+                "approval_date": "10/11/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 1405158,
+                "end": 1260775
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 193052
+    },
+    {
+        "school": {
+            "name": "Mesivta of Eastern Parkway-Yeshiva Zichron Meilech",
+            "city": "Brooklyn",
+            "state": "NY",
+            "zip": "11218-5559",
+            "accreditor": "Association of Advanced Rabbinical and Talmudic Schools",
+            "school_url": "https://mesivtaofeasternparkway.com/",
+            "price_calculator_url": "https://mesivtaofeasternparkway.com/wp-content/uploads/Net Price 18.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 1,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8505,
+            "instructional_expenditure_per_fte": 11678,
+            "faculty_salary": 3475,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "AARTS",
+            "title_iv": {
+                "approval_date": "10/20/1980",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 193061
+    },
+    {
+        "school": {
+            "name": "Mesivtha Tifereth Jerusalem of America",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10002-6301",
+            "accreditor": "Association of Advanced Rabbinical and Talmudic Schools",
+            "school_url": "mtj.edu/",
+            "price_calculator_url": "https://sites.google.com/site/mtjysi",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 1,
+            "women_only": 0,
+            "religious_affiliation": 80,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 19075,
+            "instructional_expenditure_per_fte": 38397,
+            "faculty_salary": 3873,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "AARTS",
+            "title_iv": {
+                "approval_date": "1/25/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 193070
+    },
+    {
+        "school": {
+            "name": "Southern Westchester BOCES-Practical Nursing Program",
+            "city": "Harrison",
+            "state": "NY",
+            "zip": "10528",
+            "accreditor": null,
+            "school_url": "www.swboces.org/",
+            "price_calculator_url": "www.swboces.org/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 0,
+            "tuition_revenue_per_fte": 9768,
+            "instructional_expenditure_per_fte": 10496,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": "1/12/1972",
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 193122
+    },
+    {
+        "school": {
+            "name": "Midway Paris Beauty School",
+            "city": "Ridgewood",
+            "state": "NY",
+            "zip": "11385",
+            "accreditor": null,
+            "school_url": "www.midwayparis.com/",
+            "price_calculator_url": "www.midwayparis.com/net-calculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 0,
+            "tuition_revenue_per_fte": 2847,
+            "instructional_expenditure_per_fte": 1509,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": "10/2/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 193186
+    },
+    {
+        "school": {
+            "name": "Mildred Elley School-Albany Campus",
+            "city": "Albany",
+            "state": "NY",
+            "zip": "12206-1513",
+            "accreditor": "Accrediting Bureau of Health Education Schools",
+            "school_url": "www.mildred-elley.edu/",
+            "price_calculator_url": "www.mildred-elley.edu/financial-aid-policies-information",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 3,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11337,
+            "instructional_expenditure_per_fte": 5819,
+            "faculty_salary": 4871,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ABHES",
+            "title_iv": {
+                "approval_date": "1/17/1983",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 193201
+    },
+    {
+        "school": {
+            "name": "Mirrer Yeshiva Cent Institute",
+            "city": "Brooklyn",
+            "state": "NY",
+            "zip": "11223-2010",
+            "accreditor": "Association of Advanced Rabbinical and Talmudic Schools",
+            "school_url": "www.mirreryeshiva.com/",
+            "price_calculator_url": "www.mirreryeshiva.co/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 2,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 1,
+            "women_only": 0,
+            "religious_affiliation": 80,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6461,
+            "instructional_expenditure_per_fte": 6389,
+            "faculty_salary": 3402,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "AARTS",
+            "title_iv": {
+                "approval_date": "10/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 193247
+    },
+    {
+        "school": {
+            "name": "Modern Welding School",
+            "city": "Schenectady",
+            "state": "NY",
+            "zip": "12304",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "modernwelding.com/",
+            "price_calculator_url": "modernwelding.com/public-information/net-price",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17109,
+            "instructional_expenditure_per_fte": 5266,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "8/16/1984",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 193265
+    },
+    {
+        "school": {
+            "name": "Mohawk Valley Community College",
+            "city": "Utica",
+            "state": "NY",
+            "zip": "13501-5394",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.mvcc.edu/",
+            "price_calculator_url": "www.mvcc.edu/institutional-effectiveness/student-consumer-info/net-price-calculator.php",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3038,
+            "instructional_expenditure_per_fte": 5203,
+            "faculty_salary": 6298,
+            "ft_faculty_rate": 0.4928,
+            "alias": "MVCC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 193283
+    }
+]

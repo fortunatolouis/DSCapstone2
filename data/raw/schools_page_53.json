@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "University of Saint Francis-Fort Wayne",
+            "city": "Fort Wayne",
+            "state": "IN",
+            "zip": "46808-3994",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.sf.edu/",
+            "price_calculator_url": "https://www.sf.edu/netpricecalculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16690,
+            "instructional_expenditure_per_fte": 9351,
+            "faculty_salary": 7124,
+            "ft_faculty_rate": 0.5018,
+            "alias": "University of Saint Francis of Fort Wayne, Indiana  University of Saint Francis  Saint Francis College  University of St. Francis-Fort Wayne   University of St Francis-Fort Wayne  USF",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 31159568,
+                "end": 29979217
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 152336
+    },
+    {
+        "school": {
+            "name": "Saint Mary-of-the-Woods College",
+            "city": "Saint Mary of the Woods",
+            "state": "IN",
+            "zip": "47876-1099",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.smwc.edu/",
+            "price_calculator_url": "https://www.smwc.edu/offices-resources/offices/financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 7,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12893,
+            "instructional_expenditure_per_fte": 8911,
+            "faculty_salary": 5008,
+            "ft_faculty_rate": 0.3011,
+            "alias": "St. Mary-of-the-Woods College   St Mary-of-the-Woods College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 12896452,
+                "end": 12522281
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 152381
+    },
+    {
+        "school": {
+            "name": "Saint Mary's College",
+            "city": "Notre Dame",
+            "state": "IN",
+            "zip": "46556",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.saintmarys.edu/",
+            "price_calculator_url": "www.saintmarys.edu/financial-aid/tools/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 1,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17158,
+            "instructional_expenditure_per_fte": 14633,
+            "faculty_salary": 7619,
+            "ft_faculty_rate": 0.7103,
+            "alias": "St. Mary's College   St Mary's College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 201131308,
+                "end": 198707916
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 152390
+    },
+    {
+        "school": {
+            "name": "Saint Meinrad School of Theology",
+            "city": "St. Meinrad",
+            "state": "IN",
+            "zip": "47577",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.saintmeinrad.edu/",
+            "price_calculator_url": "https://www.saintmeinrad.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 43,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 1,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 22631,
+            "instructional_expenditure_per_fte": 11570,
+            "faculty_salary": 8316,
+            "ft_faculty_rate": 1,
+            "alias": "Saint Meinrad Seminary and School of Theology",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "6/1/1989",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 45851255,
+                "end": 47621293
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 152451
+    },
+    {
+        "school": {
+            "name": "Saint Elizabeth School of Nursing",
+            "city": "Lafayette",
+            "state": "IN",
+            "zip": "47904-9988",
+            "accreditor": "Accreditation Commission for Education in Nursing",
+            "school_url": "https://www.steson.org/",
+            "price_calculator_url": "https://steson.org/calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6606,
+            "instructional_expenditure_per_fte": 11861,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "St. Elizabeth School of Nursing and University of Saint Francis Cooperative Nursing Program",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NLNAC",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 152497
+    },
+    {
+        "school": {
+            "name": "Taylor University",
+            "city": "Upland",
+            "state": "IN",
+            "zip": "46989-1001",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.taylor.edu/",
+            "price_calculator_url": "https://www.taylor.edu/tuition-and-funding/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 42,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 15634,
+            "instructional_expenditure_per_fte": 10772,
+            "faculty_salary": 6973,
+            "ft_faculty_rate": 0.7021,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 93013707,
+                "end": 95014591
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 152530
+    },
+    {
+        "school": {
+            "name": "Trine University",
+            "city": "Angola",
+            "state": "IN",
+            "zip": "46703-1764",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.trine.edu/",
+            "price_calculator_url": "www.trine.edu/admission-aid/tuition-aid/trine-npc.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 2,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14322,
+            "instructional_expenditure_per_fte": 8066,
+            "faculty_salary": 7583,
+            "ft_faculty_rate": 0.5097,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 34832857,
+                "end": 32467728
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 152567
+    },
+    {
+        "school": {
+            "name": "Valparaiso University",
+            "city": "Valparaiso",
+            "state": "IN",
+            "zip": "46383",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.valpo.edu/",
+            "price_calculator_url": "https://www.valpo.edu/student-financial-services/applying/what-to-expect/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 67,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 15861,
+            "instructional_expenditure_per_fte": 10959,
+            "faculty_salary": 7602,
+            "ft_faculty_rate": 0.7384,
+            "alias": "Valpo|VU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 259042000,
+                "end": 254282000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 152600
+    },
+    {
+        "school": {
+            "name": "Vincennes Beauty College",
+            "city": "Vincennes",
+            "state": "IN",
+            "zip": "47591",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "vincennesbeautycollege.com/",
+            "price_calculator_url": "vincennesbeautycollege.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4429,
+            "instructional_expenditure_per_fte": 1948,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "3/16/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 152628
+    },
+    {
+        "school": {
+            "name": "Vincennes University",
+            "city": "Vincennes",
+            "state": "IN",
+            "zip": "47591",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.vinu.edu/",
+            "price_calculator_url": "www.vinu.edu/web/financial-services/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 14,
+            "carnegie_undergrad": 6,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2645,
+            "instructional_expenditure_per_fte": 6653,
+            "faculty_salary": 5908,
+            "ft_faculty_rate": 0.233,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "4/6/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 61980311,
+                "end": 65736187
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 152637
+    },
+    {
+        "school": {
+            "name": "Wabash College",
+            "city": "Crawfordsville",
+            "state": "IN",
+            "zip": "47933-0352",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.wabash.edu/",
+            "price_calculator_url": "https://www.wabash.edu/admissions/finances/npc",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 1,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13643,
+            "instructional_expenditure_per_fte": 17625,
+            "faculty_salary": 8967,
+            "ft_faculty_rate": 0.9184,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 344252286,
+                "end": 335881771
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 152673
+    },
+    {
+        "school": {
+            "name": "Allen College",
+            "city": "Waterloo",
+            "state": "IA",
+            "zip": "50703-1999",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.allencollege.edu/",
+            "price_calculator_url": "www.allencollege.edu/filesimages/cost-calculator/cost-calculator.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 19,
+            "region_id": 4,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 21467,
+            "instructional_expenditure_per_fte": 10807,
+            "faculty_salary": 7548,
+            "ft_faculty_rate": 0.4943,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "10/10/1991",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 7880114,
+                "end": 8005129
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 152798
+    },
+    {
+        "school": {
+            "name": "Briar Cliff University",
+            "city": "Sioux City",
+            "state": "IA",
+            "zip": "51104",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.briarcliff.edu/",
+            "price_calculator_url": "www.briarcliff.edu/filesimages/future chargers/financial aid/costs and financial aid/net-price-calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 19,
+            "region_id": 4,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 7,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13530,
+            "instructional_expenditure_per_fte": 8933,
+            "faculty_salary": 6295,
+            "ft_faculty_rate": 0.697,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 16276558,
+                "end": 17085946
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 152992
+    },
+    {
+        "school": {
+            "name": "Buena Vista University",
+            "city": "Storm Lake",
+            "state": "IA",
+            "zip": "50588",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.bvu.edu/",
+            "price_calculator_url": "https://www.bvu.edu/admissions/financial-assistance/calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 19,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 66,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12481,
+            "instructional_expenditure_per_fte": 8281,
+            "faculty_salary": 6414,
+            "ft_faculty_rate": 0.2155,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 136567559,
+                "end": 128993080
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 153001
+    },
+    {
+        "school": {
+            "name": "Capri College-Dubuque",
+            "city": "Dubuque",
+            "state": "IA",
+            "zip": "52004-0873",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.capricollege.edu/",
+            "price_calculator_url": "www.capricollege.edu/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 19,
+            "region_id": 4,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6839,
+            "instructional_expenditure_per_fte": 5584,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "3/6/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 153074
+    },
+    {
+        "school": {
+            "name": "Capri College-Cedar Rapids",
+            "city": "Cedar Rapids",
+            "state": "IA",
+            "zip": "52404",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.capricollege.edu/",
+            "price_calculator_url": "capricollege.edu/NPC/CR/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 19,
+            "region_id": 4,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6396,
+            "instructional_expenditure_per_fte": 4376,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "6/29/1978",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 153083
+    },
+    {
+        "school": {
+            "name": "Central College",
+            "city": "Pella",
+            "state": "IA",
+            "zip": "50219",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.central.edu/",
+            "price_calculator_url": "www.central.edu/financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 19,
+            "region_id": 4,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 49,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14291,
+            "instructional_expenditure_per_fte": 13930,
+            "faculty_salary": 7452,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 79746593,
+                "end": 79516457
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 153108
+    },
+    {
+        "school": {
+            "name": "Clarke University",
+            "city": "Dubuque",
+            "state": "IA",
+            "zip": "52001-3198",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.clarke.edu/",
+            "price_calculator_url": "https://www.clarke.edu/wp-content/uploads/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 19,
+            "region_id": 4,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17598,
+            "instructional_expenditure_per_fte": 10053,
+            "faculty_salary": 6230,
+            "ft_faculty_rate": 0.5896,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 26522267,
+                "end": 26415457
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 153126
+    },
+    {
+        "school": {
+            "name": "Coe College",
+            "city": "Cedar Rapids",
+            "state": "IA",
+            "zip": "52402-5092",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.coe.edu/",
+            "price_calculator_url": "https://www.coe.edu/admission/financial-aid-scholarships/resources/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 19,
+            "region_id": 4,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 66,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12664,
+            "instructional_expenditure_per_fte": 9411,
+            "faculty_salary": 6688,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 96775214,
+                "end": 98765208
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 153144
+    },
+    {
+        "school": {
+            "name": "Cornell College",
+            "city": "Mount Vernon",
+            "state": "IA",
+            "zip": "52314-1098",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.cornellcollege.edu/",
+            "price_calculator_url": "https://www.cornellcollege.edu/financial-assistance/net-price-calculator/index.shtml",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 19,
+            "region_id": 4,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 71,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16143,
+            "instructional_expenditure_per_fte": 13424,
+            "faculty_salary": 7532,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 76288112,
+                "end": 81135185
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 153162
+    }
+]

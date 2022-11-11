@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Iliff School of Theology",
+            "city": "Denver",
+            "state": "CO",
+            "zip": "80210-4798",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.iliff.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 71,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16850,
+            "instructional_expenditure_per_fte": 20423,
+            "faculty_salary": 7105,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 31533214,
+                "end": 35433454
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 127273
+    },
+    {
+        "school": {
+            "name": "International Salon and Spa Academy",
+            "city": "Colorado Springs",
+            "state": "CO",
+            "zip": "80918-3684",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "https://www.csbeautyschools.com/",
+            "price_calculator_url": "https://www.csbeautyschools.com/financial-aid",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9592,
+            "instructional_expenditure_per_fte": 3929,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "5/29/1975",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 127316
+    },
+    {
+        "school": {
+            "name": "Lamar Community College",
+            "city": "Lamar",
+            "state": "CO",
+            "zip": "81052-3999",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.lamarcc.edu/",
+            "price_calculator_url": "https://www.lamarcc.edu/admission/paying-for-college/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 5,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4136,
+            "instructional_expenditure_per_fte": 6131,
+            "faculty_salary": 5163,
+            "ft_faculty_rate": 0.5,
+            "alias": "LCC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 127389
+    },
+    {
+        "school": {
+            "name": "Colorado Mesa University",
+            "city": "Grand Junction",
+            "state": "CO",
+            "zip": "81501-3122",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.coloradomesa.edu/",
+            "price_calculator_url": "https://www.coloradomesa.edu/financial-aid/resources/financial-aid-calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9442,
+            "instructional_expenditure_per_fte": 8835,
+            "faculty_salary": 7059,
+            "ft_faculty_rate": 0.5793,
+            "alias": "Colorado Mesa",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 34874565,
+                "end": 37213187
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 127556
+    },
+    {
+        "school": {
+            "name": "Metropolitan State University of Denver",
+            "city": "Denver",
+            "state": "CO",
+            "zip": "80217-3362",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.msudenver.edu/",
+            "price_calculator_url": "www.msudenver.edu/financial-aid/cost-of-attendance-coa/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8388,
+            "instructional_expenditure_per_fte": 6444,
+            "faculty_salary": 7089,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 16891088,
+                "end": 18056150
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 127565
+    },
+    {
+        "school": {
+            "name": "Morgan Community College",
+            "city": "Fort  Morgan",
+            "state": "CO",
+            "zip": "80701",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.morgancc.edu/",
+            "price_calculator_url": "https://www.morgancc.edu/npc",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5171,
+            "instructional_expenditure_per_fte": 9774,
+            "faculty_salary": 6593,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "4/18/1972",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 5603965,
+                "end": 6380823
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 127617
+    },
+    {
+        "school": {
+            "name": "Naropa University",
+            "city": "Boulder",
+            "state": "CO",
+            "zip": "80302-6697",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.naropa.edu/",
+            "price_calculator_url": "naropa2021v2.z20.web.core.windows.net/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 7,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 21563,
+            "instructional_expenditure_per_fte": 10635,
+            "faculty_salary": 6331,
+            "ft_faculty_rate": 0.3149,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 8343504,
+                "end": 5426787
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 127653
+    },
+    {
+        "school": {
+            "name": "Nazarene Bible College",
+            "city": "Colorado Springs",
+            "state": "CO",
+            "zip": "80920",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.nbc.edu/",
+            "price_calculator_url": "www.nbc.edu/core/includes/net-price-calculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 59,
+            "online_only": 1,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9734,
+            "instructional_expenditure_per_fte": 5718,
+            "faculty_salary": 4479,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "9/9/1975",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 2772847,
+                "end": 3706819
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 127714
+    },
+    {
+        "school": {
+            "name": "Northeastern Junior College",
+            "city": "Sterling",
+            "state": "CO",
+            "zip": "80751-2944",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.njc.edu/",
+            "price_calculator_url": "www.njc.edu/cost-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 5,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4474,
+            "instructional_expenditure_per_fte": 7516,
+            "faculty_salary": 5924,
+            "ft_faculty_rate": 1,
+            "alias": "NJC|Northeastern|Northeastern Jr College|NE Jr College|Northeastern Colorado|Northeastern Jr Co|Northeastern Community College|Northeast Jr College|Northeast|NE|NEJC|NE JC|NEJUCO|NE JU CO|NEJRCO|Northeastern Sterling|Northeastern JC|Sterling Junior College|North Eastern|",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "2/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1182890,
+                "end": 1192928
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 127732
+    },
+    {
+        "school": {
+            "name": "University of Northern Colorado",
+            "city": "Greeley",
+            "state": "CO",
+            "zip": "80639",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.unco.edu/",
+            "price_calculator_url": "https://www.unco.edu/financial-aid/resources/net-price-calculator.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10594,
+            "instructional_expenditure_per_fte": 9142,
+            "faculty_salary": 7742,
+            "ft_faculty_rate": 0.6033,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 90316032,
+                "end": 88632449
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 127741
+    },
+    {
+        "school": {
+            "name": "Otero Junior College",
+            "city": "La Junta",
+            "state": "CO",
+            "zip": "81050",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ojc.edu/",
+            "price_calculator_url": "https://www.ojc.edu/Calculator/TuitionCalculator.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 4,
+            "ownership": 1,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2841,
+            "instructional_expenditure_per_fte": 7346,
+            "faculty_salary": 5360,
+            "ft_faculty_rate": 1,
+            "alias": "Otero JC  OJC  Otero Jr. College",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "2/2/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 510813,
+                "end": 515921
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 127778
+    },
+    {
+        "school": {
+            "name": "Pikes Peak Community College",
+            "city": "Colorado Springs",
+            "state": "CO",
+            "zip": "80906-5498",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ppcc.edu/",
+            "price_calculator_url": "www.ppcc.edu/paying-for-college/tuition-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5558,
+            "instructional_expenditure_per_fte": 5800,
+            "faculty_salary": 6656,
+            "ft_faculty_rate": 0.931,
+            "alias": "PPCC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "8/18/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 5462431,
+                "end": 6522113
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 127820
+    },
+    {
+        "school": {
+            "name": "Pueblo Community College",
+            "city": "Pueblo",
+            "state": "CO",
+            "zip": "81004-1499",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.pueblocc.edu/",
+            "price_calculator_url": "www.pueblocc.edu/NetPriceCalculator/index.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 14,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4695,
+            "instructional_expenditure_per_fte": 6329,
+            "faculty_salary": 6481,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "10/23/1979",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 127884
+    },
+    {
+        "school": {
+            "name": "Red Rocks Community College",
+            "city": "Lakewood",
+            "state": "CO",
+            "zip": "80228-1255",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.rrcc.edu/",
+            "price_calculator_url": "https://www.rrcc.edu/net_price_calculator/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 14,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7003,
+            "instructional_expenditure_per_fte": 6916,
+            "faculty_salary": 6675,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "9/15/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 127909
+    },
+    {
+        "school": {
+            "name": "Regis University",
+            "city": "Denver",
+            "state": "CO",
+            "zip": "80221-1099",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.regis.edu/",
+            "price_calculator_url": "https://tcc.ruffalonl.com/Regis University/Freshman Students",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 15994,
+            "instructional_expenditure_per_fte": 8381,
+            "faculty_salary": 7340,
+            "ft_faculty_rate": 0.4062,
+            "alias": "Regis/Regis College/RU/Jesuit/Jesuit Denver Colorado/Regis Nursing/College of Computer & Information Science/College of Business & Economics/College of Contemporary Liberal Studies/RHCHP/Rangers/Regis U/Regis in Colorado/Rueckert-Hartman College for Health Professions/College of Computer & Information Sciences/College of Business & Economics/Anderson College of Business",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 69772662,
+                "end": 67372749
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 127918
+    },
+    {
+        "school": {
+            "name": "Rocky Mountain College of Art and Design",
+            "city": "Lakewood",
+            "state": "CO",
+            "zip": "80214",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.rmcad.edu/",
+            "price_calculator_url": "www.rmcad.edu/consumer-information",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 30,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14233,
+            "instructional_expenditure_per_fte": 3623,
+            "faculty_salary": 4649,
+            "ft_faculty_rate": 0.2346,
+            "alias": "RMCAD",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "7/1/1977",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 127945
+    },
+    {
+        "school": {
+            "name": "Montessori Education Center of the Rockies",
+            "city": "Denver",
+            "state": "CO",
+            "zip": "80205",
+            "accreditor": "Montessori Accreditation Council for Teacher Education",
+            "school_url": "www.mecr.edu/",
+            "price_calculator_url": "www.mecr.edu/admissions/tuition-and-financial-aid/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17420,
+            "instructional_expenditure_per_fte": 6291,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Rocky Mountain Montessori Teacher Training Center",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MACTE",
+            "title_iv": {
+                "approval_date": "8/10/1999",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 127954
+    },
+    {
+        "school": {
+            "name": "Colorado State University Pueblo",
+            "city": "Pueblo",
+            "state": "CO",
+            "zip": "81001-4901",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.csupueblo.edu/",
+            "price_calculator_url": "https://www.csupueblo.edu/student-financial-services/net-price-calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5452,
+            "instructional_expenditure_per_fte": 4787,
+            "faculty_salary": 7155,
+            "ft_faculty_rate": 0.5225,
+            "alias": "CSU Pueblo",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 22470939,
+                "end": 22712061
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 128106
+    },
+    {
+        "school": {
+            "name": "Pickens Technical College",
+            "city": "Aurora",
+            "state": "CO",
+            "zip": "80011-9307",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.pickenstech.org/",
+            "price_calculator_url": "www.pickenstech.org/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1950,
+            "instructional_expenditure_per_fte": 4259,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "T.H.Pickens Technical Center",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "8/15/1975",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 128151
+    },
+    {
+        "school": {
+            "name": "Intellitec College-Colorado Springs",
+            "city": "Colorado Springs",
+            "state": "CO",
+            "zip": "80909-6096",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "intellitec.edu/",
+            "price_calculator_url": "intellitec.edu/wp-content/uploads/Net_Price_Calc_index_COS.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13643,
+            "instructional_expenditure_per_fte": 4369,
+            "faculty_salary": 4297,
+            "ft_faculty_rate": 0.8333,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "12/30/1983",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 128179
+    }
+]

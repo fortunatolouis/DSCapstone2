@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Gould's Academy",
+            "city": "Bartlett",
+            "state": "TN",
+            "zip": "38133-4067",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "gouldsacademy.com/",
+            "price_calculator_url": "gouldsacademy.com/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 47,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 21307,
+            "instructional_expenditure_per_fte": 1212,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "7/13/2018",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 493150
+    },
+    {
+        "school": {
+            "name": "Toni & Guy Hairdressing Academy-Rio Rancho",
+            "city": "Rio Rancho",
+            "state": "NM",
+            "zip": "87124-2575",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "riorancho.toniguy.edu/",
+            "price_calculator_url": "https://riorancho.toniguy.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 35,
+            "region_id": 6,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10673,
+            "instructional_expenditure_per_fte": 4059,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "3/12/2018",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 493372
+    },
+    {
+        "school": {
+            "name": "WellSpring School of Allied Health-Springfield",
+            "city": "Springfield",
+            "state": "MO",
+            "zip": "65803-2939",
+            "accreditor": "Accrediting Bureau of Health Education Schools",
+            "school_url": "www.wellspring.edu/",
+            "price_calculator_url": "www.wellspring.edu/consumer-info/gedt-massage-therapy/Gedt.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 4,
+            "ownership": 3,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7151,
+            "instructional_expenditure_per_fte": 2564,
+            "faculty_salary": 3333,
+            "ft_faculty_rate": null,
+            "alias": "Wellspring - Springfield",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ABHES",
+            "title_iv": {
+                "approval_date": "8/14/2017",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 493451
+    },
+    {
+        "school": {
+            "name": "Medical Career College of Northern California",
+            "city": "Roseville",
+            "state": "CA",
+            "zip": "95678-5133",
+            "accreditor": "Accrediting Bureau of Health Education Schools",
+            "school_url": "https://medicalcareercollege.net/",
+            "price_calculator_url": "https://medicalcareercollege.net/financial-aid/",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 29900,
+            "instructional_expenditure_per_fte": 6262,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "ABHES",
+            "title_iv": {
+                "approval_date": "11/19/2018",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 493479
+    },
+    {
+        "school": {
+            "name": "Premiere International College",
+            "city": "Fort Myers",
+            "state": "FL",
+            "zip": "33901-3916",
+            "accreditor": "Accrediting Council for Independent Colleges and Schools",
+            "school_url": "picollege.edu/",
+            "price_calculator_url": "picollege.edu/financial-assistance/",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 19502,
+            "instructional_expenditure_per_fte": 10564,
+            "faculty_salary": 3340,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACICS",
+            "title_iv": {
+                "approval_date": "2/15/2019",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 493488
+    },
+    {
+        "school": {
+            "name": "Kenny's Beauty Academy",
+            "city": "Arlington",
+            "state": "VA",
+            "zip": "22201-4531",
+            "accreditor": null,
+            "school_url": "www.kennysbeautyacademy.com/",
+            "price_calculator_url": "kennysbeautyacademy.com/",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 0,
+            "tuition_revenue_per_fte": 11944,
+            "instructional_expenditure_per_fte": 20303,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": "1/8/2019",
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 493497
+    },
+    {
+        "school": {
+            "name": "American Fitness and Nutrition Academy",
+            "city": "Pasadena",
+            "state": "CA",
+            "zip": "91101-3530",
+            "accreditor": "Accrediting Council for Continuing Education & Training",
+            "school_url": "afna.edu/",
+            "price_calculator_url": "afna.edu/doe/",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10890,
+            "instructional_expenditure_per_fte": 7027,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "AFNA",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCET",
+            "title_iv": {
+                "approval_date": "1/8/2019",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 493503
+    },
+    {
+        "school": {
+            "name": "San Diego Global Knowledge University",
+            "city": "San Diego",
+            "state": "CA",
+            "zip": "92101-7446",
+            "accreditor": "Accrediting Council for Independent Colleges and Schools",
+            "school_url": "www.sdgku.edu/",
+            "price_calculator_url": "sdgku.edu/wp-content/uploads/2019/09/Net-Price-Calculator-SDGKU.html",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 1,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8231,
+            "instructional_expenditure_per_fte": 1996,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACICS",
+            "title_iv": {
+                "approval_date": "12/21/2018",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 493512
+    },
+    {
+        "school": {
+            "name": "Global Tech College",
+            "city": "Toledo",
+            "state": "OH",
+            "zip": "43615-7320",
+            "accreditor": "Accrediting Council for Continuing Education & Training",
+            "school_url": "https://www.globaltech.edu/",
+            "price_calculator_url": "https://globaltech.edu/NetPriceCalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 72289,
+            "instructional_expenditure_per_fte": 26059,
+            "faculty_salary": 5417,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCET",
+            "title_iv": {
+                "approval_date": "7/10/2018",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 493521
+    },
+    {
+        "school": {
+            "name": "Crown Cutz Academy Bristol",
+            "city": "Bristol",
+            "state": "VA",
+            "zip": "24201-3323",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.bristolschoolofhairdesign.com/",
+            "price_calculator_url": "www.bristolschoolofhairdesign.com/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 51,
+            "region_id": 5,
+            "locale": 23,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2277,
+            "instructional_expenditure_per_fte": 1228,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "2/7/2019",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 493530
+    },
+    {
+        "school": {
+            "name": "MCI",
+            "city": "McAllen",
+            "state": "TX",
+            "zip": "78501-2702",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.mcallencareersinstitute.com/",
+            "price_calculator_url": "mcallencareersinstitute.com/consumer-information.asp",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5380,
+            "instructional_expenditure_per_fte": 4338,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "2/22/2019",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 493549
+    },
+    {
+        "school": {
+            "name": "Central Pennsylvania Diesel Institute",
+            "city": "Liverpool",
+            "state": "PA",
+            "zip": "17045-9201",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.cpdiesel.com/",
+            "price_calculator_url": "www.cpdiesel.com/",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 22289,
+            "instructional_expenditure_per_fte": 1872,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "CPDI",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "2/5/2019",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 493558
+    },
+    {
+        "school": {
+            "name": "Bellasa Professional Institute",
+            "city": "North Miami",
+            "state": "FL",
+            "zip": "33161-0000",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.bellasa.edu/",
+            "price_calculator_url": "https://www.bellasa.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4654,
+            "instructional_expenditure_per_fte": 1462,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "12/20/2018",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 493567
+    },
+    {
+        "school": {
+            "name": "PMCA Pittsburgh Multicultural Cosmetology Academy",
+            "city": "Pittsburgh",
+            "state": "PA",
+            "zip": "15222-2245",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "pmcapgh.com/",
+            "price_calculator_url": "pmcapgh.com/npcindex.html",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5541,
+            "instructional_expenditure_per_fte": 6128,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "5/20/2019",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 493576
+    },
+    {
+        "school": {
+            "name": "Health and Technology Training Institute",
+            "city": "Philadelphia",
+            "state": "PA",
+            "zip": "19102-1024",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "https://www.httiphila.org/",
+            "price_calculator_url": "https://www.httiphila.org/practical-nursing.html",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14689,
+            "instructional_expenditure_per_fte": 15066,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "12/3/2018",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 493585
+    },
+    {
+        "school": {
+            "name": "Yeshiva of Ocean",
+            "city": "Greenfield Park",
+            "state": "NY",
+            "zip": "12435-5308",
+            "accreditor": "Association of Institutions of Jewish Studies",
+            "school_url": "yeshivaofocean.com/",
+            "price_calculator_url": "yeshivaofocean.com/wp-content/uploads/Net Price Calculator 20.html",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 42,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7780,
+            "instructional_expenditure_per_fte": 4886,
+            "faculty_salary": 6300,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "AIJS",
+            "title_iv": {
+                "approval_date": "10/17/2018",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 493594
+    },
+    {
+        "school": {
+            "name": "Congregation Talmidei Mesivta Tiferes Shmiel Aleksander",
+            "city": "Brooklyn",
+            "state": "NY",
+            "zip": "11219-5440",
+            "accreditor": "Association of Advanced Rabbinical and Talmudic Schools",
+            "school_url": "yeshivaaleksander.org/",
+            "price_calculator_url": "yeshivaaleksander.org/",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18829,
+            "instructional_expenditure_per_fte": 9453,
+            "faculty_salary": 4025,
+            "ft_faculty_rate": 0.7692,
+            "alias": "Yeshiva Aleksander",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "AARTS",
+            "title_iv": {
+                "approval_date": "11/7/2018",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 493600
+    },
+    {
+        "school": {
+            "name": "Young Americans College of the Performing Arts",
+            "city": "Corona",
+            "state": "CA",
+            "zip": "92881-3390",
+            "accreditor": "Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges",
+            "school_url": "https://www.yacollege.edu/",
+            "price_calculator_url": "https://www.yacollege.edu/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10703,
+            "instructional_expenditure_per_fte": 6690,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "WASCJC",
+            "title_iv": {
+                "approval_date": "4/15/2019",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 75301,
+                "end": 78037
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 493619
+    },
+    {
+        "school": {
+            "name": "Pro Beauty Academy",
+            "city": "Edison",
+            "state": "NJ",
+            "zip": "08820-2843",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.probeautyacademy.com/",
+            "price_calculator_url": "www.probeautyacademy.com/finance.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12072,
+            "instructional_expenditure_per_fte": 3520,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "12/14/2018",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 493628
+    },
+    {
+        "school": {
+            "name": "South Eastern Beauty Academy",
+            "city": "Paintsville",
+            "state": "KY",
+            "zip": "41240-1034",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "southeasternbeautyacadaemy.com/",
+            "price_calculator_url": "southeasternbeautyacademy.com/",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 21,
+            "region_id": 5,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3476,
+            "instructional_expenditure_per_fte": 1190,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "10/3/2018",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 493637
+    }
+]

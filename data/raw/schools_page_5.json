@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "South Mountain Community College",
+            "city": "Phoenix",
+            "state": "AZ",
+            "zip": "85042",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.southmountaincc.edu/",
+            "price_calculator_url": "www.southmountaincc.edu/disclosures/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1475,
+            "instructional_expenditure_per_fte": 6700,
+            "faculty_salary": 9139,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "7/15/1980",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 105792
+    },
+    {
+        "school": {
+            "name": "Arizona Christian University",
+            "city": "Glendale",
+            "state": "AZ",
+            "zip": "85306-3216",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "arizonachristian.edu/",
+            "price_calculator_url": "arizonachristian.edu/admissions/financial-aid/calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 7,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 88,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12312,
+            "instructional_expenditure_per_fte": 4685,
+            "faculty_salary": 5102,
+            "ft_faculty_rate": 0.2809,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "7/1/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 999388,
+                "end": 251427
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 105899
+    },
+    {
+        "school": {
+            "name": "Universal Technical Institute of Arizona Inc",
+            "city": "Avondale",
+            "state": "AZ",
+            "zip": "85323",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.uti.edu/",
+            "price_calculator_url": "www.uti.edu/admissions/tuition",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 5,
+            "ownership": 3,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": 22,
+            "degree_urbanization": null,
+            "carnegie_basic": 11,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14223,
+            "instructional_expenditure_per_fte": 3309,
+            "faculty_salary": 5289,
+            "ft_faculty_rate": null,
+            "alias": "Universal Technical Institute  UTI-AZ  UTI-Avondale",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "8/19/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 106041
+    },
+    {
+        "school": {
+            "name": "Empire Beauty School-NW Phoenix",
+            "city": "Phoenix",
+            "state": "AZ",
+            "zip": "85051",
+            "accreditor": null,
+            "school_url": "www.empire.edu/",
+            "price_calculator_url": "www.empire.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 9,
+            "ownership": 3,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 0,
+            "tuition_revenue_per_fte": 9887,
+            "instructional_expenditure_per_fte": 18126,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": "8/9/2013",
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 106111
+    },
+    {
+        "school": {
+            "name": "Yavapai College",
+            "city": "Prescott",
+            "state": "AZ",
+            "zip": "86301",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.yc.edu/",
+            "price_calculator_url": "www.yc.edu/webtools/forms/netpricecalc/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 4,
+            "region_id": 6,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2226,
+            "instructional_expenditure_per_fte": 6657,
+            "faculty_salary": 7513,
+            "ft_faculty_rate": 0.3677,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "4/15/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 14290075,
+                "end": 14934669
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 106148
+    },
+    {
+        "school": {
+            "name": "University of Arkansas at Little Rock",
+            "city": "Little Rock",
+            "state": "AR",
+            "zip": "72204",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "ualr.edu/www/",
+            "price_calculator_url": "ualr.edu/finaid/npc/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 5,
+            "region_id": 5,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6302,
+            "instructional_expenditure_per_fte": 8062,
+            "faculty_salary": 9822,
+            "ft_faculty_rate": 1,
+            "alias": "UA Little Rock|University of Arkansas-Little Rock|Arkansas Little Rock|",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 111153423,
+                "end": 137934462
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 106245
+    },
+    {
+        "school": {
+            "name": "University of Arkansas for Medical Sciences",
+            "city": "Little Rock",
+            "state": "AR",
+            "zip": "72205-7199",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.uams.edu/",
+            "price_calculator_url": "studentfinancialservices.uams.edu/tuition-and-fees/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 5,
+            "region_id": 5,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 25,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18187,
+            "instructional_expenditure_per_fte": 47373,
+            "faculty_salary": 10144,
+            "ft_faculty_rate": 0.8824,
+            "alias": "UAMS",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "4/17/1989",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 60485000,
+                "end": 334680000
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 106263
+    },
+    {
+        "school": {
+            "name": "Arkansas Baptist College",
+            "city": "Little Rock",
+            "state": "AR",
+            "zip": "72202-6068",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.arkansasbaptist.edu/",
+            "price_calculator_url": "www.arkansasbaptist.edu/financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 1,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 5,
+            "region_id": 5,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 23,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 1,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 54,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7820,
+            "instructional_expenditure_per_fte": 2279,
+            "faculty_salary": 4303,
+            "ft_faculty_rate": 0.5278,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 106306
+    },
+    {
+        "school": {
+            "name": "Arkansas Beauty School-Little Rock",
+            "city": "Little Rock",
+            "state": "AR",
+            "zip": "72209",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "arbs.edu/",
+            "price_calculator_url": "arbs.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 5,
+            "region_id": 5,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3349,
+            "instructional_expenditure_per_fte": 1008,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "2/21/1990",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 106315
+    },
+    {
+        "school": {
+            "name": "Arkansas Beauty College",
+            "city": "Russellville",
+            "state": "AR",
+            "zip": "72801",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "https://www.arkansasbeautycollege.us/",
+            "price_calculator_url": "arkbeautycollege.wixsite.com/netpricecalculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 5,
+            "region_id": 5,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10631,
+            "instructional_expenditure_per_fte": 4353,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "10/7/2005",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 106324
+    },
+    {
+        "school": {
+            "name": "Lyon College",
+            "city": "Batesville",
+            "state": "AR",
+            "zip": "72501",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.lyon.edu/",
+            "price_calculator_url": "https://lyon.virtueanalytics.com/#!/home/npc",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 5,
+            "region_id": 5,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 66,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10178,
+            "instructional_expenditure_per_fte": 12587,
+            "faculty_salary": 6548,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 60939637,
+                "end": 97668919
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 106342
+    },
+    {
+        "school": {
+            "name": "Arkansas Technical School",
+            "city": "North Little Rock",
+            "state": "AR",
+            "zip": "72114",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.arktech.edu/",
+            "price_calculator_url": "www.arktech.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 5,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14751,
+            "instructional_expenditure_per_fte": 3316,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "9/11/1990",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 106351
+    },
+    {
+        "school": {
+            "name": "Arthur's Beauty College",
+            "city": "Fort Smith",
+            "state": "AR",
+            "zip": "72901-3342",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.arthursbeautycollege.com/",
+            "price_calculator_url": "https://www.arthursbeautycollege.com/fort-smith.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 5,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9894,
+            "instructional_expenditure_per_fte": 5803,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Arthur's Beauty College",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "9/30/1980",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 106360
+    },
+    {
+        "school": {
+            "name": "University of Arkansas",
+            "city": "Fayetteville",
+            "state": "AR",
+            "zip": "72701",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.uark.edu/",
+            "price_calculator_url": "https://finaid.uark.edu/aid-calculator.php",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 5,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10131,
+            "instructional_expenditure_per_fte": 11441,
+            "faculty_salary": 9951,
+            "ft_faculty_rate": 0.8825,
+            "alias": "University of Arkansas|Arkansas",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1221935032,
+                "end": 1209277289
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 106397
+    },
+    {
+        "school": {
+            "name": "University of Arkansas at Pine Bluff",
+            "city": "Pine Bluff",
+            "state": "AR",
+            "zip": "71601",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.uapb.edu/",
+            "price_calculator_url": "www.uapb.edu/admissions/net_price_calculator.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 5,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 1,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4433,
+            "instructional_expenditure_per_fte": 8129,
+            "faculty_salary": 5885,
+            "ft_faculty_rate": 0.8062,
+            "alias": "UAPB",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "3/31/1982",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 3809754,
+                "end": 7488701
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 106412
+    },
+    {
+        "school": {
+            "name": "Arkansas State University-Beebe",
+            "city": "Beebe",
+            "state": "AR",
+            "zip": "72012-1000",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.asub.edu/",
+            "price_calculator_url": "www.asub.edu/financial-aid/1718-files/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 5,
+            "region_id": 5,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": 5,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1792,
+            "instructional_expenditure_per_fte": 4104,
+            "faculty_salary": 5089,
+            "ft_faculty_rate": 0.5549,
+            "alias": "ASU-BEEBE",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 768658,
+                "end": 758354
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 106449
+    },
+    {
+        "school": {
+            "name": "Arkansas State University",
+            "city": "Jonesboro",
+            "state": "AR",
+            "zip": "72401",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.astate.edu/",
+            "price_calculator_url": "www.astate.edu/a/finaid/tuition-fees/net-price-calculator/index.dot",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 5,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4233,
+            "instructional_expenditure_per_fte": 5604,
+            "faculty_salary": 7240,
+            "ft_faculty_rate": 1,
+            "alias": "A-State",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 80690954,
+                "end": 82311424
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 106458
+    },
+    {
+        "school": {
+            "name": "Arkansas Tech University",
+            "city": "Russellville",
+            "state": "AR",
+            "zip": "72801-2222",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.atu.edu/",
+            "price_calculator_url": "www.atu.edu/finaid/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 5,
+            "region_id": 5,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4687,
+            "instructional_expenditure_per_fte": 4939,
+            "faculty_salary": 6829,
+            "ft_faculty_rate": 0.9946,
+            "alias": "ATU|Tech|Arkansas Tech",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 43641143,
+                "end": 49075714
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 106467
+    },
+    {
+        "school": {
+            "name": "University of Arkansas at Monticello",
+            "city": "Monticello",
+            "state": "AR",
+            "zip": "71656",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.uamont.edu/",
+            "price_calculator_url": "www.uamont.edu/NetPrice/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 5,
+            "region_id": 5,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4106,
+            "instructional_expenditure_per_fte": 8774,
+            "faculty_salary": 5759,
+            "ft_faculty_rate": 1,
+            "alias": "UAM",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/19/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 3782431,
+                "end": 3728045
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 106485
+    },
+    {
+        "school": {
+            "name": "Arthur's Beauty College",
+            "city": "Jacksonville",
+            "state": "AR",
+            "zip": "72076",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "arthursbeautycollege.com/",
+            "price_calculator_url": "https://www.arthursbeautycollege.com/jacksonville.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 5,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14099,
+            "instructional_expenditure_per_fte": 8262,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Arthur's Beauty College",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "11/19/1987",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 106494
+    }
+]

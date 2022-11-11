@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Concorde Career Institute-Jacksonville",
+            "city": "Jacksonville",
+            "state": "FL",
+            "zip": "32256-6905",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "https://www.concorde.edu/campus/jacksonville-florida",
+            "price_calculator_url": "https://enroll.myconcorde.edu/Npc",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16694,
+            "instructional_expenditure_per_fte": 7772,
+            "faculty_salary": 5492,
+            "ft_faculty_rate": 0.6719,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "12/1/1978",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 133845
+    },
+    {
+        "school": {
+            "name": "Concorde Career Institute-Miramar",
+            "city": "Miramar",
+            "state": "FL",
+            "zip": "33025",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "https://www.concorde.edu/campus/miramar-florida",
+            "price_calculator_url": "https://enroll.myconcorde.edu/Npc",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16608,
+            "instructional_expenditure_per_fte": 8112,
+            "faculty_salary": 5835,
+            "ft_faculty_rate": 0.675,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "11/3/1987",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 133854
+    },
+    {
+        "school": {
+            "name": "Concorde Career Institute-Tampa",
+            "city": "Tampa",
+            "state": "FL",
+            "zip": "33607-4127",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "https://www.concorde.edu/campus/tampa-florida",
+            "price_calculator_url": "https://enroll.myconcorde.edu/Npc",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14416,
+            "instructional_expenditure_per_fte": 5113,
+            "faculty_salary": 4156,
+            "ft_faculty_rate": 0.5897,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "9/22/1987",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 133863
+    },
+    {
+        "school": {
+            "name": "AdventHealth University",
+            "city": "Orlando",
+            "state": "FL",
+            "zip": "32803",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.ahu.edu/",
+            "price_calculator_url": "npc.rewiretech.com/student/app/ahu/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 95,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16950,
+            "instructional_expenditure_per_fte": 10725,
+            "faculty_salary": 7949,
+            "ft_faculty_rate": 0.9725,
+            "alias": "Florida Hospital College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "6/7/1995",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 8625440,
+                "end": 8716135
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 133872
+    },
+    {
+        "school": {
+            "name": "Florida Institute of Technology",
+            "city": "Melbourne",
+            "state": "FL",
+            "zip": "32901-6975",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.fit.edu/",
+            "price_calculator_url": "https://fit.aidcalc.cloud/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 23833,
+            "instructional_expenditure_per_fte": 12808,
+            "faculty_salary": 9639,
+            "ft_faculty_rate": 0.924,
+            "alias": "Florida Tech",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 89708504,
+                "end": 81763706
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 133881
+    },
+    {
+        "school": {
+            "name": "Florida Institute of Ultrasound Inc",
+            "city": "Pensacola",
+            "state": "FL",
+            "zip": "32514",
+            "accreditor": null,
+            "school_url": "www.fiupensacola.edu/",
+            "price_calculator_url": "www.fiupensacola.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9245,
+            "instructional_expenditure_per_fte": 5927,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": "4/9/1986",
+                "eligibility_type": 5
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 133942
+    },
+    {
+        "school": {
+            "name": "Florida International University",
+            "city": "Miami",
+            "state": "FL",
+            "zip": "33199",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.fiu.edu/",
+            "price_calculator_url": "finance.fiu.edu/controller/UG_Calculator.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5472,
+            "instructional_expenditure_per_fte": 6435,
+            "faculty_salary": 10886,
+            "ft_faculty_rate": 0.9764,
+            "alias": "FIU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "6/1/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 216382258,
+                "end": 218684250
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 133951
+    },
+    {
+        "school": {
+            "name": "The College of the Florida Keys",
+            "city": "Key West",
+            "state": "FL",
+            "zip": "33040",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.cfk.edu/",
+            "price_calculator_url": "https://www.cfk.edu/paying-for-college/financial-aid/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 1,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 14,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2631,
+            "instructional_expenditure_per_fte": 8108,
+            "faculty_salary": 6659,
+            "ft_faculty_rate": 0.3333,
+            "alias": "Key West Community College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "1/3/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 3905662,
+                "end": 3709333
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 133960
+    },
+    {
+        "school": {
+            "name": "Florida Memorial University",
+            "city": "Miami Gardens",
+            "state": "FL",
+            "zip": "33054-6199",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.fmuniv.edu/",
+            "price_calculator_url": "www.fmuniv.edu/netpricecalc/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 1,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 54,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13812,
+            "instructional_expenditure_per_fte": 4293,
+            "faculty_salary": 7261,
+            "ft_faculty_rate": 0.7011,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 3998843,
+                "end": 4472770
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 133979
+    },
+    {
+        "school": {
+            "name": "Florida Career College-Miami",
+            "city": "Miami",
+            "state": "FL",
+            "zip": "33174",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "https://www.floridacareercollege.edu/",
+            "price_calculator_url": "https://enroll.floridacareercollege.edu/Npc",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 11,
+            "ownership": 3,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 8,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8326,
+            "instructional_expenditure_per_fte": 3805,
+            "faculty_salary": 4177,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "7/15/1985",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 133997
+    },
+    {
+        "school": {
+            "name": "Florida School of Massage",
+            "city": "Gainesville",
+            "state": "FL",
+            "zip": "32608-5419",
+            "accreditor": "Commission on Massage Therapy Accreditation",
+            "school_url": "floridaschoolofmassage.com/",
+            "price_calculator_url": "floridaschoolofmassage.com/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16826,
+            "instructional_expenditure_per_fte": 5075,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COMTA",
+            "title_iv": {
+                "approval_date": "5/12/2008",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 134024
+    },
+    {
+        "school": {
+            "name": "Florida Southern College",
+            "city": "Lakeland",
+            "state": "FL",
+            "zip": "33801-5698",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.flsouthern.edu/",
+            "price_calculator_url": "www.flsouthern.edu/undergraduate/financial-aid/net-price-calculator.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 71,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17633,
+            "instructional_expenditure_per_fte": 9228,
+            "faculty_salary": 8407,
+            "ft_faculty_rate": 0.9942,
+            "alias": "Florida Southern|FSC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 94802803,
+                "end": 94599918
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 134079
+    },
+    {
+        "school": {
+            "name": "Florida State University",
+            "city": "Tallahassee",
+            "state": "FL",
+            "zip": "32306-1037",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.fsu.edu/",
+            "price_calculator_url": "https://financialaid.fsu.edu/cost",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5017,
+            "instructional_expenditure_per_fte": 11221,
+            "faculty_salary": 11160,
+            "ft_faculty_rate": 0.8499,
+            "alias": "Florida State|F.S.U.|FSU|F. S. U.|Fla. State University|Fla. State|Fl State University|Fl State|FL State University|FL State|Seminoles|Noles|Florida State Seminoles|Florida State University Seminoles|Fl. State|Fl. State University|The Florida State University|Floridia State University|Florda State University|Florida State Univerisity|Flordia State University|Florida State Unversity|",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 704105609,
+                "end": 699912745
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 134097
+    },
+    {
+        "school": {
+            "name": "University of Florida",
+            "city": "Gainesville",
+            "state": "FL",
+            "zip": "32611",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.ufl.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/student/app/ufl",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7954,
+            "instructional_expenditure_per_fte": 16571,
+            "faculty_salary": 11900,
+            "ft_faculty_rate": 0.8803,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1818319000,
+                "end": 1844523000
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 134130
+    },
+    {
+        "school": {
+            "name": "Fort Pierce Beauty Academy",
+            "city": "Fort Pierce",
+            "state": "FL",
+            "zip": "34982-6333",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "fpbeauty.com/",
+            "price_calculator_url": "acadm.fpbeauty.net/fp/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4086,
+            "instructional_expenditure_per_fte": 4190,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "5/25/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 134228
+    },
+    {
+        "school": {
+            "name": "Full Sail University",
+            "city": "Winter Park",
+            "state": "FL",
+            "zip": "32792-7429",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.fullsail.edu/",
+            "price_calculator_url": "https://fullsail.studentaidcalculator.com/welcome.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 15955,
+            "instructional_expenditure_per_fte": 4369,
+            "faculty_salary": 4750,
+            "ft_faculty_rate": 0.9496,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "10/1/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 134237
+    },
+    {
+        "school": {
+            "name": "George Stone Technical College",
+            "city": "Pensacola",
+            "state": "FL",
+            "zip": "32526-8922",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.georgestonecollege.edu/",
+            "price_calculator_url": "www1.escambia.k12.fl.us/schscnts/gstone/netpricecalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2186,
+            "instructional_expenditure_per_fte": 7924,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "George Stone Technical Center",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "7/14/1981",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 134291
+    },
+    {
+        "school": {
+            "name": "George T Baker Aviation Technical College",
+            "city": "Miami",
+            "state": "FL",
+            "zip": "33142",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "https://www.bakeraviationtechcollege.com/",
+            "price_calculator_url": "https://bakeraviationtechcollege.com/net-price-calculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2256,
+            "instructional_expenditure_per_fte": 3640,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "6/2/1992",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 134307
+    },
+    {
+        "school": {
+            "name": "Gulf Coast State College",
+            "city": "Panama City",
+            "state": "FL",
+            "zip": "32401",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.gulfcoast.edu/default.htm",
+            "price_calculator_url": "https://www.gulfcoast.edu/tuition-aid/financial-aid/net-price-calculator/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 14,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1426,
+            "instructional_expenditure_per_fte": 11994,
+            "faculty_salary": 5266,
+            "ft_faculty_rate": 0.5989,
+            "alias": "GCSC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 33364993,
+                "end": 31742169
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 134343
+    },
+    {
+        "school": {
+            "name": "Key College",
+            "city": "Fort Lauderdale",
+            "state": "FL",
+            "zip": "33304-2532",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.keycollege.edu/",
+            "price_calculator_url": "https://www.keycollege.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 31,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8594,
+            "instructional_expenditure_per_fte": 5009,
+            "faculty_salary": 3333,
+            "ft_faculty_rate": null,
+            "alias": "Independent Education Corp dba Key College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "10/29/1980",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 134422
+    }
+]

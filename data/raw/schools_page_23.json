@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Southwestern College",
+            "city": "Chula Vista",
+            "state": "CA",
+            "zip": "91910-7299",
+            "accreditor": "Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges",
+            "school_url": "https://www.swccd.edu/",
+            "price_calculator_url": "https://misweb.cccco.edu/npc/091/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 5,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 496,
+            "instructional_expenditure_per_fte": 5441,
+            "faculty_salary": 9979,
+            "ft_faculty_rate": 0.2769,
+            "alias": "Southwestern Community College District",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "WASCJC",
+            "title_iv": {
+                "approval_date": "5/5/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1194921,
+                "end": 1014038
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 123800
+    },
+    {
+        "school": {
+            "name": "St John's Seminary",
+            "city": "Camarillo",
+            "state": "CA",
+            "zip": "93012-2500",
+            "accreditor": "Western Association of Schools and Colleges Senior Colleges and University Commission",
+            "school_url": "www.stjohnsem.edu",
+            "price_calculator_url": "www.stjohnsem.edu",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "SJS | St John's Seminary | Saint John's Seminary",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "WASCSR",
+            "title_iv": {
+                "approval_date": "1/14/1975",
+                "eligibility_type": 3
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 123855
+    },
+    {
+        "school": {
+            "name": "Starr King School for the Ministry",
+            "city": "Oakland",
+            "state": "CA",
+            "zip": "94613-1209",
+            "accreditor": "Commission on Accrediting of the Association of Theological Schools",
+            "school_url": "www.sksm.edu/",
+            "price_calculator_url": "www.sksm.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 93,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18578,
+            "instructional_expenditure_per_fte": 9161,
+            "faculty_salary": 6090,
+            "ft_faculty_rate": 0.3684,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "ATSUSC",
+            "title_iv": {
+                "approval_date": "4/22/1975",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 6288663,
+                "end": 5945771
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 123916
+    },
+    {
+        "school": {
+            "name": "Marshall B Ketchum University",
+            "city": "Fullerton",
+            "state": "CA",
+            "zip": "92831-1699",
+            "accreditor": "Western Association of Schools and Colleges Senior Colleges and University Commission",
+            "school_url": "www.ketchum.edu/",
+            "price_calculator_url": "www.ketchum.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 44461,
+            "instructional_expenditure_per_fte": 43687,
+            "faculty_salary": 10989,
+            "ft_faculty_rate": 0.814,
+            "alias": "formerly Southern California College of Optometry",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "WASCSR",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 8817757,
+                "end": 8413000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 123943
+    },
+    {
+        "school": {
+            "name": "Southern California Institute of Architecture",
+            "city": "Los Angeles",
+            "state": "CA",
+            "zip": "90013-1822",
+            "accreditor": "Western Association of Schools and Colleges Senior Colleges and University Commission",
+            "school_url": "www.sciarc.edu/",
+            "price_calculator_url": "www.sciarc.edu/admissions/financial-aid/cost-to-attend",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 30,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 30898,
+            "instructional_expenditure_per_fte": 13508,
+            "faculty_salary": 11371,
+            "ft_faculty_rate": 0.575,
+            "alias": "SCI-Arc",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "WASCSR",
+            "title_iv": {
+                "approval_date": "8/17/1977",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 3842000,
+                "end": 4568000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 123952
+    },
+    {
+        "school": {
+            "name": "University of Southern California",
+            "city": "Los Angeles",
+            "state": "CA",
+            "zip": "90089",
+            "accreditor": "Western Association of Schools and Colleges Senior Colleges and University Commission",
+            "school_url": "www.usc.edu/",
+            "price_calculator_url": "https://financialaid.usc.edu/npc",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 37261,
+            "instructional_expenditure_per_fte": 56494,
+            "faculty_salary": 15301,
+            "ft_faculty_rate": 0.6183,
+            "alias": "USC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "WASCSR",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 5739565000,
+                "end": 5914358000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 123961
+    },
+    {
+        "school": {
+            "name": "Southwestern Law School",
+            "city": "Los Angeles",
+            "state": "CA",
+            "zip": "90010-1106",
+            "accreditor": "American Bar Association",
+            "school_url": "www.swlaw.edu/",
+            "price_calculator_url": "www.swlaw.edu/admissions-financial-aid/tuition-fees/student-service-fee-other-fees",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 31,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 44222,
+            "instructional_expenditure_per_fte": 18134,
+            "faculty_salary": 14938,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "ABA",
+            "title_iv": {
+                "approval_date": "8/1/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 19064889,
+                "end": 21385703
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 123970
+    },
+    {
+        "school": {
+            "name": "Taft College",
+            "city": "Taft",
+            "state": "CA",
+            "zip": "93268",
+            "accreditor": "Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges",
+            "school_url": "www.taftcollege.edu/",
+            "price_calculator_url": "https://misweb.cccco.edu/npc/691/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 706,
+            "instructional_expenditure_per_fte": 6159,
+            "faculty_salary": 10751,
+            "ft_faculty_rate": 0.437,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "WASCJC",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1667906,
+                "end": 1661453
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 124113
+    },
+    {
+        "school": {
+            "name": "Claremont School of Theology",
+            "city": "Claremont",
+            "state": "CA",
+            "zip": "91711-3199",
+            "accreditor": "Western Association of Schools and Colleges Senior Colleges and University Commission",
+            "school_url": "www.cst.edu/",
+            "price_calculator_url": "www.cst.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 71,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10438,
+            "instructional_expenditure_per_fte": 14804,
+            "faculty_salary": 5551,
+            "ft_faculty_rate": 0.6897,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "WASCSR",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 10125147,
+                "end": 9111262
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 124283
+    },
+    {
+        "school": {
+            "name": "Thomas Aquinas College",
+            "city": "Santa Paula",
+            "state": "CA",
+            "zip": "93060",
+            "accreditor": "Western Association of Schools and Colleges Senior Colleges and University Commission",
+            "school_url": "https://thomasaquinas.edu/",
+            "price_calculator_url": "https://tthomasaquinas.edu/admission/net-price-calculator-financial-aid-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 42,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16128,
+            "instructional_expenditure_per_fte": 14945,
+            "faculty_salary": 9216,
+            "ft_faculty_rate": 0.9857,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "WASCSR",
+            "title_iv": {
+                "approval_date": "8/15/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 25271321,
+                "end": 25165115
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 124292
+    },
+    {
+        "school": {
+            "name": "Epic Bible College & Graduate School",
+            "city": "Sacramento",
+            "state": "CA",
+            "zip": "95841",
+            "accreditor": "Transnational Association of Christian Colleges and Schools",
+            "school_url": "epic.edu/",
+            "price_calculator_url": "epic.edu/financial/netpricecalculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 3,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 27,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9914,
+            "instructional_expenditure_per_fte": 3275,
+            "faculty_salary": 2098,
+            "ft_faculty_rate": 0.3793,
+            "alias": "Trinity Life Bible College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "TRACS",
+            "title_iv": {
+                "approval_date": "1/7/2000",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 124487
+    },
+    {
+        "school": {
+            "name": "United Education Institute-Huntington Park Campus",
+            "city": "Huntington Park",
+            "state": "CA",
+            "zip": "90255",
+            "accreditor": "Accrediting Council for Continuing Education & Training",
+            "school_url": "https://www.uei.edu/",
+            "price_calculator_url": "https://enroll.uei.edu/Npc",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 10,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9585,
+            "instructional_expenditure_per_fte": 2740,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "UEI College - Huntington Park Campus",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCET",
+            "title_iv": {
+                "approval_date": "4/18/1988",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 124681
+    },
+    {
+        "school": {
+            "name": "Concorde Career College-San Bernardino",
+            "city": "San Bernardino",
+            "state": "CA",
+            "zip": "92408-3403",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "https://www.concorde.edu/campus/san-bernardino-california",
+            "price_calculator_url": "https://enroll.myconcorde.edu/Npc",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14939,
+            "instructional_expenditure_per_fte": 7534,
+            "faculty_salary": 6517,
+            "ft_faculty_rate": 0.7231,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "12/31/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 124706
+    },
+    {
+        "school": {
+            "name": "Concorde Career College-North Hollywood",
+            "city": "North Hollywood",
+            "state": "CA",
+            "zip": "91606-3134",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "https://www.concorde.edu/campus/north-hollywood-california",
+            "price_calculator_url": "https://enroll.myconcorde.edu/Npc",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14899,
+            "instructional_expenditure_per_fte": 6873,
+            "faculty_salary": 7359,
+            "ft_faculty_rate": 0.6197,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "3/11/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 124937
+    },
+    {
+        "school": {
+            "name": "Ventura College",
+            "city": "Ventura",
+            "state": "CA",
+            "zip": "93003-3872",
+            "accreditor": "Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges",
+            "school_url": "www.venturacollege.edu/",
+            "price_calculator_url": "www.venturacollege.edu/departments/student_services/financial_aid/index.shtml",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 681,
+            "instructional_expenditure_per_fte": 4094,
+            "faculty_salary": 9334,
+            "ft_faculty_rate": 0.393,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "WASCJC",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 125028
+    },
+    {
+        "school": {
+            "name": "The Santa Barbara and Ventura Colleges of Law at Ventura",
+            "city": "Ventura",
+            "state": "CA",
+            "zip": "93003",
+            "accreditor": "Western Association of Schools and Colleges Senior Colleges and University Commission",
+            "school_url": "https://www.collegesoflaw.edu/",
+            "price_calculator_url": "https://www.collegesoflaw.edu/admissions/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 2,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 31,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10470,
+            "instructional_expenditure_per_fte": 2774,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "WASCSR",
+            "title_iv": {
+                "approval_date": "9/22/2015",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 1144493,
+                "end": 1217630
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 125037
+    },
+    {
+        "school": {
+            "name": "Bridges Beauty College",
+            "city": "Victorville",
+            "state": "CA",
+            "zip": "92395-3821",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.bridgesbeautycollege.com/",
+            "price_calculator_url": "https://www.bridgesbeautycollege.com/gainfull_employment",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5433,
+            "instructional_expenditure_per_fte": 941,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "9/30/1976",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 125082
+    },
+    {
+        "school": {
+            "name": "Victor Valley College",
+            "city": "Victorville",
+            "state": "CA",
+            "zip": "92395-5850",
+            "accreditor": "Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges",
+            "school_url": "www.vvc.edu/",
+            "price_calculator_url": "https://misweb.cccco.edu/npc/991/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 1,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 8,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 450,
+            "instructional_expenditure_per_fte": 5270,
+            "faculty_salary": 9529,
+            "ft_faculty_rate": 0.2101,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "WASCJC",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 125091
+    },
+    {
+        "school": {
+            "name": "Berkeley City College",
+            "city": "Berkeley",
+            "state": "CA",
+            "zip": "94704",
+            "accreditor": "Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges",
+            "school_url": "www.berkeleycitycollege.edu/wp/",
+            "price_calculator_url": "www.berkeleycitycollege.edu/wp/financial_aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 930,
+            "instructional_expenditure_per_fte": 3741,
+            "faculty_salary": 9258,
+            "ft_faculty_rate": 0.2723,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "WASCJC",
+            "title_iv": {
+                "approval_date": "1/16/1978",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 125170
+    },
+    {
+        "school": {
+            "name": "Walden University",
+            "city": "Minneapolis",
+            "state": "MN",
+            "zip": "55401",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.waldenu.edu/",
+            "price_calculator_url": "www.waldenu.edu/financial-aid/resources/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 27,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 1,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9763,
+            "instructional_expenditure_per_fte": 3039,
+            "faculty_salary": 7193,
+            "ft_faculty_rate": 0.0772,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "6/9/1987",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 125231
+    }
+]

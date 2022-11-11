@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Colgate Rochester Crozer Divinity School",
+            "city": "Rochester",
+            "state": "NY",
+            "zip": "14607",
+            "accreditor": "Commission on Accrediting of the Association of Theological Schools",
+            "school_url": "https://www.crcds.edu/",
+            "price_calculator_url": "https://www.crcds.edu/tuition-and-fees",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14526,
+            "instructional_expenditure_per_fte": 81412,
+            "faculty_salary": 5993,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "ATSUSC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 18721357,
+                "end": 18294902
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 190080
+    },
+    {
+        "school": {
+            "name": "Colgate University",
+            "city": "Hamilton",
+            "state": "NY",
+            "zip": "13346-1398",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.colgate.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/app/colgate",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 39249,
+            "instructional_expenditure_per_fte": 26145,
+            "faculty_salary": 12086,
+            "ft_faculty_rate": 0.9244,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 949230415,
+                "end": 959652631
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 190099
+    },
+    {
+        "school": {
+            "name": "Metropolitan College of New York",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10006-1742",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.mcny.edu/",
+            "price_calculator_url": "https://apply.mcny.edu/register/npc",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 1,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18665,
+            "instructional_expenditure_per_fte": 7730,
+            "faculty_salary": 8820,
+            "ft_faculty_rate": 0.1503,
+            "alias": "MCNY",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "4/29/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 695792,
+                "end": 802160
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 190114
+    },
+    {
+        "school": {
+            "name": "Columbia University in the City of New York",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10027",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.columbia.edu/",
+            "price_calculator_url": "cc-seas.financialaid.columbia.edu/estimate-cost",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 17,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 40491,
+            "instructional_expenditure_per_fte": 102187,
+            "faculty_salary": 19660,
+            "ft_faculty_rate": 0.4878,
+            "alias": "Columbia University",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 10950738000,
+                "end": 11257021000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 190150
+    },
+    {
+        "school": {
+            "name": "Columbia-Greene Community College",
+            "city": "Hudson",
+            "state": "NY",
+            "zip": "12534",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.sunycgcc.edu/",
+            "price_calculator_url": "https://www.sunycgcc.edu/financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2317,
+            "instructional_expenditure_per_fte": 7967,
+            "faculty_salary": 5720,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "6/24/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 3312511,
+                "end": 3908920
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 190169
+    },
+    {
+        "school": {
+            "name": "Empire Beauty School-Queens",
+            "city": "Astoria",
+            "state": "NY",
+            "zip": "11103",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.empire.edu/",
+            "price_calculator_url": "www.empire.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 8,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10459,
+            "instructional_expenditure_per_fte": 12181,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Empire Beauty School |Learning Institute for Beauty Sciences-Queens",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "3/15/1974",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 190239
+    },
+    {
+        "school": {
+            "name": "Concordia College",
+            "city": "Bronxville",
+            "state": "NY",
+            "zip": "10708-1998",
+            "accreditor": null,
+            "school_url": "www.concordia-ny.edu/",
+            "price_calculator_url": "netprice.concordia-ny.edu/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 68,
+            "online_only": 0,
+            "operating": 0,
+            "tuition_revenue_per_fte": 13562,
+            "instructional_expenditure_per_fte": 7333,
+            "faculty_salary": 6598,
+            "ft_faculty_rate": 1,
+            "alias": "Concordia-New York|Concordia|",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": "2/15/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": 13291392,
+                "end": 14216528
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 190248
+    },
+    {
+        "school": {
+            "name": "Continental School of Beauty Culture-Rochester",
+            "city": "Rochester",
+            "state": "NY",
+            "zip": "14623",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "continentalschoolofbeauty.edu/",
+            "price_calculator_url": "continentalschoolofbeauty.edu/consumer-info/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9990,
+            "instructional_expenditure_per_fte": 3433,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "3/28/1974",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 190318
+    },
+    {
+        "school": {
+            "name": "Cooper Union for the Advancement of Science and Art",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10003-7120",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.cooper.edu/",
+            "price_calculator_url": "npc.collegeboard.org/app/cooper",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12638,
+            "instructional_expenditure_per_fte": 27505,
+            "faculty_salary": 12513,
+            "ft_faculty_rate": 0.275,
+            "alias": "The Cooper Union",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/2/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 857878657,
+                "end": 867509372
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 190372
+    },
+    {
+        "school": {
+            "name": "Cornell University",
+            "city": "Ithaca",
+            "state": "NY",
+            "zip": "14853",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.cornell.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/app/cornell",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 31549,
+            "instructional_expenditure_per_fte": 31051,
+            "faculty_salary": 15241,
+            "ft_faculty_rate": 0.9253,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 6974636536,
+                "end": 6882707803
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 190415
+    },
+    {
+        "school": {
+            "name": "Weill Medical College of Cornell University",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10065",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://weill.cornell.edu/",
+            "price_calculator_url": "https://weill.cornell.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 25,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 21676,
+            "instructional_expenditure_per_fte": 195285,
+            "faculty_salary": null,
+            "ft_faculty_rate": 1,
+            "alias": "Weill Cornell Medical College, Joan and Sanford I. Weill Medical College of Cornell University, Weill Medical College, Cornell Medical College, Cornell Medical Campus",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "7/29/2009",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 190424
+    },
+    {
+        "school": {
+            "name": "SUNY Corning Community College",
+            "city": "Corning",
+            "state": "NY",
+            "zip": "14830",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.corning-cc.edu/",
+            "price_calculator_url": "https://www.suny.edu/howmuch/netpricecalculator.xhtml",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2846,
+            "instructional_expenditure_per_fte": 6513,
+            "faculty_salary": 6552,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 532545,
+                "end": 554667
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 190442
+    },
+    {
+        "school": {
+            "name": "Pomeroy College of Nursing at Crouse Hospital",
+            "city": "Syracuse",
+            "state": "NY",
+            "zip": "13210-1687",
+            "accreditor": "Accreditation Commission for Education in Nursing",
+            "school_url": "www.crouse.org/nursing",
+            "price_calculator_url": "www.crouse.org/nursing/aid/financial-aid-programs/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11459,
+            "instructional_expenditure_per_fte": 16756,
+            "faculty_salary": 8515,
+            "ft_faculty_rate": 0.4706,
+            "alias": "Pomeroy College of Nursing",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NLNAC",
+            "title_iv": {
+                "approval_date": "3/19/1974",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 190451
+    },
+    {
+        "school": {
+            "name": "Culinary Institute of America",
+            "city": "Hyde Park",
+            "state": "NY",
+            "zip": "12538-1499",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.ciachef.edu/",
+            "price_calculator_url": "https://ciachef.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 3,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 32,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 21615,
+            "instructional_expenditure_per_fte": 14987,
+            "faculty_salary": 9635,
+            "ft_faculty_rate": 1,
+            "alias": "The Culinary Institute of America   CIA  The Culinary Institute of America at Greystone  The Culinary Institute of America at San Antonio",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "7/19/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 138224131,
+                "end": 128238412
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 190503
+    },
+    {
+        "school": {
+            "name": "CUNY Bernard M Baruch College",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10010",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.baruch.cuny.edu/",
+            "price_calculator_url": "https://npc.cuny.edu/npc/public/fin_aid/financial_aid_estimator/FinAidEstimator.jsp",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6587,
+            "instructional_expenditure_per_fte": 10719,
+            "faculty_salary": 12178,
+            "ft_faculty_rate": 0.4236,
+            "alias": "Baruch | Baruch College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "9/1/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 201316233,
+                "end": 202401930
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 190512
+    },
+    {
+        "school": {
+            "name": "CUNY Borough of Manhattan Community College",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10007",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.bmcc.cuny.edu/",
+            "price_calculator_url": "https://npc.cuny.edu/npc/public/fin_aid/financial_aid_estimator/FinAidEstimator.jsp",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 5,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1941,
+            "instructional_expenditure_per_fte": 10821,
+            "faculty_salary": 10480,
+            "ft_faculty_rate": 0.4189,
+            "alias": "BMCC | Borough of Manhattan CC | Borough of Manhattan Community College",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "1/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 7701745,
+                "end": 7546615
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 190521
+    },
+    {
+        "school": {
+            "name": "CUNY Bronx Community College",
+            "city": "Bronx",
+            "state": "NY",
+            "zip": "10453",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.bcc.cuny.edu/",
+            "price_calculator_url": "https://npc.cuny.edu/npc/public/fin_aid/financial_aid_estimator/FinAidEstimator.jsp",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1473,
+            "instructional_expenditure_per_fte": 14673,
+            "faculty_salary": 10870,
+            "ft_faculty_rate": 0.4452,
+            "alias": "BCC | Bronx CC | Bronx Community College",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 740019,
+                "end": 919575
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 190530
+    },
+    {
+        "school": {
+            "name": "CUNY Brooklyn College",
+            "city": "Brooklyn",
+            "state": "NY",
+            "zip": "11210",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.brooklyn.cuny.edu/",
+            "price_calculator_url": "npc.cuny.edu/npc/public/fin_aid/financial_aid_estimator/FinAidEstimator.jsp",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4128,
+            "instructional_expenditure_per_fte": 10818,
+            "faculty_salary": 11923,
+            "ft_faculty_rate": 0.3798,
+            "alias": "Brooklyn | Brooklyn College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 98046476,
+                "end": 99951116
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 190549
+    },
+    {
+        "school": {
+            "name": "College of Staten Island CUNY",
+            "city": "Staten Island",
+            "state": "NY",
+            "zip": "10314",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.csi.cuny.edu/",
+            "price_calculator_url": "https://npc.cuny.edu/npc/public/fin_aid/financial_aid_estimator/FinAidEstimator.jsp",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4180,
+            "instructional_expenditure_per_fte": 11526,
+            "faculty_salary": 11767,
+            "ft_faculty_rate": 0.3721,
+            "alias": "Staten Island | CSI | College of Staten Island",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 9418226,
+                "end": 17383434
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 190558
+    },
+    {
+        "school": {
+            "name": "CUNY City College",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10031",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.ccny.cuny.edu/",
+            "price_calculator_url": "https://npc.cuny.edu/npc/public/fin_aid/financial_aid_estimator/FinAidEstimator.jsp",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4610,
+            "instructional_expenditure_per_fte": 20092,
+            "faculty_salary": 12493,
+            "ft_faculty_rate": 0.4192,
+            "alias": "City | City College | CCNY | City College of New York",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 320345295,
+                "end": 318365123
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 190567
+    }
+]

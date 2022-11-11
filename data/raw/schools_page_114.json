@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Syracuse University",
+            "city": "Syracuse",
+            "state": "NY",
+            "zip": "13244",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.syracuse.edu/",
+            "price_calculator_url": "https://www.syracuse.edu/admissions/cost-and-aid/cost-of-attendance/undergraduate/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 17,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 28706,
+            "instructional_expenditure_per_fte": 18497,
+            "faculty_salary": 12110,
+            "ft_faculty_rate": 0.6885,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 1392691380,
+                "end": 1390552629
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 196413
+    },
+    {
+        "school": {
+            "name": "Talmudical Seminary Oholei Torah",
+            "city": "Brooklyn",
+            "state": "NY",
+            "zip": "11213",
+            "accreditor": "Association of Advanced Rabbinical and Talmudic Schools",
+            "school_url": "www.tsot.edu/",
+            "price_calculator_url": "https://www.tsot.edu/NetPriceCalculator.php",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 1,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10497,
+            "instructional_expenditure_per_fte": 7556,
+            "faculty_salary": 5163,
+            "ft_faculty_rate": 0.7647,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "AARTS",
+            "title_iv": {
+                "approval_date": "5/20/1974",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 196431
+    },
+    {
+        "school": {
+            "name": "Talmudical Institute of Upstate New York",
+            "city": "Rochester",
+            "state": "NY",
+            "zip": "14607-3046",
+            "accreditor": "Association of Advanced Rabbinical and Talmudic Schools",
+            "school_url": "https://www.tiuny.org/",
+            "price_calculator_url": "https://www.tiuny.org/wp-content/media/Net-Price-Calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 3,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 1,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 26674,
+            "instructional_expenditure_per_fte": 69540,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "AARTS",
+            "title_iv": {
+                "approval_date": "2/15/1979",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 196440
+    },
+    {
+        "school": {
+            "name": "Teachers College at Columbia University",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10027",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.tc.columbia.edu/",
+            "price_calculator_url": "www.tc.columbia.edu/admissions/financial-aid/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 30847,
+            "instructional_expenditure_per_fte": 19589,
+            "faculty_salary": 14547,
+            "ft_faculty_rate": 0.4053,
+            "alias": "Teachers College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 342745032,
+                "end": 384530881
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 196468
+    },
+    {
+        "school": {
+            "name": "Tompkins Cortland Community College",
+            "city": "Dryden",
+            "state": "NY",
+            "zip": "13053-0139",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.tompkinscortland.edu/",
+            "price_calculator_url": "www.tompkinscortland.edu/admissions/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": 3,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3297,
+            "instructional_expenditure_per_fte": 5746,
+            "faculty_salary": 7567,
+            "ft_faculty_rate": 0.9722,
+            "alias": "Tompkins Cortland",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "7/8/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 17573882,
+                "end": 18096664
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 196565
+    },
+    {
+        "school": {
+            "name": "Torah Temimah Talmudical Seminary",
+            "city": "Staten Island",
+            "state": "NY",
+            "zip": "10312",
+            "accreditor": "Association of Advanced Rabbinical and Talmudic Schools",
+            "school_url": "https://torahtemimahtalmudicalseminary.com/",
+            "price_calculator_url": "https://torahtemimahtalmudicalseminary.com/wp-content/uploads/Net Price 18.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 1,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7071,
+            "instructional_expenditure_per_fte": 17830,
+            "faculty_salary": 4447,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "AARTS",
+            "title_iv": {
+                "approval_date": "11/17/1981",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 196583
+    },
+    {
+        "school": {
+            "name": "Touro College",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10036",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.touro.edu/",
+            "price_calculator_url": "www.touro.edu/students/net-price-calculators/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 23963,
+            "instructional_expenditure_per_fte": 13567,
+            "faculty_salary": 8370,
+            "ft_faculty_rate": 0.4269,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "5/25/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 44249000,
+                "end": 42400000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 196592
+    },
+    {
+        "school": {
+            "name": "Trocaire College",
+            "city": "Buffalo",
+            "state": "NY",
+            "zip": "14220-2094",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://trocaire.edu/",
+            "price_calculator_url": "https://trocaire.edu/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18772,
+            "instructional_expenditure_per_fte": 9407,
+            "faculty_salary": 6354,
+            "ft_faculty_rate": 0.2105,
+            "alias": "Trocaire|Trocare|TC|Troc",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "7/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 19270492,
+                "end": 22451064
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 196653
+    },
+    {
+        "school": {
+            "name": "Excelsior College",
+            "city": "Albany",
+            "state": "NY",
+            "zip": "12203-5159",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.excelsior.edu/",
+            "price_calculator_url": "https://public.excelsior.edu/scripts/net-price-calculator/calculator.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 1,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7361,
+            "instructional_expenditure_per_fte": 1435,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1977",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 27713660,
+                "end": 30443033
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 196680
+    },
+    {
+        "school": {
+            "name": "Ulster County Community College",
+            "city": "Stone Ridge",
+            "state": "NY",
+            "zip": "12484",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.sunyulster.edu/",
+            "price_calculator_url": "www.suny.edu/howmuch/netpricecalculator.xhtml?bgColor= 8fa5c6&embed=N&headerUrl=www.sunyulster.edu/_global/images/net_price_calc_header.",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 3,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3344,
+            "instructional_expenditure_per_fte": 7254,
+            "faculty_salary": 6145,
+            "ft_faculty_rate": 0.665,
+            "alias": "SUNY Ulster",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 9452221,
+                "end": 10801905
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 196699
+    },
+    {
+        "school": {
+            "name": "Union College",
+            "city": "Schenectady",
+            "state": "NY",
+            "zip": "12308-2311",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.union.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/student/app/union",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 32968,
+            "instructional_expenditure_per_fte": 21862,
+            "faculty_salary": 11247,
+            "ft_faculty_rate": 0.871,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 470300000,
+                "end": 478000000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 196866
+    },
+    {
+        "school": {
+            "name": "Union Theological Seminary in the City of New York",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10027-5792",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "utsnyc.edu/",
+            "price_calculator_url": "utsnyc.edu/admissions/financial-aid/tuition-fees/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3170,
+            "instructional_expenditure_per_fte": 44334,
+            "faculty_salary": 9806,
+            "ft_faculty_rate": 1,
+            "alias": "Union Theological Seminary",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "1/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 109723709,
+                "end": 104971827
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 196884
+    },
+    {
+        "school": {
+            "name": "United Talmudical Seminary",
+            "city": "Brooklyn",
+            "state": "NY",
+            "zip": "11211",
+            "accreditor": "Association of Advanced Rabbinical and Talmudic Schools",
+            "school_url": "utsny.edu/",
+            "price_calculator_url": "utsny.edu/NetPriceCalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 1,
+            "women_only": 0,
+            "religious_affiliation": 80,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10030,
+            "instructional_expenditure_per_fte": 5412,
+            "faculty_salary": 3296,
+            "ft_faculty_rate": 0.5251,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "AARTS",
+            "title_iv": {
+                "approval_date": "5/4/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 197018
+    },
+    {
+        "school": {
+            "name": "United States Merchant Marine Academy",
+            "city": "Kings Point",
+            "state": "NY",
+            "zip": "11024-1634",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.usmma.edu/",
+            "price_calculator_url": "https://www.usmma.edu/admissions/financial-aid/cost-attendance",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 0,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 0,
+            "instructional_expenditure_per_fte": 8807,
+            "faculty_salary": 10467,
+            "ft_faculty_rate": 0.7868,
+            "alias": "USMMA|Kings Point",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/18/1981",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 197027
+    },
+    {
+        "school": {
+            "name": "United States Military Academy",
+            "city": "West  Point",
+            "state": "NY",
+            "zip": "10996-1905",
+            "accreditor": "EXEMPT",
+            "school_url": "www.westpoint.edu/",
+            "price_calculator_url": "www.westpoint.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 0,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 0,
+            "instructional_expenditure_per_fte": 39933,
+            "faculty_salary": 10120,
+            "ft_faculty_rate": 1,
+            "alias": "West Point",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "EXEMPT",
+            "title_iv": {
+                "approval_date": "1/1/1993",
+                "eligibility_type": 3
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 28517079,
+                "end": 25686628
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 197036
+    },
+    {
+        "school": {
+            "name": "Utica University",
+            "city": "Utica",
+            "state": "NY",
+            "zip": "13502-4892",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.utica.edu/",
+            "price_calculator_url": "https://www.utica.edu/tuition-and-financial-aid/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12995,
+            "instructional_expenditure_per_fte": 7122,
+            "faculty_salary": 7751,
+            "ft_faculty_rate": 0.4058,
+            "alias": "Utica",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 25052831,
+                "end": 27110270
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 197045
+    },
+    {
+        "school": {
+            "name": "Vassar College",
+            "city": "Poughkeepsie",
+            "state": "NY",
+            "zip": "12604",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.vassar.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/student/app/vassar",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 36085,
+            "instructional_expenditure_per_fte": 33308,
+            "faculty_salary": 11788,
+            "ft_faculty_rate": 0.841,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 1124863945,
+                "end": 1097975650
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 197133
+    },
+    {
+        "school": {
+            "name": "Villa Maria College",
+            "city": "Buffalo",
+            "state": "NY",
+            "zip": "14225-3999",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.villa.edu/",
+            "price_calculator_url": "https://www.villa.edu/search/net+price",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 23,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16010,
+            "instructional_expenditure_per_fte": 6128,
+            "faculty_salary": 4923,
+            "ft_faculty_rate": 0.268,
+            "alias": "Villa",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "1/1/1972",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 1756444,
+                "end": 1793834
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 197142
+    },
+    {
+        "school": {
+            "name": "School of Visual Arts",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10010",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.sva.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/app/sva",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 30,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 38659,
+            "instructional_expenditure_per_fte": 16255,
+            "faculty_salary": 4094,
+            "ft_faculty_rate": 0.1895,
+            "alias": "SVA, School of Visual Arts",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "8/2/1974",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 197151
+    },
+    {
+        "school": {
+            "name": "Wagner College",
+            "city": "Staten Island",
+            "state": "NY",
+            "zip": "10301-4495",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.wagner.edu/",
+            "price_calculator_url": "www.wagner.edu/financial_aid/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 67,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 23042,
+            "instructional_expenditure_per_fte": 9854,
+            "faculty_salary": 7929,
+            "ft_faculty_rate": 0.9852,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 88536167,
+                "end": 93488271
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 197197
+    }
+]

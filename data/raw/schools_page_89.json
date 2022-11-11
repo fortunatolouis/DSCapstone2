@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Missouri College of Cosmetology and Esthetics",
+            "city": "Jefferson City",
+            "state": "MO",
+            "zip": "65109",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "merrelluniversity.edu/",
+            "price_calculator_url": "www.merrelluniversity.edu/school-disclosures",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9208,
+            "instructional_expenditure_per_fte": 2334,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Merrell University of Beauty Arts & Science",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "8/3/1987",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 178077
+    },
+    {
+        "school": {
+            "name": "Midwest Institute",
+            "city": "Fenton",
+            "state": "MO",
+            "zip": "63026",
+            "accreditor": "Accrediting Bureau of Health Education Schools",
+            "school_url": "midwestinstitute.com/",
+            "price_calculator_url": "midwestinstitute.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 22726,
+            "instructional_expenditure_per_fte": 5716,
+            "faculty_salary": 3894,
+            "ft_faculty_rate": 0.5,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "ABHES",
+            "title_iv": {
+                "approval_date": "2/18/1977",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 178183
+    },
+    {
+        "school": {
+            "name": "Midwestern Baptist Theological Seminary",
+            "city": "Kansas City",
+            "state": "MO",
+            "zip": "64118-4697",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.mbts.edu/",
+            "price_calculator_url": "https://www.mbts.edu/admissions/financial-aid/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 75,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7012,
+            "instructional_expenditure_per_fte": 2189,
+            "faculty_salary": 7148,
+            "ft_faculty_rate": 0.1493,
+            "alias": "MBTS|MBC|MBC,SBC|Midwestern Baptist Seminary|Midwestern|Midwestern Baptist College, SBC|Midwestern Baptist College|MBCSBC, Spurgeon College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 6137444,
+                "end": 8348063
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 178208
+    },
+    {
+        "school": {
+            "name": "Mineral Area College",
+            "city": "Park Hills",
+            "state": "MO",
+            "zip": "63601-1000",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://mineralarea.edu/",
+            "price_calculator_url": "https://my.mineralarea.edu/ICS/Admissions/Public.jnz?portlet=Net_Price_Calculator_2015-02-13T09-18-07-273",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2249,
+            "instructional_expenditure_per_fte": 4499,
+            "faculty_salary": 5200,
+            "ft_faculty_rate": 0.3333,
+            "alias": "MAC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 6265387,
+                "end": 6311805
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 178217
+    },
+    {
+        "school": {
+            "name": "Missouri Baptist University",
+            "city": "Saint Louis",
+            "state": "MO",
+            "zip": "63141-8698",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.mobap.edu/",
+            "price_calculator_url": "www.mobap.edu/freshmannetcostcalculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 54,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10834,
+            "instructional_expenditure_per_fte": 5499,
+            "faculty_salary": 6145,
+            "ft_faculty_rate": 0.2537,
+            "alias": "MBU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "11/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 4155379,
+                "end": 4199302
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 178244
+    },
+    {
+        "school": {
+            "name": "Missouri Southern State University",
+            "city": "Joplin",
+            "state": "MO",
+            "zip": "64801-1595",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.mssu.edu/",
+            "price_calculator_url": "www.mssu.edu/student-affairs/financial-aid/npcalc.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3298,
+            "instructional_expenditure_per_fte": 7199,
+            "faculty_salary": 6057,
+            "ft_faculty_rate": 0.6633,
+            "alias": "Missouri Southern",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 38399770,
+                "end": 38754528
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 178341
+    },
+    {
+        "school": {
+            "name": "Missouri Valley College",
+            "city": "Marshall",
+            "state": "MO",
+            "zip": "65340",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.moval.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/student/app/moval",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 66,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9375,
+            "instructional_expenditure_per_fte": 4343,
+            "faculty_salary": 4593,
+            "ft_faculty_rate": 0.6875,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 6772321,
+                "end": 7260616
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 178369
+    },
+    {
+        "school": {
+            "name": "Missouri Western State University",
+            "city": "Saint Joseph",
+            "state": "MO",
+            "zip": "64507",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.missouriwestern.edu/",
+            "price_calculator_url": "https://forms.missouriwestern.edu/finaid/npcalc010.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6804,
+            "instructional_expenditure_per_fte": 7850,
+            "faculty_salary": 7065,
+            "ft_faculty_rate": 0.6096,
+            "alias": "Western|MWSU|MWSC|Missouri Western State College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 36663818,
+                "end": 35017589
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 178387
+    },
+    {
+        "school": {
+            "name": "University of Missouri-Columbia",
+            "city": "Columbia",
+            "state": "MO",
+            "zip": "65211",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://missouri.edu/",
+            "price_calculator_url": "https://financialaid.missouri.edu/cost-of-attendance/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10863,
+            "instructional_expenditure_per_fte": 13410,
+            "faculty_salary": 10231,
+            "ft_faculty_rate": 0.7308,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/30/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1052759715,
+                "end": 1065746506
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 178396
+    },
+    {
+        "school": {
+            "name": "University of Missouri-Kansas City",
+            "city": "Kansas City",
+            "state": "MO",
+            "zip": "64110",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.umkc.edu/",
+            "price_calculator_url": "https://www.umkc.edu/finaid/npc/npcalc2021.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12744,
+            "instructional_expenditure_per_fte": 12168,
+            "faculty_salary": 9327,
+            "ft_faculty_rate": 0.686,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 152799604,
+                "end": 167125774
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 178402
+    },
+    {
+        "school": {
+            "name": "Missouri University of Science and Technology",
+            "city": "Rolla",
+            "state": "MO",
+            "zip": "65409",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.mst.edu/",
+            "price_calculator_url": "https://sfa.mst.edu/cost-estimates/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10806,
+            "instructional_expenditure_per_fte": 14754,
+            "faculty_salary": 10998,
+            "ft_faculty_rate": 0.8513,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 201217193,
+                "end": 201118527
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 178411
+    },
+    {
+        "school": {
+            "name": "University of Missouri-St Louis",
+            "city": "Saint Louis",
+            "state": "MO",
+            "zip": "63121-4400",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.umsl.edu/",
+            "price_calculator_url": "www.umsl.edu/services/finaid/npc/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8839,
+            "instructional_expenditure_per_fte": 9520,
+            "faculty_salary": 9179,
+            "ft_faculty_rate": 0.5871,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 89902763,
+                "end": 88846554
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 178420
+    },
+    {
+        "school": {
+            "name": "Moberly Area Community College",
+            "city": "Moberly",
+            "state": "MO",
+            "zip": "65270-1304",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.macc.edu/",
+            "price_calculator_url": "my.macc.edu/ics/Admissions/Admissions_Homepage.jnz?portlet=Net_Price_Calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3039,
+            "instructional_expenditure_per_fte": 3540,
+            "faculty_salary": 5117,
+            "ft_faculty_rate": 0.3289,
+            "alias": "MACC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "2/5/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 3513610,
+                "end": 3818538
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 178448
+    },
+    {
+        "school": {
+            "name": "Nazarene Theological Seminary",
+            "city": "Kansas City",
+            "state": "MO",
+            "zip": "64131-1246",
+            "accreditor": "Commission on Accrediting of the Association of Theological Schools",
+            "school_url": "www.nts.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 59,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9324,
+            "instructional_expenditure_per_fte": 8179,
+            "faculty_salary": 5200,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "ATSUSC",
+            "title_iv": {
+                "approval_date": "11/5/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 11425421,
+                "end": 11312979
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 178518
+    },
+    {
+        "school": {
+            "name": "Neosho Beauty College",
+            "city": "Neosho",
+            "state": "MO",
+            "zip": "64850-1525",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "neoshobeautycollege.com/",
+            "price_calculator_url": "www.neoshobeautycollege.com/npcalc/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6753,
+            "instructional_expenditure_per_fte": 1857,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "4/9/1990",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 178527
+    },
+    {
+        "school": {
+            "name": "Truman State University",
+            "city": "Kirksville",
+            "state": "MO",
+            "zip": "63501-4221",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.truman.edu/",
+            "price_calculator_url": "https://www.truman.edu/admission-cost/net-price-calculator/step-1/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5160,
+            "instructional_expenditure_per_fte": 10115,
+            "faculty_salary": 7293,
+            "ft_faculty_rate": 0.8997,
+            "alias": "Truman",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 50551277,
+                "end": 51344254
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 178615
+    },
+    {
+        "school": {
+            "name": "Northwest Missouri State University",
+            "city": "Maryville",
+            "state": "MO",
+            "zip": "64468-6001",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.nwmissouri.edu/",
+            "price_calculator_url": "https://www.nwmissouri.edu/finaid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7317,
+            "instructional_expenditure_per_fte": 7318,
+            "faculty_salary": 7379,
+            "ft_faculty_rate": 0.7702,
+            "alias": "Northwest",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 37691074,
+                "end": 41574187
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 178624
+    },
+    {
+        "school": {
+            "name": "Ozark Christian College",
+            "city": "Joplin",
+            "state": "MO",
+            "zip": "64801",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.occ.edu/",
+            "price_calculator_url": "occ.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 7,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 48,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10077,
+            "instructional_expenditure_per_fte": 5488,
+            "faculty_salary": 4998,
+            "ft_faculty_rate": 0.597,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "11/25/1985",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 4250569,
+                "end": 4382327
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 178679
+    },
+    {
+        "school": {
+            "name": "College of the Ozarks",
+            "city": "Point Lookout",
+            "state": "MO",
+            "zip": "65726-0017",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.cofo.edu/",
+            "price_calculator_url": "www.cofo.edu/Portals/3/npc/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 102,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4408,
+            "instructional_expenditure_per_fte": 10573,
+            "faculty_salary": 7631,
+            "ft_faculty_rate": 0.7012,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 476624241,
+                "end": 480520344
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 178697
+    },
+    {
+        "school": {
+            "name": "Park University",
+            "city": "Parkville",
+            "state": "MO",
+            "zip": "64152-3795",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.park.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/app/park",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10006,
+            "instructional_expenditure_per_fte": 4813,
+            "faculty_salary": 6783,
+            "ft_faculty_rate": 0.124,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 56812221,
+                "end": 55963204
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 178721
+    }
+]

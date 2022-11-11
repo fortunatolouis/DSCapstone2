@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Boricua College",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10032-1560",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "boricuacollege.edu/",
+            "price_calculator_url": "boricuacollege.edu/_Admissions/Admissions.html#Registration",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7172,
+            "instructional_expenditure_per_fte": 3200,
+            "faculty_salary": 4396,
+            "ft_faculty_rate": 0.6923,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "1/27/1976",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 627078,
+                "end": 645654
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 189413
+    },
+    {
+        "school": {
+            "name": "Brittany Beauty Academy",
+            "city": "Levittown",
+            "state": "NY",
+            "zip": "11756-1345",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "https://brittanyacademy.edu/",
+            "price_calculator_url": "https://brittanyacademy.edu/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16838,
+            "instructional_expenditure_per_fte": 2866,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "8/22/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 189468
+    },
+    {
+        "school": {
+            "name": "American Beauty School",
+            "city": "Bronx",
+            "state": "NY",
+            "zip": "10462",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.americanbeautyschool.edu/",
+            "price_calculator_url": "americanbeautyschool.com/en/cosmetology",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10758,
+            "instructional_expenditure_per_fte": 5038,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "1/17/2006",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 189477
+    },
+    {
+        "school": {
+            "name": "Brooklyn Law School",
+            "city": "Brooklyn",
+            "state": "NY",
+            "zip": "11201",
+            "accreditor": "American Bar Association",
+            "school_url": "www.brooklaw.edu/",
+            "price_calculator_url": "Not.Applicable/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 31,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 26363,
+            "instructional_expenditure_per_fte": 19635,
+            "faculty_salary": 14565,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "ABA",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 226569503,
+                "end": 224132779
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 189501
+    },
+    {
+        "school": {
+            "name": "SUNY Broome Community College",
+            "city": "Binghamton",
+            "state": "NY",
+            "zip": "13901-1001",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.sunybroome.edu/",
+            "price_calculator_url": "www.suny.edu/howmuch/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 22,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3085,
+            "instructional_expenditure_per_fte": 7760,
+            "faculty_salary": 6724,
+            "ft_faculty_rate": 0.4757,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 35621315,
+                "end": 35123264
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 189547
+    },
+    {
+        "school": {
+            "name": "Bryant & Stratton College-Syracuse North",
+            "city": "Liverpool",
+            "state": "NY",
+            "zip": "13090",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.bryantstratton.edu/",
+            "price_calculator_url": "https://www.bryantstratton.edu/financial-aid/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 18,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 23,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18533,
+            "instructional_expenditure_per_fte": 4128,
+            "faculty_salary": 5472,
+            "ft_faculty_rate": 0.56,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "4/19/2005",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 189565
+    },
+    {
+        "school": {
+            "name": "Bryant & Stratton College-Buffalo",
+            "city": "Buffalo",
+            "state": "NY",
+            "zip": "14203",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.bryantstratton.edu/",
+            "price_calculator_url": "https://www.bryantstratton.edu/financial-aid/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 18,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 23,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 20094,
+            "instructional_expenditure_per_fte": 4235,
+            "faculty_salary": 5224,
+            "ft_faculty_rate": 0.2388,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "3/30/1984",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 189583
+    },
+    {
+        "school": {
+            "name": "Bryant & Stratton College-Greece",
+            "city": "Rochester",
+            "state": "NY",
+            "zip": "14612",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.bryantstratton.edu/",
+            "price_calculator_url": "https://www.bryantstratton.edu/financial-aid/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 18,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 23,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18302,
+            "instructional_expenditure_per_fte": 3463,
+            "faculty_salary": 5619,
+            "ft_faculty_rate": 0.2553,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "4/19/2005",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 189592
+    },
+    {
+        "school": {
+            "name": "Canisius College",
+            "city": "Buffalo",
+            "state": "NY",
+            "zip": "14208-1098",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.canisius.edu/",
+            "price_calculator_url": "https://canisius.studentaidcalculator.com/welcome.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 15879,
+            "instructional_expenditure_per_fte": 9045,
+            "faculty_salary": 8410,
+            "ft_faculty_rate": 0.4452,
+            "alias": "Canisius",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 129200979,
+                "end": 124459540
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 189705
+    },
+    {
+        "school": {
+            "name": "Capri Cosmetology Learning Centers",
+            "city": "Nanuet",
+            "state": "NY",
+            "zip": "10954",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "caprinow.edu/",
+            "price_calculator_url": "www.caprinow.edu/net-price-calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12812,
+            "instructional_expenditure_per_fte": 5384,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "7/16/1976",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 189714
+    },
+    {
+        "school": {
+            "name": "St Paul's School of Nursing-Queens",
+            "city": "Rego Park",
+            "state": "NY",
+            "zip": "11374",
+            "accreditor": "Accrediting Bureau of Health Education Schools",
+            "school_url": "https://www.stpaulsschoolofnursing.edu/",
+            "price_calculator_url": "www.stpaulsschoolofnursing.edu/content/dam/st-pauls/compliance/netprice-calc/npcalc-stpaul_queens.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13401,
+            "instructional_expenditure_per_fte": 4835,
+            "faculty_salary": 6953,
+            "ft_faculty_rate": 0.2833,
+            "alias": "SVCMCNY SCHOOL OF NURSING B & Q",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ABHES",
+            "title_iv": {
+                "approval_date": "6/30/1984",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 189811
+    },
+    {
+        "school": {
+            "name": "Cayuga County Community College",
+            "city": "Auburn",
+            "state": "NY",
+            "zip": "13021-3099",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.cayuga-cc.edu/",
+            "price_calculator_url": "https://www.cayuga-cc.edu/financial-aid/resources/npc/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 3,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3392,
+            "instructional_expenditure_per_fte": 5605,
+            "faculty_salary": 8231,
+            "ft_faculty_rate": 0.375,
+            "alias": "Cayuga Community College",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 14123543,
+                "end": 15140434
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 189839
+    },
+    {
+        "school": {
+            "name": "Cazenovia College",
+            "city": "Cazenovia",
+            "state": "NY",
+            "zip": "13035",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.cazenovia.edu/",
+            "price_calculator_url": "www.cazenovia.edu/admissions/enrollment-services/financial-aid/true-cost-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10851,
+            "instructional_expenditure_per_fte": 11582,
+            "faculty_salary": 7303,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 4013265,
+                "end": 4104798
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 189848
+    },
+    {
+        "school": {
+            "name": "Central Yeshiva Tomchei Tmimim Lubavitz",
+            "city": "Brooklyn",
+            "state": "NY",
+            "zip": "11230-2798",
+            "accreditor": "Association of Institutions of Jewish Studies",
+            "school_url": "https://cyttl.edu/",
+            "price_calculator_url": "https://cyttl.edu/wp-content/uploads/Net Price 18.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 1,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5894,
+            "instructional_expenditure_per_fte": 1974,
+            "faculty_salary": 3582,
+            "ft_faculty_rate": 0.6875,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "AIJS",
+            "title_iv": {
+                "approval_date": "2/1/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 189857
+    },
+    {
+        "school": {
+            "name": "Christ the King Seminary",
+            "city": "East Aurora",
+            "state": "NY",
+            "zip": "14052-0607",
+            "accreditor": null,
+            "school_url": "www.cks.edu/",
+            "price_calculator_url": "www.cks.edu",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 33744,
+            "instructional_expenditure_per_fte": 27130,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "n/a",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": "8/1/1975",
+                "eligibility_type": 5
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": 4151869,
+                "end": 4173616
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 189981
+    },
+    {
+        "school": {
+            "name": "Christine Valmy International School for Esthetics Skin Care & Makeup",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10036",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "https://www.christinevalmy.com/",
+            "price_calculator_url": "https://www.christinevalmy.com/ny-financial-aid/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14136,
+            "instructional_expenditure_per_fte": 2837,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Christine Valmy International School",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "4/22/2014",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 189990
+    },
+    {
+        "school": {
+            "name": "Circle in the Square Theatre School",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10019-6795",
+            "accreditor": "National Association of Schools of Theatre",
+            "school_url": "www.circlesquare.org/",
+            "price_calculator_url": "www.circlesquare.org/admissions/tuition",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17555,
+            "instructional_expenditure_per_fte": 8823,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NAST",
+            "title_iv": {
+                "approval_date": "7/31/1979",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 190008
+    },
+    {
+        "school": {
+            "name": "Clarkson University",
+            "city": "Potsdam",
+            "state": "NY",
+            "zip": "13699",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.clarkson.edu/",
+            "price_calculator_url": "https://www.clarkson.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17498,
+            "instructional_expenditure_per_fte": 13224,
+            "faculty_salary": 11114,
+            "ft_faculty_rate": 0.6827,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 201698464,
+                "end": 197482756
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 190044
+    },
+    {
+        "school": {
+            "name": "Clinton Community College",
+            "city": "Plattsburgh",
+            "state": "NY",
+            "zip": "12901",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.clinton.edu/",
+            "price_calculator_url": "https://www.suny.edu/howmuch/netpricecalculator.xhtml",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3350,
+            "instructional_expenditure_per_fte": 6811,
+            "faculty_salary": 5775,
+            "ft_faculty_rate": 0.5326,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "2/22/1988",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 190053
+    },
+    {
+        "school": {
+            "name": "Cochran School of Nursing",
+            "city": "Yonkers",
+            "state": "NY",
+            "zip": "10701",
+            "accreditor": "New York State Board of Regents and the Commissioner of Education",
+            "school_url": "www.cochranschoolofnursing.us/",
+            "price_calculator_url": "www.cochranschoolofnursing.us/Admissions/SummaryofCost.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18839,
+            "instructional_expenditure_per_fte": 42186,
+            "faculty_salary": 9886,
+            "ft_faculty_rate": 0.7778,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NYBRE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 190071
+    }
+]

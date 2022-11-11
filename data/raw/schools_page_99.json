@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Princeton University",
+            "city": "Princeton",
+            "state": "NJ",
+            "zip": "08544-0070",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.princeton.edu/",
+            "price_calculator_url": "www.princeton.edu/admission/financialaid/estimator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 15790,
+            "instructional_expenditure_per_fte": 62979,
+            "faculty_salary": 20835,
+            "ft_faculty_rate": 0.8277,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 25623628250,
+                "end": 25944283000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 186131
+    },
+    {
+        "school": {
+            "name": "Rabbinical College of America",
+            "city": "Morristown",
+            "state": "NJ",
+            "zip": "07960-3600",
+            "accreditor": "Association of Advanced Rabbinical and Talmudic Schools",
+            "school_url": "www.rca.edu/",
+            "price_calculator_url": "https://financialaid58.wixsite.com/netpricecalculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 1,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7253,
+            "instructional_expenditure_per_fte": 4780,
+            "faculty_salary": 4973,
+            "ft_faculty_rate": 0.8889,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "AARTS",
+            "title_iv": {
+                "approval_date": "6/5/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 186186
+    },
+    {
+        "school": {
+            "name": "Ramapo College of New Jersey",
+            "city": "Mahwah",
+            "state": "NJ",
+            "zip": "07430-1680",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.ramapo.edu/",
+            "price_calculator_url": "npc.collegeboard.org/app/ramapo",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10340,
+            "instructional_expenditure_per_fte": 11066,
+            "faculty_salary": 12090,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "2/1/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 186201
+    },
+    {
+        "school": {
+            "name": "Robert Fiance Beauty Schools",
+            "city": "Boynton Beach",
+            "state": "FL",
+            "zip": "33435",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.robertfiance.edu/",
+            "price_calculator_url": "robertfiance.edu/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10541,
+            "instructional_expenditure_per_fte": 8286,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "3/13/1974",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 186274
+    },
+    {
+        "school": {
+            "name": "Rider University",
+            "city": "Lawrenceville",
+            "state": "NJ",
+            "zip": "08648-3099",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.rider.edu/",
+            "price_calculator_url": "https://www.rider.edu/netpricecalculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 21349,
+            "instructional_expenditure_per_fte": 13475,
+            "faculty_salary": 11068,
+            "ft_faculty_rate": 0.4278,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 66592860,
+                "end": 64415441
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 186283
+    },
+    {
+        "school": {
+            "name": "Rutgers University-Camden",
+            "city": "Camden",
+            "state": "NJ",
+            "zip": "08102",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.camden.rutgers.edu/",
+            "price_calculator_url": "https://scarlethub.rutgers.edu/financial-services/tools-resources/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 3,
+            "ownership": 1,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14822,
+            "instructional_expenditure_per_fte": 14476,
+            "faculty_salary": 12115,
+            "ft_faculty_rate": 0.482,
+            "alias": "Rutgers, The State University of New Jersey; Rutgers, The State University; Rutgers University; Rutgers U; Rutgers; Rutgers-Camden; Rutgers, Camden; Rutgers Camden",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 46954000,
+                "end": 49963000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 186371
+    },
+    {
+        "school": {
+            "name": "Rutgers University-New Brunswick",
+            "city": "New Brunswick",
+            "state": "NJ",
+            "zip": "08901-1281",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://newbrunswick.rutgers.edu/",
+            "price_calculator_url": "https://scarlethub.rutgers.edu/financial-services/tools-resources/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 3,
+            "ownership": 1,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14872,
+            "instructional_expenditure_per_fte": 16407,
+            "faculty_salary": 12327,
+            "ft_faculty_rate": 0.6018,
+            "alias": "Rutgers, The State University of New Jersey; Rutgers, The State University; Rutgers University; Rutgers U; Rutgers; Rutgers-New Brunswick; Rutgers, New Brunswick; Rutgers New Brunswick",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1130228000,
+                "end": 1150827000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 186380
+    },
+    {
+        "school": {
+            "name": "Rutgers University-Newark",
+            "city": "Newark",
+            "state": "NJ",
+            "zip": "07102",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.newark.rutgers.edu/",
+            "price_calculator_url": "https://scarlethub.rutgers.edu/financial-services/tools-resources/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 3,
+            "ownership": 1,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 20669,
+            "instructional_expenditure_per_fte": 15332,
+            "faculty_salary": 14184,
+            "ft_faculty_rate": 0.6748,
+            "alias": "Rutgers, The State University of New Jersey; Rutgers, The State University; Rutgers University; Rutgers U; Rutgers; Rutgers-Newark; Rutgers, Newark; Rutgers Newark",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 153535000,
+                "end": 165258000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 186399
+    },
+    {
+        "school": {
+            "name": "St Francis Medical Center-School of Radiologic Technology",
+            "city": "Trenton",
+            "state": "NJ",
+            "zip": "08629-1986",
+            "accreditor": "Joint Review Committee on Education in Radiologic Technology",
+            "school_url": "www.stfrancismedical.org/Education/School-of-Radiologic-Technology.aspx",
+            "price_calculator_url": "www.stfrancismedical.org/Education/School-of-Radiologic-Technology.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 2,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6443,
+            "instructional_expenditure_per_fte": 13540,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "JRCERT",
+            "title_iv": {
+                "approval_date": "2/6/1996",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 186405
+    },
+    {
+        "school": {
+            "name": "Saint Francis Medical Center School of Nursing",
+            "city": "Trenton",
+            "state": "NJ",
+            "zip": "08629-1986",
+            "accreditor": "Joint Review Committee on Education in Radiologic Technology",
+            "school_url": "www.stfrancismedical.org/Education/School-of-Nursing.aspx",
+            "price_calculator_url": "www.stfrancismedical.org/Education/School-of-Nursing.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 2,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6680,
+            "instructional_expenditure_per_fte": 18436,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "JRCERT",
+            "title_iv": {
+                "approval_date": "10/20/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 186423
+    },
+    {
+        "school": {
+            "name": "Saint Peter's University",
+            "city": "Jersey City",
+            "state": "NJ",
+            "zip": "07306-5997",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.saintpeters.edu/",
+            "price_calculator_url": "www.saintpeters.edu/enrollment-services/student-financial-aid/calculators/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17663,
+            "instructional_expenditure_per_fte": 8227,
+            "faculty_salary": 8233,
+            "ft_faculty_rate": 0.3682,
+            "alias": "Saint Peter's, SPU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 35659030,
+                "end": 34738402
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 186432
+    },
+    {
+        "school": {
+            "name": "Salem Community College",
+            "city": "Carneys Point",
+            "state": "NJ",
+            "zip": "08069-2799",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.salemcc.edu/",
+            "price_calculator_url": "www.salemcc.edu/netpricecalculator/npcalc.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 4,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5160,
+            "instructional_expenditure_per_fte": 4923,
+            "faculty_salary": 6508,
+            "ft_faculty_rate": 1,
+            "alias": "Salem County College|SCC|Salem College",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "1/14/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 3199967,
+                "end": 3015041
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 186469
+    },
+    {
+        "school": {
+            "name": "Seton Hall University",
+            "city": "South Orange",
+            "state": "NJ",
+            "zip": "07079-2697",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.shu.edu/",
+            "price_calculator_url": "https://www.shu.edu/undergraduate-admissions/cost-calculator.cfm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 25161,
+            "instructional_expenditure_per_fte": 12300,
+            "faculty_salary": 9912,
+            "ft_faculty_rate": 0.9278,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 269162000,
+                "end": 270000000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 186584
+    },
+    {
+        "school": {
+            "name": "Shore Beauty School",
+            "city": "Egg Harbor Township",
+            "state": "NJ",
+            "zip": "08234",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "https://www.shorebeautyschool.edu/",
+            "price_calculator_url": "https://shorebeautyschool.edu/wp-content/uploads/2019/04/index2.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 22,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11811,
+            "instructional_expenditure_per_fte": 3829,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Shore Beauty School",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "6/1/1983",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 186593
+    },
+    {
+        "school": {
+            "name": "Saint Elizabeth University",
+            "city": "Morristown",
+            "state": "NJ",
+            "zip": "07960",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.steu.edu/",
+            "price_calculator_url": "https://www.steu.edu/admissions/financial-aid/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 7,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16586,
+            "instructional_expenditure_per_fte": 10752,
+            "faculty_salary": 7493,
+            "ft_faculty_rate": 0.2829,
+            "alias": "SEU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 19504826,
+                "end": 19665686
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 186618
+    },
+    {
+        "school": {
+            "name": "Raritan Valley Community College",
+            "city": "Branchburg",
+            "state": "NJ",
+            "zip": "08876",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.raritanval.edu/",
+            "price_calculator_url": "https://www.raritanval.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 4,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4130,
+            "instructional_expenditure_per_fte": 5246,
+            "faculty_salary": 8172,
+            "ft_faculty_rate": 1,
+            "alias": "RVCC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/20/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1108738,
+                "end": 1122851
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 186645
+    },
+    {
+        "school": {
+            "name": "Stevens Institute of Technology",
+            "city": "Hoboken",
+            "state": "NJ",
+            "zip": "07030-5991",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.stevens.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/app/stevens",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 27183,
+            "instructional_expenditure_per_fte": 12439,
+            "faculty_salary": 15374,
+            "ft_faculty_rate": 1,
+            "alias": "Stevens",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 224304000,
+                "end": 225009000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 186867
+    },
+    {
+        "school": {
+            "name": "Stockton University",
+            "city": "Galloway",
+            "state": "NJ",
+            "zip": "08205-9441",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.stockton.edu/",
+            "price_calculator_url": "https://stockton.edu/financial-aid/calculators/net-price-calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 22,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9225,
+            "instructional_expenditure_per_fte": 7402,
+            "faculty_salary": 9963,
+            "ft_faculty_rate": 0.4842,
+            "alias": "The Richard Stockton College of New Jersey",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 30832287,
+                "end": 38347559
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 186876
+    },
+    {
+        "school": {
+            "name": "Talmudical Academy-New Jersey",
+            "city": "Adelphia",
+            "state": "NJ",
+            "zip": "07710",
+            "accreditor": "Association of Advanced Rabbinical and Talmudic Schools",
+            "school_url": "https://talmudicalacademynj.com/",
+            "price_calculator_url": "https://talmudicalacademynj.com/wp-content/uploads/Net Price 18.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 1,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10880,
+            "instructional_expenditure_per_fte": 2379,
+            "faculty_salary": 2272,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "AARTS",
+            "title_iv": {
+                "approval_date": "1/30/1975",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 186900
+    },
+    {
+        "school": {
+            "name": "Aviation Institute of Maintenance-Teterboro",
+            "city": "Teterboro",
+            "state": "NJ",
+            "zip": "07608-1083",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.teterboroschool.com/",
+            "price_calculator_url": "www.forms-teterboroschool.com/Netprice/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 20091,
+            "instructional_expenditure_per_fte": 3983,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "3/3/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 187000
+    }
+]

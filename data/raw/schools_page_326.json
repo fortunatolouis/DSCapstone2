@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Texas Barber College - Branch Campus #1",
+            "city": "Dallas",
+            "state": "TX",
+            "zip": "75241",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.txbarber.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 4,
+            "ownership": 3,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 44098901
+    },
+    {
+        "school": {
+            "name": "Texas Barber College - Branch Campus #2",
+            "city": "Dallas",
+            "state": "TX",
+            "zip": "75228",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.txbarber.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 4,
+            "ownership": 3,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 44098902
+    },
+    {
+        "school": {
+            "name": "Texas Barber College - Branch Campus #5",
+            "city": "Houston",
+            "state": "TX",
+            "zip": "77022",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.txbarber.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 4,
+            "ownership": 3,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 44098904
+    },
+    {
+        "school": {
+            "name": "Strayer University-Nashville Campus",
+            "city": "Nashville",
+            "state": "TN",
+            "zip": "37210",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.strayer.edu/campus-locations/tennessee/nashville",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 74,
+            "ownership": 3,
+            "state_fips": 47,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 44376601
+    },
+    {
+        "school": {
+            "name": "Strayer University-Shelby Oaks Campus",
+            "city": "Memphis",
+            "state": "TN",
+            "zip": "38133",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.strayer.edu/campus-locations/tennessee/shelby",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 74,
+            "ownership": 3,
+            "state_fips": 47,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 44376602
+    },
+    {
+        "school": {
+            "name": "Strayer University-Knoxville Campus",
+            "city": "Knoxville",
+            "state": "TN",
+            "zip": "37929",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.strayer.edu/campus-locations/tennessee/knoxville",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 74,
+            "ownership": 3,
+            "state_fips": 47,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 44376603
+    },
+    {
+        "school": {
+            "name": "Strayer University-Delaware County Campus",
+            "city": "Springfield",
+            "state": "PA",
+            "zip": "19064",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.strayer.edu/campus-locations/pennsylvania/delaware-county",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 74,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 44378401
+    },
+    {
+        "school": {
+            "name": "Strayer University-Center City Campus",
+            "city": "Philadelphia",
+            "state": "PA",
+            "zip": "19102",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.strayer.edu/campus-locations/pennsylvania/center-city",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 74,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 44378403
+    },
+    {
+        "school": {
+            "name": "Strayer University-Lower Bucks County Campus",
+            "city": "Trevose",
+            "state": "PA",
+            "zip": "19053",
+            "accreditor": null,
+            "school_url": "www.strayer.edu/campus-locations/pennsylvania/lower-bucks-county",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 74,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 0,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 44378404
+    },
+    {
+        "school": {
+            "name": "Strayer University-Warrendale Campus",
+            "city": "Warrendale",
+            "state": "PA",
+            "zip": "15086",
+            "accreditor": null,
+            "school_url": "www.strayer.edu/campus-locations/pennsylvania/warrendale",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 74,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 0,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 44378405
+    },
+    {
+        "school": {
+            "name": "Strayer University-Allentown Campus",
+            "city": "Allentown",
+            "state": "PA",
+            "zip": "18101",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.strayer.edu/campus-locations/pennsylvania/allentown",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 74,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 44378406
+    },
+    {
+        "school": {
+            "name": "Advanced College-Stockton",
+            "city": "Stockton",
+            "state": "CA",
+            "zip": "95120-3145",
+            "accreditor": null,
+            "school_url": "www.advancedcollege.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 3,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 0,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 44434301
+    },
+    {
+        "school": {
+            "name": "Advanced College - Salida",
+            "city": "Salida",
+            "state": "CA",
+            "zip": "95368-9072",
+            "accreditor": null,
+            "school_url": "www.advancedcollege.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 3,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 0,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 44434302
+    },
+    {
+        "school": {
+            "name": "Stellar Career College - Chicago IL",
+            "city": "Chicago",
+            "state": "IL",
+            "zip": "60606-0000",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "https://stellarcollege.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 44452901
+    },
+    {
+        "school": {
+            "name": "Industrial Technical College - Naguabo",
+            "city": "Naguabo",
+            "state": "PR",
+            "zip": "00718-0000",
+            "accreditor": null,
+            "school_url": "www.industrialtechnicalcollege.com/docs/divulgaciones",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 72,
+            "region_id": 9,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 0,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 44467101
+    },
+    {
+        "school": {
+            "name": "Leston College -",
+            "city": "Isabela",
+            "state": "PR",
+            "zip": "00662-0000",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": null,
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 72,
+            "region_id": 9,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 44473201
+    },
+    {
+        "school": {
+            "name": "Blake Austin College Beauty Academy",
+            "city": "Vacaville",
+            "state": "CA",
+            "zip": "95688-3123",
+            "accreditor": null,
+            "school_url": "blakeaustincollege.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 6,
+            "region_id": 8,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 0,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 44781001
+    },
+    {
+        "school": {
+            "name": "Aviator College of Aeronautical Science & Technology -  Kissimmee",
+            "city": "Kissimmee",
+            "state": "FL",
+            "zip": "34741-4620",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.aviatoramt.com/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 12,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 44784701
+    },
+    {
+        "school": {
+            "name": "Institute of Health & Technology- Jackson",
+            "city": "Jackson",
+            "state": "MS",
+            "zip": "39206",
+            "accreditor": null,
+            "school_url": "https://iht.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 28,
+            "region_id": 5,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 0,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 44801701
+    },
+    {
+        "school": {
+            "name": "Rasmussen University-Aurora",
+            "city": "Aurora",
+            "state": "IL",
+            "zip": "60506-6219",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.rasmussen.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 0,
+                "highest": 0
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 21,
+            "ownership": 3,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": null,
+            "degree_urbanization": null,
+            "carnegie_basic": null,
+            "carnegie_undergrad": null,
+            "carnegie_size_setting": null,
+            "minority_serving": {
+                "historically_black": null,
+                "predominantly_black": null,
+                "annh": null,
+                "tribal": null,
+                "aanipi": null,
+                "hispanic": null,
+                "nant": null
+            },
+            "men_only": null,
+            "women_only": null,
+            "religious_affiliation": null,
+            "online_only": null,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": null,
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 44867301
+    }
+]

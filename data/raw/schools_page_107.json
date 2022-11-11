@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Hudson Valley Community College",
+            "city": "Troy",
+            "state": "NY",
+            "zip": "12180",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.hvcc.edu/",
+            "price_calculator_url": "https://www.hvcc.edu/npc/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 5,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4874,
+            "instructional_expenditure_per_fte": 10138,
+            "faculty_salary": 7082,
+            "ft_faculty_rate": 0.4506,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "1/1/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 7433804,
+                "end": 7538957
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 191719
+    },
+    {
+        "school": {
+            "name": "Hunter Business School",
+            "city": "Levittown",
+            "state": "NY",
+            "zip": "11756-1375",
+            "accreditor": "Middle States Commission on Secondary Education",
+            "school_url": "hunterbusinessschool.edu/",
+            "price_calculator_url": "www.hunterbusinessschool.edu/NetPriceCalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10054,
+            "instructional_expenditure_per_fte": 3450,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACSS",
+            "title_iv": {
+                "approval_date": "9/27/1982",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 191728
+    },
+    {
+        "school": {
+            "name": "Iona College",
+            "city": "New Rochelle",
+            "state": "NY",
+            "zip": "10801-1890",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.iona.edu/",
+            "price_calculator_url": "https://www.iona.edu/offices/student-financial-services/costs-attendance/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 21012,
+            "instructional_expenditure_per_fte": 9883,
+            "faculty_salary": 10022,
+            "ft_faculty_rate": 0.5909,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "1/1/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 159938000,
+                "end": 162713000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 191931
+    },
+    {
+        "school": {
+            "name": "Isabella Graham Hart School of Practical Nursing",
+            "city": "Rochester",
+            "state": "NY",
+            "zip": "14621",
+            "accreditor": "Accreditation Commission for Education in Nursing",
+            "school_url": "www.rochesterregional.org/for-healthcare-professionals/residency-training-programs/igh-school-of-practical-nursing/",
+            "price_calculator_url": "www.rochesterregionalhealth.org/IGH",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3922,
+            "instructional_expenditure_per_fte": 5726,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "IGH",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NLNAC",
+            "title_iv": {
+                "approval_date": "2/3/1981",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 191940
+    },
+    {
+        "school": {
+            "name": "Island Drafting and Technical Institute",
+            "city": "Amityville",
+            "state": "NY",
+            "zip": "11701-2704",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "https://www.idti.edu/",
+            "price_calculator_url": "https://www.idti.edu/financialaid/npc/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 11,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14630,
+            "instructional_expenditure_per_fte": 10906,
+            "faculty_salary": 5986,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "1/24/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 191959
+    },
+    {
+        "school": {
+            "name": "Ithaca College",
+            "city": "Ithaca",
+            "state": "NY",
+            "zip": "14850-7002",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.ithaca.edu/",
+            "price_calculator_url": "https://ithaca.studentaidcalculator.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 23,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 20938,
+            "instructional_expenditure_per_fte": 14026,
+            "faculty_salary": 9180,
+            "ft_faculty_rate": 0.7879,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 347334887,
+                "end": 337301846
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 191968
+    },
+    {
+        "school": {
+            "name": "Jamestown Community College",
+            "city": "Jamestown",
+            "state": "NY",
+            "zip": "14701",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.sunyjcc.edu/",
+            "price_calculator_url": "https://www.suny.edu/howmuch/netpricecalculator.xhtml",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 3,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3778,
+            "instructional_expenditure_per_fte": 5625,
+            "faculty_salary": 6653,
+            "ft_faculty_rate": 0.1925,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 191986
+    },
+    {
+        "school": {
+            "name": "Jamestown Business College",
+            "city": "Jamestown",
+            "state": "NY",
+            "zip": "14701-4756",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.jbc.edu/",
+            "price_calculator_url": "www.jbc.edu/NPC17-18/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 29,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14584,
+            "instructional_expenditure_per_fte": 2213,
+            "faculty_salary": 5229,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "11/6/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 192004
+    },
+    {
+        "school": {
+            "name": "Jefferson Community College",
+            "city": "Watertown",
+            "state": "NY",
+            "zip": "13601-1897",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.sunyjefferson.edu/",
+            "price_calculator_url": "https://www.sunyjefferson.edu/costs-aid/net-price-calculator.php",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2492,
+            "instructional_expenditure_per_fte": 7194,
+            "faculty_salary": 6732,
+            "ft_faculty_rate": 0.3977,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "2/16/1988",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 4207255,
+                "end": 7152797
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 192022
+    },
+    {
+        "school": {
+            "name": "Jewish Theological Seminary of America",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10027-4649",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.jtsa.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/student/app/jtsa",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 80,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8582,
+            "instructional_expenditure_per_fte": 18226,
+            "faculty_salary": 12200,
+            "ft_faculty_rate": 0.5522,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 141954763,
+                "end": 137717607
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 192040
+    },
+    {
+        "school": {
+            "name": "The Juilliard School",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10023-6588",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.juilliard.edu/",
+            "price_calculator_url": "www.juilliard.edu/campus-life/financial-aid/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 30,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 19254,
+            "instructional_expenditure_per_fte": 32387,
+            "faculty_salary": 8131,
+            "ft_faculty_rate": 0.3909,
+            "alias": "Juilliard",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 1103571702,
+                "end": 1063433596
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 192110
+    },
+    {
+        "school": {
+            "name": "Kehilath Yakov Rabbinical Seminary",
+            "city": "Ossining",
+            "state": "NY",
+            "zip": "10562",
+            "accreditor": "Association of Advanced Rabbinical and Talmudic Schools",
+            "school_url": "kehilathyakov.com/",
+            "price_calculator_url": "kehilathyakov.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 1,
+            "women_only": 0,
+            "religious_affiliation": 80,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1552,
+            "instructional_expenditure_per_fte": 2397,
+            "faculty_salary": 2139,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "AARTS",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 192165
+    },
+    {
+        "school": {
+            "name": "Keuka College",
+            "city": "Keuka Park",
+            "state": "NY",
+            "zip": "14478",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.keuka.edu/",
+            "price_calculator_url": "https://www.keuka.edu/npc",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 15808,
+            "instructional_expenditure_per_fte": 8006,
+            "faculty_salary": 5651,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 14551199,
+                "end": 15706631
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 192192
+    },
+    {
+        "school": {
+            "name": "LIM College",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10022-5268",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.limcollege.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/student/app/limcollege",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 29,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 29183,
+            "instructional_expenditure_per_fte": 10162,
+            "faculty_salary": 6277,
+            "ft_faculty_rate": 0.064,
+            "alias": "LIM|LIM College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "1/15/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 192271
+    },
+    {
+        "school": {
+            "name": "Le Moyne College",
+            "city": "Syracuse",
+            "state": "NY",
+            "zip": "13214-1301",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.lemoyne.edu/",
+            "price_calculator_url": "www.lemoyne.edu/Apply/Financial-Aid/Financial-Aid-Calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16425,
+            "instructional_expenditure_per_fte": 11519,
+            "faculty_salary": 8766,
+            "ft_faculty_rate": 0.5396,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 193527648,
+                "end": 189023268
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 192323
+    },
+    {
+        "school": {
+            "name": "Long Island University",
+            "city": "Brookville",
+            "state": "NY",
+            "zip": "11548-1327",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.liu.edu/",
+            "price_calculator_url": "webapps2.liu.edu/netpricecalc/Calculator.aspx?campus=P",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 24644,
+            "instructional_expenditure_per_fte": 12865,
+            "faculty_salary": 12263,
+            "ft_faculty_rate": 0.4393,
+            "alias": "LIU Post",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 238676611,
+                "end": 242211453
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 192448
+    },
+    {
+        "school": {
+            "name": "Long Island Beauty School-Hempstead",
+            "city": "Hempstead",
+            "state": "NY",
+            "zip": "11550",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.libs.edu/",
+            "price_calculator_url": "www.libs.edu/netpricecalculator/Hempstead2017/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13181,
+            "instructional_expenditure_per_fte": 4658,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "1/20/1975",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 192484
+    },
+    {
+        "school": {
+            "name": "Long Island Business Institute",
+            "city": "Flushing",
+            "state": "NY",
+            "zip": "11354-5577",
+            "accreditor": "New York State Board of Regents and the Commissioner of Education",
+            "school_url": "www.libi.edu/",
+            "price_calculator_url": "libi.edu/wp-content/uploads/2021/04/netpricecal.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 13,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8625,
+            "instructional_expenditure_per_fte": 3118,
+            "faculty_salary": 3764,
+            "ft_faculty_rate": 0.2698,
+            "alias": "LIBI",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NYBRE",
+            "title_iv": {
+                "approval_date": "9/20/1978",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 192509
+    },
+    {
+        "school": {
+            "name": "Machzikei Hadath Rabbinical College",
+            "city": "Brooklyn",
+            "state": "NY",
+            "zip": "11204-1805",
+            "accreditor": "Association of Advanced Rabbinical and Talmudic Schools",
+            "school_url": "https://mhrc.edu/",
+            "price_calculator_url": "https://mhrc.edu/wp-content/uploads/Net Price Calculator 18.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 7,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 1,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6872,
+            "instructional_expenditure_per_fte": 3361,
+            "faculty_salary": 4850,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "AARTS",
+            "title_iv": {
+                "approval_date": "11/14/1980",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 192624
+    },
+    {
+        "school": {
+            "name": "Mandl School-The College of Allied Health",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10019-5516",
+            "accreditor": "Accrediting Bureau of Health Education Schools",
+            "school_url": "www.mandl.edu/",
+            "price_calculator_url": "mandl.edu/wp-content/uploads/netcalc/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8273,
+            "instructional_expenditure_per_fte": 2589,
+            "faculty_salary": 5019,
+            "ft_faculty_rate": 0.3095,
+            "alias": "Mandl School - The College of Allied Health",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ABHES",
+            "title_iv": {
+                "approval_date": "2/1/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 192688
+    }
+]

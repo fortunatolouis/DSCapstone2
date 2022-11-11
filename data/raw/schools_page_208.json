@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Union County Vocational Technical School",
+            "city": "Scotch Plains",
+            "state": "NJ",
+            "zip": "07076",
+            "accreditor": "Middle States Commission on Secondary Education",
+            "school_url": "www.ucvts.tec.nj.us/domain/11",
+            "price_calculator_url": "www.ucvts.tec.nj.us/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1976,
+            "instructional_expenditure_per_fte": 2962,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACSS",
+            "title_iv": {
+                "approval_date": "5/19/1983",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 417831
+    },
+    {
+        "school": {
+            "name": "Prism Career Institute-Philadelphia",
+            "city": "Philadelphia",
+            "state": "PA",
+            "zip": "19152",
+            "accreditor": "Accrediting Council for Continuing Education & Training",
+            "school_url": "prismcareerinstitute.edu/",
+            "price_calculator_url": "www.prismcareerinstitute.edu/netprice/all-campus-npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 3,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 27378,
+            "instructional_expenditure_per_fte": 12003,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCET",
+            "title_iv": {
+                "approval_date": "4/22/1988",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 417840
+    },
+    {
+        "school": {
+            "name": "Clinton Essex Warren Washington BOCES",
+            "city": "Plattsburgh",
+            "state": "NY",
+            "zip": "12901-0455",
+            "accreditor": "New York State Board of Regents State Education Department Office of the Professions (Public Postsecondary Vocational Education Practical Nursing)",
+            "school_url": "www.cves.org/",
+            "price_calculator_url": "https://www.cves.org/wp-content/uploads/2016/01/npcalc2.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9146,
+            "instructional_expenditure_per_fte": 13016,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "CEWW BOCES, Champlain Valley Educational Services",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NYBRVE",
+            "title_iv": {
+                "approval_date": "11/30/1993",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 417868
+    },
+    {
+        "school": {
+            "name": "Jefferson Lewis BOCES-Practical Nursing Program",
+            "city": "Watertown",
+            "state": "NY",
+            "zip": "13601-9509",
+            "accreditor": "New York State Board of Regents State Education Department Office of the Professions (Public Postsecondary Vocational Education Practical Nursing)",
+            "school_url": "www.boces.com/",
+            "price_calculator_url": "https://core-docs.s3.amazonaws.com/documents/asset/uploaded_file/390039/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12701,
+            "instructional_expenditure_per_fte": 8077,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NYBRVE",
+            "title_iv": {
+                "approval_date": "12/16/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 417886
+    },
+    {
+        "school": {
+            "name": "Veeb Nassau County School of Practical Nursing",
+            "city": "Hicksville",
+            "state": "NY",
+            "zip": "11801-4302",
+            "accreditor": "New York State Board of Regents State Education Department Office of the Professions (Public Postsecondary Vocational Education Practical Nursing)",
+            "school_url": "www.veebpnprogram.org/",
+            "price_calculator_url": "www.veebpnprogram.org/financial-aid-calc",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 19720,
+            "instructional_expenditure_per_fte": 41239,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "VEEB",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NYBRVE",
+            "title_iv": {
+                "approval_date": "7/29/1974",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 417910
+    },
+    {
+        "school": {
+            "name": "Cattaraugus Allegany BOCES-Practical Nursing Program",
+            "city": "Olean",
+            "state": "NY",
+            "zip": "14760",
+            "accreditor": "New York State Board of Regents State Education Department Office of the Professions (Public Postsecondary Vocational Education Practical Nursing)",
+            "school_url": "www.caboces.org/",
+            "price_calculator_url": "www.caboces.org/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9407,
+            "instructional_expenditure_per_fte": 12218,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NYBRVE",
+            "title_iv": {
+                "approval_date": "1/19/1979",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 417983
+    },
+    {
+        "school": {
+            "name": "Orange Ulster BOCES-Practical Nursing Program",
+            "city": "Goshen",
+            "state": "NY",
+            "zip": "10924",
+            "accreditor": "New York State Board of Regents State Education Department Office of the Professions (Public Postsecondary Vocational Education Practical Nursing)",
+            "school_url": "www.ouboces.org/",
+            "price_calculator_url": "www.ouboces.org/students-of-all-ages/adult-education/practical-nurse-program",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 23,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8485,
+            "instructional_expenditure_per_fte": 11318,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NYBRVE",
+            "title_iv": {
+                "approval_date": "2/20/1980",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 417992
+    },
+    {
+        "school": {
+            "name": "Wayne Finger Lakes BOCES-Practical Nursing Program",
+            "city": "Newark",
+            "state": "NY",
+            "zip": "14513-1863",
+            "accreditor": "New York State Board of Regents State Education Department Office of the Professions (Public Postsecondary Vocational Education Practical Nursing)",
+            "school_url": "https://www.wflboces.org/",
+            "price_calculator_url": "https://www.wflboces.org/adult-and-continuing-education/health-careers/practical-nursing/financial-aid/calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11539,
+            "instructional_expenditure_per_fte": 15510,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NYBRVE",
+            "title_iv": {
+                "approval_date": "10/15/1980",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 418001
+    },
+    {
+        "school": {
+            "name": "Broome Delaware Tioga BOCES-Practical Nursing Program",
+            "city": "Binghamton",
+            "state": "NY",
+            "zip": "13905",
+            "accreditor": "New York State Board of Regents State Education Department Office of the Professions (Public Postsecondary Vocational Education Practical Nursing)",
+            "school_url": "www.btboces.org/",
+            "price_calculator_url": "www.btboces.org/calc/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 22,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5410,
+            "instructional_expenditure_per_fte": 7409,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NYBRVE",
+            "title_iv": {
+                "approval_date": "8/21/1977",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 418010
+    },
+    {
+        "school": {
+            "name": "Washington Saratoga Warren Hamilton Essex BOCES-Practical Nursing Program",
+            "city": "Hudson Falls",
+            "state": "NY",
+            "zip": "12839",
+            "accreditor": "New York State Board of Regents State Education Department Office of the Professions (Public Postsecondary Vocational Education Practical Nursing)",
+            "school_url": "www.wswheboces.org/",
+            "price_calculator_url": "www.wswheboces.org/uploads/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 23,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8503,
+            "instructional_expenditure_per_fte": 6117,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "WSWHE BOCES",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NYBRVE",
+            "title_iv": {
+                "approval_date": "4/8/1981",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 418029
+    },
+    {
+        "school": {
+            "name": "Albany BOCES-Adult Practical Nursing Program",
+            "city": "Albany",
+            "state": "NY",
+            "zip": "12205",
+            "accreditor": "New York State Board of Regents State Education Department Office of the Professions (Public Postsecondary Vocational Education Practical Nursing)",
+            "school_url": "https://www.capitalregionboces.org/adult-education/classes-programs/",
+            "price_calculator_url": "https://www.capitalregionboces.org/wp-content/themes/twentyseventeen-child/CTE/calc/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13349,
+            "instructional_expenditure_per_fte": 3276,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NYBRVE",
+            "title_iv": {
+                "approval_date": "3/22/1979",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 418038
+    },
+    {
+        "school": {
+            "name": "Ulster BOCES-School of Practical Nursing",
+            "city": "Port Ewen",
+            "state": "NY",
+            "zip": "12466",
+            "accreditor": null,
+            "school_url": "www.ulsterboces.org/",
+            "price_calculator_url": "www.ulsterboces.org/students-of-all-ages/adult-career-education-programs/health-occupations/financial-aid",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 23,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 0,
+            "tuition_revenue_per_fte": 10643,
+            "instructional_expenditure_per_fte": 6146,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": "9/13/1979",
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 418056
+    },
+    {
+        "school": {
+            "name": "Eastern Suffolk BOCES",
+            "city": "Brentwood",
+            "state": "NY",
+            "zip": "11717",
+            "accreditor": "Middle States Commission on Secondary Education",
+            "school_url": "www.esboces.org/",
+            "price_calculator_url": "www.esboces.org/cms/lib/NY01914091/Centricity/Domain/471/201920FTDNetPriceCalculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 3,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8506,
+            "instructional_expenditure_per_fte": 6161,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACSS",
+            "title_iv": {
+                "approval_date": "1/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 418065
+    },
+    {
+        "school": {
+            "name": "Rockland County BOCES-Practical Nursing Program",
+            "city": "West Nyack",
+            "state": "NY",
+            "zip": "10994",
+            "accreditor": "New York State Board of Regents State Education Department Office of the Professions (Public Postsecondary Vocational Education Practical Nursing)",
+            "school_url": "www.rocklandboces.org/adult-education-business-services/practical-nursing/",
+            "price_calculator_url": "rboces.neocities.org/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7988,
+            "instructional_expenditure_per_fte": 5067,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NYBRVE",
+            "title_iv": {
+                "approval_date": "6/26/1984",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 418083
+    },
+    {
+        "school": {
+            "name": "New York College of Health Professions",
+            "city": "Syosset",
+            "state": "NY",
+            "zip": "11791-4413",
+            "accreditor": "New York State Board of Regents and the Commissioner of Education",
+            "school_url": "www.nycollege.edu/",
+            "price_calculator_url": "www.nycollege.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13060,
+            "instructional_expenditure_per_fte": 7762,
+            "faculty_salary": 4386,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NYBRE",
+            "title_iv": {
+                "approval_date": "5/2/1989",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 418126
+    },
+    {
+        "school": {
+            "name": "Charles Stuart School of Diamond Setting",
+            "city": "Brooklyn",
+            "state": "NY",
+            "zip": "11229",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "charlesstuartschool.com/",
+            "price_calculator_url": "https://charlesstuartschool.com/netpricecalc/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9394,
+            "instructional_expenditure_per_fte": 3432,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Charles Stuart School",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "11/15/1993",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 418171
+    },
+    {
+        "school": {
+            "name": "Penta County Joint Vocational School",
+            "city": "Perrysburg",
+            "state": "OH",
+            "zip": "43551-4594",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "https://www.pentacareercenter.org/FinancialAid.aspx",
+            "price_calculator_url": "https://www.pentacareercenter.org/FinancialAid.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3254,
+            "instructional_expenditure_per_fte": 12060,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Penta Career Center",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "8/9/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 418199
+    },
+    {
+        "school": {
+            "name": "Career and Technology Education Centers of Licking County",
+            "city": "Newark",
+            "state": "OH",
+            "zip": "43055-3399",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "c-tec.edu/ae",
+            "price_calculator_url": "c-tec.edu/UserFiles/Servers/Server_76652/Image/Adult Education/Calculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 23,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7173,
+            "instructional_expenditure_per_fte": 9116,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "C-TEC of Licking County",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "6/7/1982",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 418205
+    },
+    {
+        "school": {
+            "name": "Northern Career Institute",
+            "city": "Eastlake",
+            "state": "OH",
+            "zip": "44094",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "ncioh.edu/",
+            "price_calculator_url": "www.willoughby-eastlake.k12.oh.us/netpricecalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 1,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6750,
+            "instructional_expenditure_per_fte": 11253,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Willoughby-Eastlake School of Practical Nursing is a program that is offered at the Northern Career Institute",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "12/18/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 418223
+    },
+    {
+        "school": {
+            "name": "Washington County Career Center-Adult Technical Training",
+            "city": "Marietta",
+            "state": "OH",
+            "zip": "45750",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.mycareerschool.com/",
+            "price_calculator_url": "www.mycareerschool.com/net-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7953,
+            "instructional_expenditure_per_fte": 10206,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "3/5/1991",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 418250
+    }
+]

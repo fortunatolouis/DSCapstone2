@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "University of Hawaii at Manoa",
+            "city": "Honolulu",
+            "state": "HI",
+            "zip": "96822-2217",
+            "accreditor": "Western Association of Schools and Colleges Senior Colleges and University Commission",
+            "school_url": "https://manoa.hawaii.edu/",
+            "price_calculator_url": "https://www.hawaii.edu/fas/basics/calculator.php",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 15,
+            "region_id": 8,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 1,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11587,
+            "instructional_expenditure_per_fte": 25120,
+            "faculty_salary": 12581,
+            "ft_faculty_rate": 0.8019,
+            "alias": "UH Manoa / UHM",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "WASCSR",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 43506526,
+                "end": 45302778
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 141574
+    },
+    {
+        "school": {
+            "name": "Hawaii Institute of Hair Design",
+            "city": "Honolulu",
+            "state": "HI",
+            "zip": "96817-5195",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.hihdhawaii.net/",
+            "price_calculator_url": "www.hihdhawaii.net/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 15,
+            "region_id": 8,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6804,
+            "instructional_expenditure_per_fte": 3810,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "1/23/1978",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 141608
+    },
+    {
+        "school": {
+            "name": "Hawaii Pacific University",
+            "city": "Honolulu",
+            "state": "HI",
+            "zip": "96813",
+            "accreditor": "Western Association of Schools and Colleges Senior Colleges and University Commission",
+            "school_url": "https://www.hpu.edu/",
+            "price_calculator_url": "https://www.hpu.edu/financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 15,
+            "region_id": 8,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 1,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17819,
+            "instructional_expenditure_per_fte": 6030,
+            "faculty_salary": 8525,
+            "ft_faculty_rate": 0.5183,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "WASCSR",
+            "title_iv": {
+                "approval_date": "4/1/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 41911674,
+                "end": 43037065
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 141644
+    },
+    {
+        "school": {
+            "name": "Honolulu Community College",
+            "city": "Honolulu",
+            "state": "HI",
+            "zip": "96817-4505",
+            "accreditor": "Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges",
+            "school_url": "https://www.honolulu.hawaii.edu/",
+            "price_calculator_url": "https://www.honolulu.hawaii.edu/sites/www.honolulu.hawaii.edu/files/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 15,
+            "region_id": 8,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 8,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 1,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3281,
+            "instructional_expenditure_per_fte": 14158,
+            "faculty_salary": 8817,
+            "ft_faculty_rate": 0.6324,
+            "alias": "Honolulu CC / HCC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "WASCJC",
+            "title_iv": {
+                "approval_date": "12/1/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 141680
+    },
+    {
+        "school": {
+            "name": "Kapiolani Community College",
+            "city": "Honolulu",
+            "state": "HI",
+            "zip": "96816-4421",
+            "accreditor": "Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges",
+            "school_url": "https://www.kapiolani.hawaii.edu/",
+            "price_calculator_url": "https://www.kapiolani.hawaii.edu/paying-for-college/financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 15,
+            "region_id": 8,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 5,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 1,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4354,
+            "instructional_expenditure_per_fte": 12281,
+            "faculty_salary": 9263,
+            "ft_faculty_rate": 0.6182,
+            "alias": "Kapiolani CC / KCC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "WASCJC",
+            "title_iv": {
+                "approval_date": "1/1/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 141796
+    },
+    {
+        "school": {
+            "name": "Kauai Community College",
+            "city": "Lihue",
+            "state": "HI",
+            "zip": "96766-9500",
+            "accreditor": "Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges",
+            "school_url": "https://www.kauai.hawaii.edu/",
+            "price_calculator_url": "https://www.kauai.hawaii.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 15,
+            "region_id": 8,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 1,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2290,
+            "instructional_expenditure_per_fte": 17979,
+            "faculty_salary": 8944,
+            "ft_faculty_rate": 0.6364,
+            "alias": "Kauai CC / KCC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "WASCJC",
+            "title_iv": {
+                "approval_date": "7/17/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 141802
+    },
+    {
+        "school": {
+            "name": "Leeward Community College",
+            "city": "Pearl City",
+            "state": "HI",
+            "zip": "96782-3366",
+            "accreditor": "Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges",
+            "school_url": "www.leeward.hawaii.edu/",
+            "price_calculator_url": "www.leeward.hawaii.edu/files/netpricecalculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 15,
+            "region_id": 8,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3131,
+            "instructional_expenditure_per_fte": 8648,
+            "faculty_salary": 8866,
+            "ft_faculty_rate": 0.6254,
+            "alias": "Leeward CC / LCC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "WASCJC",
+            "title_iv": {
+                "approval_date": "2/1/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 141811
+    },
+    {
+        "school": {
+            "name": "University of Hawaii Maui College",
+            "city": "Kahului",
+            "state": "HI",
+            "zip": "96732-1617",
+            "accreditor": "Western Association of Schools and Colleges Senior Colleges and University Commission",
+            "school_url": "maui.hawaii.edu/",
+            "price_calculator_url": "maui.hawaii.edu/netpricecalculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 15,
+            "region_id": 8,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 14,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 1,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3222,
+            "instructional_expenditure_per_fte": 18968,
+            "faculty_salary": 8913,
+            "ft_faculty_rate": 0.5426,
+            "alias": "UH Maui College / Maui College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "WASCSR",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 343711,
+                "end": 356156
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 141839
+    },
+    {
+        "school": {
+            "name": "University of Hawaii-West Oahu",
+            "city": "Kapolei",
+            "state": "HI",
+            "zip": "96707-4507",
+            "accreditor": "Western Association of Schools and Colleges Senior Colleges and University Commission",
+            "school_url": "https://westoahu.hawaii.edu/",
+            "price_calculator_url": "https://westoahu.hawaii.edu/financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 15,
+            "region_id": 8,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 1,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5273,
+            "instructional_expenditure_per_fte": 13343,
+            "faculty_salary": 10041,
+            "ft_faculty_rate": 0.5333,
+            "alias": "UH West Oahu / UHWO",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "WASCSR",
+            "title_iv": {
+                "approval_date": "6/1/1977",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 221187,
+                "end": 233955
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 141981
+    },
+    {
+        "school": {
+            "name": "Windward Community College",
+            "city": "Kaneohe",
+            "state": "HI",
+            "zip": "96744-3528",
+            "accreditor": "Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges",
+            "school_url": "https://windward.hawaii.edu/",
+            "price_calculator_url": "https://windward.hawaii.edu/paying-for-college/financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 15,
+            "region_id": 8,
+            "locale": 22,
+            "degree_urbanization": null,
+            "carnegie_basic": 3,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 1,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2749,
+            "instructional_expenditure_per_fte": 12282,
+            "faculty_salary": 8335,
+            "ft_faculty_rate": 0.5906,
+            "alias": "Windward CC / WCC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "WASCJC",
+            "title_iv": {
+                "approval_date": "2/8/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 141990
+    },
+    {
+        "school": {
+            "name": "Carrington College-Boise",
+            "city": "Boise",
+            "state": "ID",
+            "zip": "83704-8742",
+            "accreditor": "Western Association of Schools and Colleges Accrediting Commission for Community and Junior Colleges",
+            "school_url": "https://carrington.edu/",
+            "price_calculator_url": "https://carrington.edu/financial-aid/how-much-will-it-cost/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 3,
+            "ownership": 3,
+            "state_fips": 16,
+            "region_id": 7,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12399,
+            "instructional_expenditure_per_fte": 9225,
+            "faculty_salary": 5671,
+            "ft_faculty_rate": 0.5385,
+            "alias": "Carrington College-Boise formerly Apollo College-Boise",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "WASCJC",
+            "title_iv": {
+                "approval_date": "1/3/1983",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 142054
+    },
+    {
+        "school": {
+            "name": "Boise Bible College",
+            "city": "Boise",
+            "state": "ID",
+            "zip": "83714-1220",
+            "accreditor": "Association for Bibical Higher Educaiton",
+            "school_url": "https://boisebible.edu/",
+            "price_calculator_url": "https://boisebible.edu/wp-content/uploads/2021/07/NetPrice.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 16,
+            "region_id": 7,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 88,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12783,
+            "instructional_expenditure_per_fte": 14549,
+            "faculty_salary": 4575,
+            "ft_faculty_rate": 0.9,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "ABHE",
+            "title_iv": {
+                "approval_date": "1/12/1983",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 1022498,
+                "end": 1080715
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 142090
+    },
+    {
+        "school": {
+            "name": "Boise State University",
+            "city": "Boise",
+            "state": "ID",
+            "zip": "83725",
+            "accreditor": "Northwest Commission on Colleges and Universities",
+            "school_url": "https://www.boisestate.edu/",
+            "price_calculator_url": "https://fs.boisestate.edu/financialaid/Net+Price+Calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 16,
+            "region_id": 7,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9261,
+            "instructional_expenditure_per_fte": 8023,
+            "faculty_salary": 8321,
+            "ft_faculty_rate": 0.588,
+            "alias": "Boise State",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NWCCU",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 118157355,
+                "end": 117222395
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 142115
+    },
+    {
+        "school": {
+            "name": "College of Eastern Idaho",
+            "city": "Idaho Falls",
+            "state": "ID",
+            "zip": "83404-5788",
+            "accreditor": "Northwest Commission on Colleges and Universities",
+            "school_url": "www.cei.edu/",
+            "price_calculator_url": "www.cei.edu/NPCalc/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 16,
+            "region_id": 7,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3773,
+            "instructional_expenditure_per_fte": 10904,
+            "faculty_salary": 5791,
+            "ft_faculty_rate": 0.4361,
+            "alias": "CEI",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NWCCU",
+            "title_iv": {
+                "approval_date": "3/21/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 142179
+    },
+    {
+        "school": {
+            "name": "Idaho State University",
+            "city": "Pocatello",
+            "state": "ID",
+            "zip": "83209",
+            "accreditor": "Northwest Commission on Colleges and Universities",
+            "school_url": "www.isu.edu/",
+            "price_calculator_url": "https://www.isu.edu/financialaid/consumer-information/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 16,
+            "region_id": 7,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7593,
+            "instructional_expenditure_per_fte": 12480,
+            "faculty_salary": 7745,
+            "ft_faculty_rate": 0.9532,
+            "alias": "ISU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NWCCU",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 59074509,
+                "end": 58999191
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 142276
+    },
+    {
+        "school": {
+            "name": "University of Idaho",
+            "city": "Moscow",
+            "state": "ID",
+            "zip": "83844-2282",
+            "accreditor": "Northwest Commission on Colleges and Universities",
+            "school_url": "www.uidaho.edu/",
+            "price_calculator_url": "www.uidaho.edu/financial-aid/cost-of-attendance",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 16,
+            "region_id": 7,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10208,
+            "instructional_expenditure_per_fte": 12959,
+            "faculty_salary": 9583,
+            "ft_faculty_rate": 0.8877,
+            "alias": "UIdaho",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NWCCU",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 291868171,
+                "end": 286512215
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 142285
+    },
+    {
+        "school": {
+            "name": "The College of Idaho",
+            "city": "Caldwell",
+            "state": "ID",
+            "zip": "83605-4432",
+            "accreditor": "Northwest Commission on Colleges and Universities",
+            "school_url": "www.collegeofidaho.edu/",
+            "price_calculator_url": "https://www.collegeofidaho.edu/admission-aid/cost/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 16,
+            "region_id": 7,
+            "locale": 22,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7819,
+            "instructional_expenditure_per_fte": 8053,
+            "faculty_salary": 7156,
+            "ft_faculty_rate": 0.5462,
+            "alias": "C of I",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NWCCU",
+            "title_iv": {
+                "approval_date": "1/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 105039031,
+                "end": 100736276
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 142294
+    },
+    {
+        "school": {
+            "name": "Lewis-Clark State College",
+            "city": "Lewiston",
+            "state": "ID",
+            "zip": "83501-2698",
+            "accreditor": "Northwest Commission on Colleges and Universities",
+            "school_url": "www.lcsc.edu/",
+            "price_calculator_url": "connect.lcsc.edu/npcalc",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 16,
+            "region_id": 7,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4661,
+            "instructional_expenditure_per_fte": 7971,
+            "faculty_salary": 6523,
+            "ft_faculty_rate": 0.9727,
+            "alias": "LCSC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NWCCU",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 8599896,
+                "end": 8786878
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 142328
+    },
+    {
+        "school": {
+            "name": "Aveda Institute-Twin Falls",
+            "city": "Twin Falls",
+            "state": "ID",
+            "zip": "83301",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.avedaidaho.com/",
+            "price_calculator_url": "www.avedaidaho.com/#!net-price-calculator/ccxs",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 16,
+            "region_id": 7,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10137,
+            "instructional_expenditure_per_fte": 2480,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Mr. Juan's College of Hair Design",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "4/20/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 142407
+    },
+    {
+        "school": {
+            "name": "Mr Leon's School of Hair Design-Moscow",
+            "city": "Moscow",
+            "state": "ID",
+            "zip": "83843",
+            "accreditor": null,
+            "school_url": "mrleons.com/",
+            "price_calculator_url": "mrleons.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 16,
+            "region_id": 7,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 0,
+            "tuition_revenue_per_fte": 14569,
+            "instructional_expenditure_per_fte": 5304,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": "8/1/1984",
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 142416
+    }
+]

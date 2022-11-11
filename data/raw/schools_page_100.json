@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Thomas Edison State University",
+            "city": "Trenton",
+            "state": "NJ",
+            "zip": "08608",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.tesu.edu/",
+            "price_calculator_url": "www.tesu.edu/tuition/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11396,
+            "instructional_expenditure_per_fte": 0,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "TESU, Thomas Edison State University, (old name:Thomas Edison State College), (old abbreviation:TESC)",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "7/19/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 8373739,
+                "end": 9996556
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 187046
+    },
+    {
+        "school": {
+            "name": "The College of New Jersey",
+            "city": "Ewing",
+            "state": "NJ",
+            "zip": "08628-7718",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.tcnj.edu/",
+            "price_calculator_url": "https://netprice.tcnj.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12917,
+            "instructional_expenditure_per_fte": 10556,
+            "faculty_salary": 10903,
+            "ft_faculty_rate": 0.458,
+            "alias": "TCNJ",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 46208000,
+                "end": 49481000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 187134
+    },
+    {
+        "school": {
+            "name": "Union County College",
+            "city": "Cranford",
+            "state": "NJ",
+            "zip": "07016-1528",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.ucc.edu/",
+            "price_calculator_url": "https://www.ucc.edu/npc/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3914,
+            "instructional_expenditure_per_fte": 6950,
+            "faculty_salary": 9172,
+            "ft_faculty_rate": 0.1714,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 18064410,
+                "end": 18605276
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 187198
+    },
+    {
+        "school": {
+            "name": "William Paterson University of New Jersey",
+            "city": "Wayne",
+            "state": "NJ",
+            "zip": "07470",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.wpunj.edu/",
+            "price_calculator_url": "www.wpunj.edu/financial-aid/net_price_calc.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9856,
+            "instructional_expenditure_per_fte": 11365,
+            "faculty_salary": 11623,
+            "ft_faculty_rate": 0.9799,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 22631523,
+                "end": 24177945
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 187444
+    },
+    {
+        "school": {
+            "name": "Olympian Academy of Cosmetology",
+            "city": "Alamogordo",
+            "state": "NM",
+            "zip": "88310-5051",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.olympusbeauty.com/",
+            "price_calculator_url": "www.olympusbeauty.com/admissions-olympian-cosmetology/olympian-academy-net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 35,
+            "region_id": 6,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10516,
+            "instructional_expenditure_per_fte": 7228,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "12/3/1975",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 187505
+    },
+    {
+        "school": {
+            "name": "Central New Mexico Community College",
+            "city": "Albuquerque",
+            "state": "NM",
+            "zip": "87106",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.cnm.edu/",
+            "price_calculator_url": "https://www.cnm.edu/ext/financial-aid-calculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 35,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 5,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1293,
+            "instructional_expenditure_per_fte": 5982,
+            "faculty_salary": 6244,
+            "ft_faculty_rate": 0.35,
+            "alias": "CNM",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/16/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 9812849,
+                "end": 10535001
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 187532
+    },
+    {
+        "school": {
+            "name": "Navajo Technical University",
+            "city": "Crownpoint",
+            "state": "NM",
+            "zip": "87313-0849",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.navajotech.edu/",
+            "price_calculator_url": "https://sites.google.com/a/navajotech.edu/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 35,
+            "region_id": 6,
+            "locale": 43,
+            "degree_urbanization": null,
+            "carnegie_basic": 33,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 1,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 637,
+            "instructional_expenditure_per_fte": 6178,
+            "faculty_salary": 5566,
+            "ft_faculty_rate": 1,
+            "alias": "Navajo Tech",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "2/2/1985",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 8073485,
+                "end": 8073500
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 187596
+    },
+    {
+        "school": {
+            "name": "New Mexico State University-Dona Ana",
+            "city": "Las Cruces",
+            "state": "NM",
+            "zip": "88011",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "dacc.nmsu.edu/",
+            "price_calculator_url": "https://fa.nmsu.edu/true-cost-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 1,
+            "state_fips": 35,
+            "region_id": 6,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 5,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1313,
+            "instructional_expenditure_per_fte": 5748,
+            "faculty_salary": 6280,
+            "ft_faculty_rate": 0.2874,
+            "alias": "NMSU-Dona Ana",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 187620
+    },
+    {
+        "school": {
+            "name": "Clovis Community College",
+            "city": "Clovis",
+            "state": "NM",
+            "zip": "88101-8381",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.clovis.edu/",
+            "price_calculator_url": "www.clovis.edu/financialaid/netpricecalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 35,
+            "region_id": 6,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1073,
+            "instructional_expenditure_per_fte": 3293,
+            "faculty_salary": 5478,
+            "ft_faculty_rate": 0.5146,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 295434,
+                "end": 299683
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 187639
+    },
+    {
+        "school": {
+            "name": "Eastern New Mexico University-Main Campus",
+            "city": "Portales",
+            "state": "NM",
+            "zip": "88130",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.enmu.edu/",
+            "price_calculator_url": "www.enmu.edu/financial-aid/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 3,
+            "ownership": 1,
+            "state_fips": 35,
+            "region_id": 6,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4683,
+            "instructional_expenditure_per_fte": 5992,
+            "faculty_salary": 7109,
+            "ft_faculty_rate": 0.7291,
+            "alias": "ENMU-Portales",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 13753739,
+                "end": 32962659
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 187648
+    },
+    {
+        "school": {
+            "name": "Eastern New Mexico University-Roswell Campus",
+            "city": "Roswell",
+            "state": "NM",
+            "zip": "88202-6000",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.roswell.enmu.edu/",
+            "price_calculator_url": "www.roswell.enmu.edu/financial-aid/?tabsid=finaidimportanttabs&tab=4&scrollto=netprice",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 3,
+            "ownership": 1,
+            "state_fips": 35,
+            "region_id": 6,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 9,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1323,
+            "instructional_expenditure_per_fte": 6645,
+            "faculty_salary": 5018,
+            "ft_faculty_rate": 0.4018,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 714648,
+                "end": 731446
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 187666
+    },
+    {
+        "school": {
+            "name": "Institute of American Indian and Alaska Native Culture and Arts Development",
+            "city": "Santa Fe",
+            "state": "NM",
+            "zip": "87508-1300",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://iaia.edu/",
+            "price_calculator_url": "https://iaia.edu/netprice/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 35,
+            "region_id": 6,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 33,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 7,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 1,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4549,
+            "instructional_expenditure_per_fte": 12285,
+            "faculty_salary": 7061,
+            "ft_faculty_rate": 1,
+            "alias": "Institute of American Indian Arts",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "9/29/1977",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 6213170,
+                "end": 8845013
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 187745
+    },
+    {
+        "school": {
+            "name": "New Mexico Highlands University",
+            "city": "Las Vegas",
+            "state": "NM",
+            "zip": "87701",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.nmhu.edu/",
+            "price_calculator_url": "banweb.nmhu.edu/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 35,
+            "region_id": 6,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7200,
+            "instructional_expenditure_per_fte": 13114,
+            "faculty_salary": 6450,
+            "ft_faculty_rate": 0.9571,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 7752069,
+                "end": 7696307
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 187897
+    },
+    {
+        "school": {
+            "name": "New Mexico Junior College",
+            "city": "Hobbs",
+            "state": "NM",
+            "zip": "88240",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.nmjc.edu/",
+            "price_calculator_url": "https://www.nmjc.edu/about/consumer_information/NetPrice/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 35,
+            "region_id": 6,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1886,
+            "instructional_expenditure_per_fte": 5024,
+            "faculty_salary": 6814,
+            "ft_faculty_rate": 0.5207,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "8/20/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 9864932,
+                "end": 9567485
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 187903
+    },
+    {
+        "school": {
+            "name": "New Mexico Military Institute",
+            "city": "Roswell",
+            "state": "NM",
+            "zip": "88201-5173",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.nmmi.edu/",
+            "price_calculator_url": "https://www.nmmi.edu/financial-aid-scholarships/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 35,
+            "region_id": 6,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6567,
+            "instructional_expenditure_per_fte": 18214,
+            "faculty_salary": 6679,
+            "ft_faculty_rate": 1,
+            "alias": "NMMI",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 490759173,
+                "end": 492157374
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 187912
+    },
+    {
+        "school": {
+            "name": "University of New Mexico-Gallup Campus",
+            "city": "Gallup",
+            "state": "NM",
+            "zip": "87301",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.gallup.unm.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/student/app/unm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 1,
+            "state_fips": 35,
+            "region_id": 6,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 1
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1360,
+            "instructional_expenditure_per_fte": 5610,
+            "faculty_salary": 6944,
+            "ft_faculty_rate": 0.9552,
+            "alias": "UNM-Gallup",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "7/15/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 187958
+    },
+    {
+        "school": {
+            "name": "New Mexico Institute of Mining and Technology",
+            "city": "Socorro",
+            "state": "NM",
+            "zip": "87801",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.nmt.edu/",
+            "price_calculator_url": "https://www.nmt.edu/finaid/netprice/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 35,
+            "region_id": 6,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6469,
+            "instructional_expenditure_per_fte": 10615,
+            "faculty_salary": 8842,
+            "ft_faculty_rate": 0.7753,
+            "alias": "New Mexico Tech",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 58698135,
+                "end": 61109894
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 187967
+    },
+    {
+        "school": {
+            "name": "University of New Mexico-Los Alamos Campus",
+            "city": "Los Alamos",
+            "state": "NM",
+            "zip": "87544",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "losalamos.unm.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/student/app/unm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 1,
+            "state_fips": 35,
+            "region_id": 6,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1571,
+            "instructional_expenditure_per_fte": 3795,
+            "faculty_salary": 5683,
+            "ft_faculty_rate": 0.2609,
+            "alias": "UNM - Los Alamos",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "10/6/1981",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 187976
+    },
+    {
+        "school": {
+            "name": "University of New Mexico-Main Campus",
+            "city": "Albuquerque",
+            "state": "NM",
+            "zip": "87106",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.unm.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/student/app/unm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 5,
+            "ownership": 1,
+            "state_fips": 35,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6425,
+            "instructional_expenditure_per_fte": 14196,
+            "faculty_salary": 9462,
+            "ft_faculty_rate": 0.8999,
+            "alias": "UNM",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 471930226,
+                "end": 457044012
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 187985
+    },
+    {
+        "school": {
+            "name": "New Mexico State University-Alamogordo",
+            "city": "Alamogordo",
+            "state": "NM",
+            "zip": "88310",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "nmsua.edu/",
+            "price_calculator_url": "https://fa.nmsu.edu/true-cost-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 1,
+            "state_fips": 35,
+            "region_id": 6,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 3,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2244,
+            "instructional_expenditure_per_fte": 8180,
+            "faculty_salary": 6981,
+            "ft_faculty_rate": 0.3523,
+            "alias": "NMSU-Alamogordo",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 187994
+    }
+]

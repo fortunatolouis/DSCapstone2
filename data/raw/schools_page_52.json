@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Indiana University-Southeast",
+            "city": "New Albany",
+            "state": "IN",
+            "zip": "47150",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://ius.edu/",
+            "price_calculator_url": "https://uirr.iu.edu/doc/compliance/regional-net-price-calculators/index_IU_Southeast_NetPrice_Calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6685,
+            "instructional_expenditure_per_fte": 8478,
+            "faculty_salary": 7191,
+            "ft_faculty_rate": 0.5226,
+            "alias": "IUSE | IU SE | IU Southeast",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 19024897,
+                "end": 18185063
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 151379
+    },
+    {
+        "school": {
+            "name": "Indiana University-East",
+            "city": "Richmond",
+            "state": "IN",
+            "zip": "47374-1289",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.iue.edu/",
+            "price_calculator_url": "https://uirr.iu.edu/doc/compliance/regional-net-price-calculators/index_IU_East_NetPrice_Calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7742,
+            "instructional_expenditure_per_fte": 6755,
+            "faculty_salary": 6863,
+            "ft_faculty_rate": 0.4321,
+            "alias": "IUE | IU East",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "4/1/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 6506640,
+                "end": 6121065
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 151388
+    },
+    {
+        "school": {
+            "name": "International Business College-Indianapolis",
+            "city": "Indianapolis",
+            "state": "IN",
+            "zip": "46256-3954",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.ibcindianapolis.edu/",
+            "price_calculator_url": "www.ibcindianapolis.edu/aid",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 15092,
+            "instructional_expenditure_per_fte": 6075,
+            "faculty_salary": 4619,
+            "ft_faculty_rate": 0.6522,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "2/28/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 151467
+    },
+    {
+        "school": {
+            "name": "Taylor Institute of Cosmetology II",
+            "city": "Knox",
+            "state": "IN",
+            "zip": "46534",
+            "accreditor": null,
+            "school_url": "www.kbc.edu/",
+            "price_calculator_url": "www.kbc.completemore.com/html/?n=DBBD",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3476,
+            "instructional_expenditure_per_fte": 1130,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "dba Knox Beauty College",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": "8/29/1986",
+                "eligibility_type": 5
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 151564
+    },
+    {
+        "school": {
+            "name": "Tricoci University of Beauty Culture-Lafayette",
+            "city": "Lafayette",
+            "state": "IN",
+            "zip": "47901",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.tricociuniversity.edu/",
+            "price_calculator_url": "www.tricociuniversity.edu/admissions-financial-aid/beauty-school-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9806,
+            "instructional_expenditure_per_fte": 3187,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "LAF",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "7/20/2016",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 151607
+    },
+    {
+        "school": {
+            "name": "Empire Beauty School-Indianapolis",
+            "city": "Indianapolis",
+            "state": "IN",
+            "zip": "46237-3249",
+            "accreditor": null,
+            "school_url": "www.empire.edu/",
+            "price_calculator_url": "www.empire.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 8,
+            "ownership": 3,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 0,
+            "tuition_revenue_per_fte": 9537,
+            "instructional_expenditure_per_fte": 6034,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "A Cut Above Beauty College",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": "8/9/2013",
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 151652
+    },
+    {
+        "school": {
+            "name": "Lincoln College of Technology-Indianapolis",
+            "city": "Indianapolis",
+            "state": "IN",
+            "zip": "46268",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.lincolntech.edu/campus/indianapolis-in",
+            "price_calculator_url": "www.lincolntech.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 8,
+            "ownership": 3,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 11,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13246,
+            "instructional_expenditure_per_fte": 4955,
+            "faculty_salary": 4599,
+            "ft_faculty_rate": 0.7895,
+            "alias": "LTI; Lincoln Tech; Lincoln Educational Services; LCT",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "6/3/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 151661
+    },
+    {
+        "school": {
+            "name": "Manchester University",
+            "city": "North Manchester",
+            "state": "IN",
+            "zip": "46962",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.manchester.edu/",
+            "price_calculator_url": "www.manchester.edu/admissions/cost-financial-aid/how-much-does-it-cost",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 58,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16669,
+            "instructional_expenditure_per_fte": 10830,
+            "faculty_salary": 7978,
+            "ft_faculty_rate": 0.906,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 64469562,
+                "end": 63391279
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 151777
+    },
+    {
+        "school": {
+            "name": "Marian University",
+            "city": "Indianapolis",
+            "state": "IN",
+            "zip": "46222-1997",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.marian.edu/",
+            "price_calculator_url": "www.marian.edu/admissions/tuition-and-fees/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 20009,
+            "instructional_expenditure_per_fte": 10149,
+            "faculty_salary": 7059,
+            "ft_faculty_rate": 0.5492,
+            "alias": "Marian",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 69273105,
+                "end": 74932481
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 151786
+    },
+    {
+        "school": {
+            "name": "Indiana Wesleyan University-Marion",
+            "city": "Marion",
+            "state": "IN",
+            "zip": "46953-4974",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.indwes.edu/",
+            "price_calculator_url": "https://secure2.indwes.edu/Financial-Aid/Estimator/CAS/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 2,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 89,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14255,
+            "instructional_expenditure_per_fte": 10813,
+            "faculty_salary": 7494,
+            "ft_faculty_rate": 1,
+            "alias": "IWU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 204472443,
+                "end": 201367949
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 151801
+    },
+    {
+        "school": {
+            "name": "Martin University",
+            "city": "Indianapolis",
+            "state": "IN",
+            "zip": "46218-0567",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.martin.edu/",
+            "price_calculator_url": "https://www.martin.edu/net-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11501,
+            "instructional_expenditure_per_fte": 4378,
+            "faculty_salary": 4950,
+            "ft_faculty_rate": 0.8,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "5/8/1980",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 151810
+    },
+    {
+        "school": {
+            "name": "Anabaptist Mennonite Biblical Seminary",
+            "city": "Elkhart",
+            "state": "IN",
+            "zip": "46517-1999",
+            "accreditor": "Commission on Accrediting of the Association of Theological Schools",
+            "school_url": "www.ambs.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 69,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4963,
+            "instructional_expenditure_per_fte": 19742,
+            "faculty_salary": 5998,
+            "ft_faculty_rate": 0.9,
+            "alias": "AMBS | Mennonite Biblical Seminary | Mennonite Seminary",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "ATSUSC",
+            "title_iv": {
+                "approval_date": "3/21/1972",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 19507534,
+                "end": 18774385
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 151865
+    },
+    {
+        "school": {
+            "name": "Mid-America College of Funeral Service",
+            "city": "Jeffersonville",
+            "state": "IN",
+            "zip": "47130",
+            "accreditor": "American Board of Funeral Service Education Committee on Accreditation",
+            "school_url": "www.mid-america.edu/",
+            "price_calculator_url": "https://www.mid-america.edu/admissions/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 32,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9569,
+            "instructional_expenditure_per_fte": 2909,
+            "faculty_salary": 4167,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ABFSE",
+            "title_iv": {
+                "approval_date": "5/16/1972",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 151962
+    },
+    {
+        "school": {
+            "name": "West Michigan College of Barbering and Beauty",
+            "city": "Kalamazoo",
+            "state": "MI",
+            "zip": "49008",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "westmichigancollegeofbarberingandbeauty.com/",
+            "price_calculator_url": "westmichigancollegeofbarberingandbeauty.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3035,
+            "instructional_expenditure_per_fte": 2777,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "12/12/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 152044
+    },
+    {
+        "school": {
+            "name": "University of Notre Dame",
+            "city": "Notre Dame",
+            "state": "IN",
+            "zip": "46556",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.nd.edu/",
+            "price_calculator_url": "financialaid.nd.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 2,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 17,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 25903,
+            "instructional_expenditure_per_fte": 30820,
+            "faculty_salary": 14612,
+            "ft_faculty_rate": 0.8958,
+            "alias": "Notre Dame | Fighting Irish | ND",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 11565964000,
+                "end": 12319422000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 152080
+    },
+    {
+        "school": {
+            "name": "Oakland City University",
+            "city": "Oakland City",
+            "state": "IN",
+            "zip": "47660-1099",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.oak.edu/",
+            "price_calculator_url": "www.oak.edu/admissions/tuition-and-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 105,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 15662,
+            "instructional_expenditure_per_fte": 5034,
+            "faculty_salary": 5797,
+            "ft_faculty_rate": 0.2609,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "3/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 5520177,
+                "end": 5644047
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 152099
+    },
+    {
+        "school": {
+            "name": "PJ's College of Cosmetology-Richmond",
+            "city": "Richmond",
+            "state": "IN",
+            "zip": "47374",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.gotopjs.com/",
+            "price_calculator_url": "www.gotopjs.com/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9460,
+            "instructional_expenditure_per_fte": 2743,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "1/10/1985",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 152150
+    },
+    {
+        "school": {
+            "name": "Ravenscroft Beauty College",
+            "city": "Fort Wayne",
+            "state": "IN",
+            "zip": "46835",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "ravenscroftcollege.com/",
+            "price_calculator_url": "ravenscroftdisclosures.com/net-price-calculator/npcalc.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7729,
+            "instructional_expenditure_per_fte": 3016,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "1/23/1978",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 152275
+    },
+    {
+        "school": {
+            "name": "Rogers Academy of Hair Design",
+            "city": "Evansville",
+            "state": "IN",
+            "zip": "47708",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "rogershair.com/",
+            "price_calculator_url": "rogershair.com/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7210,
+            "instructional_expenditure_per_fte": 3847,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Roger's Academy",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "5/23/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 152309
+    },
+    {
+        "school": {
+            "name": "Rose-Hulman Institute of Technology",
+            "city": "Terre Haute",
+            "state": "IN",
+            "zip": "47803-3920",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.rose-hulman.edu/",
+            "price_calculator_url": "https://prod11gbss8.rose-hulman.edu/BanSS/RHIT_NPCALC.P_Index",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 18,
+            "region_id": 3,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 27,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 29067,
+            "instructional_expenditure_per_fte": 20963,
+            "faculty_salary": 10977,
+            "ft_faculty_rate": 0.9747,
+            "alias": "R-HIT|RHIT|Rose Polytechnic|Rose Polytechnic Institute|RP|RPI|Rose-Hulman|Rose Hulman|Rose-Hulman Institute|Rose Hulman Institute|Rose",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "10/11/1988",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 218153297,
+                "end": 226747984
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 152318
+    }
+]

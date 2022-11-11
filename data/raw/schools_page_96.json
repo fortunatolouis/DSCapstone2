@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Paul Mitchell the School-Portsmouth",
+            "city": "Portsmouth",
+            "state": "NH",
+            "zip": "03801-4084",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "paulmitchell.edu/portsmouth",
+            "price_calculator_url": "paulmitchell.edu/portsmouth/tuition-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 33,
+            "region_id": 1,
+            "locale": 23,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10112,
+            "instructional_expenditure_per_fte": 3939,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Portsmouth Beauty School",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "7/27/1976",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 183202
+    },
+    {
+        "school": {
+            "name": "Rivier University",
+            "city": "Nashua",
+            "state": "NH",
+            "zip": "03060",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.rivier.edu/",
+            "price_calculator_url": "https://www.rivier.edu/financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 33,
+            "region_id": 1,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14636,
+            "instructional_expenditure_per_fte": 7612,
+            "faculty_salary": 5636,
+            "ft_faculty_rate": 0.2843,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 41389109,
+                "end": 40959845
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 183211
+    },
+    {
+        "school": {
+            "name": "Saint Anselm College",
+            "city": "Manchester",
+            "state": "NH",
+            "zip": "03102-1310",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "https://www.anselm.edu/",
+            "price_calculator_url": "https://anselm.studentaidcalculator.com/welcome.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 33,
+            "region_id": 1,
+            "locale": 22,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17553,
+            "instructional_expenditure_per_fte": 13277,
+            "faculty_salary": 8912,
+            "ft_faculty_rate": 0.7136,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 164005484,
+                "end": 164972020
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 183239
+    },
+    {
+        "school": {
+            "name": "St Joseph School of Nursing",
+            "city": "Nashua",
+            "state": "NH",
+            "zip": "03060",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.sjson.edu/",
+            "price_calculator_url": "www.sjson.edu/st-joseph-school-of-nursing/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 33,
+            "region_id": 1,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11331,
+            "instructional_expenditure_per_fte": 12761,
+            "faculty_salary": 7723,
+            "ft_faculty_rate": 0.6667,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "8/13/1980",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 183248
+    },
+    {
+        "school": {
+            "name": "Granite State College",
+            "city": "Concord",
+            "state": "NH",
+            "zip": "03301-3471",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "https://www.granite.edu/",
+            "price_calculator_url": "https://www.granite.edu/tuition-aid/tuition-fees/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 33,
+            "region_id": 1,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6874,
+            "instructional_expenditure_per_fte": 2481,
+            "faculty_salary": 5417,
+            "ft_faculty_rate": 0.1125,
+            "alias": "GSC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "9/1/1972",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 8040308,
+                "end": 8325887
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 183257
+    },
+    {
+        "school": {
+            "name": "Thomas More College of Liberal Arts",
+            "city": "Merrimack",
+            "state": "NH",
+            "zip": "03054",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.thomasmorecollege.edu/",
+            "price_calculator_url": "https://thomasmorecollege.edu/apply/finances/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 33,
+            "region_id": 1,
+            "locale": 22,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8047,
+            "instructional_expenditure_per_fte": 10273,
+            "faculty_salary": 4962,
+            "ft_faculty_rate": 0.6,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "4/10/1991",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 1093585,
+                "end": 1941875
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 183275
+    },
+    {
+        "school": {
+            "name": "Eastwick College-Hackensack",
+            "city": "Hackensack",
+            "state": "NJ",
+            "zip": "07601",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.eastwickcollege.edu/",
+            "price_calculator_url": "www.eastwickcollege.edu/Net_Price.php",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 9,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11951,
+            "instructional_expenditure_per_fte": 3976,
+            "faculty_salary": 4829,
+            "ft_faculty_rate": 0.25,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "5/10/1976",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 183488
+    },
+    {
+        "school": {
+            "name": "Assumption College for Sisters",
+            "city": "Denville",
+            "state": "NJ",
+            "zip": "07834",
+            "accreditor": null,
+            "school_url": "www.acs350.org/",
+            "price_calculator_url": "www.acs350.org/",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1641,
+            "instructional_expenditure_per_fte": 2441,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "ACS",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": "2/5/1971",
+                "eligibility_type": 5
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": 1032080,
+                "end": 1102297
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 183600
+    },
+    {
+        "school": {
+            "name": "Atlantic Cape Community College",
+            "city": "Mays Landing",
+            "state": "NJ",
+            "zip": "08330-2699",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.atlantic.edu/",
+            "price_calculator_url": "www.atlantic.edu/finaid/net-price-calculator.php",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2740,
+            "instructional_expenditure_per_fte": 5489,
+            "faculty_salary": 7347,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "5/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 4146782,
+                "end": 4175118
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 183655
+    },
+    {
+        "school": {
+            "name": "Fortis Institute-Wayne",
+            "city": "Wayne",
+            "state": "NJ",
+            "zip": "07470",
+            "accreditor": "Accrediting Bureau of Health Education Schools",
+            "school_url": "https://www.fortis.edu/",
+            "price_calculator_url": "https://www.fortis.edu/content/dam/fortis/compliance/netpricecalc/npcalc-fortis_wayne.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 3,
+            "ownership": 3,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12598,
+            "instructional_expenditure_per_fte": 4782,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ABHES",
+            "title_iv": {
+                "approval_date": "4/25/1980",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 183725
+    },
+    {
+        "school": {
+            "name": "Bergen Community College",
+            "city": "Paramus",
+            "state": "NJ",
+            "zip": "07652-1595",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.bergen.edu/",
+            "price_calculator_url": "https://bergen.edu/price_calculator/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4888,
+            "instructional_expenditure_per_fte": 6816,
+            "faculty_salary": 7814,
+            "ft_faculty_rate": 0.3237,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "6/26/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 183743
+    },
+    {
+        "school": {
+            "name": "Berkeley College-Woodland Park",
+            "city": "Woodland Park",
+            "state": "NJ",
+            "zip": "07424",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://berkeleycollege.edu/",
+            "price_calculator_url": "https://berkeleycollege.studentaidcalculator.com/welcome.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 2,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 19982,
+            "instructional_expenditure_per_fte": 7648,
+            "faculty_salary": 6992,
+            "ft_faculty_rate": 1,
+            "alias": "Berkeley College Woodland Park Campus | Berkeley College Paramus Campus | Berkeley College Woodbridge Campus | Berkeley College Newark Campus | Berkeley College Online",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "9/30/1976",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 183789
+    },
+    {
+        "school": {
+            "name": "Beth Medrash Govoha",
+            "city": "Lakewood",
+            "state": "NJ",
+            "zip": "08701-2754",
+            "accreditor": "Association of Advanced Rabbinical and Talmudic Schools",
+            "school_url": "yeshivanotices.org/",
+            "price_calculator_url": "yeshivanotices.org/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 1,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3052,
+            "instructional_expenditure_per_fte": 1197,
+            "faculty_salary": 7859,
+            "ft_faculty_rate": 0.121,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "AARTS",
+            "title_iv": {
+                "approval_date": "9/16/1975",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 12323972,
+                "end": 12200008
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 183804
+    },
+    {
+        "school": {
+            "name": "Bloomfield College",
+            "city": "Bloomfield",
+            "state": "NJ",
+            "zip": "07003",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.bloomfield.edu/",
+            "price_calculator_url": "https://live-bloomfield-college-marketing.pantheonsite.io/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 1,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 66,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17259,
+            "instructional_expenditure_per_fte": 9372,
+            "faculty_salary": 9760,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 14255359,
+                "end": 14209684
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 183822
+    },
+    {
+        "school": {
+            "name": "Brookdale Community College",
+            "city": "Lincroft",
+            "state": "NJ",
+            "zip": "07738-1597",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.brookdalecc.edu/",
+            "price_calculator_url": "www.brookdalecc.edu/documents/net-price-calculator/Net-Price-Calculator-2017-18.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 4,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3693,
+            "instructional_expenditure_per_fte": 4464,
+            "faculty_salary": 8380,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "5/9/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 2293370,
+                "end": 2284410
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 183859
+    },
+    {
+        "school": {
+            "name": "Rowan College at Burlington County",
+            "city": "Mount Laurel",
+            "state": "NJ",
+            "zip": "08054-1599",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.rcbc.edu/",
+            "price_calculator_url": "www.rcbc.edu/tuition-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4359,
+            "instructional_expenditure_per_fte": 2923,
+            "faculty_salary": 4877,
+            "ft_faculty_rate": 1,
+            "alias": "RCBC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "4/16/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1781694,
+                "end": 1782809
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 183877
+    },
+    {
+        "school": {
+            "name": "Caldwell University",
+            "city": "Caldwell",
+            "state": "NJ",
+            "zip": "07006-6195",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.caldwell.edu/",
+            "price_calculator_url": "www.caldwell.edu/financial-aid/netprice",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16694,
+            "instructional_expenditure_per_fte": 8188,
+            "faculty_salary": 8250,
+            "ft_faculty_rate": 1,
+            "alias": "formerly Caldwell College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 4735000,
+                "end": 5186000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 183910
+    },
+    {
+        "school": {
+            "name": "Camden County College",
+            "city": "Blackwood",
+            "state": "NJ",
+            "zip": "08012",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.camdencc.edu/",
+            "price_calculator_url": "https://www.camdencc.edu/admissions-financial-aid/financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 5,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2835,
+            "instructional_expenditure_per_fte": 3918,
+            "faculty_salary": 7773,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1060614,
+                "end": 1086509
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 183938
+    },
+    {
+        "school": {
+            "name": "Centenary University",
+            "city": "Hackettstown",
+            "state": "NJ",
+            "zip": "07840",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.centenaryuniversity.edu/",
+            "price_calculator_url": "https://www.centenaryuniversity.edu/NetPrice/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 71,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 15621,
+            "instructional_expenditure_per_fte": 8867,
+            "faculty_salary": 7276,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 9338560,
+                "end": 10722847
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 183974
+    },
+    {
+        "school": {
+            "name": "Adult and Continuing Education-BCTS",
+            "city": "Hackensack",
+            "state": "NJ",
+            "zip": "07601-6637",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "bcts.bergen.org/index.php/adedprograms/full-time-adult-day-program",
+            "price_calculator_url": "bcts.bergen.org/images/Adult_Ed/Docs/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 34,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8251,
+            "instructional_expenditure_per_fte": 6344,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Bergen County Technical Schools",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "9/9/1985",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 183983
+    }
+]

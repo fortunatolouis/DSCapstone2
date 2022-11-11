@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "St Clair County Community College",
+            "city": "Port Huron",
+            "state": "MI",
+            "zip": "48061-5015",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.sc4.edu/",
+            "price_calculator_url": "www.sc4.edu/Assets/NetPrice/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 23,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5599,
+            "instructional_expenditure_per_fte": 6698,
+            "faculty_salary": 7045,
+            "ft_faculty_rate": 0.3315,
+            "alias": "SC4",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 8224205,
+                "end": 7541186
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 172291
+    },
+    {
+        "school": {
+            "name": "Southwestern Michigan College",
+            "city": "Dowagiac",
+            "state": "MI",
+            "zip": "49047-9793",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.swmich.edu/",
+            "price_calculator_url": "www.swmich.edu/cost-aid/cost/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4463,
+            "instructional_expenditure_per_fte": 8218,
+            "faculty_salary": 6689,
+            "ft_faculty_rate": 0.3706,
+            "alias": "SMC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "11/18/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 12555433,
+                "end": 13080167
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 172307
+    },
+    {
+        "school": {
+            "name": "Specs Howard School of Media Arts",
+            "city": "Southfield",
+            "state": "MI",
+            "zip": "48033",
+            "accreditor": null,
+            "school_url": "www.specshoward.edu/",
+            "price_calculator_url": "www.specshoward.us/NetPriceCalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 0,
+            "tuition_revenue_per_fte": 6539,
+            "instructional_expenditure_per_fte": 2574,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Specs Howard School of Broadcast Arts",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": "8/8/1983",
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 172325
+    },
+    {
+        "school": {
+            "name": "Spring Arbor University",
+            "city": "Spring Arbor",
+            "state": "MI",
+            "zip": "49283-9799",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.arbor.edu/",
+            "price_calculator_url": "https://www.arbor.edu/admissions/undergraduate/undergraduate-tuition-aid/undergraduate-net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 23,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 64,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12539,
+            "instructional_expenditure_per_fte": 5974,
+            "faculty_salary": 5819,
+            "ft_faculty_rate": 0.2563,
+            "alias": "SAU | SAC | Spring Arbor College | Spring Arber Unviversity | Spring Arbor | Spring Arber | Spring Arbor Collage",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 17467694,
+                "end": 18137382
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 172334
+    },
+    {
+        "school": {
+            "name": "Michigan Career and Technical Institute",
+            "city": "Plainwell",
+            "state": "MI",
+            "zip": "49080-9254",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.michigan.gov/MCTI",
+            "price_calculator_url": "www.michigan.gov/leo/0,5863,7-336-78421_25392_40242-265121--,00.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 42,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 35,
+            "instructional_expenditure_per_fte": 20566,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "MCTI",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "11/16/1989",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 172422
+    },
+    {
+        "school": {
+            "name": "Finlandia University",
+            "city": "Hancock",
+            "state": "MI",
+            "zip": "49930-1832",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.finlandia.edu/",
+            "price_calculator_url": "www.finlandia.edu/financial-aid-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 39,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13427,
+            "instructional_expenditure_per_fte": 9954,
+            "faculty_salary": 4961,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 5704166,
+                "end": 5786875
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 172440
+    },
+    {
+        "school": {
+            "name": "Western Michigan University-Thomas M. Cooley Law School",
+            "city": "Lansing",
+            "state": "MI",
+            "zip": "48933",
+            "accreditor": "American Bar Association",
+            "school_url": "cooley.edu/",
+            "price_calculator_url": "cooley.edu/admissions/tuition",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 31,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 28189,
+            "instructional_expenditure_per_fte": 14923,
+            "faculty_salary": 11499,
+            "ft_faculty_rate": 0.4143,
+            "alias": "Western Michigan University Cooley Law School",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "ABA",
+            "title_iv": {
+                "approval_date": "3/1/1975",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 34250665,
+                "end": 37817022
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 172477
+    },
+    {
+        "school": {
+            "name": "Twin City Beauty College",
+            "city": "Saint Joseph",
+            "state": "MI",
+            "zip": "49085",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.tcbeautycollege.com/",
+            "price_calculator_url": "https://tcbeautycollege.com/net/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 23,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7396,
+            "instructional_expenditure_per_fte": 6810,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Twin City Beauty College,Traverse City Beauty College,Michiana Beauty College and  Tulip Beauty College  Tulip City Beauty College",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "3/17/1992",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 172495
+    },
+    {
+        "school": {
+            "name": "Walsh College",
+            "city": "Troy",
+            "state": "MI",
+            "zip": "48083-5066",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.walshcollege.edu/",
+            "price_calculator_url": "https://www.walshcollege.edu/netpricecalculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 29,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18333,
+            "instructional_expenditure_per_fte": 6688,
+            "faculty_salary": 8713,
+            "ft_faculty_rate": 0.1284,
+            "alias": "Walsh",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "9/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 10031667,
+                "end": 10878655
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 172608
+    },
+    {
+        "school": {
+            "name": "Washtenaw Community College",
+            "city": "Ann Arbor",
+            "state": "MI",
+            "zip": "48105-4800",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.wccnet.edu/",
+            "price_calculator_url": "www.wccnet.edu/afford/cost/net-price-calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3494,
+            "instructional_expenditure_per_fte": 7262,
+            "faculty_salary": 8071,
+            "ft_faculty_rate": 0.2826,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "8/18/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 23145262,
+                "end": 22799881
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 172617
+    },
+    {
+        "school": {
+            "name": "Wayne County Community College District",
+            "city": "Detroit",
+            "state": "MI",
+            "zip": "48226",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.wcccd.edu/",
+            "price_calculator_url": "www.wcccd.edu/dept/FinancialAid_calculator.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 1,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2711,
+            "instructional_expenditure_per_fte": 7283,
+            "faculty_salary": 8078,
+            "ft_faculty_rate": 0.127,
+            "alias": "WCCCD",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "4/10/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 172635
+    },
+    {
+        "school": {
+            "name": "Wayne State University",
+            "city": "Detroit",
+            "state": "MI",
+            "zip": "48202",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://wayne.edu/",
+            "price_calculator_url": "https://irda.wayne.edu/net-price-calculator/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11336,
+            "instructional_expenditure_per_fte": 12491,
+            "faculty_salary": 11123,
+            "ft_faculty_rate": 0.6019,
+            "alias": "WSU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 404015000,
+                "end": 425416000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 172644
+    },
+    {
+        "school": {
+            "name": "West Shore Community College",
+            "city": "Scottville",
+            "state": "MI",
+            "zip": "49454-0277",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.westshore.edu/",
+            "price_calculator_url": "www.westshore.edu/admissions/paying-for-college/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 42,
+            "degree_urbanization": null,
+            "carnegie_basic": 5,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2868,
+            "instructional_expenditure_per_fte": 8520,
+            "faculty_salary": 8507,
+            "ft_faculty_rate": 0.325,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 172490,
+                "end": 162404
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 172671
+    },
+    {
+        "school": {
+            "name": "Paul Mitchell the School-Grand Rapids",
+            "city": "Kentwood",
+            "state": "MI",
+            "zip": "49512-1781",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "paulmitchell.edu/grandrapids",
+            "price_calculator_url": "paulmitchell.edu/grandrapids/tuition-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11406,
+            "instructional_expenditure_per_fte": 3515,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Paul Mitchell The School",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "2/12/2014",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 172680
+    },
+    {
+        "school": {
+            "name": "Western Michigan University",
+            "city": "Kalamazoo",
+            "state": "MI",
+            "zip": "49008-5200",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://wmich.edu/",
+            "price_calculator_url": "https://wmich.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13376,
+            "instructional_expenditure_per_fte": 12438,
+            "faculty_salary": 9914,
+            "ft_faculty_rate": 0.691,
+            "alias": "WMU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 407418866,
+                "end": 401074269
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 172699
+    },
+    {
+        "school": {
+            "name": "Western Theological Seminary",
+            "city": "Holland",
+            "state": "MI",
+            "zip": "49423-3622",
+            "accreditor": "Commission on Accrediting of the Association of Theological Schools",
+            "school_url": "www.westernsem.edu/",
+            "price_calculator_url": "www.westernsem.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 49,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4774,
+            "instructional_expenditure_per_fte": 15310,
+            "faculty_salary": 7043,
+            "ft_faculty_rate": 0.8571,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "ATSUSC",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 40902573,
+                "end": 40614282
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 172705
+    },
+    {
+        "school": {
+            "name": "Academy College",
+            "city": "Bloomington",
+            "state": "MN",
+            "zip": "55431-1411",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.academycollege.edu/",
+            "price_calculator_url": "https://www.academycollege.edu/wp-content/uploads/2019/03/index-3.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 27,
+            "region_id": 4,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 28,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 37710,
+            "instructional_expenditure_per_fte": 3962,
+            "faculty_salary": 5579,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "5/5/1976",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 172866
+    },
+    {
+        "school": {
+            "name": "Alexandria Technical & Community College",
+            "city": "Alexandria",
+            "state": "MN",
+            "zip": "56308",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.alextech.edu/",
+            "price_calculator_url": "www.alextech.edu/calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 27,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 9,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3946,
+            "instructional_expenditure_per_fte": 8273,
+            "faculty_salary": 8399,
+            "ft_faculty_rate": 0.6947,
+            "alias": "ATCC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "4/13/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 3277000,
+                "end": 3279000
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 172918
+    },
+    {
+        "school": {
+            "name": "American Indian OIC Inc",
+            "city": "Minneapolis",
+            "state": "MN",
+            "zip": "55404-2221",
+            "accreditor": null,
+            "school_url": "www.aioic.org/",
+            "price_calculator_url": "https://www.takoda.org/NetPriceCalculator/npcalc.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 27,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 0,
+            "tuition_revenue_per_fte": 2527,
+            "instructional_expenditure_per_fte": 10072,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Takoda Institute of Higher Education",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": "8/21/1985",
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 172927
+    },
+    {
+        "school": {
+            "name": "Anoka Technical College",
+            "city": "Anoka",
+            "state": "MN",
+            "zip": "55303",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.anokatech.edu/",
+            "price_calculator_url": "www.anokatech.edu/BecomeStudent/TuitionFees/Net Price Calculator.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 27,
+            "region_id": 4,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4273,
+            "instructional_expenditure_per_fte": 8333,
+            "faculty_salary": 8371,
+            "ft_faculty_rate": 0.58,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "9/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 138000,
+                "end": 132000
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 172954
+    }
+]

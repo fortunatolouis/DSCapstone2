@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Coyne College",
+            "city": "Chicago",
+            "state": "IL",
+            "zip": "60602-3304",
+            "accreditor": null,
+            "school_url": "www.coynecollege.edu/",
+            "price_calculator_url": "www.coynecollege.edu/netprice/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 0,
+            "tuition_revenue_per_fte": 7656,
+            "instructional_expenditure_per_fte": 2962,
+            "faculty_salary": 5513,
+            "ft_faculty_rate": 0.4857,
+            "alias": "Coyne American Institute",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": "11/8/1974",
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 144485
+    },
+    {
+        "school": {
+            "name": "Danville Area Community College",
+            "city": "Danville",
+            "state": "IL",
+            "zip": "61832-5118",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.dacc.edu/",
+            "price_calculator_url": "dacc.edu/tuition/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2305,
+            "instructional_expenditure_per_fte": 6269,
+            "faculty_salary": 6708,
+            "ft_faculty_rate": 0.6214,
+            "alias": "DACC/Danville Community College/Danville Junior College",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "4/26/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 14080915,
+                "end": 15797886
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 144564
+    },
+    {
+        "school": {
+            "name": "Tricoci University of Beauty Culture",
+            "city": "Urbana",
+            "state": "IL",
+            "zip": "61801",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.tricociuniversity.edu/",
+            "price_calculator_url": "www.tricociuniversity.edu/admissions-financial-aid/beauty-school-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 23,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3620,
+            "instructional_expenditure_per_fte": 1924,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Urbana",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "10/25/1985",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 144573
+    },
+    {
+        "school": {
+            "name": "DePaul University",
+            "city": "Chicago",
+            "state": "IL",
+            "zip": "60604",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.depaul.edu/",
+            "price_calculator_url": "https://www.collegenpc.com/DePaulUniversity",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 23213,
+            "instructional_expenditure_per_fte": 12978,
+            "faculty_salary": 11686,
+            "ft_faculty_rate": 0.4877,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 696452000,
+                "end": 751412000
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 144740
+    },
+    {
+        "school": {
+            "name": "Cosmetology & Spa Academy",
+            "city": "Crystal Lake",
+            "state": "IL",
+            "zip": "60014",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.cosmetologyandspaacademy.edu/",
+            "price_calculator_url": "www.cosmetologyandspaacademy.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8913,
+            "instructional_expenditure_per_fte": 2286,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "9/29/1980",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 144795
+    },
+    {
+        "school": {
+            "name": "College of DuPage",
+            "city": "Glen Ellyn",
+            "state": "IL",
+            "zip": "60137-6599",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.cod.edu/",
+            "price_calculator_url": "www.cod.edu/about/administration/consumer_legal_information/net_price_calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 5,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3545,
+            "instructional_expenditure_per_fte": 10054,
+            "faculty_salary": 12070,
+            "ft_faculty_rate": 0.2181,
+            "alias": "COD",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "10/18/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 13182050,
+                "end": 13670405
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 144865
+    },
+    {
+        "school": {
+            "name": "East-West University",
+            "city": "Chicago",
+            "state": "IL",
+            "zip": "60605",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.eastwest.edu/",
+            "price_calculator_url": "https://www.eastwest.edu/articles/financial-aid/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10623,
+            "instructional_expenditure_per_fte": 7927,
+            "faculty_salary": 6925,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "7/7/1981",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 144883
+    },
+    {
+        "school": {
+            "name": "Eastern Illinois University",
+            "city": "Charleston",
+            "state": "IL",
+            "zip": "61920",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.eiu.edu/",
+            "price_calculator_url": "www.eiu.edu/finaid/calculator.php",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5040,
+            "instructional_expenditure_per_fte": 10306,
+            "faculty_salary": 8611,
+            "ft_faculty_rate": 0.7681,
+            "alias": "EIU|E.I.U.|Eastern",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 58268865,
+                "end": 60043021
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 144892
+    },
+    {
+        "school": {
+            "name": "Elgin Community College",
+            "city": "Elgin",
+            "state": "IL",
+            "zip": "60123-7193",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.elgin.edu/",
+            "price_calculator_url": "elgin.edu/collegecostcalculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 5,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3099,
+            "instructional_expenditure_per_fte": 9713,
+            "faculty_salary": 11184,
+            "ft_faculty_rate": 0.2798,
+            "alias": "ECC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "4/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 7615415,
+                "end": 7845751
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 144944
+    },
+    {
+        "school": {
+            "name": "Elmhurst University",
+            "city": "Elmhurst",
+            "state": "IL",
+            "zip": "60126-3296",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.elmhurst.edu/",
+            "price_calculator_url": "www.elmhurst.edu/admission/financial-aid/tuition-fees/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 76,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16824,
+            "instructional_expenditure_per_fte": 7934,
+            "faculty_salary": 8274,
+            "ft_faculty_rate": 0.4106,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "2/18/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 112339160,
+                "end": 108660467
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 144962
+    },
+    {
+        "school": {
+            "name": "Eureka College",
+            "city": "Eureka",
+            "state": "IL",
+            "zip": "61530",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.eureka.edu/",
+            "price_calculator_url": "https://www.eureka.edu/net-pricing-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 61,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14820,
+            "instructional_expenditure_per_fte": 6883,
+            "faculty_salary": 5619,
+            "ft_faculty_rate": 0.6552,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 31380048,
+                "end": 31171236
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 144971
+    },
+    {
+        "school": {
+            "name": "First Institute of Travel Inc.",
+            "city": "Crystal Lake",
+            "state": "IL",
+            "zip": "60014",
+            "accreditor": "Accrediting Council for Continuing Education & Training",
+            "school_url": "www.firstinstitute.edu/",
+            "price_calculator_url": "www.firstinstitute.edu/npc/general/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10965,
+            "instructional_expenditure_per_fte": 2475,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "First Institute",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCET",
+            "title_iv": {
+                "approval_date": "1/9/1989",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 145099
+    },
+    {
+        "school": {
+            "name": "Fox College",
+            "city": "Tinley Park",
+            "state": "IL",
+            "zip": "60477",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.foxcollege.edu/",
+            "price_calculator_url": "www.foxcollege.edu/aid",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14109,
+            "instructional_expenditure_per_fte": 9485,
+            "faculty_salary": 6257,
+            "ft_faculty_rate": 0.7027,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "8/21/1987",
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 145239
+    },
+    {
+        "school": {
+            "name": "Garrett-Evangelical Theological Seminary",
+            "city": "Evanston",
+            "state": "IL",
+            "zip": "60201-3298",
+            "accreditor": "Commission on Accrediting of the Association of Theological Schools",
+            "school_url": "www.garrett.edu/",
+            "price_calculator_url": "www.garrett.edu/admissions/costs-and-financial-aid",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 71,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6285,
+            "instructional_expenditure_per_fte": 39993,
+            "faculty_salary": 9890,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "ATSUSC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 101450430,
+                "end": 106270216
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 145275
+    },
+    {
+        "school": {
+            "name": "Gem City College",
+            "city": "Quincy",
+            "state": "IL",
+            "zip": "62301",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.gemcitycollege.com/",
+            "price_calculator_url": "www.gemcitycollege.com/estimator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8009,
+            "instructional_expenditure_per_fte": 5051,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "2/16/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 145309
+    },
+    {
+        "school": {
+            "name": "Governors State University",
+            "city": "University Park",
+            "state": "IL",
+            "zip": "60484",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.govst.edu/",
+            "price_calculator_url": "www.govst.edu/netprice.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10303,
+            "instructional_expenditure_per_fte": 12938,
+            "faculty_salary": 7570,
+            "ft_faculty_rate": 0.4433,
+            "alias": "GSU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "11/1/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 2336536,
+                "end": 2395756
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 145336
+    },
+    {
+        "school": {
+            "name": "Graham Hospital School of Nursing",
+            "city": "Canton",
+            "state": "IL",
+            "zip": "61520-2497",
+            "accreditor": "Accreditation Commission for Education in Nursing",
+            "school_url": "grahamschoolofnursing.org/",
+            "price_calculator_url": "grahamschoolofnursing.org/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7687,
+            "instructional_expenditure_per_fte": 43207,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NLNAC",
+            "title_iv": {
+                "approval_date": "4/15/1982",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 145354
+    },
+    {
+        "school": {
+            "name": "Greenville University",
+            "city": "Greenville",
+            "state": "IL",
+            "zip": "62246",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.greenville.edu/",
+            "price_calculator_url": "www.greenville.edu/cost-and-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 64,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12034,
+            "instructional_expenditure_per_fte": 8698,
+            "faculty_salary": 5722,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 21159996,
+                "end": 23647559
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 145372
+    },
+    {
+        "school": {
+            "name": "G Skin & Beauty Institute",
+            "city": "Schaumburg",
+            "state": "IL",
+            "zip": "60195",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "gskinbeautyinstitute.edu/",
+            "price_calculator_url": "gskinbeautyinstitute.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13121,
+            "instructional_expenditure_per_fte": 3774,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "G Skin and Beauty Institute",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "3/22/1984",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 145406
+    },
+    {
+        "school": {
+            "name": "Hair Professionals Career College",
+            "city": "Sycamore",
+            "state": "IL",
+            "zip": "60178",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "hairpros.edu/",
+            "price_calculator_url": "hairpros.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 23,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6572,
+            "instructional_expenditure_per_fte": 1362,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "5/16/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 145424
+    }
+]

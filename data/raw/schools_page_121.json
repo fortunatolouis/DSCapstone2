@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Tri-County Community College",
+            "city": "Murphy",
+            "state": "NC",
+            "zip": "28906",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.tricountycc.edu/",
+            "price_calculator_url": "www.tricountycc.edu/cms-wfc/wp-content/themes/tricountycc/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 43,
+            "degree_urbanization": null,
+            "carnegie_basic": 3,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 538,
+            "instructional_expenditure_per_fte": 6476,
+            "faculty_salary": 4896,
+            "ft_faculty_rate": 0.2289,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 215915,
+                "end": 215915
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 199795
+    },
+    {
+        "school": {
+            "name": "Vance-Granville Community College",
+            "city": "Henderson",
+            "state": "NC",
+            "zip": "27537",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.vgcc.edu/",
+            "price_calculator_url": "www.vgcc.edu/NetPriceCalculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 5,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 868,
+            "instructional_expenditure_per_fte": 5694,
+            "faculty_salary": 5046,
+            "ft_faculty_rate": 0.5762,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "4/9/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 7213629,
+                "end": 7258431
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 199838
+    },
+    {
+        "school": {
+            "name": "Wake Forest University",
+            "city": "Winston-Salem",
+            "state": "NC",
+            "zip": "27106",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.wfu.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/student/app/wfu",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 34812,
+            "instructional_expenditure_per_fte": 30251,
+            "faculty_salary": 11942,
+            "ft_faculty_rate": 0.7375,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 1375398000,
+                "end": 1350187000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 199847
+    },
+    {
+        "school": {
+            "name": "Wake Technical Community College",
+            "city": "Raleigh",
+            "state": "NC",
+            "zip": "27603-5696",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.waketech.edu/",
+            "price_calculator_url": "https://www.waketech.edu/financial-aid/consumer-disclosure-information/net-price",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 5,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2140,
+            "instructional_expenditure_per_fte": 6016,
+            "faculty_salary": 5583,
+            "ft_faculty_rate": 0.524,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "9/19/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 8240595,
+                "end": 9890505
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 199856
+    },
+    {
+        "school": {
+            "name": "Warren Wilson College",
+            "city": "Swannanoa",
+            "state": "NC",
+            "zip": "28778-2099",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.warren-wilson.edu/",
+            "price_calculator_url": "https://tcc.noellevitz.com/Warren-Wilson-College/Freshman Students",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13863,
+            "instructional_expenditure_per_fte": 11360,
+            "faculty_salary": 5663,
+            "ft_faculty_rate": 0.6078,
+            "alias": "Warren Wilson, WWC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 51720334,
+                "end": 51010965
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 199865
+    },
+    {
+        "school": {
+            "name": "Watts School of Nursing",
+            "city": "Durham",
+            "state": "NC",
+            "zip": "27705-2505",
+            "accreditor": "Accrediting Bureau of Health Education Schools",
+            "school_url": "www.wattsschoolofnursing.org/",
+            "price_calculator_url": "https://umo.edu/cost-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18409,
+            "instructional_expenditure_per_fte": 19413,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "ABHES",
+            "title_iv": {
+                "approval_date": "10/14/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 199883
+    },
+    {
+        "school": {
+            "name": "Wayne Community College",
+            "city": "Goldsboro",
+            "state": "NC",
+            "zip": "27534-8002",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.waynecc.edu/",
+            "price_calculator_url": "https://cdn.waynecc.edu/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 4,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1365,
+            "instructional_expenditure_per_fte": 9825,
+            "faculty_salary": 5262,
+            "ft_faculty_rate": 0.3201,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "11/19/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 5538951,
+                "end": 5902625
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 199892
+    },
+    {
+        "school": {
+            "name": "Western Piedmont Community College",
+            "city": "Morganton",
+            "state": "NC",
+            "zip": "28655-4511",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.wpcc.edu/",
+            "price_calculator_url": "https://www.wpcc.edu/financial-aid/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1060,
+            "instructional_expenditure_per_fte": 7814,
+            "faculty_salary": 5496,
+            "ft_faculty_rate": 0.281,
+            "alias": "WPCC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "6/3/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 2424403,
+                "end": 3445564
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 199908
+    },
+    {
+        "school": {
+            "name": "Wilkes Community College",
+            "city": "Wilkesboro",
+            "state": "NC",
+            "zip": "28697",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.wilkescc.edu/",
+            "price_calculator_url": "www.wilkescc.edu/npcalc.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 5,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 962,
+            "instructional_expenditure_per_fte": 8637,
+            "faculty_salary": 5185,
+            "ft_faculty_rate": 0.2452,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "9/20/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 6347638,
+                "end": 6297312
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 199926
+    },
+    {
+        "school": {
+            "name": "Wilson Community College",
+            "city": "Wilson",
+            "state": "NC",
+            "zip": "27893-3310",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.wilsoncc.edu/",
+            "price_calculator_url": "www.wilsoncc.edu/netprice/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 704,
+            "instructional_expenditure_per_fte": 5582,
+            "faculty_salary": 5457,
+            "ft_faculty_rate": 1,
+            "alias": "WCC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "9/27/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 976292,
+                "end": 986582
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 199953
+    },
+    {
+        "school": {
+            "name": "Wingate University",
+            "city": "Wingate",
+            "state": "NC",
+            "zip": "28174-0159",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.wingate.edu/",
+            "price_calculator_url": "https://www.wingate.edu/admissions/financial-aid",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12652,
+            "instructional_expenditure_per_fte": 8874,
+            "faculty_salary": 8053,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 96803871,
+                "end": 99160577
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 199962
+    },
+    {
+        "school": {
+            "name": "Carolina Christian College",
+            "city": "Winston Salem",
+            "state": "NC",
+            "zip": "27105",
+            "accreditor": "Association for Bibical Higher Educaiton",
+            "school_url": "www.carolina.edu/",
+            "price_calculator_url": "https://carolina.edu/calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 74,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5553,
+            "instructional_expenditure_per_fte": 1395,
+            "faculty_salary": 1250,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ABHE",
+            "title_iv": {
+                "approval_date": "1/27/2004",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 226237,
+                "end": 221507
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 199971
+    },
+    {
+        "school": {
+            "name": "Winston Salem Barber School",
+            "city": "Winston-Salem",
+            "state": "NC",
+            "zip": "27127",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.wsbarberschool.com/",
+            "price_calculator_url": "www.wsbarberschool.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4627,
+            "instructional_expenditure_per_fte": 2544,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "4/16/1990",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 199980
+    },
+    {
+        "school": {
+            "name": "Winston-Salem State University",
+            "city": "Winston-Salem",
+            "state": "NC",
+            "zip": "27110-0001",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.wssu.edu/",
+            "price_calculator_url": "www.wssu.edu/net-price-calculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 1,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3887,
+            "instructional_expenditure_per_fte": 9121,
+            "faculty_salary": 8323,
+            "ft_faculty_rate": 0.6451,
+            "alias": "WSSU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 35338782,
+                "end": 35768058
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 199999
+    },
+    {
+        "school": {
+            "name": "Western Carolina University",
+            "city": "Cullowhee",
+            "state": "NC",
+            "zip": "28723-9646",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.wcu.edu/",
+            "price_calculator_url": "www.wcu.edu/apply/financial-aid/facts-and-resources/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 37,
+            "region_id": 5,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3902,
+            "instructional_expenditure_per_fte": 7402,
+            "faculty_salary": 7859,
+            "ft_faculty_rate": 0.7211,
+            "alias": "Western",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 86509244,
+                "end": 90606569
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 200004
+    },
+    {
+        "school": {
+            "name": "Rasmussen University-North Dakota",
+            "city": "Fargo",
+            "state": "ND",
+            "zip": "58103-7196",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://rasmussen.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/app/rasmussen",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 21,
+            "ownership": 3,
+            "state_fips": 38,
+            "region_id": 4,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 23,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17801,
+            "instructional_expenditure_per_fte": 5435,
+            "faculty_salary": 5881,
+            "ft_faculty_rate": 0.3654,
+            "alias": "Parent is Fargo",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "3/17/2010",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 200013
+    },
+    {
+        "school": {
+            "name": "Bismarck State College",
+            "city": "Bismarck",
+            "state": "ND",
+            "zip": "58506-5587",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://bismarckstate.edu/",
+            "price_calculator_url": "https://bismarckstate.edu/includes/netprice/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 38,
+            "region_id": 4,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 14,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5059,
+            "instructional_expenditure_per_fte": 8910,
+            "faculty_salary": 6330,
+            "ft_faculty_rate": 0.9837,
+            "alias": "BSC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "2/19/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 16828222,
+                "end": 19426217
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 200022
+    },
+    {
+        "school": {
+            "name": "Dickinson State University",
+            "city": "Dickinson",
+            "state": "ND",
+            "zip": "58601-4896",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.dickinsonstate.edu/",
+            "price_calculator_url": "www.dickinsonstate.edu/Assets/uploads/files/financial-aid/netpricecalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 38,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6961,
+            "instructional_expenditure_per_fte": 9877,
+            "faculty_salary": 6935,
+            "ft_faculty_rate": 0.4962,
+            "alias": "DSU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/19/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 6394027,
+                "end": 7696786
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 200059
+    },
+    {
+        "school": {
+            "name": "Nueta Hidatsa Sahnish College",
+            "city": "New Town",
+            "state": "ND",
+            "zip": "58763",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.nhsc.edu/",
+            "price_calculator_url": "nhsc.edu/admission-financial-aid/financial-aid/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 1,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 38,
+            "region_id": 4,
+            "locale": 43,
+            "degree_urbanization": null,
+            "carnegie_basic": 33,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 1,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4512,
+            "instructional_expenditure_per_fte": 5085,
+            "faculty_salary": 4720,
+            "ft_faculty_rate": 0.963,
+            "alias": "NHSC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "3/2/1982",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1532471,
+                "end": 2429554
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 200086
+    },
+    {
+        "school": {
+            "name": "Josef's School of Hair Skin & Body-Grand Forks",
+            "city": "Grand Forks",
+            "state": "ND",
+            "zip": "58201",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.josefsschoolofhairdesign.com/",
+            "price_calculator_url": "www.josefsschoolofhairdesign.com/wp-content/uploads/2021/07/NetPriceCalc.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 38,
+            "region_id": 4,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11190,
+            "instructional_expenditure_per_fte": 5298,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Josef's",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "2/2/1979",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 200110
+    }
+]

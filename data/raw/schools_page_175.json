@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Washington State University",
+            "city": "Pullman",
+            "state": "WA",
+            "zip": "99164-5910",
+            "accreditor": "Northwest Commission on Colleges and Universities",
+            "school_url": "https://wsu.edu/",
+            "price_calculator_url": "https://finaid.wsu.edu/cost-of-attendanceaid-estimator/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 4,
+            "ownership": 1,
+            "state_fips": 53,
+            "region_id": 8,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10441,
+            "instructional_expenditure_per_fte": 10029,
+            "faculty_salary": 10282,
+            "ft_faculty_rate": 0.781,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NWCCU",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1068763239,
+                "end": 1083966272
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 236939
+    },
+    {
+        "school": {
+            "name": "University of Washington-Seattle Campus",
+            "city": "Seattle",
+            "state": "WA",
+            "zip": "98195-4550",
+            "accreditor": "Northwest Commission on Colleges and Universities",
+            "school_url": "www.washington.edu/",
+            "price_calculator_url": "www.washington.edu/students/osfa/prospectiveug/aid.est.1.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 3,
+            "ownership": 1,
+            "state_fips": 53,
+            "region_id": 8,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 19953,
+            "instructional_expenditure_per_fte": 30940,
+            "faculty_salary": 13441,
+            "ft_faculty_rate": 0.8109,
+            "alias": "UW-Seattle, UDub, UW, Washington",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NWCCU",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 3551979903,
+                "end": 3564484405
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 236948
+    },
+    {
+        "school": {
+            "name": "Wenatchee Valley College",
+            "city": "Wenatchee",
+            "state": "WA",
+            "zip": "98801-1799",
+            "accreditor": "Northwest Commission on Colleges and Universities",
+            "school_url": "www.wvc.edu/",
+            "price_calculator_url": "www.wvc.edu/admissions/support/financial-aid/NetPrice/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 53,
+            "region_id": 8,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 14,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1661,
+            "instructional_expenditure_per_fte": 6770,
+            "faculty_salary": 6643,
+            "ft_faculty_rate": 1,
+            "alias": "WVC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NWCCU",
+            "title_iv": {
+                "approval_date": "11/19/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 9843439,
+                "end": 9365801
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 236975
+    },
+    {
+        "school": {
+            "name": "Western Washington University",
+            "city": "Bellingham",
+            "state": "WA",
+            "zip": "98225-9008",
+            "accreditor": "Northwest Commission on Colleges and Universities",
+            "school_url": "wwu.edu/",
+            "price_calculator_url": "tcc.ruffalonl.com/Western Washington University/Freshman-Students",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 53,
+            "region_id": 8,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8073,
+            "instructional_expenditure_per_fte": 10757,
+            "faculty_salary": 10277,
+            "ft_faculty_rate": 0.6925,
+            "alias": "Western Washington State College|Western Washington College of Education",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NWCCU",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 91077886,
+                "end": 90008289
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 237011
+    },
+    {
+        "school": {
+            "name": "Whatcom Community College",
+            "city": "Bellingham",
+            "state": "WA",
+            "zip": "98226",
+            "accreditor": "Northwest Commission on Colleges and Universities",
+            "school_url": "whatcom.edu/",
+            "price_calculator_url": "mywcc.whatcom.edu/NetPriceCalc/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 53,
+            "region_id": 8,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 14,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3948,
+            "instructional_expenditure_per_fte": 8241,
+            "faculty_salary": 7542,
+            "ft_faculty_rate": 0.3333,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NWCCU",
+            "title_iv": {
+                "approval_date": "11/1/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 8485035,
+                "end": 8427698
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 237039
+    },
+    {
+        "school": {
+            "name": "Whitman College",
+            "city": "Walla Walla",
+            "state": "WA",
+            "zip": "99362",
+            "accreditor": "Northwest Commission on Colleges and Universities",
+            "school_url": "www.whitman.edu/",
+            "price_calculator_url": "https://www.whitman.edu/admission-and-aid/financial-aid-and-costs/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 53,
+            "region_id": 8,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 33080,
+            "instructional_expenditure_per_fte": 22105,
+            "faculty_salary": 9760,
+            "ft_faculty_rate": 0.9015,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NWCCU",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 565255655,
+                "end": 586334718
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 237057
+    },
+    {
+        "school": {
+            "name": "Whitworth University",
+            "city": "Spokane",
+            "state": "WA",
+            "zip": "99251",
+            "accreditor": "Northwest Commission on Colleges and Universities",
+            "school_url": "www.whitworth.edu/",
+            "price_calculator_url": "https://www.whitworth.edu/forms/financial-aid/net-price-calculator/index.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 53,
+            "region_id": 8,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 103,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17200,
+            "instructional_expenditure_per_fte": 10337,
+            "faculty_salary": 7337,
+            "ft_faculty_rate": 0.9583,
+            "alias": "Whitworth College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NWCCU",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 156047569,
+                "end": 165245719
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 237066
+    },
+    {
+        "school": {
+            "name": "Yakima Valley College",
+            "city": "Yakima",
+            "state": "WA",
+            "zip": "98907-2520",
+            "accreditor": "Northwest Commission on Colleges and Universities",
+            "school_url": "https://www.yvcc.edu/",
+            "price_calculator_url": "https://www.yvcc.edu/financial-aid/net-price-calculator/?highlight=net price calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 53,
+            "region_id": 8,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 14,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2225,
+            "instructional_expenditure_per_fte": 6791,
+            "faculty_salary": 7629,
+            "ft_faculty_rate": 1,
+            "alias": "YVC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NWCCU",
+            "title_iv": {
+                "approval_date": "1/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 11189310,
+                "end": 10339324
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 237109
+    },
+    {
+        "school": {
+            "name": "Alderson Broaddus University",
+            "city": "Philippi",
+            "state": "WV",
+            "zip": "26416-2035",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "ab.edu/",
+            "price_calculator_url": "ab.edu/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 54,
+            "region_id": 5,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 52,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11917,
+            "instructional_expenditure_per_fte": 7724,
+            "faculty_salary": 5914,
+            "ft_faculty_rate": 0.6795,
+            "alias": "Alderson-Broaddus College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "10/14/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 17367369,
+                "end": 18456342
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 237118
+    },
+    {
+        "school": {
+            "name": "Appalachian Beauty School",
+            "city": "Belfry",
+            "state": "KY",
+            "zip": "41514",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "appalachianbeautyschool.com/",
+            "price_calculator_url": "https://appalachianbeautyschool.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 21,
+            "region_id": 5,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8888,
+            "instructional_expenditure_per_fte": 3400,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "11/28/1980",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 237127
+    },
+    {
+        "school": {
+            "name": "Appalachian Bible College",
+            "city": "Mount Hope",
+            "state": "WV",
+            "zip": "25880-9557",
+            "accreditor": "Association for Bibical Higher Educaiton",
+            "school_url": "https://abc.edu/",
+            "price_calculator_url": "https://abc.edu/undergraduate/costs-and-aid/financial-aid/npc/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 54,
+            "region_id": 5,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 54,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6056,
+            "instructional_expenditure_per_fte": 3686,
+            "faculty_salary": 2888,
+            "ft_faculty_rate": 0.5641,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "ABHE",
+            "title_iv": {
+                "approval_date": "1/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 1682121,
+                "end": 1858927
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 237136
+    },
+    {
+        "school": {
+            "name": "B M Spurr School of Practical Nursing",
+            "city": "Glen Dale",
+            "state": "WV",
+            "zip": "26038",
+            "accreditor": "Accreditation Commission for Education in Nursing",
+            "school_url": "https://wvumedicine.org/reynolds-memorial/",
+            "price_calculator_url": "https://wvumedicine.org/reynolds-memorial/programs/b-m-spurr-school-of-practical-nursing/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 54,
+            "region_id": 5,
+            "locale": 23,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2928,
+            "instructional_expenditure_per_fte": 29128,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NLNAC",
+            "title_iv": {
+                "approval_date": "9/30/1974",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 237145
+    },
+    {
+        "school": {
+            "name": "Ben Franklin Career Center",
+            "city": "Dunbar",
+            "state": "WV",
+            "zip": "25064",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "bf.kana.k12.wv.us/",
+            "price_calculator_url": "bf.kana.k12.wv.us/adult_students/net_price_calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 54,
+            "region_id": 5,
+            "locale": 22,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 925,
+            "instructional_expenditure_per_fte": 32647,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "12/3/1976",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 237172
+    },
+    {
+        "school": {
+            "name": "Bethany College",
+            "city": "Bethany",
+            "state": "WV",
+            "zip": "26032",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.bethanywv.edu/",
+            "price_calculator_url": "www.bethanywv.edu/admissions-aid/cost-of-attendance/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 54,
+            "region_id": 5,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 61,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7976,
+            "instructional_expenditure_per_fte": 8544,
+            "faculty_salary": 5967,
+            "ft_faculty_rate": 0.6818,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 46988437,
+                "end": 45771948
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 237181
+    },
+    {
+        "school": {
+            "name": "Bluefield State College",
+            "city": "Bluefield",
+            "state": "WV",
+            "zip": "24701-2198",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://bluefieldstate.edu/",
+            "price_calculator_url": "https://bluefieldstate.edu/sites/default/files/userfiles/tuition/netpricecalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 54,
+            "region_id": 5,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 1,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3987,
+            "instructional_expenditure_per_fte": 6969,
+            "faculty_salary": 6380,
+            "ft_faculty_rate": 0.6321,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 3513346,
+                "end": 3442277
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 237215
+    },
+    {
+        "school": {
+            "name": "Cabell County Career Technology Center",
+            "city": "Huntington",
+            "state": "WV",
+            "zip": "25705-2827",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.cabellschools.com/Domain/12",
+            "price_calculator_url": "filecabinet5.eschoolview.com/52683175-1FA0-4997-843E-335FE2CF1624/NetPriceCalc/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 54,
+            "region_id": 5,
+            "locale": 22,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1815,
+            "instructional_expenditure_per_fte": 8491,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "9/13/1984",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 237242
+    },
+    {
+        "school": {
+            "name": "Charleston School of Beauty Culture",
+            "city": "Charleston",
+            "state": "WV",
+            "zip": "25301",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "charlestonschoolofbeautyculture.com/",
+            "price_calculator_url": "charlestonschoolofbeautyculture.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 54,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8743,
+            "instructional_expenditure_per_fte": 4503,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "4/7/1981",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 237303
+    },
+    {
+        "school": {
+            "name": "University of Charleston",
+            "city": "Charleston",
+            "state": "WV",
+            "zip": "25304",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ucwv.edu/",
+            "price_calculator_url": "econnections.ucwv.edu/forms/npc",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 54,
+            "region_id": 5,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11733,
+            "instructional_expenditure_per_fte": 6664,
+            "faculty_salary": 6704,
+            "ft_faculty_rate": 0.5086,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 44741573,
+                "end": 46763774
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 237312
+    },
+    {
+        "school": {
+            "name": "Clarksburg Beauty Academy and School of Massage Therapy",
+            "city": "Clarksburg",
+            "state": "WV",
+            "zip": "26301",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "clarksburgbeautyacademywv.com/",
+            "price_calculator_url": "clarksburgbeautyacademywv.com/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 54,
+            "region_id": 5,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5365,
+            "instructional_expenditure_per_fte": 7058,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "4/15/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 237321
+    },
+    {
+        "school": {
+            "name": "Concord University",
+            "city": "Athens",
+            "state": "WV",
+            "zip": "24712",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.concord.edu/",
+            "price_calculator_url": "https://concord.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 54,
+            "region_id": 5,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3169,
+            "instructional_expenditure_per_fte": 5760,
+            "faculty_salary": 6529,
+            "ft_faculty_rate": 0.6563,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 35361174,
+                "end": 35389756
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 237330
+    }
+]

@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Hult International Business School",
+            "city": "Cambridge",
+            "state": "MA",
+            "zip": "02141",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.hult.edu/",
+            "price_calculator_url": "https://hult.formstack.com/forms/bba_net_price_calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 29,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 50224,
+            "instructional_expenditure_per_fte": 4430,
+            "faculty_salary": 10114,
+            "ft_faculty_rate": 0.2627,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "1/12/2012",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 164368
+    },
+    {
+        "school": {
+            "name": "American International College",
+            "city": "Springfield",
+            "state": "MA",
+            "zip": "01109",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.aic.edu/",
+            "price_calculator_url": "https://www.aic.edu/admissions/tuition-and-financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 15175,
+            "instructional_expenditure_per_fte": 6709,
+            "faculty_salary": 7477,
+            "ft_faculty_rate": 0.095,
+            "alias": "AIC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "1/1/1985",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 20673572,
+                "end": 21869148
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 164447
+    },
+    {
+        "school": {
+            "name": "Amherst College",
+            "city": "Amherst",
+            "state": "MA",
+            "zip": "01002-5000",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.amherst.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/student/app/amherst",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 28449,
+            "instructional_expenditure_per_fte": 32264,
+            "faculty_salary": 12844,
+            "ft_faculty_rate": 0.9391,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "1/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 2473283206,
+                "end": 2565147877
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 164465
+    },
+    {
+        "school": {
+            "name": "Anna Maria College",
+            "city": "Paxton",
+            "state": "MA",
+            "zip": "01612-1198",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.annamaria.edu/",
+            "price_calculator_url": "annamaria.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13218,
+            "instructional_expenditure_per_fte": 5641,
+            "faculty_salary": 6419,
+            "ft_faculty_rate": 0.2246,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 5561223,
+                "end": 6022423
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 164492
+    },
+    {
+        "school": {
+            "name": "Assabet Valley Regional Technical School",
+            "city": "Marlborough",
+            "state": "MA",
+            "zip": "01752",
+            "accreditor": "Accreditation Commission for Education in Nursing",
+            "school_url": "www.assabet.org/",
+            "price_calculator_url": "www.assabet.org/UserFiles/Servers/Server_82103/Media/NetPrice/NetPriceCalculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10152,
+            "instructional_expenditure_per_fte": 10441,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Assabet Valley Regional Vocational School District",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NLNAC",
+            "title_iv": {
+                "approval_date": "10/12/1977",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 164535
+    },
+    {
+        "school": {
+            "name": "Assumption University",
+            "city": "Worcester",
+            "state": "MA",
+            "zip": "01609-1296",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "https://www.assumption.edu/",
+            "price_calculator_url": "https://www.assumption.edu/admissions-financial-aid/undergraduate-admissions-and-financial-aid/undergraduate-tuition-and-fees",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 15130,
+            "instructional_expenditure_per_fte": 10218,
+            "faculty_salary": 8433,
+            "ft_faculty_rate": 0.5101,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "1/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 102942073,
+                "end": 82904251
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 164562
+    },
+    {
+        "school": {
+            "name": "Babson College",
+            "city": "Wellesley",
+            "state": "MA",
+            "zip": "02457-0310",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.babson.edu/",
+            "price_calculator_url": "npc.collegeboard.org/app/babson",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 29,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 36385,
+            "instructional_expenditure_per_fte": 15720,
+            "faculty_salary": 17640,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "1/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 459323624,
+                "end": 487676935
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 164580
+    },
+    {
+        "school": {
+            "name": "Bancroft School of Massage Therapy",
+            "city": "Worcester",
+            "state": "MA",
+            "zip": "01604",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "https://www.bancroftsmt.com/",
+            "price_calculator_url": "https://www.bancroftsmt.com/financialaid/index.cfm?ID=97",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 21214,
+            "instructional_expenditure_per_fte": 5536,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "6/26/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 164599
+    },
+    {
+        "school": {
+            "name": "Boston Baptist College",
+            "city": "Boston",
+            "state": "MA",
+            "zip": "02136-4030",
+            "accreditor": "Transnational Association of Christian Colleges and Schools",
+            "school_url": "www.boston.edu/",
+            "price_calculator_url": "www.collegeraptor.com/Shopping/Full/164614?modeltype=3",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 54,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13122,
+            "instructional_expenditure_per_fte": 4926,
+            "faculty_salary": 4109,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "TRACS",
+            "title_iv": {
+                "approval_date": "3/20/1998",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 164614
+    },
+    {
+        "school": {
+            "name": "Bay Path University",
+            "city": "Longmeadow",
+            "state": "MA",
+            "zip": "01106",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.baypath.edu/",
+            "price_calculator_url": "www.baypath.edu/undergraduate-experience/financial-aid/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 1,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16046,
+            "instructional_expenditure_per_fte": 7515,
+            "faculty_salary": 7230,
+            "ft_faculty_rate": 0.2127,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 53589755,
+                "end": 55345806
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 164632
+    },
+    {
+        "school": {
+            "name": "Bay State College",
+            "city": "Boston",
+            "state": "MA",
+            "zip": "02116",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.baystate.edu/",
+            "price_calculator_url": "www.solutions.campusivy.com/Apps/NPC?InstitutionId=22000",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16295,
+            "instructional_expenditure_per_fte": 6813,
+            "faculty_salary": 8572,
+            "ft_faculty_rate": 0.1616,
+            "alias": "Bay State Junior College |Bay State School of Business |The Bay State Academy-Airlines School |Secretarial School of Business",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "4/18/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 164641
+    },
+    {
+        "school": {
+            "name": "Becker College",
+            "city": "Worcester",
+            "state": "MA",
+            "zip": "01609-2165",
+            "accreditor": null,
+            "school_url": "www.becker.edu/",
+            "price_calculator_url": "www.becker.edu/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 0,
+            "tuition_revenue_per_fte": 19160,
+            "instructional_expenditure_per_fte": 6911,
+            "faculty_salary": 7073,
+            "ft_faculty_rate": 0.2163,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": 5116037,
+                "end": 5024459
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 164720
+    },
+    {
+        "school": {
+            "name": "Bentley University",
+            "city": "Waltham",
+            "state": "MA",
+            "zip": "02452-4705",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.bentley.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/student/app/bentley",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 33137,
+            "instructional_expenditure_per_fte": 15484,
+            "faculty_salary": 14793,
+            "ft_faculty_rate": 0.669,
+            "alias": "Bentley",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 276503000,
+                "end": 263227000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 164739
+    },
+    {
+        "school": {
+            "name": "Berklee College of Music",
+            "city": "Boston",
+            "state": "MA",
+            "zip": "02215",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.berklee.edu/",
+            "price_calculator_url": "www.berklee.edu/paying-for-your-education/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 30,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 33703,
+            "instructional_expenditure_per_fte": 20709,
+            "faculty_salary": 10117,
+            "ft_faculty_rate": 0.3899,
+            "alias": "Berklee School of Music",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "5/5/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 356061885,
+                "end": 327571106
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 164748
+    },
+    {
+        "school": {
+            "name": "Berkshire Community College",
+            "city": "Pittsfield",
+            "state": "MA",
+            "zip": "01201-5786",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.berkshirecc.edu/",
+            "price_calculator_url": "https://www.berkshirecc.edu/paying-for-college/cost-of-attendance/index.php",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 4,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4316,
+            "instructional_expenditure_per_fte": 13053,
+            "faculty_salary": 7297,
+            "ft_faculty_rate": 0.4067,
+            "alias": "BCC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 6215100,
+                "end": 8965663
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 164775
+    },
+    {
+        "school": {
+            "name": "Empire Beauty School-Boston",
+            "city": "Boston",
+            "state": "MA",
+            "zip": "02111",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.empire.edu/",
+            "price_calculator_url": "www.empire.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 8,
+            "ownership": 3,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11442,
+            "instructional_expenditure_per_fte": 15215,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "8/9/2013",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 164845
+    },
+    {
+        "school": {
+            "name": "Boston Architectural College",
+            "city": "Boston",
+            "state": "MA",
+            "zip": "02115-2703",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.the-bac.edu/",
+            "price_calculator_url": "www.the-bac.edu/admissions-and-financial-aid/financial-aid/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 30,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 24423,
+            "instructional_expenditure_per_fte": 10537,
+            "faculty_salary": 6250,
+            "ft_faculty_rate": 0.1064,
+            "alias": "Boston Architectural Center",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "1/1/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 11715986,
+                "end": 11879555
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 164872
+    },
+    {
+        "school": {
+            "name": "Boston Graduate School of Psychoanalysis Inc",
+            "city": "Brookline",
+            "state": "MA",
+            "zip": "02446",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "https://www.bgsp.edu/",
+            "price_calculator_url": "https://bgsp.edu/admissions-and-financial-aid/program-costs/#cost",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18372,
+            "instructional_expenditure_per_fte": 6208,
+            "faculty_salary": 5431,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "8/19/1997",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 164915
+    },
+    {
+        "school": {
+            "name": "Boston College",
+            "city": "Chestnut Hill",
+            "state": "MA",
+            "zip": "02467",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.bc.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/student/app/bc",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 17,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 35556,
+            "instructional_expenditure_per_fte": 23094,
+            "faculty_salary": 15608,
+            "ft_faculty_rate": 0.6631,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 2474132456,
+                "end": 2579462416
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 164924
+    },
+    {
+        "school": {
+            "name": "Boston University",
+            "city": "Boston",
+            "state": "MA",
+            "zip": "02215",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.bu.edu/",
+            "price_calculator_url": "www.bu.edu/finaid/aid-basics/cost-of-education/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 17,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 33935,
+            "instructional_expenditure_per_fte": 32434,
+            "faculty_salary": 14614,
+            "ft_faculty_rate": 0.7255,
+            "alias": "BU|Boston U",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 2292537000,
+                "end": 2421115000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 164988
+    }
+]

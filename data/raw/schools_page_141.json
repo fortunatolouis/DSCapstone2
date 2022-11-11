@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Keystone College",
+            "city": "La Plume",
+            "state": "PA",
+            "zip": "18440-0200",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.keystone.edu/",
+            "price_calculator_url": "https://www.keystone.edu/admissions/tuition-aid/calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9680,
+            "instructional_expenditure_per_fte": 6511,
+            "faculty_salary": 6264,
+            "ft_faculty_rate": 0.232,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "3/21/1972",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 6660167,
+                "end": 3603178
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 213303
+    },
+    {
+        "school": {
+            "name": "King's College",
+            "city": "Wilkes-Barre",
+            "state": "PA",
+            "zip": "18711-0801",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.kings.edu/",
+            "price_calculator_url": "https://www.kings.edu/admissions/financial_aid/business_office/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 19203,
+            "instructional_expenditure_per_fte": 10088,
+            "faculty_salary": 8063,
+            "ft_faculty_rate": 0.6289,
+            "alias": "Kings College|King's|Kings",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 86771190,
+                "end": 87605157
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 213321
+    },
+    {
+        "school": {
+            "name": "Butler Beauty Academy-Kittanning Beauty Academy",
+            "city": "Kittanning",
+            "state": "PA",
+            "zip": "16201",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "beautyacademies.net/",
+            "price_calculator_url": "beautyacademies.net/wp-content/uploads/2017/11/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 3,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6396,
+            "instructional_expenditure_per_fte": 2151,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "7/6/1990",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 213330
+    },
+    {
+        "school": {
+            "name": "Kutztown University of Pennsylvania",
+            "city": "Kutztown",
+            "state": "PA",
+            "zip": "19530-0730",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.kutztown.edu/",
+            "price_calculator_url": "www.passhe.edu/answers/Calculator/KU/npcalc-213349.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8953,
+            "instructional_expenditure_per_fte": 9295,
+            "faculty_salary": 9755,
+            "ft_faculty_rate": 0.8446,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 31869634,
+                "end": 36304976
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 213349
+    },
+    {
+        "school": {
+            "name": "La Roche University",
+            "city": "Pittsburgh",
+            "state": "PA",
+            "zip": "15237-5898",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.laroche.edu/",
+            "price_calculator_url": "www.laroche.edu/Financial_Aid/Net_Price_Calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 15448,
+            "instructional_expenditure_per_fte": 7353,
+            "faculty_salary": 6746,
+            "ft_faculty_rate": 0.3779,
+            "alias": "LRU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "4/16/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 6068411,
+                "end": 6125307
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 213358
+    },
+    {
+        "school": {
+            "name": "La Salle University",
+            "city": "Philadelphia",
+            "state": "PA",
+            "zip": "19141-1199",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.lasalle.edu/",
+            "price_calculator_url": "https://lasalle.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 15576,
+            "instructional_expenditure_per_fte": 8986,
+            "faculty_salary": 9126,
+            "ft_faculty_rate": 0.4689,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 80311293,
+                "end": 80002231
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 213367
+    },
+    {
+        "school": {
+            "name": "Lackawanna College",
+            "city": "Scranton",
+            "state": "PA",
+            "zip": "18509-3206",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.lackawanna.edu/",
+            "price_calculator_url": "https://www.lackawanna.edu/offices-and-departments/financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 14,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12401,
+            "instructional_expenditure_per_fte": 5042,
+            "faculty_salary": 3629,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "3/7/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 6874833,
+                "end": 7585284
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 213376
+    },
+    {
+        "school": {
+            "name": "Lafayette College",
+            "city": "Easton",
+            "state": "PA",
+            "zip": "18042-1768",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.lafayette.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/app/lafayette",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 66,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 35284,
+            "instructional_expenditure_per_fte": 25355,
+            "faculty_salary": 11671,
+            "ft_faculty_rate": 0.8654,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 861784000,
+                "end": 862906000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 213385
+    },
+    {
+        "school": {
+            "name": "Lancaster Bible College",
+            "city": "Lancaster",
+            "state": "PA",
+            "zip": "17601-5036",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.lbc.edu/",
+            "price_calculator_url": "https://lbc.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13422,
+            "instructional_expenditure_per_fte": 7076,
+            "faculty_salary": 6168,
+            "ft_faculty_rate": 0.2978,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "10/4/1972",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 14285556,
+                "end": 14697133
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 213400
+    },
+    {
+        "school": {
+            "name": "Lancaster Theological Seminary",
+            "city": "Lancaster",
+            "state": "PA",
+            "zip": "17603-2897",
+            "accreditor": "Commission on Accrediting of the Association of Theological Schools",
+            "school_url": "www.lancasterseminary.edu/",
+            "price_calculator_url": "www.finaid.org/calculators/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 76,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10462,
+            "instructional_expenditure_per_fte": 20433,
+            "faculty_salary": 5821,
+            "ft_faculty_rate": 0.1364,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "ATSUSC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 14128506,
+                "end": 13493635
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 213446
+    },
+    {
+        "school": {
+            "name": "Lancaster School of Cosmetology & Therapeutic Bodywork",
+            "city": "Lancaster",
+            "state": "PA",
+            "zip": "17602",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "lancasterschoolofcosmetology.com/",
+            "price_calculator_url": "www.lancasterschoolofcosmetology.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6751,
+            "instructional_expenditure_per_fte": 1947,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "8/20/1984",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 213455
+    },
+    {
+        "school": {
+            "name": "Lansdale School of Business",
+            "city": "North Wales",
+            "state": "PA",
+            "zip": "19454-4114",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.lsb.edu/",
+            "price_calculator_url": "www.lsb.edu/netprice",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18707,
+            "instructional_expenditure_per_fte": 8401,
+            "faculty_salary": 4683,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "6/13/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 213473
+    },
+    {
+        "school": {
+            "name": "Lansdale School of Cosmetology Inc",
+            "city": "Lansdale",
+            "state": "PA",
+            "zip": "19446-2003",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.lansdalecosmetology.com/",
+            "price_calculator_url": "https://lansdalecosmetology.com/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5810,
+            "instructional_expenditure_per_fte": 3505,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "2/4/1985",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 213491
+    },
+    {
+        "school": {
+            "name": "Lebanon Valley College",
+            "city": "Annville",
+            "state": "PA",
+            "zip": "17003-1400",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.lvc.edu/",
+            "price_calculator_url": "collegecostcalculator.org/LebanonValleyCollege",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 23,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 71,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18592,
+            "instructional_expenditure_per_fte": 12644,
+            "faculty_salary": 7645,
+            "ft_faculty_rate": 0.5039,
+            "alias": "LVC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 71832368,
+                "end": 70774504
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 213507
+    },
+    {
+        "school": {
+            "name": "Lehigh Carbon Community College",
+            "city": "Schnecksville",
+            "state": "PA",
+            "zip": "18078-2598",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.lccc.edu/",
+            "price_calculator_url": "https://www.lccc.edu/tuition-financial-aid/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 5,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5353,
+            "instructional_expenditure_per_fte": 4913,
+            "faculty_salary": 6885,
+            "ft_faculty_rate": 0.2168,
+            "alias": "LCCC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 8098797,
+                "end": 7937649
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 213525
+    },
+    {
+        "school": {
+            "name": "Miller-Motte College-Berks Technical Institute",
+            "city": "Wyomissing",
+            "state": "PA",
+            "zip": "19610-1168",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "https://www.berks.edu/",
+            "price_calculator_url": "disclosure.berks.edu/NPC/NetPriceCalculator-BTI.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 24,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 8,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17625,
+            "instructional_expenditure_per_fte": 9610,
+            "faculty_salary": 3917,
+            "ft_faculty_rate": 0.3182,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "7/16/2018",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 213534
+    },
+    {
+        "school": {
+            "name": "Lehigh University",
+            "city": "Bethlehem",
+            "state": "PA",
+            "zip": "18015",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.lehigh.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/student/app/lehigh",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 31324,
+            "instructional_expenditure_per_fte": 23641,
+            "faculty_salary": 13904,
+            "ft_faculty_rate": 0.8679,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 1411641000,
+                "end": 1369863000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 213543
+    },
+    {
+        "school": {
+            "name": "Lincoln Technical Institute-Allentown",
+            "city": "Allentown",
+            "state": "PA",
+            "zip": "18104-9889",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.lincolntech.edu/campus/allentown-pa",
+            "price_calculator_url": "www.lincolntech.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 7,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13608,
+            "instructional_expenditure_per_fte": 5913,
+            "faculty_salary": 5686,
+            "ft_faculty_rate": 0.7692,
+            "alias": "Lincoln Tech  LTI",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "9/30/2016",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 213570
+    },
+    {
+        "school": {
+            "name": "Lincoln Technical Institute-Philadelphia",
+            "city": "Philadelphia",
+            "state": "PA",
+            "zip": "19136",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.lincolntech.edu/campus/philadelphia-pa",
+            "price_calculator_url": "www.lincolntech.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 7,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 11,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10202,
+            "instructional_expenditure_per_fte": 3835,
+            "faculty_salary": 5639,
+            "ft_faculty_rate": 0.5294,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "9/6/2012",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 213589
+    },
+    {
+        "school": {
+            "name": "Lincoln University",
+            "city": "Lincoln University",
+            "state": "PA",
+            "zip": "19352-0999",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.lincoln.edu/",
+            "price_calculator_url": "www.lincoln.edu/departments/financial-aid/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 1,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7160,
+            "instructional_expenditure_per_fte": 8643,
+            "faculty_salary": 8953,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 44137515,
+                "end": 45469662
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 213598
+    }
+]

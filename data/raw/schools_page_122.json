@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "University of Jamestown",
+            "city": "Jamestown",
+            "state": "ND",
+            "zip": "58405",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.uj.edu/",
+            "price_calculator_url": "https://uj.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 38,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 66,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9987,
+            "instructional_expenditure_per_fte": 9633,
+            "faculty_salary": 6729,
+            "ft_faculty_rate": 1,
+            "alias": "UJ Jimmies",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 38503952,
+                "end": 37137089
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 200156
+    },
+    {
+        "school": {
+            "name": "Lake Region State College",
+            "city": "Devils Lake",
+            "state": "ND",
+            "zip": "58301-1598",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.lrsc.edu/",
+            "price_calculator_url": "www.lrsc.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 38,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4142,
+            "instructional_expenditure_per_fte": 6146,
+            "faculty_salary": 6554,
+            "ft_faculty_rate": 0.8605,
+            "alias": "LRSC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "11/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 10640685,
+                "end": 11275511
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 200192
+    },
+    {
+        "school": {
+            "name": "Cankdeska Cikana Community College",
+            "city": "Fort Totten",
+            "state": "ND",
+            "zip": "58335",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.littlehoop.edu/",
+            "price_calculator_url": "www.littlehoop.edu/content/images/NetPriceCalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 38,
+            "region_id": 4,
+            "locale": 42,
+            "degree_urbanization": null,
+            "carnegie_basic": 33,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 1,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 189,
+            "instructional_expenditure_per_fte": 16753,
+            "faculty_salary": 4342,
+            "ft_faculty_rate": 1,
+            "alias": "Little Hoop Community College",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "3/3/1983",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1057008,
+                "end": 1081122
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 200208
+    },
+    {
+        "school": {
+            "name": "University of Mary",
+            "city": "Bismarck",
+            "state": "ND",
+            "zip": "58504",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.umary.edu/",
+            "price_calculator_url": "https://www.umary.edu/financial-aid/net-price-calculator.php",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 38,
+            "region_id": 4,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17139,
+            "instructional_expenditure_per_fte": 7759,
+            "faculty_salary": 7741,
+            "ft_faculty_rate": 0.6063,
+            "alias": "UMary/Marauders",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 56051028,
+                "end": 55238936
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 200217
+    },
+    {
+        "school": {
+            "name": "Mayville State University",
+            "city": "Mayville",
+            "state": "ND",
+            "zip": "58257-1299",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.mayvillestate.edu/",
+            "price_calculator_url": "www.mayvillestate.edu/paying-school/cost-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 38,
+            "region_id": 4,
+            "locale": 43,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 7,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6452,
+            "instructional_expenditure_per_fte": 8618,
+            "faculty_salary": 6116,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 8052112,
+                "end": 8335032
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 200226
+    },
+    {
+        "school": {
+            "name": "Minot State University",
+            "city": "Minot",
+            "state": "ND",
+            "zip": "58707",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.minotstateu.edu/",
+            "price_calculator_url": "https://www.minotstateu.edu/finaid/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 38,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6434,
+            "instructional_expenditure_per_fte": 7717,
+            "faculty_salary": 7449,
+            "ft_faculty_rate": 0.5878,
+            "alias": "MSU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 31498895,
+                "end": 33160018
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 200253
+    },
+    {
+        "school": {
+            "name": "University of North Dakota",
+            "city": "Grand Forks",
+            "state": "ND",
+            "zip": "58202-8193",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://und.edu/",
+            "price_calculator_url": "https://und.edu/admissions/cost-and-aid/calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 38,
+            "region_id": 4,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12847,
+            "instructional_expenditure_per_fte": 16447,
+            "faculty_salary": 8968,
+            "ft_faculty_rate": 0.904,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/31/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 264475000,
+                "end": 261614000
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 200280
+    },
+    {
+        "school": {
+            "name": "North Dakota State College of Science",
+            "city": "Wahpeton",
+            "state": "ND",
+            "zip": "58076-0002",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.ndscs.edu/",
+            "price_calculator_url": "https://www.ndscs.edu/paying-college/financial-aid/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 38,
+            "region_id": 4,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 8,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4037,
+            "instructional_expenditure_per_fte": 8597,
+            "faculty_salary": 6817,
+            "ft_faculty_rate": 0.9298,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "11/29/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 28269982,
+                "end": 28523431
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 200305
+    },
+    {
+        "school": {
+            "name": "Dakota College at Bottineau",
+            "city": "Bottineau",
+            "state": "ND",
+            "zip": "58318-1198",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.dakotacollege.edu/",
+            "price_calculator_url": "www.dakotacollege.edu/netprice/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 38,
+            "region_id": 4,
+            "locale": 43,
+            "degree_urbanization": null,
+            "carnegie_basic": 3,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3618,
+            "instructional_expenditure_per_fte": 8489,
+            "faculty_salary": 5022,
+            "ft_faculty_rate": 0.4375,
+            "alias": "MSU-Bottineau",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1177607,
+                "end": 1222836
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 200314
+    },
+    {
+        "school": {
+            "name": "North Dakota State University-Main Campus",
+            "city": "Fargo",
+            "state": "ND",
+            "zip": "58108-6050",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.ndsu.edu/",
+            "price_calculator_url": "www.ndsu.edu/onestop/finaid/netpricecalculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 38,
+            "region_id": 4,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9817,
+            "instructional_expenditure_per_fte": 10213,
+            "faculty_salary": 9348,
+            "ft_faculty_rate": 0.9709,
+            "alias": "North Dakota State University, NDSU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 513982,
+                "end": 508595
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 200332
+    },
+    {
+        "school": {
+            "name": "Williston State College",
+            "city": "Williston",
+            "state": "ND",
+            "zip": "58801",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://willistonstate.edu/",
+            "price_calculator_url": "https://willistonstate.edu/admissions/Student-Financial-Aid/Estimated-Cost-of-Attendance/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 38,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1658,
+            "instructional_expenditure_per_fte": 11677,
+            "faculty_salary": 7078,
+            "ft_faculty_rate": 1,
+            "alias": "WSC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 24591585,
+                "end": 24633066
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 200341
+    },
+    {
+        "school": {
+            "name": "Sitting Bull College",
+            "city": "Fort Yates",
+            "state": "ND",
+            "zip": "58538-9721",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.sittingbull.edu/",
+            "price_calculator_url": "online.sittingbull.edu/ics/npc/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 2,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 38,
+            "region_id": 4,
+            "locale": 43,
+            "degree_urbanization": null,
+            "carnegie_basic": 33,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 1,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3893,
+            "instructional_expenditure_per_fte": 7595,
+            "faculty_salary": 4517,
+            "ft_faculty_rate": 0.7179,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "7/31/1978",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1731503,
+                "end": 1819623
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 200466
+    },
+    {
+        "school": {
+            "name": "Trinity Bible College and Graduate School",
+            "city": "Ellendale",
+            "state": "ND",
+            "zip": "58436-7105",
+            "accreditor": "Association for Bibical Higher Educaiton",
+            "school_url": "trinitybiblecollege.edu/",
+            "price_calculator_url": "netprice.tbc2day.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 38,
+            "region_id": 4,
+            "locale": 43,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 27,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10351,
+            "instructional_expenditure_per_fte": 8525,
+            "faculty_salary": 3874,
+            "ft_faculty_rate": 0.6842,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "ABHE",
+            "title_iv": {
+                "approval_date": "4/1/1974",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 1005268,
+                "end": 1033723
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 200484
+    },
+    {
+        "school": {
+            "name": "Turtle Mountain Community College",
+            "city": "Belcourt",
+            "state": "ND",
+            "zip": "58316",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.tm.edu/",
+            "price_calculator_url": "www.tm.edu/net-price/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 38,
+            "region_id": 4,
+            "locale": 43,
+            "degree_urbanization": null,
+            "carnegie_basic": 33,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 1,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2243,
+            "instructional_expenditure_per_fte": 11656,
+            "faculty_salary": 6588,
+            "ft_faculty_rate": 0.7581,
+            "alias": "TMCC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/27/1978",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 2172560,
+                "end": 3064862
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 200527
+    },
+    {
+        "school": {
+            "name": "United Tribes Technical College",
+            "city": "Bismarck",
+            "state": "ND",
+            "zip": "58504",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.uttc.edu/",
+            "price_calculator_url": "https://uttc.edu/financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 38,
+            "region_id": 4,
+            "locale": 23,
+            "degree_urbanization": null,
+            "carnegie_basic": 33,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 1,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10001,
+            "instructional_expenditure_per_fte": 8643,
+            "faculty_salary": 5949,
+            "ft_faculty_rate": 0.877,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1978",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 724124,
+                "end": 691037
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 200554
+    },
+    {
+        "school": {
+            "name": "Valley City State University",
+            "city": "Valley City",
+            "state": "ND",
+            "zip": "58072",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.vcsu.edu/",
+            "price_calculator_url": "www.vcsu.edu/admissions/tuition-fees/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 38,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5738,
+            "instructional_expenditure_per_fte": 11985,
+            "faculty_salary": 6177,
+            "ft_faculty_rate": 0.542,
+            "alias": "VCSU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 9321368,
+                "end": 9586780
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 200572
+    },
+    {
+        "school": {
+            "name": "ETI Technical College",
+            "city": "Niles",
+            "state": "OH",
+            "zip": "44446-4398",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "eticollege.edu/",
+            "price_calculator_url": "www.eticollege.edu/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 8,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9768,
+            "instructional_expenditure_per_fte": 6047,
+            "faculty_salary": 3000,
+            "ft_faculty_rate": 0.4138,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "6/17/1992",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 200590
+    },
+    {
+        "school": {
+            "name": "Air Force Institute of Technology-Graduate School of Engineering & Management",
+            "city": "Wright-Patterson AFB",
+            "state": "OH",
+            "zip": "45433-7765",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.afit.edu/",
+            "price_calculator_url": "www.afit.edu/ADMISSIONS/page.cfm?page=447&tabname=Tab1A",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 39,
+            "region_id": 0,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": null,
+            "instructional_expenditure_per_fte": null,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "AFIT",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1965",
+                "eligibility_type": 3
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 200697
+    },
+    {
+        "school": {
+            "name": "Herzing University-Akron",
+            "city": "Akron",
+            "state": "OH",
+            "zip": "44306-3931",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.herzing.edu/",
+            "price_calculator_url": "https://www.herzing.edu/tuition-financial-aid/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 9,
+            "ownership": 2,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 23,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 15784,
+            "instructional_expenditure_per_fte": 3688,
+            "faculty_salary": 5876,
+            "ft_faculty_rate": 0.3333,
+            "alias": "Akron Institute of Herzing University",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "11/29/2010",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 200785
+    },
+    {
+        "school": {
+            "name": "University of Akron Main Campus",
+            "city": "Akron",
+            "state": "OH",
+            "zip": "44325-4702",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.uakron.edu/",
+            "price_calculator_url": "npc.collegeboard.org/app/uakron",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 1,
+            "state_fips": 39,
+            "region_id": 3,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8854,
+            "instructional_expenditure_per_fte": 10436,
+            "faculty_salary": 10276,
+            "ft_faculty_rate": 0.4515,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 224044063,
+                "end": 223554119
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 200800
+    }
+]

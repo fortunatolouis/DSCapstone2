@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Pontifical Catholic University of Puerto Rico-Ponce",
+            "city": "Ponce",
+            "state": "PR",
+            "zip": "00717-9997",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.pucpr.edu/",
+            "price_calculator_url": "https://www.pucpr.edu/net_price_calculator/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 3,
+            "ownership": 2,
+            "state_fips": 72,
+            "region_id": 9,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5501,
+            "instructional_expenditure_per_fte": 3665,
+            "faculty_salary": 4361,
+            "ft_faculty_rate": 0.736,
+            "alias": "PUCPR",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "5/26/1988",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 9319261,
+                "end": 8818747
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 241410
+    },
+    {
+        "school": {
+            "name": "CEM College-San Juan",
+            "city": "San Juan",
+            "state": "PR",
+            "zip": "00926-1931",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.cemcollege.edu/cem/",
+            "price_calculator_url": "www.cemcollege.edu/cem/netprice/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 4,
+            "ownership": 3,
+            "state_fips": 72,
+            "region_id": 9,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4535,
+            "instructional_expenditure_per_fte": 730,
+            "faculty_salary": 2000,
+            "ft_faculty_rate": 0.0233,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "3/24/1982",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 241517
+    },
+    {
+        "school": {
+            "name": "Universidad Teologica del Caribe",
+            "city": "Trujillo Alto",
+            "state": "PR",
+            "zip": "00978-0901",
+            "accreditor": "Association for Bibical Higher Educaiton",
+            "school_url": "www.utcpr.edu/",
+            "price_calculator_url": "utcpr.edu/Section.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 72,
+            "region_id": 9,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 57,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3220,
+            "instructional_expenditure_per_fte": 1433,
+            "faculty_salary": 897,
+            "ft_faculty_rate": 0.3103,
+            "alias": "UTC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ABHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 241614
+    },
+    {
+        "school": {
+            "name": "Colegio Universitario de San Juan",
+            "city": "San Juan",
+            "state": "PR",
+            "zip": "00918",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.cunisanjuan.edu/",
+            "price_calculator_url": "www.cunisanjuan.edu/netprice/npcalc.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 72,
+            "region_id": 9,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 494,
+            "instructional_expenditure_per_fte": 2165,
+            "faculty_salary": 3489,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/12/1972",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 241720
+    },
+    {
+        "school": {
+            "name": "Universidad Ana G. Mendez-Cupey Campus",
+            "city": "San Juan",
+            "state": "PR",
+            "zip": "00926-2602",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "uagm.edu/",
+            "price_calculator_url": "documento.uagm.edu/cupey/estudiante_consumidor/NP-UAGM-Cupey.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 72,
+            "region_id": 9,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 6,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7163,
+            "instructional_expenditure_per_fte": 4108,
+            "faculty_salary": 3327,
+            "ft_faculty_rate": 1,
+            "alias": "UAGM Cupey",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "6/30/1981",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 25467113,
+                "end": 24183469
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 241739
+    },
+    {
+        "school": {
+            "name": "Conservatory of Music of Puerto Rico",
+            "city": "San Juan",
+            "state": "PR",
+            "zip": "00907-3373",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "cmpr.edu/",
+            "price_calculator_url": "cmpr.edu/NetPriceCalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 72,
+            "region_id": 9,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 30,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5018,
+            "instructional_expenditure_per_fte": 14843,
+            "faculty_salary": 3499,
+            "ft_faculty_rate": 0.5542,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "6/30/1972",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1595401,
+                "end": 1638268
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 241766
+    },
+    {
+        "school": {
+            "name": "Center for Advanced Studies On Puerto Rico and the Caribbean",
+            "city": "San Juan",
+            "state": "PR",
+            "zip": "00901",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "ceaprc.edu/",
+            "price_calculator_url": "www.ceaprc.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 72,
+            "region_id": 9,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 32,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6756,
+            "instructional_expenditure_per_fte": 1754,
+            "faculty_salary": null,
+            "ft_faculty_rate": 0.037,
+            "alias": "Centro de Estudios Avanzados",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "6/1/1979",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 241793
+    },
+    {
+        "school": {
+            "name": "EDP University of Puerto Rico Inc-San Sebastian",
+            "city": "San Sebastian",
+            "state": "PR",
+            "zip": "00685",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.edpuniversity.edu/",
+            "price_calculator_url": "edpuniversity.edu/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 2,
+            "state_fips": 72,
+            "region_id": 9,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5698,
+            "instructional_expenditure_per_fte": 2014,
+            "faculty_salary": 2351,
+            "ft_faculty_rate": 1,
+            "alias": "EDP",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "9/16/1997",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 241836
+    },
+    {
+        "school": {
+            "name": "Emma's Beauty Academy-Mayaguez",
+            "city": "Mayaguez",
+            "state": "PR",
+            "zip": "00680-4222",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.emmasbeautyacademy.com/",
+            "price_calculator_url": "netprice.emmasbeautyacademy.com/npcalc.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 72,
+            "region_id": 9,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6205,
+            "instructional_expenditure_per_fte": 2731,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "11/2/1979",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 241906
+    },
+    {
+        "school": {
+            "name": "Escuela de Artes Plasticas y Diseno de Puerto Rico",
+            "city": "San Juan",
+            "state": "PR",
+            "zip": "00902-1112",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.eap.edu/",
+            "price_calculator_url": "https://eap.edu/net-price-calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 72,
+            "region_id": 9,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 30,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3773,
+            "instructional_expenditure_per_fte": 3640,
+            "faculty_salary": 2408,
+            "ft_faculty_rate": 0.35,
+            "alias": "EAPD",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "7/19/1988",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 2460796,
+                "end": 2555838
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 241951
+    },
+    {
+        "school": {
+            "name": "Instituto Tecnologico de Puerto Rico-Recinto de Manati",
+            "city": "Manati",
+            "state": "PR",
+            "zip": "00674-1091",
+            "accreditor": "Puerto Rico State Agency for the Approval of Public Postsecondary Vocational and Technical Institutions and Programs",
+            "school_url": "itec.pr/ITPR-Joomla/",
+            "price_calculator_url": "itec.pr/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 1,
+            "state_fips": 72,
+            "region_id": 9,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 804,
+            "instructional_expenditure_per_fte": 2009,
+            "faculty_salary": 1953,
+            "ft_faculty_rate": 1,
+            "alias": "ITEC-MANATI",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "PRHROD",
+            "title_iv": {
+                "approval_date": "2/6/2008",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 242042
+    },
+    {
+        "school": {
+            "name": "Huertas College",
+            "city": "Caguas",
+            "state": "PR",
+            "zip": "00725",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.huertas.edu/",
+            "price_calculator_url": "huertas.edu/hc/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 72,
+            "region_id": 9,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5163,
+            "instructional_expenditure_per_fte": 2802,
+            "faculty_salary": 2344,
+            "ft_faculty_rate": 0.1717,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "9/8/1977",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 242112
+    },
+    {
+        "school": {
+            "name": "Humacao Community College",
+            "city": "Humacao",
+            "state": "PR",
+            "zip": "00791",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.hccpr.edu/",
+            "price_calculator_url": "https://hccpr.edu/finaid/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 72,
+            "region_id": 9,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 23,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4719,
+            "instructional_expenditure_per_fte": 1729,
+            "faculty_salary": 2198,
+            "ft_faculty_rate": 0.1538,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "3/11/1982",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 1286604,
+                "end": 1299490
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 242121
+    },
+    {
+        "school": {
+            "name": "ICPR Junior College-Arecibo",
+            "city": "Arecibo",
+            "state": "PR",
+            "zip": "00614-0067",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.icprjc.edu/",
+            "price_calculator_url": "www.icprjc.edu/netPriceCalculator/npalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 4,
+            "ownership": 3,
+            "state_fips": 72,
+            "region_id": 9,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7799,
+            "instructional_expenditure_per_fte": 2747,
+            "faculty_salary": 2473,
+            "ft_faculty_rate": 0.5455,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "8/21/1989",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 242130
+    },
+    {
+        "school": {
+            "name": "ICPR Junior College-Mayaguez",
+            "city": "Mayaguez",
+            "state": "PR",
+            "zip": "00681-1108",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.icprjc.edu/",
+            "price_calculator_url": "www.icprjc.edu/netPriceCalculator/npalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 4,
+            "ownership": 3,
+            "state_fips": 72,
+            "region_id": 9,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7687,
+            "instructional_expenditure_per_fte": 2707,
+            "faculty_salary": 2957,
+            "ft_faculty_rate": 0.4,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "8/21/1989",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 242149
+    },
+    {
+        "school": {
+            "name": "Richport Technical College",
+            "city": "Baton Rouge",
+            "state": "LA",
+            "zip": "70836",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.richporttech.org/",
+            "price_calculator_url": "www.richporttc.com/NETPRICECALCULATOR/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 22,
+            "region_id": 5,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6148,
+            "instructional_expenditure_per_fte": 1189,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "RTC",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "3/16/1989",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 242413
+    },
+    {
+        "school": {
+            "name": "Instituto Tecnologico de Puerto Rico-Recinto de Guayama",
+            "city": "Guayama",
+            "state": "PR",
+            "zip": "00784-0000",
+            "accreditor": "Puerto Rico State Agency for the Approval of Public Postsecondary Vocational and Technical Institutions and Programs",
+            "school_url": "www.de.gov/itec-2/",
+            "price_calculator_url": "https://instituto-tecnologico-de-puerto-rico-1.jimdosite.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 1,
+            "state_fips": 72,
+            "region_id": 9,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 304,
+            "instructional_expenditure_per_fte": 7898,
+            "faculty_salary": 3481,
+            "ft_faculty_rate": 1,
+            "alias": "Tecnologico / ITPR",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "PRHROD",
+            "title_iv": {
+                "approval_date": "9/9/1989",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 242556
+    },
+    {
+        "school": {
+            "name": "Instituto Tecnologico de Puerto Rico-Recinto de Ponce",
+            "city": "Ponce",
+            "state": "PR",
+            "zip": "00717-0306",
+            "accreditor": null,
+            "school_url": "https://de.pr.gov/wp-content/uploads/2020/05/itpr-catalogo-general-2020-2022-actual-1.pdf",
+            "price_calculator_url": "https://nces.ed.gov/ipeds/netpricecalculator/#/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 1,
+            "state_fips": 72,
+            "region_id": 9,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 0,
+            "tuition_revenue_per_fte": 145,
+            "instructional_expenditure_per_fte": 1490,
+            "faculty_salary": 2418,
+            "ft_faculty_rate": 1,
+            "alias": "Maria E. Archeval Salamo de Valdes",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": null,
+            "title_iv": {
+                "approval_date": "9/9/1989",
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 242565
+    },
+    {
+        "school": {
+            "name": "Instituto Tecnologico de Puerto Rico-Recinto de San Juan",
+            "city": "San Juan",
+            "state": "PR",
+            "zip": "00924",
+            "accreditor": "Puerto Rico State Agency for the Approval of Public Postsecondary Vocational and Technical Institutions and Programs",
+            "school_url": "https://instituto-tecnologico-de-puerto-rico-1.jimdosite.com/",
+            "price_calculator_url": "https://instituto-tecnologico-de-puerto-rico-1.jimdosite.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 5,
+            "ownership": 1,
+            "state_fips": 72,
+            "region_id": 9,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1463,
+            "instructional_expenditure_per_fte": 3699,
+            "faculty_salary": 2544,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "PRHROD",
+            "title_iv": {
+                "approval_date": "9/9/1989",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 242583
+    },
+    {
+        "school": {
+            "name": "Inter American University of Puerto Rico-San German",
+            "city": "San German",
+            "state": "PR",
+            "zip": "00683",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.sg.inter.edu/",
+            "price_calculator_url": "https://www.sg.inter.edu/wp-content/uploads/Documentos/asis-economica/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 72,
+            "region_id": 9,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4842,
+            "instructional_expenditure_per_fte": 3429,
+            "faculty_salary": 5992,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "9/22/2015",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 242617
+    }
+]

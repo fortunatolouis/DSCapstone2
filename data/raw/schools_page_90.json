@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Stevens-The Institute of Business & Arts",
+            "city": "Saint Louis",
+            "state": "MO",
+            "zip": "63103",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.siba.edu/",
+            "price_calculator_url": "www.siba.edu/sites/default/files/pages/net-price-calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 29,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14128,
+            "instructional_expenditure_per_fte": 10664,
+            "faculty_salary": 4896,
+            "ft_faculty_rate": null,
+            "alias": "Patricia Stevens College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "12/16/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 178767
+    },
+    {
+        "school": {
+            "name": "Poplar Bluff Technical Career Center",
+            "city": "Poplar Bluff",
+            "state": "MO",
+            "zip": "63901-8960",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.poplarbluffschools.net/",
+            "price_calculator_url": "tcc.poplarbluffschools.net/student_resources/net_price_calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1670,
+            "instructional_expenditure_per_fte": 26680,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Poplar Bluff Technical Career Center",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "1/30/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 178828
+    },
+    {
+        "school": {
+            "name": "Ranken Technical College",
+            "city": "Saint Louis",
+            "state": "MO",
+            "zip": "63113-2811",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ranken.edu/",
+            "price_calculator_url": "ranken.edu/calculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 14,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11505,
+            "instructional_expenditure_per_fte": 4715,
+            "faculty_salary": 5400,
+            "ft_faculty_rate": 0.6316,
+            "alias": "Ranken Technical College, Ranken Technical Institute, The David Ranken,Jr. School of Mechanical Trades",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/13/1975",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 71309298,
+                "end": 72094725
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 178891
+    },
+    {
+        "school": {
+            "name": "Research College of Nursing",
+            "city": "Kansas City",
+            "state": "MO",
+            "zip": "64132",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "researchcollege.edu/",
+            "price_calculator_url": "researchcollege.edu/about/student-consumer-info.dot",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 7,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 23973,
+            "instructional_expenditure_per_fte": 9354,
+            "faculty_salary": 7581,
+            "ft_faculty_rate": 0.973,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 178989
+    },
+    {
+        "school": {
+            "name": "Rockhurst University",
+            "city": "Kansas City",
+            "state": "MO",
+            "zip": "64110-2561",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.rockhurst.edu/",
+            "price_calculator_url": "https://www.rockhurst.edu/admissions/freshman/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13358,
+            "instructional_expenditure_per_fte": 6573,
+            "faculty_salary": 7156,
+            "ft_faculty_rate": 0.6637,
+            "alias": "Rockhurst",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 38451435,
+                "end": 38149258
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 179043
+    },
+    {
+        "school": {
+            "name": "Rolla Technical Institute/Center",
+            "city": "Rolla",
+            "state": "MO",
+            "zip": "65401",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "https://rtirtc.rolla31.org/",
+            "price_calculator_url": "rtirtc.rolla31.org/UserFiles/Servers/Server_19985496/File/Consumer Info/NetPriceCalculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2346,
+            "instructional_expenditure_per_fte": 5860,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "3/26/1974",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 179052
+    },
+    {
+        "school": {
+            "name": "Saint Louis University",
+            "city": "Saint Louis",
+            "state": "MO",
+            "zip": "63103-2097",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.slu.edu/",
+            "price_calculator_url": "www.slu.edu/financial-aid/tuition-and-costs/calculator.php",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 17,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 22240,
+            "instructional_expenditure_per_fte": 21275,
+            "faculty_salary": 10304,
+            "ft_faculty_rate": 0.6147,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 1252677869,
+                "end": 1197420728
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 179159
+    },
+    {
+        "school": {
+            "name": "Salem College of Hairstyling",
+            "city": "Rolla",
+            "state": "MO",
+            "zip": "65401",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.centralandsalemcolleges.com/",
+            "price_calculator_url": "centralandsalemcolleges.com/price calculator.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4612,
+            "instructional_expenditure_per_fte": 1399,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "12/14/1982",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 179195
+    },
+    {
+        "school": {
+            "name": "American College of Hair Design Inc",
+            "city": "Sedalia",
+            "state": "MO",
+            "zip": "65301",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.americancollegeofhairdesign.com/",
+            "price_calculator_url": "americancollegeofhairdesign.com/enrollment/fafsa-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6011,
+            "instructional_expenditure_per_fte": 7291,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "7/15/1985",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 179229
+    },
+    {
+        "school": {
+            "name": "Saint Louis Christian College",
+            "city": "Florissant",
+            "state": "MO",
+            "zip": "63033",
+            "accreditor": "Association for Bibical Higher Educaiton",
+            "school_url": "www.stlchristian.edu/",
+            "price_calculator_url": "https://stlchristian.edu/wp-content/uploads/2019/09/Net-Price-Calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 48,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6693,
+            "instructional_expenditure_per_fte": 9704,
+            "faculty_salary": 3485,
+            "ft_faculty_rate": 0.2308,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "ABHE",
+            "title_iv": {
+                "approval_date": "1/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 1091879,
+                "end": 1108981
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 179256
+    },
+    {
+        "school": {
+            "name": "University of Health Sciences and Pharmacy in St. Louis",
+            "city": "Saint Louis",
+            "state": "MO",
+            "zip": "63110-1088",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.uhsp.edu/",
+            "price_calculator_url": "https://www.uhsp.edu/financialaid/cost-of-attendance/net-price-calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 31919,
+            "instructional_expenditure_per_fte": 18116,
+            "faculty_salary": 9583,
+            "ft_faculty_rate": 0.8235,
+            "alias": "St. Louis College of Pharmacy",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "3/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 144775648,
+                "end": 134563875
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 179265
+    },
+    {
+        "school": {
+            "name": "Saint Louis Community College",
+            "city": "Bridgeton",
+            "state": "MO",
+            "zip": "63044",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.stlcc.edu/",
+            "price_calculator_url": "https://applications.stlcc.edu/netprice/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 5,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1926,
+            "instructional_expenditure_per_fte": 6507,
+            "faculty_salary": 7503,
+            "ft_faculty_rate": 0.3761,
+            "alias": "St Louis Community  College",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 179308
+    },
+    {
+        "school": {
+            "name": "Saint Paul School of Theology",
+            "city": "Leawood",
+            "state": "KS",
+            "zip": "66224",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.spst.edu/",
+            "price_calculator_url": "https://spst.edu/tuition-and-fees/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 20,
+            "region_id": 4,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 71,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 15965,
+            "instructional_expenditure_per_fte": 17491,
+            "faculty_salary": 6784,
+            "ft_faculty_rate": 0.3214,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "6/16/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 32159198,
+                "end": 30711132
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 179317
+    },
+    {
+        "school": {
+            "name": "Southwest Baptist University",
+            "city": "Bolivar",
+            "state": "MO",
+            "zip": "65613-2596",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.sbuniv.edu/",
+            "price_calculator_url": "www.sbuniv.edu/admissions/financial-aid/estimator.php",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 75,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11375,
+            "instructional_expenditure_per_fte": 7669,
+            "faculty_salary": 5773,
+            "ft_faculty_rate": 0.5336,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 29899042,
+                "end": 30871530
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 179326
+    },
+    {
+        "school": {
+            "name": "Missouri State University-West Plains",
+            "city": "West Plains",
+            "state": "MO",
+            "zip": "65775-2715",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "wp.missouristate.edu/",
+            "price_calculator_url": "grizzlyden.missouristate.edu:9010/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2006,
+            "instructional_expenditure_per_fte": 3807,
+            "faculty_salary": 5958,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/20/1994",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 179344
+    },
+    {
+        "school": {
+            "name": "St Louis College of Health Careers-St Louis",
+            "city": "Saint Louis",
+            "state": "MO",
+            "zip": "63110",
+            "accreditor": "Accrediting Bureau of Health Education Schools",
+            "school_url": "www.slchc.edu/",
+            "price_calculator_url": "https://slchc.edu/financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 23184,
+            "instructional_expenditure_per_fte": 7427,
+            "faculty_salary": 2249,
+            "ft_faculty_rate": 0.6923,
+            "alias": "SLCHC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ABHES",
+            "title_iv": {
+                "approval_date": "8/22/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 179511
+    },
+    {
+        "school": {
+            "name": "State Fair Community College",
+            "city": "Sedalia",
+            "state": "MO",
+            "zip": "65301-2199",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.sfccmo.edu/",
+            "price_calculator_url": "https://www.sfccmo.edu/files/financial-aid/net-price-calculator/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3835,
+            "instructional_expenditure_per_fte": 5606,
+            "faculty_salary": 4902,
+            "ft_faculty_rate": 0.2746,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 16324262,
+                "end": 17971643
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 179539
+    },
+    {
+        "school": {
+            "name": "Stephens College",
+            "city": "Columbia",
+            "state": "MO",
+            "zip": "65215",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.stephens.edu/",
+            "price_calculator_url": "https://www.stephens.edu/admission-aid/undergraduate/financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 1,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13538,
+            "instructional_expenditure_per_fte": 13826,
+            "faculty_salary": 6415,
+            "ft_faculty_rate": 0.5968,
+            "alias": "Stephens",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 51189994,
+                "end": 51504026
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 179548
+    },
+    {
+        "school": {
+            "name": "Southeast Missouri State University",
+            "city": "Cape Girardeau",
+            "state": "MO",
+            "zip": "63701",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.semo.edu/",
+            "price_calculator_url": "https://www.semo.edu/sfs/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6451,
+            "instructional_expenditure_per_fte": 7098,
+            "faculty_salary": 7208,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 84691977,
+                "end": 84159077
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 179557
+    },
+    {
+        "school": {
+            "name": "Missouri State University-Springfield",
+            "city": "Springfield",
+            "state": "MO",
+            "zip": "65897",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.missouristate.edu/",
+            "price_calculator_url": "https://missouristate.studentaidcalculator.com/welcome.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7244,
+            "instructional_expenditure_per_fte": 7284,
+            "faculty_salary": 7699,
+            "ft_faculty_rate": 0.6986,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 179566
+    }
+]

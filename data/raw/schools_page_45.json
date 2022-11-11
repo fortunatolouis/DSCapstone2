@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Hair Professionals School of Cosmetology",
+            "city": "Oswego",
+            "state": "IL",
+            "zip": "60543",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "hairpros.edu/",
+            "price_calculator_url": "hairpros.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7659,
+            "instructional_expenditure_per_fte": 999,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "3/22/1984",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 145433
+    },
+    {
+        "school": {
+            "name": "Hebrew Theological College",
+            "city": "Skokie",
+            "state": "IL",
+            "zip": "60077",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.htc.edu/",
+            "price_calculator_url": "www.htc.edu/component/k2/item/211-tution-net-price-calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 80,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11073,
+            "instructional_expenditure_per_fte": 11775,
+            "faculty_salary": 2931,
+            "ft_faculty_rate": 0.4211,
+            "alias": "HTC, TI, Teacher's Institute, Skokie Yeshiva, Blitstein Institute, Machon Torani L'Banot, Beis HaMidrash L'Torah",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "4/1/1988",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 879395,
+                "end": 1078617
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 145497
+    },
+    {
+        "school": {
+            "name": "Highland Community College",
+            "city": "Freeport",
+            "state": "IL",
+            "zip": "61032-9341",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.highland.edu/",
+            "price_calculator_url": "www.highland.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3329,
+            "instructional_expenditure_per_fte": 12089,
+            "faculty_salary": 9294,
+            "ft_faculty_rate": 0.512,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 24381986,
+                "end": 23652874
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 145521
+    },
+    {
+        "school": {
+            "name": "Rosalind Franklin University of Medicine and Science",
+            "city": "North Chicago",
+            "state": "IL",
+            "zip": "60064-3095",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.rosalindfranklin.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 25,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 35451,
+            "instructional_expenditure_per_fte": 15941,
+            "faculty_salary": 10912,
+            "ft_faculty_rate": 0.6527,
+            "alias": "RFUMS",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "8/1/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 81612966,
+                "end": 78895738
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 145558
+    },
+    {
+        "school": {
+            "name": "University of Illinois Chicago",
+            "city": "Chicago",
+            "state": "IL",
+            "zip": "60607",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.uic.edu/",
+            "price_calculator_url": "https://docs.financialaid.uic.edu/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11939,
+            "instructional_expenditure_per_fte": 27494,
+            "faculty_salary": 12448,
+            "ft_faculty_rate": 0.7176,
+            "alias": "UIC|U of I-Chicago|Illinois-Chicago|U of I-Medical Center|University of Illinois-Medical Center|",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 367788661,
+                "end": 380290620
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 145600
+    },
+    {
+        "school": {
+            "name": "Benedictine University",
+            "city": "Lisle",
+            "state": "IL",
+            "zip": "60532-0900",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ben.edu/",
+            "price_calculator_url": "www.ben.edu/admissions/undergraduate/freshman/net-price.cfm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16046,
+            "instructional_expenditure_per_fte": 7635,
+            "faculty_salary": 8636,
+            "ft_faculty_rate": 0.3782,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 35579126,
+                "end": 36902470
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 145619
+    },
+    {
+        "school": {
+            "name": "Illinois College of Optometry",
+            "city": "Chicago",
+            "state": "IL",
+            "zip": "60616-3878",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ico.edu/",
+            "price_calculator_url": "https://www.ico.edu/cost-of-attendance",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 43584,
+            "instructional_expenditure_per_fte": 19165,
+            "faculty_salary": 10518,
+            "ft_faculty_rate": 0.64,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 1052252,
+                "end": 1173410
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 145628
+    },
+    {
+        "school": {
+            "name": "University of Illinois Urbana-Champaign",
+            "city": "Champaign",
+            "state": "IL",
+            "zip": "61820-5711",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.illinois.edu/",
+            "price_calculator_url": "secure.osfa.illinois.edu/NPC/NPC.asp",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 17,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14814,
+            "instructional_expenditure_per_fte": 15154,
+            "faculty_salary": 12731,
+            "ft_faculty_rate": 0.7491,
+            "alias": "Illinois|Illinios|Ilinois|Ilinios|Urbana|Champaign|Champagne|Champaign-Urbana|Champagne-Urbana|Urbana-Champaign|Urbana-Champagne|University of Illinois at Urbana|University of Illinois at Champaign|University of Illinois at Champagne|University of Illinois at Champaign-Urbana|University of Illinois at Champagne-Urbana|UIUC|UICU|University of Illinois at UC|University of Illinois at CU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1772257725,
+                "end": 1821951797
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 145637
+    },
+    {
+        "school": {
+            "name": "Illinois Wesleyan University",
+            "city": "Bloomington",
+            "state": "IL",
+            "zip": "61702-2900",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.iwu.edu/",
+            "price_calculator_url": "https://www.iwu.edu/financial-aid/calculators.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 21827,
+            "instructional_expenditure_per_fte": 20211,
+            "faculty_salary": 8449,
+            "ft_faculty_rate": 0.6193,
+            "alias": "IWU|Wesleyan",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 213947527,
+                "end": 213223331
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 145646
+    },
+    {
+        "school": {
+            "name": "Illinois Central College",
+            "city": "East Peoria",
+            "state": "IL",
+            "zip": "61635-0001",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "icc.edu/",
+            "price_calculator_url": "https://icc.edu/media/NetPriceCalculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4049,
+            "instructional_expenditure_per_fte": 7003,
+            "faculty_salary": 7798,
+            "ft_faculty_rate": 0.4086,
+            "alias": "ICC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 21332173,
+                "end": 22031290
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 145682
+    },
+    {
+        "school": {
+            "name": "Illinois College",
+            "city": "Jacksonville",
+            "state": "IL",
+            "zip": "62650-2299",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ic.edu/",
+            "price_calculator_url": "www.ic.edu/npc",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 66,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11342,
+            "instructional_expenditure_per_fte": 7862,
+            "faculty_salary": 7127,
+            "ft_faculty_rate": 0.7723,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 129905437,
+                "end": 126104821
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 145691
+    },
+    {
+        "school": {
+            "name": "Olney Central College",
+            "city": "Olney",
+            "state": "IL",
+            "zip": "62450",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.iecc.edu/occ",
+            "price_calculator_url": "www.iecc.edu/netpricecalculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1427,
+            "instructional_expenditure_per_fte": 3072,
+            "faculty_salary": 6486,
+            "ft_faculty_rate": 0.5616,
+            "alias": "Olney Central College",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "4/7/1990",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 145707
+    },
+    {
+        "school": {
+            "name": "Illinois Institute of Technology",
+            "city": "Chicago",
+            "state": "IL",
+            "zip": "60616",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.iit.edu/",
+            "price_calculator_url": "https://www.iit.edu/admissions-aid/tuition-and-aid/undergraduate-costs-and-aid/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 19215,
+            "instructional_expenditure_per_fte": 12908,
+            "faculty_salary": 12752,
+            "ft_faculty_rate": 0.6126,
+            "alias": "Illinois Tech",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 240549000,
+                "end": 254043000
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 145725
+    },
+    {
+        "school": {
+            "name": "Illinois State University",
+            "city": "Normal",
+            "state": "IL",
+            "zip": "61790-1000",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "illinoisstate.edu/",
+            "price_calculator_url": "financialaid.illinoisstate.edu/prospective/estimator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 22,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10732,
+            "instructional_expenditure_per_fte": 7980,
+            "faculty_salary": 8582,
+            "ft_faculty_rate": 0.7796,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 144350035,
+                "end": 151372576
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 145813
+    },
+    {
+        "school": {
+            "name": "Illinois Valley Community College",
+            "city": "Oglesby",
+            "state": "IL",
+            "zip": "61348-9692",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.ivcc.edu/",
+            "price_calculator_url": "https://www.ivcc.edu/financialaid/net-price-calculator.php",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 9,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2772,
+            "instructional_expenditure_per_fte": 6049,
+            "faculty_salary": 8187,
+            "ft_faculty_rate": 0.478,
+            "alias": "IVCC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 145831
+    },
+    {
+        "school": {
+            "name": "Institute for Clinical Social Work",
+            "city": "Chicago",
+            "state": "IL",
+            "zip": "60640-1229",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.icsw.edu/",
+            "price_calculator_url": "icsw.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 26564,
+            "instructional_expenditure_per_fte": 6065,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "8/30/1988",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 125002,
+                "end": 125000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 145886
+    },
+    {
+        "school": {
+            "name": "John A Logan College",
+            "city": "Carterville",
+            "state": "IL",
+            "zip": "62918-2500",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.jalc.edu/",
+            "price_calculator_url": "https://www.jalc.edu/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 23,
+            "degree_urbanization": null,
+            "carnegie_basic": 9,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1786,
+            "instructional_expenditure_per_fte": 4567,
+            "faculty_salary": 7092,
+            "ft_faculty_rate": 0.4057,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 8409495,
+                "end": 8505678
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 146205
+    },
+    {
+        "school": {
+            "name": "John Wood Community College",
+            "city": "Quincy",
+            "state": "IL",
+            "zip": "62305-8736",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.jwcc.edu/",
+            "price_calculator_url": "www.jwcc.edu/financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 8,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3994,
+            "instructional_expenditure_per_fte": 8755,
+            "faculty_salary": 6495,
+            "ft_faculty_rate": 0.2901,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/7/1977",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 2192658,
+                "end": 2569804
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 146278
+    },
+    {
+        "school": {
+            "name": "Joliet Junior College",
+            "city": "Joliet",
+            "state": "IL",
+            "zip": "60431-8938",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.jjc.edu/",
+            "price_calculator_url": "www3.jjc.edu/NetPriceCalc/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 5,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3201,
+            "instructional_expenditure_per_fte": 10637,
+            "faculty_salary": 11422,
+            "ft_faculty_rate": 0.2715,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 13788026,
+                "end": 22341451
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 146296
+    },
+    {
+        "school": {
+            "name": "Judson University",
+            "city": "Elgin",
+            "state": "IL",
+            "zip": "60123-1498",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.judsonu.edu/",
+            "price_calculator_url": "www.judsonu.edu/NetPriceCalculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 17,
+            "region_id": 3,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 54,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10444,
+            "instructional_expenditure_per_fte": 7296,
+            "faculty_salary": 6081,
+            "ft_faculty_rate": 0.217,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "2/1/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 6866123,
+                "end": 5740962
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 146339
+    }
+]

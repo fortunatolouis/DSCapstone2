@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Creighton University",
+            "city": "Omaha",
+            "state": "NE",
+            "zip": "68178",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.creighton.edu/",
+            "price_calculator_url": "www.creighton.edu/financialaid/financialaidresources/netpricecalculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 31,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 28538,
+            "instructional_expenditure_per_fte": 15985,
+            "faculty_salary": 9780,
+            "ft_faculty_rate": 0.6635,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 587024000,
+                "end": 565975000
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 181002
+    },
+    {
+        "school": {
+            "name": "Doane University",
+            "city": "Crete",
+            "state": "NE",
+            "zip": "68333",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.doane.edu/",
+            "price_calculator_url": "www.doane.edu/scorecards-calculators",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 31,
+            "region_id": 4,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13542,
+            "instructional_expenditure_per_fte": 9555,
+            "faculty_salary": 6178,
+            "ft_faculty_rate": 0.3652,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 114593213,
+                "end": 110646035
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 181020
+    },
+    {
+        "school": {
+            "name": "Hastings College",
+            "city": "Hastings",
+            "state": "NE",
+            "zip": "68901",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.hastings.edu/",
+            "price_calculator_url": "https://www.hastings.edu/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 31,
+            "region_id": 4,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 66,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9536,
+            "instructional_expenditure_per_fte": 8667,
+            "faculty_salary": 6118,
+            "ft_faculty_rate": 1,
+            "alias": "Hastings College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 101297743,
+                "end": 98322617
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 181127
+    },
+    {
+        "school": {
+            "name": "CHI Health School of Radiologic Technology",
+            "city": "Omaha",
+            "state": "NE",
+            "zip": "68122",
+            "accreditor": "Joint Review Committee on Education in Radiologic Technology",
+            "school_url": "www.chihealth.com/school-of-radiologic-technology",
+            "price_calculator_url": "www.alegent.com/netprice/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 31,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3156,
+            "instructional_expenditure_per_fte": 11667,
+            "faculty_salary": 6250,
+            "ft_faculty_rate": null,
+            "alias": "Alegent Creighton Health School of Radiologic Technology  Bergan Mercy School of Radiologic Technology  Immanuel Medical Center School of Radiologic Technology  Emmanuel Medical Center School of Radiologic Technology",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "JRCERT",
+            "title_iv": {
+                "approval_date": "7/9/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 181145
+    },
+    {
+        "school": {
+            "name": "Joseph's College Cosmetology",
+            "city": "Lincoln",
+            "state": "NE",
+            "zip": "68505",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "josephscollege.edu/",
+            "price_calculator_url": "josephscollege.edu/ConsumerInformation/NetPriceCalculator.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 31,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7755,
+            "instructional_expenditure_per_fte": 4253,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Joseph's College",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "4/4/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 181190
+    },
+    {
+        "school": {
+            "name": "University of Nebraska at Kearney",
+            "city": "Kearney",
+            "state": "NE",
+            "zip": "68849-1212",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.unk.edu/",
+            "price_calculator_url": "www.unk.edu/NetPriceCalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 31,
+            "region_id": 4,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6472,
+            "instructional_expenditure_per_fte": 9996,
+            "faculty_salary": 7790,
+            "ft_faculty_rate": 0.6961,
+            "alias": "UNK|University of Nebraska - Kearney|Nebraska - Kearney|Nebraska Kearney|",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 59624281,
+                "end": 56644060
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 181215
+    },
+    {
+        "school": {
+            "name": "Nebraska Methodist College of Nursing & Allied Health",
+            "city": "Omaha",
+            "state": "NE",
+            "zip": "68114-2852",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.methodistcollege.edu/",
+            "price_calculator_url": "www.methodistcollege.edu/admissions/tuition-and-fees/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 31,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 71,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14975,
+            "instructional_expenditure_per_fte": 10076,
+            "faculty_salary": 5800,
+            "ft_faculty_rate": 0.9333,
+            "alias": "Nebraska Methodist College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 11106296,
+                "end": 12027397
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 181297
+    },
+    {
+        "school": {
+            "name": "Metropolitan Community College Area",
+            "city": "Omaha",
+            "state": "NE",
+            "zip": "68111-1610",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.mccneb.edu/",
+            "price_calculator_url": "https://apps.mccneb.edu/NetPrice/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 31,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 3,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2055,
+            "instructional_expenditure_per_fte": 6902,
+            "faculty_salary": 7629,
+            "ft_faculty_rate": 0.203,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "11/1/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 4548240,
+                "end": 4845470
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 181303
+    },
+    {
+        "school": {
+            "name": "Mid-Plains Community College",
+            "city": "North Platte",
+            "state": "NE",
+            "zip": "69101",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.mpcc.edu/",
+            "price_calculator_url": "www.mpcc.edu/cost-and-aid/net_price_calculator/npcalc.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 31,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2105,
+            "instructional_expenditure_per_fte": 8460,
+            "faculty_salary": 5372,
+            "ft_faculty_rate": 0.1698,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "5/9/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 181312
+    },
+    {
+        "school": {
+            "name": "Midland University",
+            "city": "Fremont",
+            "state": "NE",
+            "zip": "68025",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.midlandu.edu/",
+            "price_calculator_url": "https://www.midlandu.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 31,
+            "region_id": 4,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 39,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11756,
+            "instructional_expenditure_per_fte": 5827,
+            "faculty_salary": 6398,
+            "ft_faculty_rate": 1,
+            "alias": "MidlandU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 18512620,
+                "end": 19751312
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 181330
+    },
+    {
+        "school": {
+            "name": "University of Nebraska at Omaha",
+            "city": "Omaha",
+            "state": "NE",
+            "zip": "68182-0225",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.unomaha.edu/",
+            "price_calculator_url": "https://webapp.unomaha.edu/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 31,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7837,
+            "instructional_expenditure_per_fte": 9721,
+            "faculty_salary": 8369,
+            "ft_faculty_rate": 0.5073,
+            "alias": "UNOMAHA",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 82598663,
+                "end": 86330827
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 181394
+    },
+    {
+        "school": {
+            "name": "Nebraska Indian Community College",
+            "city": "Macy",
+            "state": "NE",
+            "zip": "68039-0428",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.thenicc.edu/",
+            "price_calculator_url": "www.thenicc.edu/NetPriceCalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 31,
+            "region_id": 4,
+            "locale": 42,
+            "degree_urbanization": null,
+            "carnegie_basic": 33,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 1,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1559,
+            "instructional_expenditure_per_fte": 8361,
+            "faculty_salary": 3649,
+            "ft_faculty_rate": 0.2407,
+            "alias": "NICC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "8/12/1981",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1250666,
+                "end": 1410032
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 181419
+    },
+    {
+        "school": {
+            "name": "University of Nebraska Medical Center",
+            "city": "Omaha",
+            "state": "NE",
+            "zip": "68198-7815",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.unmc.edu/",
+            "price_calculator_url": "www.unmc.edu/financialaid/quicklinks/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 31,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 25,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 15476,
+            "instructional_expenditure_per_fte": 47230,
+            "faculty_salary": 9196,
+            "ft_faculty_rate": 0.8464,
+            "alias": "UNMC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "6/1/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 285211256,
+                "end": 286997074
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 181428
+    },
+    {
+        "school": {
+            "name": "Nebraska Wesleyan University",
+            "city": "Lincoln",
+            "state": "NE",
+            "zip": "68504-2794",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.nebrwesleyan.edu/",
+            "price_calculator_url": "https://www.nebrwesleyan.edu/net_price_calculator/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 31,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 71,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12122,
+            "instructional_expenditure_per_fte": 7393,
+            "faculty_salary": 6221,
+            "ft_faculty_rate": 0.5539,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 58444000,
+                "end": 58643000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 181446
+    },
+    {
+        "school": {
+            "name": "University of Nebraska-Lincoln",
+            "city": "Lincoln",
+            "state": "NE",
+            "zip": "68588-0419",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.unl.edu/",
+            "price_calculator_url": "wam.unl.edu/cost/calculator.jsp",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 1,
+            "state_fips": 31,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9441,
+            "instructional_expenditure_per_fte": 11055,
+            "faculty_salary": 10946,
+            "ft_faculty_rate": 0.853,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1309494313,
+                "end": 1008858169
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 181464
+    },
+    {
+        "school": {
+            "name": "Northeast Community College",
+            "city": "Norfolk",
+            "state": "NE",
+            "zip": "68702-0469",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.northeast.edu/",
+            "price_calculator_url": "www.northeast.edu/costs/calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 31,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2017,
+            "instructional_expenditure_per_fte": 7884,
+            "faculty_salary": 4923,
+            "ft_faculty_rate": 0.4627,
+            "alias": "Northeast",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/10/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 5987906,
+                "end": 7634895
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 181491
+    },
+    {
+        "school": {
+            "name": "Peru State College",
+            "city": "Peru",
+            "state": "NE",
+            "zip": "68421-0010",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.peru.edu/",
+            "price_calculator_url": "www.peru.edu/ccc/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 31,
+            "region_id": 4,
+            "locale": 42,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4005,
+            "instructional_expenditure_per_fte": 5174,
+            "faculty_salary": 7259,
+            "ft_faculty_rate": 1,
+            "alias": "Peru State",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 13645885,
+                "end": 17794950
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 181534
+    },
+    {
+        "school": {
+            "name": "Summit Christian College",
+            "city": "Gering",
+            "state": "NE",
+            "zip": "69341",
+            "accreditor": "Association for Bibical Higher Educaiton",
+            "school_url": "https://www.summitcc.edu/",
+            "price_calculator_url": "https://www.summitcc.edu/costs",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 31,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 7,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 74,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4766,
+            "instructional_expenditure_per_fte": 9684,
+            "faculty_salary": 3512,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "ABHE",
+            "title_iv": {
+                "approval_date": "11/10/2015",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 181543
+    },
+    {
+        "school": {
+            "name": "College of Saint Mary",
+            "city": "Omaha",
+            "state": "NE",
+            "zip": "68106",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.csm.edu/",
+            "price_calculator_url": "www.csm.edu/admissions/affordability/financial-aid-resources",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 31,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 1,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13563,
+            "instructional_expenditure_per_fte": 8097,
+            "faculty_salary": 6981,
+            "ft_faculty_rate": 0.5247,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 21505628,
+                "end": 21762009
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 181604
+    },
+    {
+        "school": {
+            "name": "Southeast Community College Area",
+            "city": "Lincoln",
+            "state": "NE",
+            "zip": "68510-2449",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.southeast.edu/",
+            "price_calculator_url": "https://www.southeast.edu/NPC/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 31,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2009,
+            "instructional_expenditure_per_fte": 10224,
+            "faculty_salary": 6311,
+            "ft_faculty_rate": 0.5374,
+            "alias": "Southeast Community College  SCC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/16/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 27783981,
+                "end": 29236185
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 181640
+    }
+]

@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Molloy College",
+            "city": "Rockville Centre",
+            "state": "NY",
+            "zip": "11571-5002",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.molloy.edu/",
+            "price_calculator_url": "www.molloy.edu/admissions/financial-aid/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 23506,
+            "instructional_expenditure_per_fte": 12502,
+            "faculty_salary": 10871,
+            "ft_faculty_rate": 0.2726,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 40758565,
+                "end": 43648437
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 193292
+    },
+    {
+        "school": {
+            "name": "Monroe College",
+            "city": "Bronx",
+            "state": "NY",
+            "zip": "10468",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.monroecollege.edu/",
+            "price_calculator_url": "https://monroecollege.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11600,
+            "instructional_expenditure_per_fte": 4252,
+            "faculty_salary": 5968,
+            "ft_faculty_rate": 0.5241,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "6/19/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 193308
+    },
+    {
+        "school": {
+            "name": "Monroe Community College",
+            "city": "Rochester",
+            "state": "NY",
+            "zip": "14623",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.monroecc.edu/",
+            "price_calculator_url": "www.suny.edu/howmuch/netpricecalculator.xhtml?embed=n&headerUrl=www.monroecc.edu/images/header_images/mcc_home_header_01.gif&bgColor=FCF",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2672,
+            "instructional_expenditure_per_fte": 6864,
+            "faculty_salary": 6717,
+            "ft_faculty_rate": 0.4402,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "7/15/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 12897600,
+                "end": 15128322
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 193326
+    },
+    {
+        "school": {
+            "name": "Mount Saint Mary College",
+            "city": "Newburgh",
+            "state": "NY",
+            "zip": "12550",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.msmc.edu/",
+            "price_calculator_url": "https://www.msmc.edu/admissions-aid/financial-aid-scholarships/tuition/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18238,
+            "instructional_expenditure_per_fte": 9034,
+            "faculty_salary": 8887,
+            "ft_faculty_rate": 0.3611,
+            "alias": "The Mount/Mount Saint Mary College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 5997757,
+                "end": 6562111
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 193353
+    },
+    {
+        "school": {
+            "name": "Montefiore School of Nursing",
+            "city": "Mount Vernon",
+            "state": "NY",
+            "zip": "10550-2009",
+            "accreditor": "Accreditation Commission for Education in Nursing",
+            "school_url": "www.montefiorehs.org/body.cfm?id=34",
+            "price_calculator_url": "https://www.montefiorehealthsystem.org/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 31022,
+            "instructional_expenditure_per_fte": 20500,
+            "faculty_salary": 9110,
+            "ft_faculty_rate": null,
+            "alias": "Montefiore New Rochelle Hospital d/b/a Montefiore School of Nursing",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NLNAC",
+            "title_iv": {
+                "approval_date": "11/22/2017",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 193380
+    },
+    {
+        "school": {
+            "name": "College of Mount Saint Vincent",
+            "city": "Bronx",
+            "state": "NY",
+            "zip": "10471-1093",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.mountsaintvincent.edu/",
+            "price_calculator_url": "https://www.mountsaintvincent.edu/admission/financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18020,
+            "instructional_expenditure_per_fte": 8362,
+            "faculty_salary": 8918,
+            "ft_faculty_rate": 0.2517,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 26684969,
+                "end": 36225313
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 193399
+    },
+    {
+        "school": {
+            "name": "Icahn School of Medicine at Mount Sinai",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10029-6574",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "icahn.mssm.edu/",
+            "price_calculator_url": "icahn.mssm.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 25,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 35640,
+            "instructional_expenditure_per_fte": 33092,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "9/10/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 714803000,
+                "end": 812806000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 193405
+    },
+    {
+        "school": {
+            "name": "Nassau Community College",
+            "city": "Garden City",
+            "state": "NY",
+            "zip": "11530-6793",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.ncc.edu/",
+            "price_calculator_url": "https://www.ncc.edu/payingforcollege/net_price_tuition_calculator.shtml",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 5,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4427,
+            "instructional_expenditure_per_fte": 7990,
+            "faculty_salary": 10735,
+            "ft_faculty_rate": 0.4483,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 193478
+    },
+    {
+        "school": {
+            "name": "Nazareth College",
+            "city": "Rochester",
+            "state": "NY",
+            "zip": "14618-3790",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www2.naz.edu/",
+            "price_calculator_url": "https://www2.naz.edu/tuition-aid/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 21767,
+            "instructional_expenditure_per_fte": 12403,
+            "faculty_salary": 8085,
+            "ft_faculty_rate": 0.4183,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 71326126,
+                "end": 68365634
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 193584
+    },
+    {
+        "school": {
+            "name": "Neighborhood Playhouse School of the Theater",
+            "city": "New York City",
+            "state": "NY",
+            "zip": "10022-5017",
+            "accreditor": "National Association of Schools of Theatre",
+            "school_url": "www.neighborhoodplayhouse.org/",
+            "price_calculator_url": "neighborhoodplayhouse.org/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18719,
+            "instructional_expenditure_per_fte": 17970,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Neighborhood Playhouse School",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NAST",
+            "title_iv": {
+                "approval_date": "2/21/1997",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 193609
+    },
+    {
+        "school": {
+            "name": "The New School",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10011",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.newschool.edu/",
+            "price_calculator_url": "https://app.enrollmentfacts.com/netpricecalculator/NPC/Index/31",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 33788,
+            "instructional_expenditure_per_fte": 15786,
+            "faculty_salary": 11989,
+            "ft_faculty_rate": 0.1955,
+            "alias": "New School University; Parsons The New School for Design; New School for Social Research; Eugene Lang College; Mannes College; The New School for Drama; The New School for Jazz and Contemporary Music; The New School for Public Engagement",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 399257000,
+                "end": 393478000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 193654
+    },
+    {
+        "school": {
+            "name": "The New School Center for Media",
+            "city": "Albany",
+            "state": "NY",
+            "zip": "12205",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "newschoolalbany.edu/",
+            "price_calculator_url": "nsrt.org/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9345,
+            "instructional_expenditure_per_fte": 3702,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "11/23/1981",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 193672
+    },
+    {
+        "school": {
+            "name": "Northeast College of Health Sciences",
+            "city": "Seneca Falls",
+            "state": "NY",
+            "zip": "13148-0800",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.nycc.edu/",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 29830,
+            "instructional_expenditure_per_fte": 13123,
+            "faculty_salary": 6016,
+            "ft_faculty_rate": 0.5125,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "9/1/1974",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 57331841,
+                "end": 62063569
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 193751
+    },
+    {
+        "school": {
+            "name": "New York Law School",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10013-2921",
+            "accreditor": "American Bar Association",
+            "school_url": "www.nyls.edu/",
+            "price_calculator_url": "www.nyls.edu/admissions/tuition-and-aid/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 31,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 29654,
+            "instructional_expenditure_per_fte": 28470,
+            "faculty_salary": 14791,
+            "ft_faculty_rate": 0.3358,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "ABA",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 33511106,
+                "end": 33667155
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 193821
+    },
+    {
+        "school": {
+            "name": "New York Medical College",
+            "city": "Valhalla",
+            "state": "NY",
+            "zip": "10595",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.nymc.edu/",
+            "price_calculator_url": "https://www.nymc.edu/current-students/office-of-student-financial-planning/budgets--tuition/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 25,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 80,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 43263,
+            "instructional_expenditure_per_fte": 24547,
+            "faculty_salary": 7927,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 70675872,
+                "end": 68789798
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 193830
+    },
+    {
+        "school": {
+            "name": "New York School for Medical and Dental Assistants",
+            "city": "Long Island City",
+            "state": "NY",
+            "zip": "11101",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "nysmda.com/",
+            "price_calculator_url": "nysmda.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11909,
+            "instructional_expenditure_per_fte": 3507,
+            "faculty_salary": 6458,
+            "ft_faculty_rate": 0.0645,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "2/7/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 193858
+    },
+    {
+        "school": {
+            "name": "New York Theological Seminary",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10115-0083",
+            "accreditor": "Commission on Accrediting of the Association of Theological Schools",
+            "school_url": "nyts.edu/",
+            "price_calculator_url": "nyts.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 42,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 22218,
+            "instructional_expenditure_per_fte": 20600,
+            "faculty_salary": 6244,
+            "ft_faculty_rate": 1,
+            "alias": "NYTS",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "ATSUSC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 1001487,
+                "end": 1001129
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 193894
+    },
+    {
+        "school": {
+            "name": "New York University",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10012-1091",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.nyu.edu/",
+            "price_calculator_url": "www.nyu.edu/admissions/financial-aid-and-scholarships/applying-and-planning-for-undergraduate-aid/net-price-calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 17,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 40242,
+            "instructional_expenditure_per_fte": 34174,
+            "faculty_salary": 15475,
+            "ft_faculty_rate": 0.9944,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "1/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 4219660090,
+                "end": 4578665100
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 193900
+    },
+    {
+        "school": {
+            "name": "Niagara County Community College",
+            "city": "Sanborn",
+            "state": "NY",
+            "zip": "14132",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.niagaracc.suny.edu/",
+            "price_calculator_url": "www.suny.edu/howmuch/netpricecalculator.xhtml?id=59",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 4,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3216,
+            "instructional_expenditure_per_fte": 8405,
+            "faculty_salary": 8597,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "6/30/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 6945457,
+                "end": 7581599
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 193946
+    },
+    {
+        "school": {
+            "name": "Niagara University",
+            "city": "Niagara University",
+            "state": "NY",
+            "zip": "14109",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.niagara.edu/",
+            "price_calculator_url": "www.niagara.edu/scholarship-and-net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 36,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14425,
+            "instructional_expenditure_per_fte": 8025,
+            "faculty_salary": 9228,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 97242018,
+                "end": 93252692
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 193973
+    }
+]

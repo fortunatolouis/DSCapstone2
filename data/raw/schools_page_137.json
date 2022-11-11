@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Bryn Athyn College of the New Church",
+            "city": "Bryn Athyn",
+            "state": "PA",
+            "zip": "19009-0717",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.brynathyn.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/app/brynathyn",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 99,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13787,
+            "instructional_expenditure_per_fte": 12004,
+            "faculty_salary": 7113,
+            "ft_faculty_rate": 0.614,
+            "alias": "Bryn Athyn College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "11/5/2003",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 58273937,
+                "end": 57349147
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 210492
+    },
+    {
+        "school": {
+            "name": "Academy of Vocal Arts",
+            "city": "Philadelphia",
+            "state": "PA",
+            "zip": "19103-6685",
+            "accreditor": "National Association of Schools of Music",
+            "school_url": "www.avaopera.org/",
+            "price_calculator_url": "www.avaopera.org/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 0,
+            "instructional_expenditure_per_fte": 92974,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NASM",
+            "title_iv": {
+                "approval_date": "6/8/1999",
+                "eligibility_type": 3
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 210508
+    },
+    {
+        "school": {
+            "name": "Albright College",
+            "city": "Reading",
+            "state": "PA",
+            "zip": "19612-5234",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.albright.edu/home/",
+            "price_calculator_url": "https://albright.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 71,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10529,
+            "instructional_expenditure_per_fte": 9780,
+            "faculty_salary": 6614,
+            "ft_faculty_rate": 0.6982,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 69353651,
+                "end": 66410648
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 210571
+    },
+    {
+        "school": {
+            "name": "All-State Career School",
+            "city": "Essington",
+            "state": "PA",
+            "zip": "19029",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.allstatecareer.edu/",
+            "price_calculator_url": "https://www.allstatecareer.edu/content/dam/all-state/compliance/netpricecalc/npcalc_all_state_career_lester.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7489,
+            "instructional_expenditure_per_fte": 3033,
+            "faculty_salary": 4404,
+            "ft_faculty_rate": 0.4655,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "2/6/1987",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 210599
+    },
+    {
+        "school": {
+            "name": "Community College of Allegheny County",
+            "city": "Pittsburgh",
+            "state": "PA",
+            "zip": "15233-1895",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.ccac.edu/",
+            "price_calculator_url": "https://webapps.ccac.edu/NetPriceCalc/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 5,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3008,
+            "instructional_expenditure_per_fte": 5822,
+            "faculty_salary": 6316,
+            "ft_faculty_rate": 0.2254,
+            "alias": "CCAC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "10/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 11314859,
+                "end": 7388189
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 210605
+    },
+    {
+        "school": {
+            "name": "Allegheny College",
+            "city": "Meadville",
+            "state": "PA",
+            "zip": "16335-3902",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://allegheny.edu/",
+            "price_calculator_url": "https://allegheny.edu/npc",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 71,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16876,
+            "instructional_expenditure_per_fte": 13803,
+            "faculty_salary": 7954,
+            "ft_faculty_rate": 0.8093,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 230452902,
+                "end": 233661481
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 210669
+    },
+    {
+        "school": {
+            "name": "The  Beauty Institute",
+            "city": "Whitehall",
+            "state": "PA",
+            "zip": "18052",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "https://www.thebeautyinstituteskp.edu/",
+            "price_calculator_url": "https://www.thebeautyinstituteskp.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10941,
+            "instructional_expenditure_per_fte": 4148,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "The Beauty Institute",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "7/22/1980",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 210711
+    },
+    {
+        "school": {
+            "name": "DeSales University",
+            "city": "Center Valley",
+            "state": "PA",
+            "zip": "18034-9568",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.desales.edu/",
+            "price_calculator_url": "cvweb02.desales.edu/costestimator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 8,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16489,
+            "instructional_expenditure_per_fte": 9638,
+            "faculty_salary": 8139,
+            "ft_faculty_rate": 0.3624,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "1/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 77786159,
+                "end": 80528940
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 210739
+    },
+    {
+        "school": {
+            "name": "Altoona Beauty School Inc",
+            "city": "Altoona",
+            "state": "PA",
+            "zip": "16602-6039",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.altoonabeautyschool.com/",
+            "price_calculator_url": "www.altoonabeautyschool.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11690,
+            "instructional_expenditure_per_fte": 13240,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "12/10/1984",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 210748
+    },
+    {
+        "school": {
+            "name": "Alvernia University",
+            "city": "Reading",
+            "state": "PA",
+            "zip": "19607-1799",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.alvernia.edu/",
+            "price_calculator_url": "https://www.alvernia.edu/admissions-aid/financial-aid/financial-aid-net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 6,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18522,
+            "instructional_expenditure_per_fte": 7968,
+            "faculty_salary": 7316,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "1/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 14163710,
+                "end": 14476535
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 210775
+    },
+    {
+        "school": {
+            "name": "The Beauty Institute-Ambler",
+            "city": "Ambler",
+            "state": "PA",
+            "zip": "19002",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "ambler.thebeautyinstituteskp.edu/",
+            "price_calculator_url": "www.collegeraptor.com/Shopping/School/210784--Toni-Guy-Hairdressing-Academy-Ambler-PA",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11167,
+            "instructional_expenditure_per_fte": 4821,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "The Beauty Institute",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "9/1/1982",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 210784
+    },
+    {
+        "school": {
+            "name": "American College of Financial Services",
+            "city": "King of Prussia",
+            "state": "PA",
+            "zip": "19406",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.theamericancollege.edu/",
+            "price_calculator_url": "https://www.theamericancollege.edu/plan-your-studies/paying-for-your-education",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 1,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 29,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11132,
+            "instructional_expenditure_per_fte": 2921,
+            "faculty_salary": 11280,
+            "ft_faculty_rate": 1,
+            "alias": "The American College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "11/9/1998",
+                "eligibility_type": 3
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 60893467,
+                "end": 54081458
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 210809
+    },
+    {
+        "school": {
+            "name": "Automotive Training Center-Exton",
+            "city": "Exton",
+            "state": "PA",
+            "zip": "19341-1310",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.autotraining.edu/",
+            "price_calculator_url": "www.autotraining.edu/consumerinformation/net-price-calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11217,
+            "instructional_expenditure_per_fte": 8172,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "6/5/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 211006
+    },
+    {
+        "school": {
+            "name": "Clarks Summit University",
+            "city": "Clarks Summit",
+            "state": "PA",
+            "zip": "18411-1250",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.clarkssummitu.edu/",
+            "price_calculator_url": "https://www.clarkssummitu.edu/admissions/future-undergraduate-students/undergraduate-financial-aid/calculate-costs/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 7,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 54,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10245,
+            "instructional_expenditure_per_fte": 4586,
+            "faculty_salary": 4470,
+            "ft_faculty_rate": 1,
+            "alias": "BBC  BBC&S  Summit U  Summit University  BBC & S  BBS  Baptist Bible College of PA  Baptist Bible College  Baptist Bible Seminary  Baptist Bible College & Seminary  Baptist Bible College of Pennsylvania  Summit University of Pennsylvania  SU of Pennsylvania  Summit U  Summit U of Pennsylvania",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "2/8/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 2543747,
+                "end": 2424273
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 211024
+    },
+    {
+        "school": {
+            "name": "Community College of Beaver County",
+            "city": "Monaca",
+            "state": "PA",
+            "zip": "15061-2588",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.ccbc.edu/",
+            "price_calculator_url": "https://pub.ccbc.edu/netprice/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 8,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8234,
+            "instructional_expenditure_per_fte": 5256,
+            "faculty_salary": 5932,
+            "ft_faculty_rate": 0.4419,
+            "alias": "CCBC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "5/10/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1749158,
+                "end": 1775280
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 211079
+    },
+    {
+        "school": {
+            "name": "Arcadia University",
+            "city": "Glenside",
+            "state": "PA",
+            "zip": "19038-3295",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.arcadia.edu/",
+            "price_calculator_url": "https://www.arcadia.edu/admissions/financial-aid-scholarships/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 66,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18018,
+            "instructional_expenditure_per_fte": 8882,
+            "faculty_salary": 8019,
+            "ft_faculty_rate": 0.3083,
+            "alias": "Beaver College",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/20/1984",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 70402000,
+                "end": 79338000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 211088
+    },
+    {
+        "school": {
+            "name": "Missio Theological Seminary",
+            "city": "Philadelphia",
+            "state": "PA",
+            "zip": "19123",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.missio.edu/",
+            "price_calculator_url": "https://missio.edu/tuition-and-fees/",
+            "degrees_awarded": {
+                "predominant_recoded": null,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 42,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10514,
+            "instructional_expenditure_per_fte": 4780,
+            "faculty_salary": 5950,
+            "ft_faculty_rate": 0.2424,
+            "alias": "Missio Seminary",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/20/1985",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 2121678,
+                "end": 1948062
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 211130
+    },
+    {
+        "school": {
+            "name": "Bloomsburg University of Pennsylvania",
+            "city": "Bloomsburg",
+            "state": "PA",
+            "zip": "17815",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.bloomu.edu/",
+            "price_calculator_url": "www.passhe.edu/answers/Calculator/BL/npcalc-211158.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9056,
+            "instructional_expenditure_per_fte": 9276,
+            "faculty_salary": 9977,
+            "ft_faculty_rate": 0.806,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 51836420,
+                "end": 51400850
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 211158
+    },
+    {
+        "school": {
+            "name": "Bryn Mawr College",
+            "city": "Bryn Mawr",
+            "state": "PA",
+            "zip": "19010",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.brynmawr.edu/",
+            "price_calculator_url": "npc.collegeboard.org/student/app/brynmawr",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 1,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 25614,
+            "instructional_expenditure_per_fte": 25579,
+            "faculty_salary": 11720,
+            "ft_faculty_rate": 0.7143,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 888153000,
+                "end": 866030000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 211273
+    },
+    {
+        "school": {
+            "name": "Bucknell University",
+            "city": "Lewisburg",
+            "state": "PA",
+            "zip": "17837",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.bucknell.edu/",
+            "price_calculator_url": "npc.collegeboard.org/student/app/bucknell",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 37840,
+            "instructional_expenditure_per_fte": 22845,
+            "faculty_salary": 11606,
+            "ft_faculty_rate": 0.96,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 866835000,
+                "end": 844765000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 211291
+    }
+]

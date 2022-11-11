@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Temple College",
+            "city": "Temple",
+            "state": "TX",
+            "zip": "76504-7435",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.templejc.edu/",
+            "price_calculator_url": "www.collegeforalltexans.com/apps/CollegeMoney/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 4,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3063,
+            "instructional_expenditure_per_fte": 5333,
+            "faculty_salary": 5826,
+            "ft_faculty_rate": 1,
+            "alias": "Temple Junior College",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "3/8/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 6222749,
+                "end": 7230988
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 228608
+    },
+    {
+        "school": {
+            "name": "University of Texas Southwestern Medical Center",
+            "city": "Dallas",
+            "state": "TX",
+            "zip": "75390-9096",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.utsouthwestern.edu/",
+            "price_calculator_url": "www.utsouthwestern.edu/about-us/administrative-offices/financial-aid/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 25,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13242,
+            "instructional_expenditure_per_fte": 563848,
+            "faculty_salary": 9306,
+            "ft_faculty_rate": 0.9231,
+            "alias": "UT Southwestern  UT Southwestern Medical School  UT Southwestern Graduate School of Biomedical Sciences  UT Southwestern Allied Health Sciences School  UTSW Medical School  UTSW Graduate School  UTSW Allied Health School  UTSWMC  UTSWMC Medical School  UTSWMC Graduate School  UTSWMC Allied Health School  University of Texas Southwestern Medical School  University of Texas Southwestern Graduate School of Biomedical Sciences  University of Texas Southwestern Allied Health Sciences School  University of Texas Southwestern School of Health Professions",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1215978742,
+                "end": 1639356608
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 228635
+    },
+    {
+        "school": {
+            "name": "The University of Texas Health Science Center at San Antonio",
+            "city": "San Antonio",
+            "state": "TX",
+            "zip": "78229-3900",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.uthscsa.edu/",
+            "price_calculator_url": "https://students.uthscsa.edu/financialaid/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 25,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 9,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13671,
+            "instructional_expenditure_per_fte": 129667,
+            "faculty_salary": 9453,
+            "ft_faculty_rate": 0.728,
+            "alias": "UT Health San Antonio",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "1/1/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 617388134,
+                "end": 662571771
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 228644
+    },
+    {
+        "school": {
+            "name": "The University of Texas Medical Branch at Galveston",
+            "city": "Galveston",
+            "state": "TX",
+            "zip": "77555-0129",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.utmb.edu/",
+            "price_calculator_url": "https://www.utmb.edu/enrollmentservices/resources/studentaccounts/tuition-and-fee-sheets",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": 25,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12122,
+            "instructional_expenditure_per_fte": 112932,
+            "faculty_salary": 8936,
+            "ft_faculty_rate": 0.985,
+            "alias": "UTMB",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 612641413,
+                "end": 659180343
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 228653
+    },
+    {
+        "school": {
+            "name": "Texarkana College",
+            "city": "Texarkana",
+            "state": "TX",
+            "zip": "75599",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.texarkanacollege.edu/",
+            "price_calculator_url": "https://www.texarkanacollege.edu/financial-aid/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 9,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1755,
+            "instructional_expenditure_per_fte": 4943,
+            "faculty_salary": 5512,
+            "ft_faculty_rate": 0.6807,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "9/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 10168096,
+                "end": 11935105
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 228699
+    },
+    {
+        "school": {
+            "name": "Texas A & M University-Kingsville",
+            "city": "Kingsville",
+            "state": "TX",
+            "zip": "78363",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.tamuk.edu/",
+            "price_calculator_url": "www.collegeforalltexans.com/apps/CollegeMoney/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7086,
+            "instructional_expenditure_per_fte": 8777,
+            "faculty_salary": 9669,
+            "ft_faculty_rate": 0.8023,
+            "alias": "Texas A&M-Kingsville",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 113699615,
+                "end": 115670180
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 228705
+    },
+    {
+        "school": {
+            "name": "Texas A & M University-College Station",
+            "city": "College Station",
+            "state": "TX",
+            "zip": "77843-1248",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.tamu.edu/",
+            "price_calculator_url": "www.collegeforalltexans.com/apps/CollegeMoney/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11976,
+            "instructional_expenditure_per_fte": 17485,
+            "faculty_salary": 12231,
+            "ft_faculty_rate": 0.8721,
+            "alias": "Texas A&M | TAMU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 12632092945,
+                "end": 12720529611
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 228723
+    },
+    {
+        "school": {
+            "name": "The University of Texas at Arlington",
+            "city": "Arlington",
+            "state": "TX",
+            "zip": "76013",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.uta.edu/",
+            "price_calculator_url": "https://www.highered.texas.gov/institutional-resources-programs/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7881,
+            "instructional_expenditure_per_fte": 5484,
+            "faculty_salary": 10316,
+            "ft_faculty_rate": 0.6345,
+            "alias": "UT Arlington",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 162584604,
+                "end": 173354658
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 228769
+    },
+    {
+        "school": {
+            "name": "The University of Texas at Austin",
+            "city": "Austin",
+            "state": "TX",
+            "zip": "78705",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.utexas.edu/",
+            "price_calculator_url": "www.onestop.utexas.edu/managing-costs/cost-tuition-rates/cost-of-attendance/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11119,
+            "instructional_expenditure_per_fte": 19349,
+            "faculty_salary": 13745,
+            "ft_faculty_rate": 0.8418,
+            "alias": "UT Austin",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "3/11/1977",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 4288183739,
+                "end": 4694067678
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 228778
+    },
+    {
+        "school": {
+            "name": "The University of Texas at Dallas",
+            "city": "Richardson",
+            "state": "TX",
+            "zip": "75080-3021",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.utdallas.edu/",
+            "price_calculator_url": "www.collegeforalltexans.com/apps/CollegeMoney/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10709,
+            "instructional_expenditure_per_fte": 9771,
+            "faculty_salary": 12817,
+            "ft_faculty_rate": 0.7715,
+            "alias": "UT Dallas",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "6/1/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 558466319,
+                "end": 602745513
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 228787
+    },
+    {
+        "school": {
+            "name": "The University of Texas at El Paso",
+            "city": "El Paso",
+            "state": "TX",
+            "zip": "79968-0691",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.utep.edu/",
+            "price_calculator_url": "www.collegeforalltexans.com/apps/CollegeMoney/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7295,
+            "instructional_expenditure_per_fte": 6682,
+            "faculty_salary": 9235,
+            "ft_faculty_rate": 0.6956,
+            "alias": "UTEP",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 267894060,
+                "end": 278287474
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 228796
+    },
+    {
+        "school": {
+            "name": "The University of Texas at Tyler",
+            "city": "Tyler",
+            "state": "TX",
+            "zip": "75799-6699",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "https://www.uttyler.edu/",
+            "price_calculator_url": "https://www.uttyler.edu/admissions/cost-calculator.php",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6589,
+            "instructional_expenditure_per_fte": 9110,
+            "faculty_salary": 8469,
+            "ft_faculty_rate": 0.7359,
+            "alias": "UT Tyler",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "4/1/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 87871031,
+                "end": 98668086
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 228802
+    },
+    {
+        "school": {
+            "name": "Texas Chiropractic College Foundation Inc",
+            "city": "Pasadena",
+            "state": "TX",
+            "zip": "77505-1699",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.txchiro.edu/",
+            "price_calculator_url": "www.txchiro.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 27702,
+            "instructional_expenditure_per_fte": 12836,
+            "faculty_salary": 5541,
+            "ft_faculty_rate": 0.9375,
+            "alias": "TCC/TxChiroCollege/",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "11/7/1974",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 4889493,
+                "end": 5215190
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 228866
+    },
+    {
+        "school": {
+            "name": "Texas Christian University",
+            "city": "Fort Worth",
+            "state": "TX",
+            "zip": "76129",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.tcu.edu/",
+            "price_calculator_url": "https://financialaid.tcu.edu/cost/net-price-calculator.php",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 61,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 29632,
+            "instructional_expenditure_per_fte": 19630,
+            "faculty_salary": 12209,
+            "ft_faculty_rate": 0.9986,
+            "alias": "TCU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 1620665000,
+                "end": 1584160000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 228875
+    },
+    {
+        "school": {
+            "name": "Texas College",
+            "city": "Tyler",
+            "state": "TX",
+            "zip": "75702",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.texascollege.edu/",
+            "price_calculator_url": "https://www.nces.ed.gov/ipeds/netpricecalculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 1,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 55,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8984,
+            "instructional_expenditure_per_fte": 2869,
+            "faculty_salary": 4610,
+            "ft_faculty_rate": 0.8684,
+            "alias": "TC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "3/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 5434907,
+                "end": 6269159
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 228884
+    },
+    {
+        "school": {
+            "name": "University of North Texas Health Science Center",
+            "city": "Fort Worth",
+            "state": "TX",
+            "zip": "76107-2699",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.unthsc.edu/",
+            "price_calculator_url": "www.unthsc.edu/students/unthsc-tuition-and-fees/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 25,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13518,
+            "instructional_expenditure_per_fte": 40298,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "UNT Health Science Center|UNTHSC|University of North Texas Health Sciences Center at Fort Worth|UNT Health Sciences Center|Texas College of Osteopathic Medicine|TCOM",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "1/1/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 74745255,
+                "end": 83415062
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 228909
+    },
+    {
+        "school": {
+            "name": "Texas Lutheran University",
+            "city": "Seguin",
+            "state": "TX",
+            "zip": "78155-5999",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.tlu.edu/",
+            "price_calculator_url": "www.tlu.edu/costs?rc=0",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 22,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10729,
+            "instructional_expenditure_per_fte": 8586,
+            "faculty_salary": 7385,
+            "ft_faculty_rate": 0.5867,
+            "alias": "TLU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 92117274,
+                "end": 90678069
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 228981
+    },
+    {
+        "school": {
+            "name": "The University of Texas Permian Basin",
+            "city": "Odessa",
+            "state": "TX",
+            "zip": "79762-0001",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.utpb.edu/",
+            "price_calculator_url": "www.collegeforalltexans.com/apps/CollegeMoney/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9746,
+            "instructional_expenditure_per_fte": 10605,
+            "faculty_salary": 8346,
+            "ft_faculty_rate": 0.5321,
+            "alias": "UT Permian Basin",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "3/4/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 49258520,
+                "end": 52885445
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 229018
+    },
+    {
+        "school": {
+            "name": "The University of Texas at San Antonio",
+            "city": "San Antonio",
+            "state": "TX",
+            "zip": "78249-1644",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.utsa.edu/",
+            "price_calculator_url": "https://future.utsa.edu/cost/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8158,
+            "instructional_expenditure_per_fte": 5384,
+            "faculty_salary": 9721,
+            "ft_faculty_rate": 0.7636,
+            "alias": "UTSA",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "4/1/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 171801294,
+                "end": 181428767
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 229027
+    },
+    {
+        "school": {
+            "name": "Texas Southern University",
+            "city": "Houston",
+            "state": "TX",
+            "zip": "77004",
+            "accreditor": "Southern Association of Colleges and Schools Commission on Colleges",
+            "school_url": "www.tsu.edu/",
+            "price_calculator_url": "www.tsu.edu/admissions/financial-aid/college-costs.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 48,
+            "region_id": 6,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 1,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7662,
+            "instructional_expenditure_per_fte": 12049,
+            "faculty_salary": 7907,
+            "ft_faculty_rate": 0.6894,
+            "alias": "TSU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "SACSCC",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 58037740,
+                "end": 67878998
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 229063
+    }
+]

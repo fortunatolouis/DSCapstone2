@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Saint Francis University",
+            "city": "Loretto",
+            "state": "PA",
+            "zip": "15940",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.francis.edu/",
+            "price_calculator_url": "www.francis.edu/tuition-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 15219,
+            "instructional_expenditure_per_fte": 8556,
+            "faculty_salary": 7028,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 50785750,
+                "end": 50048590
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 215743
+    },
+    {
+        "school": {
+            "name": "Saint Joseph's University",
+            "city": "Philadelphia",
+            "state": "PA",
+            "zip": "19131-1395",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.sju.edu/",
+            "price_calculator_url": "https://sju.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 23947,
+            "instructional_expenditure_per_fte": 11658,
+            "faculty_salary": 10049,
+            "ft_faculty_rate": 1,
+            "alias": "Saint Joseph's University",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 294286969,
+                "end": 293803273
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 215770
+    },
+    {
+        "school": {
+            "name": "Saint Vincent College",
+            "city": "Latrobe",
+            "state": "PA",
+            "zip": "15650-2690",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.stvincent.edu/",
+            "price_calculator_url": "https://www.shoppingsheet.com/Shopping/Landing/stvincent",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14270,
+            "instructional_expenditure_per_fte": 10429,
+            "faculty_salary": 7723,
+            "ft_faculty_rate": 0.9909,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 107736340,
+                "end": 105247418
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 215798
+    },
+    {
+        "school": {
+            "name": "Saint Vincent Seminary",
+            "city": "Latrobe",
+            "state": "PA",
+            "zip": "15650-2690",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.saintvincentseminary.edu/",
+            "price_calculator_url": "www.saintvincentseminary.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 20267,
+            "instructional_expenditure_per_fte": 14811,
+            "faculty_salary": 5755,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 2
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 5670333,
+                "end": 5539337
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 215813
+    },
+    {
+        "school": {
+            "name": "Schuylkill Technology Center",
+            "city": "Frackville",
+            "state": "PA",
+            "zip": "17931",
+            "accreditor": "Pennsylvania State Board of Vocational Education",
+            "school_url": "www.stcenters.org/",
+            "price_calculator_url": "stc.schoolwires.net/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10576,
+            "instructional_expenditure_per_fte": 8172,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "PSBVE",
+            "title_iv": {
+                "approval_date": "1/30/1984",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 215886
+    },
+    {
+        "school": {
+            "name": "University of Scranton",
+            "city": "Scranton",
+            "state": "PA",
+            "zip": "18510-4699",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.scranton.edu/",
+            "price_calculator_url": "https://scranton.aidcalc.cloud/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 21682,
+            "instructional_expenditure_per_fte": 13123,
+            "faculty_salary": 10390,
+            "ft_faculty_rate": 0.7024,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 209760436,
+                "end": 218068162
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 215929
+    },
+    {
+        "school": {
+            "name": "Seton Hill University",
+            "city": "Greensburg",
+            "state": "PA",
+            "zip": "15601",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.setonhill.edu/",
+            "price_calculator_url": "https://www.setonhill.edu/tuition-financial-aid/financial-aid-process-policies/estimated-costs/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14233,
+            "instructional_expenditure_per_fte": 9271,
+            "faculty_salary": 7626,
+            "ft_faculty_rate": 0.9358,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 41847043,
+                "end": 42145794
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 215947
+    },
+    {
+        "school": {
+            "name": "UPMC Shadyside School of Nursing",
+            "city": "Pittsburgh",
+            "state": "PA",
+            "zip": "15232",
+            "accreditor": "Accreditation Commission for Education in Nursing",
+            "school_url": "https://www.upmc.com/shyson",
+            "price_calculator_url": "https://www.upmc.com/healthcare-professionals/education/schools-of-nursing/campuses/shadyside/price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12459,
+            "instructional_expenditure_per_fte": 20064,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NLNAC",
+            "title_iv": {
+                "approval_date": "7/14/1983",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 215974
+    },
+    {
+        "school": {
+            "name": "Sharon Regional School of Nursing",
+            "city": "Sharon",
+            "state": "PA",
+            "zip": "16146",
+            "accreditor": "Accreditation Commission for Education in Nursing",
+            "school_url": "www.sharonregionalmedical.org/",
+            "price_calculator_url": "www.sharonregionalmedical.org/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 19464,
+            "instructional_expenditure_per_fte": 28832,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NLNAC",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 215983
+    },
+    {
+        "school": {
+            "name": "Laurel Technical Institute",
+            "city": "Hermitage",
+            "state": "PA",
+            "zip": "16148",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.laurel.edu/",
+            "price_calculator_url": "www.laurel.edu/financial-aid/net-price-calculator-lti-hermitage",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 8,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11686,
+            "instructional_expenditure_per_fte": 5903,
+            "faculty_salary": 3299,
+            "ft_faculty_rate": 0.4839,
+            "alias": "LTI Hermitage",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "1/20/1978",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 215992
+    },
+    {
+        "school": {
+            "name": "Shippensburg University of Pennsylvania",
+            "city": "Shippensburg",
+            "state": "PA",
+            "zip": "17257-2299",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.ship.edu/",
+            "price_calculator_url": "www.passhe.edu/answers/Calculator/SH/npcalc-216010.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9130,
+            "instructional_expenditure_per_fte": 10407,
+            "faculty_salary": 10592,
+            "ft_faculty_rate": 0.7937,
+            "alias": "Ship|SU|Shipensburg|Shippenburg|Shipenburg",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 42027163,
+                "end": 41628372
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 216010
+    },
+    {
+        "school": {
+            "name": "Slippery Rock University of Pennsylvania",
+            "city": "Slippery Rock",
+            "state": "PA",
+            "zip": "16057-1383",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.sru.edu/",
+            "price_calculator_url": "https://www.sru.edu/admissions/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8726,
+            "instructional_expenditure_per_fte": 7685,
+            "faculty_salary": 9930,
+            "ft_faculty_rate": 0.8698,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 35988743,
+                "end": 36857713
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 216038
+    },
+    {
+        "school": {
+            "name": "Saint Charles Borromeo Seminary-Overbrook",
+            "city": "Wynnewood",
+            "state": "PA",
+            "zip": "19096",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.scs.edu/",
+            "price_calculator_url": "www.scs.edu/about-saint-charles/seminary-office-listing/finance-office/financial-aid",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 6,
+            "carnegie_size_setting": 7,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 1,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 15250,
+            "instructional_expenditure_per_fte": 8776,
+            "faculty_salary": 4349,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "11/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 16474551,
+                "end": 16081194
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 216047
+    },
+    {
+        "school": {
+            "name": "South Hills Beauty Academy",
+            "city": "Pittsburgh",
+            "state": "PA",
+            "zip": "15216",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.shnhbeauty.com/",
+            "price_calculator_url": "www.shnhbeauty.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17891,
+            "instructional_expenditure_per_fte": 5065,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "9/5/1975",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 216074
+    },
+    {
+        "school": {
+            "name": "South Hills School of Business & Technology",
+            "city": "State College",
+            "state": "PA",
+            "zip": "16801-4516",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.southhills.edu/",
+            "price_calculator_url": "www.southhills.edu/financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14155,
+            "instructional_expenditure_per_fte": 6422,
+            "faculty_salary": 4511,
+            "ft_faculty_rate": 0.4912,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "4/26/1976",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 216083
+    },
+    {
+        "school": {
+            "name": "St Lukes Hospital School of Nursing",
+            "city": "Bethlehem",
+            "state": "PA",
+            "zip": "18015",
+            "accreditor": "Accreditation Commission for Education in Nursing",
+            "school_url": "https://www.slhn.org/bethlehem",
+            "price_calculator_url": "www.sonstlukes.org",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6098,
+            "instructional_expenditure_per_fte": 11931,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NLNAC",
+            "title_iv": {
+                "approval_date": "11/13/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 216162
+    },
+    {
+        "school": {
+            "name": "The Beauty Institute",
+            "city": "Stroudsburg",
+            "state": "PA",
+            "zip": "18360-1720",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.thebeautyinstituteskp.edu/",
+            "price_calculator_url": "www.thebeautyinstituteskp.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 23,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13466,
+            "instructional_expenditure_per_fte": 5141,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "The Beauty Institute",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "10/8/1982",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 216223
+    },
+    {
+        "school": {
+            "name": "Susquehanna University",
+            "city": "Selinsgrove",
+            "state": "PA",
+            "zip": "17870-1025",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.susqu.edu/",
+            "price_calculator_url": "www.susqu.edu/admission-and-aid/tuition-and-financial-aid/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 39,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16324,
+            "instructional_expenditure_per_fte": 10906,
+            "faculty_salary": 8072,
+            "ft_faculty_rate": 0.6333,
+            "alias": "Susquahanna|Susquehana|Sesquehanna",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 175667010,
+                "end": 173413620
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 216278
+    },
+    {
+        "school": {
+            "name": "Swarthmore College",
+            "city": "Swarthmore",
+            "state": "PA",
+            "zip": "19081",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.swarthmore.edu/",
+            "price_calculator_url": "www.swarthmore.edu/financial-aid/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 30499,
+            "instructional_expenditure_per_fte": 37819,
+            "faculty_salary": 13299,
+            "ft_faculty_rate": 0.9127,
+            "alias": "Swat",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/20/1984",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 2131553000,
+                "end": 2103670000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 216287
+    },
+    {
+        "school": {
+            "name": "Thaddeus Stevens College of Technology",
+            "city": "Lancaster",
+            "state": "PA",
+            "zip": "17602-3198",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.stevenscollege.edu/",
+            "price_calculator_url": "https://31baa9204011a4b7373d-4b45c627b478904b4d98bc32b4be9291.ssl.cf2.rackcdn.com/uploaded/n/0e7999678_1540843394_npcalc1.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 42,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5958,
+            "instructional_expenditure_per_fte": 6588,
+            "faculty_salary": 8791,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "5/1/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1058770,
+                "end": 1094224
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 216296
+    }
+]

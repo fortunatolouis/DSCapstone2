@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Anoka-Ramsey Community College",
+            "city": "Coon Rapids",
+            "state": "MN",
+            "zip": "55433-3470",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.anokaramsey.edu/",
+            "price_calculator_url": "www.anokaramsey.edu/cost-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 1,
+            "state_fips": 27,
+            "region_id": 4,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 3,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3377,
+            "instructional_expenditure_per_fte": 5615,
+            "faculty_salary": 8434,
+            "ft_faculty_rate": 0.5278,
+            "alias": "Anoka-Ramsey Community College-Coon Rapids Campus|Anoka-Ramsey Community College-Cambridge Campus|ARCC|AR|Anoka Ramsey|Anoka-Ramsey|Anoka Ramsey Community College",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "8/11/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1558000,
+                "end": 1405000
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 172963
+    },
+    {
+        "school": {
+            "name": "Augsburg University",
+            "city": "Minneapolis",
+            "state": "MN",
+            "zip": "55454",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.augsburg.edu/",
+            "price_calculator_url": "https://augsburg.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 27,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 39,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 15346,
+            "instructional_expenditure_per_fte": 11258,
+            "faculty_salary": 8329,
+            "ft_faculty_rate": 0.467,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 50785630,
+                "end": 54133892
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 173045
+    },
+    {
+        "school": {
+            "name": "Riverland Community College",
+            "city": "Austin",
+            "state": "MN",
+            "zip": "55912-1473",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.riverland.edu/",
+            "price_calculator_url": "https://www.minnstate.edu/admissions/calculator/riverland.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 27,
+            "region_id": 4,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 3,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3644,
+            "instructional_expenditure_per_fte": 6724,
+            "faculty_salary": 8160,
+            "ft_faculty_rate": 0.5075,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1736000,
+                "end": 1779000
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 173063
+    },
+    {
+        "school": {
+            "name": "Northwest Technical College",
+            "city": "Bemidji",
+            "state": "MN",
+            "zip": "56601-4907",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.ntcmn.edu/",
+            "price_calculator_url": "https://www.minnstate.edu/admissions/calculator/northwest.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 27,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 9,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3112,
+            "instructional_expenditure_per_fte": 8328,
+            "faculty_salary": 7710,
+            "ft_faculty_rate": 0.5676,
+            "alias": "NTC, Bemidji Technical College/Bemidji Tech/NTC/NTC-Bemidji/NWTC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "6/26/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 173115
+    },
+    {
+        "school": {
+            "name": "Bemidji State University",
+            "city": "Bemidji",
+            "state": "MN",
+            "zip": "56601",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.bemidjistate.edu/",
+            "price_calculator_url": "https://www.bemidjistate.edu/mybsu/finances/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 27,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5559,
+            "instructional_expenditure_per_fte": 7343,
+            "faculty_salary": 8863,
+            "ft_faculty_rate": 0.6426,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 26934000,
+                "end": 27491000
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 173124
+    },
+    {
+        "school": {
+            "name": "Bethany Lutheran College",
+            "city": "Mankato",
+            "state": "MN",
+            "zip": "56001",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.blc.edu/",
+            "price_calculator_url": "https://www.blc.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 27,
+            "region_id": 4,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 99,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10732,
+            "instructional_expenditure_per_fte": 11053,
+            "faculty_salary": 7218,
+            "ft_faculty_rate": 0.5455,
+            "alias": "blc|bethany|bethnay|bethany lutheran|bethnay lutheran|bethany luthern|bethnay luthern|bethany college|bethnay college|bethany collage|bethnay collage|bethany lutheran college|bethnay lutheran college|bethany luthern college|bethnay luthern college|bethel lutheran college|bethany lutheran collage|bethnay lutheran collage|bethany luthern collage|bethnay luthern collage",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "9/12/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 44116580,
+                "end": 41592583
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 173142
+    },
+    {
+        "school": {
+            "name": "Bethel University",
+            "city": "Saint Paul",
+            "state": "MN",
+            "zip": "55112",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.bethel.edu/",
+            "price_calculator_url": "https://www.bethel.edu/undergrad/financial-aid/before-apply/estimate/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 2,
+            "state_fips": 27,
+            "region_id": 4,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 54,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16524,
+            "instructional_expenditure_per_fte": 9611,
+            "faculty_salary": 7796,
+            "ft_faculty_rate": 0.4321,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 49766786,
+                "end": 48774844
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 173160
+    },
+    {
+        "school": {
+            "name": "Central Lakes College-Brainerd",
+            "city": "Brainerd",
+            "state": "MN",
+            "zip": "56401-3900",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.clcmn.edu/",
+            "price_calculator_url": "www.minnstate.edu/admissions/calculator/centrallakes.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 1,
+            "state_fips": 27,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3118,
+            "instructional_expenditure_per_fte": 6479,
+            "faculty_salary": 8377,
+            "ft_faculty_rate": 0.6222,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 8067000,
+                "end": 8253000
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 173203
+    },
+    {
+        "school": {
+            "name": "Carleton College",
+            "city": "Northfield",
+            "state": "MN",
+            "zip": "55057",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.carleton.edu/",
+            "price_calculator_url": "https://www.carleton.edu/admissions/apply/afford/aid-estimators/npc/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 27,
+            "region_id": 4,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 34353,
+            "instructional_expenditure_per_fte": 33282,
+            "faculty_salary": 12689,
+            "ft_faculty_rate": 0.7778,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 892352800,
+                "end": 868695391
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 173258
+    },
+    {
+        "school": {
+            "name": "Concordia College at Moorhead",
+            "city": "Moorhead",
+            "state": "MN",
+            "zip": "56562",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.concordiacollege.edu/",
+            "price_calculator_url": "https://www.concordiacollege.edu/tuition-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 27,
+            "region_id": 4,
+            "locale": 22,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 39,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17094,
+            "instructional_expenditure_per_fte": 6671,
+            "faculty_salary": 7408,
+            "ft_faculty_rate": 0.7418,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 142249486,
+                "end": 149372432
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 173300
+    },
+    {
+        "school": {
+            "name": "Concordia University-Saint Paul",
+            "city": "Saint Paul",
+            "state": "MN",
+            "zip": "55104-5494",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.csp.edu/",
+            "price_calculator_url": "https://www.csp.edu/tuition-and-financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 27,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 1,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 68,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11604,
+            "instructional_expenditure_per_fte": 4358,
+            "faculty_salary": 6474,
+            "ft_faculty_rate": 0.2781,
+            "alias": "Concordia-St. Paul",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 34916105,
+                "end": 35623629
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 173328
+    },
+    {
+        "school": {
+            "name": "Dakota County Technical College",
+            "city": "Rosemount",
+            "state": "MN",
+            "zip": "55068-2999",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.dctc.edu/",
+            "price_calculator_url": "www.minnstate.edu/admissions/calculator/dakotacounty.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 27,
+            "region_id": 4,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4416,
+            "instructional_expenditure_per_fte": 8090,
+            "faculty_salary": 8320,
+            "ft_faculty_rate": 0.5,
+            "alias": "DCTC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "8/24/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1846000,
+                "end": 1734000
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 173416
+    },
+    {
+        "school": {
+            "name": "Martin Luther College",
+            "city": "New Ulm",
+            "state": "MN",
+            "zip": "56073-3965",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.mlc-wels.edu/",
+            "price_calculator_url": "https://www.mlc-wels.edu/static/netpricecalc/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 27,
+            "region_id": 4,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 32,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 33,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13326,
+            "instructional_expenditure_per_fte": 8894,
+            "faculty_salary": 4626,
+            "ft_faculty_rate": 0.8265,
+            "alias": "MLC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 15051589,
+                "end": 16592440
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 173452
+    },
+    {
+        "school": {
+            "name": "Lake Superior College",
+            "city": "Duluth",
+            "state": "MN",
+            "zip": "55811-3399",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.lsc.edu/",
+            "price_calculator_url": "www.minnstate.edu/admissions/calculator/lakesuperior.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 27,
+            "region_id": 4,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4745,
+            "instructional_expenditure_per_fte": 7756,
+            "faculty_salary": 8099,
+            "ft_faculty_rate": 0.4365,
+            "alias": "LSC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "4/18/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 649000,
+                "end": 720000
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 173461
+    },
+    {
+        "school": {
+            "name": "Cosmetology Careers Unlimited College of Hair Skin and Nails",
+            "city": "Duluth",
+            "state": "MN",
+            "zip": "55802",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.ccucollege.net/",
+            "price_calculator_url": "www.ccucollege.net/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 27,
+            "region_id": 4,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9472,
+            "instructional_expenditure_per_fte": 2890,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "CCU College",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "4/3/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 173470
+    },
+    {
+        "school": {
+            "name": "Minnesota State Community and Technical College",
+            "city": "Fergus Falls",
+            "state": "MN",
+            "zip": "56537-1000",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.minnesota.edu/",
+            "price_calculator_url": "www.minnesota.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 4,
+            "ownership": 1,
+            "state_fips": 27,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 8,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3307,
+            "instructional_expenditure_per_fte": 6647,
+            "faculty_salary": 8381,
+            "ft_faculty_rate": 0.5388,
+            "alias": "M State",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "6/26/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 6270000,
+                "end": 6446000
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 173559
+    },
+    {
+        "school": {
+            "name": "Minnesota West Community and Technical College",
+            "city": "Granite Falls",
+            "state": "MN",
+            "zip": "56241",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.mnwest.edu/",
+            "price_calculator_url": "www.minnstate.edu/admissions/calculator/minnesotawest.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 27,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 9,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3894,
+            "instructional_expenditure_per_fte": 7599,
+            "faculty_salary": 8079,
+            "ft_faculty_rate": 0.5407,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "2/20/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1132000,
+                "end": 1163000
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 173638
+    },
+    {
+        "school": {
+            "name": "Gustavus Adolphus College",
+            "city": "Saint Peter",
+            "state": "MN",
+            "zip": "56082-1498",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "gustavus.edu/",
+            "price_calculator_url": "gustavus.edu/admission/financial-aid/calculator.php",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 27,
+            "region_id": 4,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 39,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 18609,
+            "instructional_expenditure_per_fte": 16857,
+            "faculty_salary": 7567,
+            "ft_faculty_rate": 0.8377,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 195183499,
+                "end": 201183650
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 173647
+    },
+    {
+        "school": {
+            "name": "Hamline University",
+            "city": "Saint Paul",
+            "state": "MN",
+            "zip": "55104-1284",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.hamline.edu/",
+            "price_calculator_url": "www.hamline.edu/undergraduate/admission/net-price-calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 27,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 71,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17585,
+            "instructional_expenditure_per_fte": 7502,
+            "faculty_salary": 8014,
+            "ft_faculty_rate": 0.4241,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 100549851,
+                "end": 100559621
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 173665
+    },
+    {
+        "school": {
+            "name": "Hazelden Betty Ford Graduate School of Addiction Studies",
+            "city": "Center City",
+            "state": "MN",
+            "zip": "55012-0011",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.hazeldenbettyford.org/education/graduate-school-addiction-studies",
+            "price_calculator_url": null,
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 27,
+            "region_id": 4,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17771,
+            "instructional_expenditure_per_fte": 8791,
+            "faculty_salary": 7324,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "9/29/2006",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 28226825,
+                "end": 33186085
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 173683
+    }
+]

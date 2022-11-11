@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Spartan College of Aeronautics and Technology",
+            "city": "Broomfield",
+            "state": "CO",
+            "zip": "80021-3465",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.spartan.edu/",
+            "price_calculator_url": "www.spartan.edu/calculator/den/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 11,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7896,
+            "instructional_expenditure_per_fte": 2018,
+            "faculty_salary": 4192,
+            "ft_faculty_rate": null,
+            "alias": "Spartan College-Denver (Broomfield)",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "11/2/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 126605
+    },
+    {
+        "school": {
+            "name": "University of Colorado Boulder",
+            "city": "Boulder",
+            "state": "CO",
+            "zip": "80309-0017",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.colorado.edu/",
+            "price_calculator_url": "ofa.colorado.edu/NetPriceCalculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 21552,
+            "instructional_expenditure_per_fte": 18176,
+            "faculty_salary": 11284,
+            "ft_faculty_rate": 0.7431,
+            "alias": "U of Colorado|Univ of Colorado|University of Colorado|U of CO|Univ of CO|University of CO|Boulder|CU|CU-Boulder|UCB|CUB|Colorado|Colorado University|U of Colo|Univ of Colo|University of Colo|Colo|Buffs|Buffalos|Buffaloes|CU at Boulder|Golden Buffs|University of Colorado at Boulder",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 126614
+    },
+    {
+        "school": {
+            "name": "Colorado Christian University",
+            "city": "Lakewood",
+            "state": "CO",
+            "zip": "80226",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.ccu.edu/",
+            "price_calculator_url": "https://www.ccu.edu/finaid/calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 88,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11472,
+            "instructional_expenditure_per_fte": 3614,
+            "faculty_salary": 6678,
+            "ft_faculty_rate": 0.1717,
+            "alias": "CCU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/7/1972",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 4925152,
+                "end": 4874636
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 126669
+    },
+    {
+        "school": {
+            "name": "Colorado College",
+            "city": "Colorado Springs",
+            "state": "CO",
+            "zip": "80903",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.coloradocollege.edu/",
+            "price_calculator_url": "https://www.shoppingsheet.com/shopping/landing/126678",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 39971,
+            "instructional_expenditure_per_fte": 30266,
+            "faculty_salary": 11349,
+            "ft_faculty_rate": 0.8605,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 766909737,
+                "end": 768785461
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 126678
+    },
+    {
+        "school": {
+            "name": "Concorde Career College-Aurora",
+            "city": "Aurora",
+            "state": "CO",
+            "zip": "80010-4314",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "https://www.concorde.edu/campus/aurora-colorado",
+            "price_calculator_url": "https://enroll.myconcorde.edu/Npc",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 10,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17678,
+            "instructional_expenditure_per_fte": 6549,
+            "faculty_salary": 5936,
+            "ft_faculty_rate": 0.6818,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "2/4/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 126687
+    },
+    {
+        "school": {
+            "name": "Colorado Mountain College",
+            "city": "Glenwood Springs",
+            "state": "CO",
+            "zip": "81601-0233",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "coloradomtn.edu/",
+            "price_calculator_url": "coloradomountaincollege.com/tuition-calculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 23,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2011,
+            "instructional_expenditure_per_fte": 9289,
+            "faculty_salary": 8196,
+            "ft_faculty_rate": 0.2591,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "8/17/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 19772840,
+                "end": 20730447
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 126711
+    },
+    {
+        "school": {
+            "name": "Colorado Northwestern Community College",
+            "city": "Rangely",
+            "state": "CO",
+            "zip": "81648-3598",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.cncc.edu/",
+            "price_calculator_url": "cncc.edu/cal/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 43,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6889,
+            "instructional_expenditure_per_fte": 8035,
+            "faculty_salary": 5709,
+            "ft_faculty_rate": 1,
+            "alias": "CNCC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 126748
+    },
+    {
+        "school": {
+            "name": "Colorado School of Mines",
+            "city": "Golden",
+            "state": "CO",
+            "zip": "80401",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.mines.edu/",
+            "price_calculator_url": "ir.mines.edu/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 22555,
+            "instructional_expenditure_per_fte": 16922,
+            "faculty_salary": 12364,
+            "ft_faculty_rate": 0.7164,
+            "alias": "Mines",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 258775574,
+                "end": 255678903
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 126775
+    },
+    {
+        "school": {
+            "name": "Colorado School of Trades",
+            "city": "Lakewood",
+            "state": "CO",
+            "zip": "80215-2996",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "https://schooloftrades.edu/about",
+            "price_calculator_url": "https://www.schooloftrades.edu/npc",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 11,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14768,
+            "instructional_expenditure_per_fte": 5364,
+            "faculty_salary": 4267,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "5/9/1973",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 126784
+    },
+    {
+        "school": {
+            "name": "Colorado State University-Fort Collins",
+            "city": "Fort Collins",
+            "state": "CO",
+            "zip": "80523-0100",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "colostate.edu/",
+            "price_calculator_url": "admissions.colostate.edu/cost-financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16439,
+            "instructional_expenditure_per_fte": 13703,
+            "faculty_salary": 10425,
+            "ft_faculty_rate": 0.7243,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 391855507,
+                "end": 410081225
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 126818
+    },
+    {
+        "school": {
+            "name": "Colorado Technical University-Colorado Springs",
+            "city": "Colorado Springs",
+            "state": "CO",
+            "zip": "80907-3812",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.coloradotech.edu/Colorado-Springs",
+            "price_calculator_url": "coloradotech.studentaidcalculator.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 15,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13749,
+            "instructional_expenditure_per_fte": 1515,
+            "faculty_salary": 7102,
+            "ft_faculty_rate": null,
+            "alias": "Colorado Tech CTU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "11/13/1989",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 126827
+    },
+    {
+        "school": {
+            "name": "Community College of Aurora",
+            "city": "Aurora",
+            "state": "CO",
+            "zip": "80011-9036",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.ccaurora.edu/",
+            "price_calculator_url": "www.ccaurora.edu/net-price-calculator/index.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 3,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6249,
+            "instructional_expenditure_per_fte": 5387,
+            "faculty_salary": 6780,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "9/4/1984",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 813388,
+                "end": 901671
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 126863
+    },
+    {
+        "school": {
+            "name": "Technical College of the Rockies",
+            "city": "Delta",
+            "state": "CO",
+            "zip": "81416",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.tcr.edu/",
+            "price_calculator_url": "www.tcr.edu/NetPrice/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2467,
+            "instructional_expenditure_per_fte": 4411,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "6/28/1977",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 126915
+    },
+    {
+        "school": {
+            "name": "Community College of Denver",
+            "city": "Denver",
+            "state": "CO",
+            "zip": "80204-2026",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ccd.edu/",
+            "price_calculator_url": "ccd.edu/cost_calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 14,
+            "carnegie_undergrad": 5,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5393,
+            "instructional_expenditure_per_fte": 6270,
+            "faculty_salary": 6936,
+            "ft_faculty_rate": 0.2965,
+            "alias": "CCD",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/28/1971",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 126942
+    },
+    {
+        "school": {
+            "name": "Lincoln College of Technology-Denver",
+            "city": "Denver",
+            "state": "CO",
+            "zip": "80239",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.lincolntech.edu/campus/denver-co",
+            "price_calculator_url": "www.lincolntech.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 8,
+            "ownership": 3,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 11,
+            "carnegie_undergrad": 4,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13242,
+            "instructional_expenditure_per_fte": 3955,
+            "faculty_salary": 4397,
+            "ft_faculty_rate": 0.8913,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "12/20/2013",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 126951
+    },
+    {
+        "school": {
+            "name": "Denver Seminary",
+            "city": "Littleton",
+            "state": "CO",
+            "zip": "80120",
+            "accreditor": "Commission on Accrediting of the Association of Theological Schools",
+            "school_url": "www.denverseminary.edu/",
+            "price_calculator_url": "www.denverseminary.edu/admissions/financial-aid/financial-aid-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 3,
+            "ownership": 2,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 79,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9015,
+            "instructional_expenditure_per_fte": 8199,
+            "faculty_salary": 5917,
+            "ft_faculty_rate": 0.8966,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "ATSUSC",
+            "title_iv": {
+                "approval_date": "1/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 15155145,
+                "end": 14622612
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 126979
+    },
+    {
+        "school": {
+            "name": "University of Denver",
+            "city": "Denver",
+            "state": "CO",
+            "zip": "80208",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.du.edu/",
+            "price_calculator_url": "https://www.du.edu/financialaid/undergraduate/calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 30024,
+            "instructional_expenditure_per_fte": 17516,
+            "faculty_salary": 11222,
+            "ft_faculty_rate": 0.5073,
+            "alias": "DU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 786425449,
+                "end": 772073079
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 127060
+    },
+    {
+        "school": {
+            "name": "Emily Griffith Technical College",
+            "city": "Denver",
+            "state": "CO",
+            "zip": "80203",
+            "accreditor": "Council on Occupational Education",
+            "school_url": "www.emilygriffith.edu/",
+            "price_calculator_url": "www.emilygriffith.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2337,
+            "instructional_expenditure_per_fte": 3636,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Emily Griffith  EGTC  EGOS  Opportunity School  Opp School  Denver Public Schools-Emily Griffith Opportunity School",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "COE",
+            "title_iv": {
+                "approval_date": "5/20/1975",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 127158
+    },
+    {
+        "school": {
+            "name": "Fort Lewis College",
+            "city": "Durango",
+            "state": "CO",
+            "zip": "81301-3999",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "fortlewis.edu/",
+            "price_calculator_url": "www.fortlewis.edu/rnlnetprice",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 1
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4627,
+            "instructional_expenditure_per_fte": 8848,
+            "faculty_salary": 7287,
+            "ft_faculty_rate": 0.9844,
+            "alias": "FLC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 10286351,
+                "end": 10648269
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 127185
+    },
+    {
+        "school": {
+            "name": "Front Range Community College",
+            "city": "Westminster",
+            "state": "CO",
+            "zip": "80031",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.frontrange.edu/",
+            "price_calculator_url": "www.frontrange.edu/npc/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 8,
+            "region_id": 7,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 2,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 5,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6798,
+            "instructional_expenditure_per_fte": 4862,
+            "faculty_salary": 7239,
+            "ft_faculty_rate": 1,
+            "alias": "FRCC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "8/1/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 580307,
+                "end": 819444
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 127200
+    }
+]

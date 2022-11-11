@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Three Rivers College",
+            "city": "Poplar Bluff",
+            "state": "MO",
+            "zip": "63901",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://trcc.edu/",
+            "price_calculator_url": "https://trcc.edu/financialaid/netpricecalculator.php",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1697,
+            "instructional_expenditure_per_fte": 4084,
+            "faculty_salary": 4761,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "4/12/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 10036262,
+                "end": 9983490
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 179645
+    },
+    {
+        "school": {
+            "name": "North Central Missouri College",
+            "city": "Trenton",
+            "state": "MO",
+            "zip": "64683",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.ncmissouri.edu/",
+            "price_calculator_url": "www.ncmissouri.edu/financialaid/netpricecalculator",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2448,
+            "instructional_expenditure_per_fte": 7836,
+            "faculty_salary": 5271,
+            "ft_faculty_rate": 1,
+            "alias": "NCMC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/26/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 4170949,
+                "end": 5032102
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 179715
+    },
+    {
+        "school": {
+            "name": "Kansas City University",
+            "city": "Kansas City",
+            "state": "MO",
+            "zip": "64106-1453",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.kansascity.edu/",
+            "price_calculator_url": "www.kansascity.edu/admissions/financial-aid/tuition/com",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 4,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 25,
+            "carnegie_undergrad": 0,
+            "carnegie_size_setting": 18,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 41893,
+            "instructional_expenditure_per_fte": 15643,
+            "faculty_salary": 7570,
+            "ft_faculty_rate": 0.5652,
+            "alias": "KCU - Kansas City",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": null,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "10/6/1970",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 5492190,
+                "end": 5800144
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 179812
+    },
+    {
+        "school": {
+            "name": "Washington University in St Louis",
+            "city": "Saint Louis",
+            "state": "MO",
+            "zip": "63130-4899",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.wustl.edu/",
+            "price_calculator_url": "https://sfs.wustl.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 17,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 27432,
+            "instructional_expenditure_per_fte": 139766,
+            "faculty_salary": 15456,
+            "ft_faculty_rate": 0.7075,
+            "alias": "WashU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/19/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 8008925000,
+                "end": 8489294000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 179867
+    },
+    {
+        "school": {
+            "name": "Webster University",
+            "city": "Saint Louis",
+            "state": "MO",
+            "zip": "63119-3194",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.webster.edu/",
+            "price_calculator_url": "https://apps.webster.edu/secure/financialaid/npc.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 9,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17463,
+            "instructional_expenditure_per_fte": 9309,
+            "faculty_salary": 8773,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/19/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 129166795,
+                "end": 129755321
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 179894
+    },
+    {
+        "school": {
+            "name": "Westminster College",
+            "city": "Fulton",
+            "state": "MO",
+            "zip": "65251-1299",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.wcmo.edu/",
+            "price_calculator_url": "www.westminster-mo.edu/admissions/finaid/NetPriceCalculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 66,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11684,
+            "instructional_expenditure_per_fte": 8314,
+            "faculty_salary": 6422,
+            "ft_faculty_rate": 0.68,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 51969227,
+                "end": 51877609
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 179946
+    },
+    {
+        "school": {
+            "name": "William Jewell College",
+            "city": "Liberty",
+            "state": "MO",
+            "zip": "64068-1896",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.jewell.edu/",
+            "price_calculator_url": "https://www.jewell.edu/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11531,
+            "instructional_expenditure_per_fte": 13054,
+            "faculty_salary": 6975,
+            "ft_faculty_rate": 0.5512,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 63573781,
+                "end": 59500616
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 179955
+    },
+    {
+        "school": {
+            "name": "William Woods University",
+            "city": "Fulton",
+            "state": "MO",
+            "zip": "65251-2388",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://www.williamwoods.edu/",
+            "price_calculator_url": "https://www.williamwoods.edu/cost-and-aid/undergraduate/calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 61,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8938,
+            "instructional_expenditure_per_fte": 5358,
+            "faculty_salary": 5191,
+            "ft_faculty_rate": 0.2827,
+            "alias": "WWU/William Woods/The Woods",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 20564814,
+                "end": 20315980
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 179964
+    },
+    {
+        "school": {
+            "name": "Academy of Cosmetology Inc",
+            "city": "Bozeman",
+            "state": "MT",
+            "zip": "59715-3544",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.academycosmetology.com/",
+            "price_calculator_url": "www.academycosmetology.com/admissions",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 30,
+            "region_id": 7,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 6360,
+            "instructional_expenditure_per_fte": 10442,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "1/24/1990",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 179991
+    },
+    {
+        "school": {
+            "name": "Blackfeet Community College",
+            "city": "Browning",
+            "state": "MT",
+            "zip": "59417-0819",
+            "accreditor": "Northwest Commission on Colleges and Universities",
+            "school_url": "bfcc.edu/",
+            "price_calculator_url": "bfcc.edu/academics/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 30,
+            "region_id": 7,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 33,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 1,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4051,
+            "instructional_expenditure_per_fte": 9882,
+            "faculty_salary": 5198,
+            "ft_faculty_rate": 0.7193,
+            "alias": "BCC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NWCCU",
+            "title_iv": {
+                "approval_date": "3/5/1981",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 16120,
+                "end": 16142
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 180054
+    },
+    {
+        "school": {
+            "name": "Butte Academy of Beauty Culture",
+            "city": "Butte",
+            "state": "MT",
+            "zip": "59701",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "butteacademyofbeauty.ipage.com/",
+            "price_calculator_url": "butteacademyofbeauty.ipage.com/uploads/2/9/0/9/2909688/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 30,
+            "region_id": 7,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7530,
+            "instructional_expenditure_per_fte": 5737,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Butte Academy of Beauty",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "10/24/1983",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 180063
+    },
+    {
+        "school": {
+            "name": "Highlands College of Montana Tech",
+            "city": "Butte",
+            "state": "MT",
+            "zip": "59701",
+            "accreditor": "Northwest Commission on Colleges and Universities",
+            "school_url": "https://www.mtech.edu/",
+            "price_calculator_url": "https://www.mtech.edu/financial-aid/cost/calculator-highlands/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 1,
+            "state_fips": 30,
+            "region_id": 7,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 8,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4631,
+            "instructional_expenditure_per_fte": 5602,
+            "faculty_salary": 8713,
+            "ft_faculty_rate": 0.7429,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NWCCU",
+            "title_iv": {
+                "approval_date": "9/24/1994",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 6859863,
+                "end": 5979727
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 180081
+    },
+    {
+        "school": {
+            "name": "Crevier's Academy of Cosmetology Arts",
+            "city": "Kalispell",
+            "state": "MT",
+            "zip": "59901",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.crevierschool.com/",
+            "price_calculator_url": "www.crevierschool.com/financial-assistance",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 30,
+            "region_id": 7,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5472,
+            "instructional_expenditure_per_fte": 2273,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "2/15/2011",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 180090
+    },
+    {
+        "school": {
+            "name": "Carroll College",
+            "city": "Helena",
+            "state": "MT",
+            "zip": "59625-0002",
+            "accreditor": "Northwest Commission on Colleges and Universities",
+            "school_url": "www.carroll.edu/",
+            "price_calculator_url": "www.carroll.edu/scholarships-aid/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 30,
+            "region_id": 7,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 15881,
+            "instructional_expenditure_per_fte": 8576,
+            "faculty_salary": 6423,
+            "ft_faculty_rate": 0.6349,
+            "alias": "Carroll Montana  CC",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NWCCU",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 56909845,
+                "end": 54627265
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 180106
+    },
+    {
+        "school": {
+            "name": "Dawson Community College",
+            "city": "Glendive",
+            "state": "MT",
+            "zip": "59330",
+            "accreditor": "Northwest Commission on Colleges and Universities",
+            "school_url": "www.dawson.edu/",
+            "price_calculator_url": "www.dawson.edu/future/financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 30,
+            "region_id": 7,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 3,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2363,
+            "instructional_expenditure_per_fte": 7280,
+            "faculty_salary": 5422,
+            "ft_faculty_rate": 0.3171,
+            "alias": "DCC; Dawson College; Dawson Junior College",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NWCCU",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1637888,
+                "end": 1414309
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 180151
+    },
+    {
+        "school": {
+            "name": "Chief Dull Knife College",
+            "city": "Lame Deer",
+            "state": "MT",
+            "zip": "59043",
+            "accreditor": "Northwest Commission on Colleges and Universities",
+            "school_url": "cdkc.edu/",
+            "price_calculator_url": "www.cdkc.edu/net_price/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 30,
+            "region_id": 7,
+            "locale": 43,
+            "degree_urbanization": null,
+            "carnegie_basic": 33,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 1,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1424,
+            "instructional_expenditure_per_fte": 20717,
+            "faculty_salary": 4445,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NWCCU",
+            "title_iv": {
+                "approval_date": "6/30/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1523390,
+                "end": 1553518
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 180160
+    },
+    {
+        "school": {
+            "name": "Montana State University Billings",
+            "city": "Billings",
+            "state": "MT",
+            "zip": "59101-0298",
+            "accreditor": "Northwest Commission on Colleges and Universities",
+            "school_url": "www.msubillings.edu/",
+            "price_calculator_url": "www.msubillings.edu/geninfo/aboutmsub.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 1,
+            "state_fips": 30,
+            "region_id": 7,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5463,
+            "instructional_expenditure_per_fte": 7328,
+            "faculty_salary": 6691,
+            "ft_faculty_rate": 0.6425,
+            "alias": "MSU Billings",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NWCCU",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 26805783,
+                "end": 27055408
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 180179
+    },
+    {
+        "school": {
+            "name": "Flathead Valley Community College",
+            "city": "Kalispell",
+            "state": "MT",
+            "zip": "59901",
+            "accreditor": "Northwest Commission on Colleges and Universities",
+            "school_url": "www.fvcc.edu/",
+            "price_calculator_url": "webwp.fvcc.edu/NetPriceCalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 30,
+            "region_id": 7,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4584,
+            "instructional_expenditure_per_fte": 9231,
+            "faculty_salary": 5603,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NWCCU",
+            "title_iv": {
+                "approval_date": "9/22/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 13173537,
+                "end": 13752842
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 180197
+    },
+    {
+        "school": {
+            "name": "Aaniiih Nakoda College",
+            "city": "Harlem",
+            "state": "MT",
+            "zip": "59526",
+            "accreditor": "Northwest Commission on Colleges and Universities",
+            "school_url": "www.ancollege.edu/",
+            "price_calculator_url": "www.ancollege.edu/student_services/financial_aid/npc/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 30,
+            "region_id": 7,
+            "locale": 43,
+            "degree_urbanization": null,
+            "carnegie_basic": 33,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 1,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1381,
+            "instructional_expenditure_per_fte": 23547,
+            "faculty_salary": 4496,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NWCCU",
+            "title_iv": {
+                "approval_date": "7/13/1987",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1220803,
+                "end": 1777810
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 180203
+    },
+    {
+        "school": {
+            "name": "Fort Peck Community College",
+            "city": "Poplar",
+            "state": "MT",
+            "zip": "59255-0398",
+            "accreditor": "Northwest Commission on Colleges and Universities",
+            "school_url": "www.fpcc.edu/",
+            "price_calculator_url": "www.fpcc.edu/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 30,
+            "region_id": 7,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 33,
+            "carnegie_undergrad": 3,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 1,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2094,
+            "instructional_expenditure_per_fte": 13654,
+            "faculty_salary": 5399,
+            "ft_faculty_rate": 0.6452,
+            "alias": "FPCC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NWCCU",
+            "title_iv": {
+                "approval_date": "6/27/1986",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 3013401,
+                "end": 3165253
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 180212
+    }
+]

@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Springfield College",
+            "city": "Springfield",
+            "state": "MA",
+            "zip": "01109-3797",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.springfield.edu/",
+            "price_calculator_url": "https://springfield.edu/admissions/undergraduate-admissions/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17125,
+            "instructional_expenditure_per_fte": 11945,
+            "faculty_salary": 7916,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "11/4/1988",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 80003815,
+                "end": 81850343
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 167899
+    },
+    {
+        "school": {
+            "name": "Springfield Technical Community College",
+            "city": "Springfield",
+            "state": "MA",
+            "zip": "01105-1296",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.stcc.edu/",
+            "price_calculator_url": "https://www.stcc.aidcalc.cloud/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3087,
+            "instructional_expenditure_per_fte": 8772,
+            "faculty_salary": 7359,
+            "ft_faculty_rate": 0.4149,
+            "alias": "STCC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "5/22/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1168987,
+                "end": 1219037
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 167905
+    },
+    {
+        "school": {
+            "name": "University of Massachusetts-Dartmouth",
+            "city": "North Dartmouth",
+            "state": "MA",
+            "zip": "02747-2300",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.umassd.edu/",
+            "price_calculator_url": "https://umassd.studentaidcalculator.com/welcome.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 22,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11314,
+            "instructional_expenditure_per_fte": 14257,
+            "faculty_salary": 10774,
+            "ft_faculty_rate": 0.7394,
+            "alias": "UMass Dartmouth",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "1/1/1983",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 58242896,
+                "end": 66866895
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 167987
+    },
+    {
+        "school": {
+            "name": "Stonehill College",
+            "city": "Easton",
+            "state": "MA",
+            "zip": "02357-6110",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "https://www.stonehill.edu/",
+            "price_calculator_url": "https://www.stonehill.edu/offices-and-services/financial-aid/undergraduate-students/cost-of-attendance/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 21153,
+            "instructional_expenditure_per_fte": 14511,
+            "faculty_salary": 9577,
+            "ft_faculty_rate": 0.6314,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "1/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 217240018,
+                "end": 218832717
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 167996
+    },
+    {
+        "school": {
+            "name": "Suffolk University",
+            "city": "Boston",
+            "state": "MA",
+            "zip": "02108-3901",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "https://www.suffolk.edu/",
+            "price_calculator_url": "https://suffolk.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 23816,
+            "instructional_expenditure_per_fte": 11020,
+            "faculty_salary": 11885,
+            "ft_faculty_rate": 0.5837,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 256299963,
+                "end": 246207460
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 168005
+    },
+    {
+        "school": {
+            "name": "Rob Roy Academy-Taunton",
+            "city": "Taunton",
+            "state": "MA",
+            "zip": "02780-5339",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.rob-roy.com/",
+            "price_calculator_url": "www.rob-roy.com/netpricecalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10311,
+            "instructional_expenditure_per_fte": 5436,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "6/9/1980",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 168032
+    },
+    {
+        "school": {
+            "name": "Tufts University",
+            "city": "Medford",
+            "state": "MA",
+            "zip": "02155-5555",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "https://www.tufts.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/app/tufts",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 17,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 38212,
+            "instructional_expenditure_per_fte": 24748,
+            "faculty_salary": 12616,
+            "ft_faculty_rate": 0.6456,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 1867962000,
+                "end": 1889477000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 168148
+    },
+    {
+        "school": {
+            "name": "Wellesley College",
+            "city": "Wellesley",
+            "state": "MA",
+            "zip": "02481-8203",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.wellesley.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/student/app/wellesley",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 1,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 23262,
+            "instructional_expenditure_per_fte": 32655,
+            "faculty_salary": 12485,
+            "ft_faculty_rate": 0.7962,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 2173415000,
+                "end": 2285397000
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 168218
+    },
+    {
+        "school": {
+            "name": "Wentworth Institute of Technology",
+            "city": "Boston",
+            "state": "MA",
+            "zip": "02115",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "https://wit.edu/",
+            "price_calculator_url": "https://wit.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 16547,
+            "instructional_expenditure_per_fte": 10282,
+            "faculty_salary": 9258,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "1/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 116142475,
+                "end": 116512860
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 168227
+    },
+    {
+        "school": {
+            "name": "Western New England University",
+            "city": "Springfield",
+            "state": "MA",
+            "zip": "01119-2684",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www1.wne.edu/",
+            "price_calculator_url": "www1.wne.edu/enrollment-services/billing-and-finances/finance-calculator.cfm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 17,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 21549,
+            "instructional_expenditure_per_fte": 11041,
+            "faculty_salary": 9601,
+            "ft_faculty_rate": 0.7168,
+            "alias": "WNE",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 66939922,
+                "end": 67272214
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 168254
+    },
+    {
+        "school": {
+            "name": "Westfield State University",
+            "city": "Westfield",
+            "state": "MA",
+            "zip": "01086-1630",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.westfield.ma.edu/",
+            "price_calculator_url": "www.westfield.ma.edu/netprice/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 19,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 14,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9358,
+            "instructional_expenditure_per_fte": 9728,
+            "faculty_salary": 10001,
+            "ft_faculty_rate": 0.4989,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 7303394,
+                "end": 7761884
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 168263
+    },
+    {
+        "school": {
+            "name": "Wheaton College (Massachusetts)",
+            "city": "Norton",
+            "state": "MA",
+            "zip": "02766-2322",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.wheatoncollege.edu/",
+            "price_calculator_url": "https://www.collegecostcalculator.org/wheatoncollegema",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 19522,
+            "instructional_expenditure_per_fte": 16333,
+            "faculty_salary": 9344,
+            "ft_faculty_rate": 0.6704,
+            "alias": "Wheatonma.edu",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "1/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 212982445,
+                "end": 210646508
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 168281
+    },
+    {
+        "school": {
+            "name": "Williams College",
+            "city": "Williamstown",
+            "state": "MA",
+            "zip": "01267",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "https://www.williams.edu/",
+            "price_calculator_url": "https://npc.collegeboard.org/app/williams",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 33026,
+            "instructional_expenditure_per_fte": 48373,
+            "faculty_salary": 13189,
+            "ft_faculty_rate": 0.8537,
+            "alias": "Williams|William College|William|Williams College|Wiliams College|Wiliams",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 2744103362,
+                "end": 2727112504
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 168342
+    },
+    {
+        "school": {
+            "name": "Worcester Polytechnic Institute",
+            "city": "Worcester",
+            "state": "MA",
+            "zip": "01609-2280",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "https://www.wpi.edu/",
+            "price_calculator_url": "https://www.wpi.edu/admissions/tuition-aid/financial-need/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 16,
+            "carnegie_undergrad": 14,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 28467,
+            "instructional_expenditure_per_fte": 21554,
+            "faculty_salary": 12602,
+            "ft_faculty_rate": 0.8762,
+            "alias": "WPI",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 528287000,
+                "end": 505506000
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 168421
+    },
+    {
+        "school": {
+            "name": "Worcester State University",
+            "city": "Worcester",
+            "state": "MA",
+            "zip": "01602-2597",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "https://www.worcester.edu/",
+            "price_calculator_url": "https://www.worcester.edu/NetPriceCalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 25,
+            "region_id": 1,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7520,
+            "instructional_expenditure_per_fte": 8553,
+            "faculty_salary": 9193,
+            "ft_faculty_rate": 0.5059,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 17963764,
+                "end": 29859639
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 168430
+    },
+    {
+        "school": {
+            "name": "Adrian College",
+            "city": "Adrian",
+            "state": "MI",
+            "zip": "49221-2575",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.adrian.edu/",
+            "price_calculator_url": "adrian.edu/admissions/financial-aid/financial-aid-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 71,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12417,
+            "instructional_expenditure_per_fte": 8946,
+            "faculty_salary": 6312,
+            "ft_faculty_rate": 0.4327,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 33975240,
+                "end": 36185869
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 168528
+    },
+    {
+        "school": {
+            "name": "Albion College",
+            "city": "Albion",
+            "state": "MI",
+            "zip": "49224",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.albion.edu/",
+            "price_calculator_url": "tcc.ruffalonl.com/Albion College/Freshman-Students",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 31,
+            "degree_urbanization": null,
+            "carnegie_basic": 21,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12379,
+            "instructional_expenditure_per_fte": 13378,
+            "faculty_salary": 7257,
+            "ft_faculty_rate": 0.75,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 170105514,
+                "end": 162423187
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 168546
+    },
+    {
+        "school": {
+            "name": "Hillsdale Beauty College",
+            "city": "Hillsdale",
+            "state": "MI",
+            "zip": "49242",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.hillsdalebeautycollege.com/",
+            "price_calculator_url": "www.hillsdalebeautycollege.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8893,
+            "instructional_expenditure_per_fte": 3789,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "3/31/1989",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 168555
+    },
+    {
+        "school": {
+            "name": "Northwestern Technological Institute",
+            "city": "Southfield",
+            "state": "MI",
+            "zip": "48075",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.northwesterntech.edu/",
+            "price_calculator_url": "https://northwesterntech.edu/netprice/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12248,
+            "instructional_expenditure_per_fte": 2247,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "3/12/1996",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 168573
+    },
+    {
+        "school": {
+            "name": "Alma College",
+            "city": "Alma",
+            "state": "MI",
+            "zip": "48801-1599",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "alma.edu/",
+            "price_calculator_url": "alma.edu/admissions/financial-aid/aid-calculators/net-price-calculator.php",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 26,
+            "region_id": 3,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 12,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 66,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13559,
+            "instructional_expenditure_per_fte": 10232,
+            "faculty_salary": 7368,
+            "ft_faculty_rate": 0.6364,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "8/28/1991",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 124518463,
+                "end": 121623175
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 168591
+    }
+]

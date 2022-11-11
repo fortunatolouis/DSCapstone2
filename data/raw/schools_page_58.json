@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Friends University",
+            "city": "Wichita",
+            "state": "KS",
+            "zip": "67213",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.friends.edu/",
+            "price_calculator_url": "friendsucalculator.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 20,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 11835,
+            "instructional_expenditure_per_fte": 5273,
+            "faculty_salary": 6591,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "6/11/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 53347240,
+                "end": 52204443
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 155089
+    },
+    {
+        "school": {
+            "name": "Fort Scott Community College",
+            "city": "Fort Scott",
+            "state": "KS",
+            "zip": "66701",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.fortscott.edu/",
+            "price_calculator_url": "www.fortscott.edu/NetPriceCalculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 20,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2814,
+            "instructional_expenditure_per_fte": 7141,
+            "faculty_salary": 4072,
+            "ft_faculty_rate": 0.4405,
+            "alias": "FSCC|Fort Scott JuCo|Ft. Scott Community College|Fort Scott Junior College|Ft. Scott Jr. College|Ft. Scott Junior College|FSJC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "5/15/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 6813818,
+                "end": 6325473
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 155098
+    },
+    {
+        "school": {
+            "name": "Garden City Community College",
+            "city": "Garden City",
+            "state": "KS",
+            "zip": "67846-6333",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.gcccks.edu/",
+            "price_calculator_url": "https://www.gcccks.edu/about_gccc/net_price_calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 20,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 1,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1989,
+            "instructional_expenditure_per_fte": 7000,
+            "faculty_salary": 5975,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "3/16/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 6213746,
+                "end": 6393628
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 155104
+    },
+    {
+        "school": {
+            "name": "Haskell Indian Nations University",
+            "city": "Lawrence",
+            "state": "KS",
+            "zip": "66046-4800",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.haskell.edu/",
+            "price_calculator_url": "www.haskell.edu/financial-aid/calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 20,
+            "region_id": 4,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 33,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 1,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 260,
+            "instructional_expenditure_per_fte": 7612,
+            "faculty_salary": 7045,
+            "ft_faculty_rate": null,
+            "alias": "Haskell",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "3/1/1972",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 155140
+    },
+    {
+        "school": {
+            "name": "Hays Academy of Hair Design",
+            "city": "Hays",
+            "state": "KS",
+            "zip": "67601",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.haysacademy.edu/",
+            "price_calculator_url": "haysacademy.edu/calc/npcalchays.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 20,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9229,
+            "instructional_expenditure_per_fte": 4003,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Hays Academy of Hair Design, Hays Campus",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "3/27/1984",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 155159
+    },
+    {
+        "school": {
+            "name": "Hesston College",
+            "city": "Hesston",
+            "state": "KS",
+            "zip": "67062-2093",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.hesston.edu/",
+            "price_calculator_url": "https://www.hesston.edu/forms/NetPriceCalculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 20,
+            "region_id": 4,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 23,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 69,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12870,
+            "instructional_expenditure_per_fte": 10921,
+            "faculty_salary": 4989,
+            "ft_faculty_rate": 0.5517,
+            "alias": "Hesston",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "1/28/1980",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 13874289,
+                "end": 13583013
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 155177
+    },
+    {
+        "school": {
+            "name": "Highland Community College",
+            "city": "Highland",
+            "state": "KS",
+            "zip": "66035-4165",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.highlandcc.edu/",
+            "price_calculator_url": "https://highlandcc.edu/pages/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 20,
+            "region_id": 4,
+            "locale": 42,
+            "degree_urbanization": null,
+            "carnegie_basic": 3,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2385,
+            "instructional_expenditure_per_fte": 3418,
+            "faculty_salary": 5558,
+            "ft_faculty_rate": 0.963,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "3/27/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 3385672,
+                "end": 4972207
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 155186
+    },
+    {
+        "school": {
+            "name": "Hutchinson Community College",
+            "city": "Hutchinson",
+            "state": "KS",
+            "zip": "67501",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.hutchcc.edu/",
+            "price_calculator_url": "www.hutchcc.edu/cost-and-fees",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 20,
+            "region_id": 4,
+            "locale": 32,
+            "degree_urbanization": null,
+            "carnegie_basic": 6,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2198,
+            "instructional_expenditure_per_fte": 5465,
+            "faculty_salary": 5208,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 9938194,
+                "end": 9803012
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 155195
+    },
+    {
+        "school": {
+            "name": "Independence Community College",
+            "city": "Independence",
+            "state": "KS",
+            "zip": "67301-0708",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.indycc.edu/",
+            "price_calculator_url": "www.indycc.edu/financial-aid/files/net price calculator/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 20,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 3,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2417,
+            "instructional_expenditure_per_fte": 4640,
+            "faculty_salary": 4607,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "5/1/1976",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 155201
+    },
+    {
+        "school": {
+            "name": "Johnson County Community College",
+            "city": "Overland Park",
+            "state": "KS",
+            "zip": "66210-1299",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.jccc.edu/",
+            "price_calculator_url": "www.jccc.edu/admissions/financial-aid/net-price-calculator/npcalc-050318.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 20,
+            "region_id": 4,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 3,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 5,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3063,
+            "instructional_expenditure_per_fte": 7632,
+            "faculty_salary": 8484,
+            "ft_faculty_rate": 0.4231,
+            "alias": "JCCC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "3/31/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 24221599,
+                "end": 25165464
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 155210
+    },
+    {
+        "school": {
+            "name": "Concorde Career College-Kansas City",
+            "city": "Kansas City",
+            "state": "MO",
+            "zip": "64111",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "https://www.concorde.edu/campus/kansas-city-missouri",
+            "price_calculator_url": "https://enroll.myconcorde.edu/Npc",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 3
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 29,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 26,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 6,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 15000,
+            "instructional_expenditure_per_fte": 8214,
+            "faculty_salary": 6880,
+            "ft_faculty_rate": 0.5614,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "12/29/2003",
+                "eligibility_type": 1
+            },
+            "ownership_peps": null,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 155283
+    },
+    {
+        "school": {
+            "name": "Kansas City Kansas Community College",
+            "city": "Kansas City",
+            "state": "KS",
+            "zip": "66112",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.kckcc.edu/",
+            "price_calculator_url": "www.kckcc.edu/admissions/financial-aid/netprice/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 20,
+            "region_id": 4,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 5,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2947,
+            "instructional_expenditure_per_fte": 6871,
+            "faculty_salary": 7136,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1710167,
+                "end": 1916829
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 155292
+    },
+    {
+        "school": {
+            "name": "Kansas Christian College",
+            "city": "Overland Park",
+            "state": "KS",
+            "zip": "66204-1975",
+            "accreditor": "Association for Bibical Higher Educaiton",
+            "school_url": "https://www.kansaschristian.edu/",
+            "price_calculator_url": "https://kansaschristian.edu/price-calculation.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 3
+            },
+            "under_investigation": 1,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 20,
+            "region_id": 4,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": 24,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 57,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3355,
+            "instructional_expenditure_per_fte": 8608,
+            "faculty_salary": 1870,
+            "ft_faculty_rate": 0.5862,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ABHE",
+            "title_iv": {
+                "approval_date": "5/18/1988",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 230592,
+                "end": 245411
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 155308
+    },
+    {
+        "school": {
+            "name": "University of Kansas",
+            "city": "Lawrence",
+            "state": "KS",
+            "zip": "66045",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "https://ku.edu/",
+            "price_calculator_url": "https://admissions.ku.edu/afford/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 20,
+            "region_id": 4,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 15,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13090,
+            "instructional_expenditure_per_fte": 19922,
+            "faculty_salary": 10346,
+            "ft_faculty_rate": 0.846,
+            "alias": "University of Kansas | Univ of Kansas | Kansas University | KU | Kansas Jayhawks | Univ of KS |University of KS | Kansas Univ | Kansas U, KUMC, University of Kansas Medical Center, KU Medical Center, Kansas University Medical Center",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1842170498,
+                "end": 1830892448
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 155317
+    },
+    {
+        "school": {
+            "name": "Newman University",
+            "city": "Wichita",
+            "state": "KS",
+            "zip": "67213-2097",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.newmanu.edu/",
+            "price_calculator_url": "newmanu.edu/admissions/financial-aid/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 20,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 30,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10228,
+            "instructional_expenditure_per_fte": 5414,
+            "faculty_salary": 6173,
+            "ft_faculty_rate": 0.9767,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 22136587,
+                "end": 24201928
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 155335
+    },
+    {
+        "school": {
+            "name": "Old Town Barber College-Wichita",
+            "city": "Wichita",
+            "state": "KS",
+            "zip": "67211-1605",
+            "accreditor": "Accrediting Commission of Career Schools and Colleges",
+            "school_url": "www.otbcollege.com/",
+            "price_calculator_url": "www.otbcollege.com/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 3,
+            "state_fips": 20,
+            "region_id": 4,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9267,
+            "instructional_expenditure_per_fte": 1602,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Kansas School of Barbering",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "ACCSC",
+            "title_iv": {
+                "approval_date": "4/30/1980",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 155353
+    },
+    {
+        "school": {
+            "name": "Kansas State University",
+            "city": "Manhattan",
+            "state": "KS",
+            "zip": "66506",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.k-state.edu/",
+            "price_calculator_url": "tcc.ruffalonl.com/Kansas State University/Net-Price-Calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 20,
+            "region_id": 4,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 15,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 16,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 12116,
+            "instructional_expenditure_per_fte": 12636,
+            "faculty_salary": 9634,
+            "ft_faculty_rate": 0.8997,
+            "alias": "K-State",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 613380418,
+                "end": 628723073
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 155399
+    },
+    {
+        "school": {
+            "name": "Kansas Wesleyan University",
+            "city": "Salina",
+            "state": "KS",
+            "zip": "67401-6146",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.kwu.edu/",
+            "price_calculator_url": "www.kwu.edu/admissions/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 20,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 13,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 71,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13550,
+            "instructional_expenditure_per_fte": 6257,
+            "faculty_salary": 5866,
+            "ft_faculty_rate": 1,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "9/30/1980",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 31179899,
+                "end": 30759721
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 155414
+    },
+    {
+        "school": {
+            "name": "Washburn Institute of Technology",
+            "city": "Topeka",
+            "state": "KS",
+            "zip": "66604-2117",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.washburntech.edu/",
+            "price_calculator_url": "www.washburntech.edu/net-price-calculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 0,
+            "branches": 2,
+            "ownership": 1,
+            "state_fips": 20,
+            "region_id": 4,
+            "locale": 12,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2633,
+            "instructional_expenditure_per_fte": 7023,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Washburn Tech",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "3/23/2010",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 155423
+    },
+    {
+        "school": {
+            "name": "Labette Community College",
+            "city": "Parsons",
+            "state": "KS",
+            "zip": "67357-4201",
+            "accreditor": "Higher Learning Commission",
+            "school_url": "www.labette.edu/",
+            "price_calculator_url": "www.labette.edu/financialaid/netprice/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 20,
+            "region_id": 4,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 8,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 1738,
+            "instructional_expenditure_per_fte": 4928,
+            "faculty_salary": 5756,
+            "ft_faculty_rate": 0.2881,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NCACHE",
+            "title_iv": {
+                "approval_date": "4/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 615557,
+                "end": 624281
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 155450
+    }
+]

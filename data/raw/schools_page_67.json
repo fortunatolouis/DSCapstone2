@@ -1,0 +1,1262 @@
+[
+    {
+        "school": {
+            "name": "Spa Tech Institute-Westbrook",
+            "city": "Westbrook",
+            "state": "ME",
+            "zip": "04092",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.spatech.edu/",
+            "price_calculator_url": "www.spatech.edu/consumer-information",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 4,
+            "ownership": 3,
+            "state_fips": 23,
+            "region_id": 1,
+            "locale": 22,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 10284,
+            "instructional_expenditure_per_fte": 6869,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "2/22/1979",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 161527
+    },
+    {
+        "school": {
+            "name": "Southern Maine Community College",
+            "city": "South Portland",
+            "state": "ME",
+            "zip": "04106-1698",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "https://www.smccme.edu/",
+            "price_calculator_url": "https://www.smccme.edu/about/consumer-info/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 23,
+            "region_id": 1,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 5,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2226,
+            "instructional_expenditure_per_fte": 5828,
+            "faculty_salary": 7255,
+            "ft_faculty_rate": 0.25,
+            "alias": "SMCC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1641392,
+                "end": 1715076
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 161545
+    },
+    {
+        "school": {
+            "name": "University of Southern Maine",
+            "city": "Portland",
+            "state": "ME",
+            "zip": "04103",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.usm.maine.edu/",
+            "price_calculator_url": "usm.maine.edu/student-financial-services/net-price-calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 23,
+            "region_id": 1,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8075,
+            "instructional_expenditure_per_fte": 8621,
+            "faculty_salary": 9290,
+            "ft_faculty_rate": 0.3547,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 38520000,
+                "end": 39403000
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 161554
+    },
+    {
+        "school": {
+            "name": "Thomas College",
+            "city": "Waterville",
+            "state": "ME",
+            "zip": "04901-5097",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.thomas.edu/",
+            "price_calculator_url": "https://thomas.studentaidcalculator.com/survey.aspx",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 23,
+            "region_id": 1,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 10,
+            "carnegie_size_setting": 11,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 8342,
+            "instructional_expenditure_per_fte": 3772,
+            "faculty_salary": 7004,
+            "ft_faculty_rate": 0.4795,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "5/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 13611982,
+                "end": 14776610
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 161563
+    },
+    {
+        "school": {
+            "name": "Unity College",
+            "city": "New Gloucester",
+            "state": "ME",
+            "zip": "04260",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "https://unity.edu/",
+            "price_calculator_url": "https://unity.edu/sites/default/files/net-price-hybrid/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 23,
+            "region_id": 1,
+            "locale": 43,
+            "degree_urbanization": null,
+            "carnegie_basic": 22,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 17768,
+            "instructional_expenditure_per_fte": 5510,
+            "faculty_salary": 5508,
+            "ft_faculty_rate": 0.2848,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "5/1/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 14973232,
+                "end": 15297089
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 161572
+    },
+    {
+        "school": {
+            "name": "Washington County Community College",
+            "city": "Calais",
+            "state": "ME",
+            "zip": "04619",
+            "accreditor": "New England Commission on Higher Education",
+            "school_url": "www.wccc.me.edu/",
+            "price_calculator_url": "www.wccc.me.edu/npcalc/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 23,
+            "region_id": 1,
+            "locale": 33,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 1,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3075,
+            "instructional_expenditure_per_fte": 11618,
+            "faculty_salary": 6291,
+            "ft_faculty_rate": 0.5789,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NECHE",
+            "title_iv": {
+                "approval_date": "11/15/1969",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 534557,
+                "end": 540537
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 161581
+    },
+    {
+        "school": {
+            "name": "Allegany College of Maryland",
+            "city": "Cumberland",
+            "state": "MD",
+            "zip": "21502-2596",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.allegany.edu/",
+            "price_calculator_url": "services.allegany.edu/netprice/",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 24,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": 7,
+            "carnegie_undergrad": 2,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3550,
+            "instructional_expenditure_per_fte": 7959,
+            "faculty_salary": 5515,
+            "ft_faculty_rate": 0.5304,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "2/3/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 14286321,
+                "end": 14689195
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 161688
+    },
+    {
+        "school": {
+            "name": "Anne Arundel Community College",
+            "city": "Arnold",
+            "state": "MD",
+            "zip": "21012-1895",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.aacc.edu/",
+            "price_calculator_url": "webapps.aacc.edu/sp/NetPriceCal/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 24,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 4,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3840,
+            "instructional_expenditure_per_fte": 9013,
+            "faculty_salary": 7469,
+            "ft_faculty_rate": 0.2599,
+            "alias": "AACC",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "4/26/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 7797741,
+                "end": 7992343
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 161767
+    },
+    {
+        "school": {
+            "name": "Award Beauty School",
+            "city": "Hagerstown",
+            "state": "MD",
+            "zip": "21740-5610",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.awardbeautyschool.com/",
+            "price_calculator_url": "www.awardbeautyschool.co/misc/netprice/index.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 24,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9478,
+            "instructional_expenditure_per_fte": 15682,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "8/22/1968",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 161800
+    },
+    {
+        "school": {
+            "name": "Baltimore Studio of Hair Design",
+            "city": "Baltimore",
+            "state": "MD",
+            "zip": "21201-3444",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.baltimorestudio.com/",
+            "price_calculator_url": "baltimorestudio.com/Netprice1.html/npcalc.htm.html",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 24,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 9779,
+            "instructional_expenditure_per_fte": 7560,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": "Baltimore Studio of Hair Design School of Cosmetology",
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "3/5/1987",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 161855
+    },
+    {
+        "school": {
+            "name": "Baltimore City Community College",
+            "city": "Baltimore",
+            "state": "MD",
+            "zip": "21215-7893",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.bccc.edu/",
+            "price_calculator_url": "https://www.bccc.edu/cms/lib/MD02000050/Centricity/domain/1112/net price calculator/Net Price Calculator.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 24,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 4,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 1,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2084,
+            "instructional_expenditure_per_fte": 9503,
+            "faculty_salary": 7008,
+            "ft_faculty_rate": 0.4,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "11/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 1352723,
+                "end": 1328547
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 161864
+    },
+    {
+        "school": {
+            "name": "University of Baltimore",
+            "city": "Baltimore",
+            "state": "MD",
+            "zip": "21201-5720",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.ubalt.edu/",
+            "price_calculator_url": "www.ubalt.edu/admission/financial-aid/aid-basics/policies/net-price.cfm",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 24,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 12,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 1,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 13073,
+            "instructional_expenditure_per_fte": 13451,
+            "faculty_salary": 11251,
+            "ft_faculty_rate": 0.6173,
+            "alias": "UBalt",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "9/1/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 51040962,
+                "end": 51452242
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 161873
+    },
+    {
+        "school": {
+            "name": "Bowie State University",
+            "city": "Bowie",
+            "state": "MD",
+            "zip": "20715-9465",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.bowiestate.edu/",
+            "price_calculator_url": "npc.collegeboard.org/app/bowiestate",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 24,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 18,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 13,
+            "minority_serving": {
+                "historically_black": 1,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5404,
+            "instructional_expenditure_per_fte": 8096,
+            "faculty_salary": 8851,
+            "ft_faculty_rate": 0.4967,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 11467830,
+                "end": 11183144
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 162007
+    },
+    {
+        "school": {
+            "name": "Capitol Technology University",
+            "city": "Laurel",
+            "state": "MD",
+            "zip": "20708",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.captechu.edu/",
+            "price_calculator_url": "https://mycapitol.captechu.edu/ICS/College_Offices/Financial_Aid_Office/Net_Price_Calculator.jnz",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 24,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 28,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 7,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 23154,
+            "instructional_expenditure_per_fte": 6254,
+            "faculty_salary": 7102,
+            "ft_faculty_rate": 0.0759,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 4832021,
+                "end": 4741489
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 162061
+    },
+    {
+        "school": {
+            "name": "Cecil College",
+            "city": "North East",
+            "state": "MD",
+            "zip": "21901-1900",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.cecil.edu/",
+            "price_calculator_url": "https://www.cecil.edu/wp-content/documents/net-price-calculator/npcalc.htm",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 2,
+            "ownership": 1,
+            "state_fips": 24,
+            "region_id": 2,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 4280,
+            "instructional_expenditure_per_fte": 7238,
+            "faculty_salary": 6627,
+            "ft_faculty_rate": 0.3375,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "1/1/1974",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 6675830,
+                "end": 6848077
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 162104
+    },
+    {
+        "school": {
+            "name": "College of Southern Maryland",
+            "city": "La Plata",
+            "state": "MD",
+            "zip": "20646-0910",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.csmd.edu/",
+            "price_calculator_url": "www.csmd.edu/Financial/NPC.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 24,
+            "region_id": 2,
+            "locale": 41,
+            "degree_urbanization": null,
+            "carnegie_basic": 1,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 3,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 5670,
+            "instructional_expenditure_per_fte": 6536,
+            "faculty_salary": 8186,
+            "ft_faculty_rate": 0.2701,
+            "alias": "CSM",
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "4/27/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 8166002,
+                "end": 8379410
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 162122
+    },
+    {
+        "school": {
+            "name": "Chesapeake College",
+            "city": "Wye Mills",
+            "state": "MD",
+            "zip": "21679-0008",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.chesapeake.edu/",
+            "price_calculator_url": "https://www.chesapeake.edu/sites/default/files/net-calc.html",
+            "degrees_awarded": {
+                "predominant_recoded": 2,
+                "predominant": 2,
+                "highest": 2
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 24,
+            "region_id": 2,
+            "locale": 42,
+            "degree_urbanization": null,
+            "carnegie_basic": 4,
+            "carnegie_undergrad": 1,
+            "carnegie_size_setting": 2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 3948,
+            "instructional_expenditure_per_fte": 9640,
+            "faculty_salary": 6443,
+            "ft_faculty_rate": 0.4191,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 2
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "10/28/1966",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 3940329,
+                "end": 4442716
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 162168
+    },
+    {
+        "school": {
+            "name": "Washington Adventist University",
+            "city": "Takoma Park",
+            "state": "MD",
+            "zip": "20912",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "https://www.wau.edu/",
+            "price_calculator_url": "https://www.wau.edu/future-students/admission/financial-aid/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 2,
+            "state_fips": 24,
+            "region_id": 2,
+            "locale": 21,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 11,
+            "carnegie_size_setting": 8,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": 95,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 14054,
+            "instructional_expenditure_per_fte": 12852,
+            "faculty_salary": 5812,
+            "ft_faculty_rate": 0.1977,
+            "alias": "WAU",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 2,
+            "endowment": {
+                "begin": 2257034,
+                "end": 2052309
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 162210
+    },
+    {
+        "school": {
+            "name": "Coppin State University",
+            "city": "Baltimore",
+            "state": "MD",
+            "zip": "21216-3698",
+            "accreditor": "Middle States Commission on Higher Education",
+            "school_url": "www.coppin.edu/",
+            "price_calculator_url": "https://www.coppin.edu/financialaid/calculator",
+            "degrees_awarded": {
+                "predominant_recoded": 3,
+                "predominant": 3,
+                "highest": 4
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 1,
+            "state_fips": 24,
+            "region_id": 2,
+            "locale": 11,
+            "degree_urbanization": null,
+            "carnegie_basic": 20,
+            "carnegie_undergrad": 7,
+            "carnegie_size_setting": 10,
+            "minority_serving": {
+                "historically_black": 1,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 2207,
+            "instructional_expenditure_per_fte": 11715,
+            "faculty_salary": 8241,
+            "ft_faculty_rate": 0.5062,
+            "alias": "Coppin",
+            "institutional_characteristics": {
+                "level": 1
+            },
+            "open_admissions_policy": 2,
+            "accreditor_code": "MSACHE",
+            "title_iv": {
+                "approval_date": "12/1/1965",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 1,
+            "endowment": {
+                "begin": 11928819,
+                "end": 11396202
+            },
+            "dolflag": 0,
+            "search": null
+        },
+        "id": 162283
+    },
+    {
+        "school": {
+            "name": "Delmarva Beauty Academy",
+            "city": "Salisbury",
+            "state": "MD",
+            "zip": "21804-6952",
+            "accreditor": "National Accrediting Commission of Career Arts and Sciences",
+            "school_url": "www.delmarvabeautyacademy.com/",
+            "price_calculator_url": "www.delmarvabeautyacademy.com/net-price-calculator/",
+            "degrees_awarded": {
+                "predominant_recoded": 1,
+                "predominant": 1,
+                "highest": 1
+            },
+            "under_investigation": 0,
+            "main_campus": 1,
+            "branches": 1,
+            "ownership": 3,
+            "state_fips": 24,
+            "region_id": 2,
+            "locale": 13,
+            "degree_urbanization": null,
+            "carnegie_basic": -2,
+            "carnegie_undergrad": -2,
+            "carnegie_size_setting": -2,
+            "minority_serving": {
+                "historically_black": 0,
+                "predominantly_black": 0,
+                "annh": 0,
+                "tribal": 0,
+                "aanipi": 0,
+                "hispanic": 0,
+                "nant": 0
+            },
+            "men_only": 0,
+            "women_only": 0,
+            "religious_affiliation": null,
+            "online_only": 0,
+            "operating": 1,
+            "tuition_revenue_per_fte": 7293,
+            "instructional_expenditure_per_fte": 4882,
+            "faculty_salary": null,
+            "ft_faculty_rate": null,
+            "alias": null,
+            "institutional_characteristics": {
+                "level": 3
+            },
+            "open_admissions_policy": 1,
+            "accreditor_code": "NACCAS",
+            "title_iv": {
+                "approval_date": "7/10/1967",
+                "eligibility_type": 1
+            },
+            "ownership_peps": 3,
+            "endowment": {
+                "begin": null,
+                "end": null
+            },
+            "dolflag": 1,
+            "search": null
+        },
+        "id": 162335
+    }
+]
