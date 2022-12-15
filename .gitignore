@@ -163,4 +163,4 @@ cython_debug/
 *.csv
 
 # sensitive data files
-data/raw
+*.json
